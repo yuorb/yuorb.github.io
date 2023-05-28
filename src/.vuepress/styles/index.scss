@@ -1,0 +1,136 @@
+// place your custom styles here
+.xiaozhong {
+    p {
+        text-align: center;
+    }
+    ul {
+        margin: auto;
+        width: 30%;
+    }
+}
+
+
+.table-1 {
+	margin: auto;
+	table {
+		th {
+			&:first-of-type {
+				width: 12%;
+			}
+			&:nth-of-type(2) {
+				width: 6%;
+			}
+			&:nth-of-type(3) {
+				width: 6%;
+			}
+			&:nth-of-type(4) {
+				width: 10%;
+			}
+			&:nth-of-type(5) {
+				width: 6%;
+			}
+			&:nth-of-type(6) {
+				width: 6%;
+			}
+			&:nth-of-type(7) {
+				width: 6%;
+			}
+			&:nth-of-type(8) {
+				width: 6%;
+			}
+			&:nth-of-type(9) {
+				width: 6%;
+			}
+			&:nth-of-type(10) {
+				width: 6%;
+			}
+			&:nth-of-type(11) {
+				width: 6%;
+			}
+			&:nth-of-type(12) {
+				width: 6%;
+			}
+			&:nth-of-type(13) {
+				width: 6%;
+			}
+		}
+	}
+}
+.table-2 {
+	width: 30% !important;
+	margin: auto;
+	table {
+		th {
+			&:first-of-type {
+				width: 3%;
+			}
+			&:nth-of-type(2) {
+				width: 3%;
+			}
+			&:nth-of-type(3) {
+				width: 3%;
+			}
+			&:nth-of-type(4) {
+				width: 3%;
+			}
+		}
+	}
+}
+.table-3 {
+	margin: auto;
+	table {
+		th {
+			&:first-of-type {
+				width: 10%;
+			}
+			&:nth-of-type(2) {
+				width: 10%;
+			}
+			&:nth-of-type(3) {
+				width: 10%;
+			}
+			&:nth-of-type(4) {
+				width: 10%;
+			}
+			&:nth-of-type(5) {
+				width: 10%;
+			}
+		}
+	}
+}
+.table-4 {
+	margin: auto;
+	table {
+		th {
+			&:first-of-type {
+				width: 3%;
+			}
+			&:nth-of-type(2) {
+				width: 6%;
+			}
+			&:nth-of-type(3) {
+				width: 18%;
+			}
+			&:nth-of-type(4) {
+				width: 16%;
+			}
+		}
+	}
+}
+
+.table-5 {
+	margin: auto;
+	table {
+		th {
+			&:first-of-type {
+				width: 2%;
+			}
+			&:nth-of-type(2) {
+				width: 4%;
+			}
+			&:nth-of-type(3) {
+				width: 20%;
+			}
+		}
+	}
+}
