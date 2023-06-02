@@ -57,21 +57,21 @@
 	}
 }
 .table-2 {
-	width: 30% !important;
+	width: 80% !important;
 	margin: auto;
 	table {
 		th {
 			&:first-of-type {
-				width: 3%;
+				width: 5%;
 			}
 			&:nth-of-type(2) {
-				width: 3%;
+				width: 5%;
 			}
 			&:nth-of-type(3) {
-				width: 3%;
+				width: 5%;
 			}
 			&:nth-of-type(4) {
-				width: 3%;
+				width: 5%;
 			}
 		}
 	}
@@ -115,6 +115,9 @@
 				width: 16%;
 			}
 		}
+		td {
+			text-align: center;
+		}
 	}
 }
 
@@ -131,6 +134,34 @@
 			&:nth-of-type(3) {
 				width: 20%;
 			}
+		}
+	}
+}
+
+.table-6 {
+	margin: auto;
+	table {
+		th {
+			&:first-of-type {
+				width: 25%;
+			}
+			&:nth-of-type(2) {
+				width: 25%;
+			}
+			&:nth-of-type(3) {
+				width: 25%;
+			}
+		}
+		td {
+			text-align: center;
+		}
+	}
+}
+.table-7 {
+	margin: auto;
+	table {
+		td {
+			text-align: center;
 		}
 	}
 }

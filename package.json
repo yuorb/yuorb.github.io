@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-theme-hope-template",
+  "name": "night",
   "version": "2.0.0",
-  "description": "A project of vuepress-theme-hope",
+  "description": "A Ithkuil Chinese Translation project with vuepress-theme-hope",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -14,7 +14,10 @@
     "@vuepress/client": "2.0.0-beta.62",
     "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.62",
-    "vuepress-plugin-auto-catalog": "2.0.0-beta.215",
-    "vuepress-theme-hope": "2.0.0-beta.215"
+    "vuepress-plugin-auto-catalog": "2.0.0-beta.218",
+    "vuepress-theme-hope": "2.0.0-beta.218"
+  },
+  "dependencies": {
+    "night": "link:"
   }
 }

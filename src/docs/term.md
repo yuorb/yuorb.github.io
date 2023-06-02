@@ -1,42 +1,10 @@
 ---
 title: 术语表
 ---
-# 基本概念
-
-glottal stop 声门塞音
-Slot 列位
-formative 构形词
-unconcatenated 未联的
-Type-1 类型一
-Type-2 类型二
-concatenated 联态的
-Concatenation 联接
-shortcut 简体
-
-甲型联构词 乙型联构词 Type-1 concatenated formative, or a Type-2 concatenated formative
-
-word-stem 词干
-circumstantial 语境性
-derivational 派生性
-limited 限制性
-affix 词缀
-portmanteau 多成分组合的、综合的
-Configuration, Affiliation, Extension, Perspective and Essence 构型、系属、限域、视界和本质
-category 范畴
-formation 构造
-affix-complex 复合型词缀
-descriptive 描述性
-vowel-form + consonant-form 元音 + 辅音形式
-reversal 倒装
-consonant-form and vowel-form 辅音 + 元音形式
-Mood 语式
-Case-Scope 格辖
-Aspect 时体，Phase 相位，Level 级别，or Effect 效果
-
-stress pattern 重音模式
-syllabic stress 音节重音
 
 ::: tabs
+
+@tab 基本概念
 
 @tab 语音相关
 
@@ -44,63 +12,39 @@ syllabic stress 音节重音
 * 音位 phoneme
 * 音高 pitch
 * 音调 accent
-* 重音 stress
-  * 次音节重音 penultimate stress
-  * 尾音节重音 ultimate stress
-  * 前音节重音 antepenultimate stress
-  * 重读 stressed
+* 重读 stress
+  * 重读的 stressed
+* 重读模式 stress pattern
+  * 次音节重读 penultimate stress
+  * 尾音节重读 ultimate stress
+  * 前音节重读 antepenultimate stress
+* 音节重读 syllabic stress
 * 声调 tone
 * 语音组合法 phonotactics
-
-diacritic 变音符号
-acute accent 扬音符
-circumflex accent 扬抑符
-grave accent 抑音符
-written juncture 书面间隔
-增音性元音 Epenthetic Vowel
-声门塞音 Glottal Stop
-浊音 voiced
-清音 voiceless
-加长 Gemination
-得以加长 to be geminated
-长辅音 geminated consonant
-词首位置 word-initial position
-词尾位置  word-final position
-音系 phonology
-通音 continuant
-舌尖 - 龈颤音 apico-alveolar trill
-intervocalic 元音间
-affricate 塞擦音
-plosive 爆发音
-fricative 擦音
-sibilant 咝音
-sibilant continuant 有咝通音
-
-typology 类型学
-agglutinative language 黏着语
-synthetic language 综合语
-morpho-semantic stem 形义词干
-inflection 屈折变化
-derivation 词汇派生
-单词结构 word structure
-列位 slot
-词缀 affix
-元音形式 vowel form
-标准元音形式序列 Standard Vowel-Form Sequence
-记忆 memorization
-表格 chart
-矩阵 matrix
-diphthong 二合元音
-disyllabic conjunct 双音节组合
-phonotactically impermissible 为语音组合法所禁止的
-euphonically undesirable 不悦耳的
-epenthetic vowel 增音性元音
-morphological structure 形态结构
-formative  构形词
-consonant-form, consonantal-form 辅音形式
-vowel-form 元音形式
-word-root 词根
-stress 重音
+* 音系 phonology
+* 辅音 + 元音形式 consonant-form and vowel-form
+* 声门塞音 glottal stop
+* 增音性元音 Epenthetic Vowel
+* 浊音 voiced
+* 清音 voiceless
+* 通音 continuant
+* 舌尖 - 龈颤音 apico-alveolar trill
+* 元音间 intervocalic
+* 塞擦音 affricate
+* 爆发音 plosive
+* 擦音 fricative
+* 咝音 sibilant
+* 有咝通音 sibilant continuant
+* 加长 Gemination
+* 得以加长 to be geminated
+* 长辅音 geminated consonant
+* 词首位置 word-initial position
+* 词尾位置  word-final position
+* 变音符号 diacritic
+  * 扬音符 acute accent
+  * 扬抑符 circumflex accent
+  * 抑音符 grave accent
+* written juncture 书面间隔
 
 @tab 构词相关
 
@@ -131,6 +75,42 @@ stress 重音
     * 无联型 No Concatenation
     * 甲联型 Type-1 Concatenation
     * 乙联型 Type-2 Concatenation
+* 未联的 unconcatenated
+* 联态的 concatenated
+* 联构词 concatenated formative
+  * 甲型联构词 Type-1 concatenated formative
+  * 乙型联构词 Type-2 concatenated formative
+
+* 语境性 circumstantial
+* 派生性 derivational
+* 限制性 limited
+* 多成分组合的、综合的 portmanteau
+* 范畴 category
+* 构造 formation
+* 复合型词缀 affix-complex
+* 描述性 descriptive
+
+* 简替 shortcut
+
+* 类型学 typology
+* 黏着语 agglutinative language
+* 综合语 synthetic language
+* 形义词干 morpho-semantic stem
+* 屈折变化 inflection
+* 词汇派生 derivation
+* 单词结构 word structure
+* 列位 slot
+* 词缀 affix
+* 标准元音形式序列 Standard Vowel-Form Sequence
+* 记忆 memorization
+* 表格 chart
+* 矩阵 matrix
+* 二合元音 diphthong
+* 双音节组合 disyllabic conjunct
+* 为语音组合法所禁止的 phonotactically impermissible
+* 不悦耳的 euphonically undesirable
+* 形态结构 morphological structure
+* 倒装 reversal
 
 @tab 词类
 
@@ -195,7 +175,7 @@ stress 重音
   * 相似 `-S-` Similar
   * 各异 `-D-` Different
   * 含混 `-F-` Fuzzy
-* 离性 Separability
+* 分性 Separability
   * 相离 `-S` Separate
   * 相连 `-C` Connected
   * 相合 `-F` Fused
