@@ -114,7 +114,7 @@ npm i -D vuepress-theme-hope
 
 #### 上下角标
 
-19^th^ H~2~O
+19^th^ H₂O
 
 - [查看详情](https://theme-hope.vuejs.press/guide/markdown/sup-sub.html)
 
