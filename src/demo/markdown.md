@@ -136,7 +136,7 @@ npm i -D vuepress-theme-hope
 
 #### Attrs
 
-一个拥有 ID 的 **单词**{#word}。
+一个拥有 ID 的 单词{#word}。
 
 - [查看详情](https://theme-hope.vuejs.press/guide/markdown/attrs.html)
 

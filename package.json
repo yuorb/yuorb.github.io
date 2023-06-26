@@ -14,10 +14,12 @@
     "@vuepress/client": "2.0.0-beta.63",
     "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.63",
-    "vuepress-plugin-auto-catalog": "2.0.0-beta.223",
-    "vuepress-theme-hope": "2.0.0-beta.223"
+    "vuepress-plugin-auto-catalog": "2.0.0-beta.228",
+    "vuepress-theme-hope": "2.0.0-beta.228"
   },
   "dependencies": {
-    "night": "link:"
+    "lxgw-wenkai-tc-webfont": "^1.2.0",
+    "night": "link:",
+    "vuepress-plugin-md-enhance": "2.0.0-beta.228"
   }
 }

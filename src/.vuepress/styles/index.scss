@@ -1,120 +1,154 @@
 // place your custom styles here
 .xiaozhong {
-    p {
-        text-align: center;
-    }
-    ul {
-        margin: auto;
-        width: 30%;
-    }
+	p {
+		text-align: center;
+	}
+
+	ul {
+		margin: auto;
+		width: 30%;
+	}
 }
 
 
 .table-1 {
 	margin: auto;
+
 	table {
 		th {
 			&:first-of-type {
-				width: 12%;
+				width: 3%;
 			}
+
 			&:nth-of-type(2) {
 				width: 6%;
 			}
+
 			&:nth-of-type(3) {
 				width: 6%;
 			}
+
 			&:nth-of-type(4) {
 				width: 10%;
 			}
+
 			&:nth-of-type(5) {
 				width: 6%;
 			}
+
 			&:nth-of-type(6) {
 				width: 6%;
 			}
+
 			&:nth-of-type(7) {
 				width: 6%;
 			}
+
 			&:nth-of-type(8) {
 				width: 6%;
 			}
+
 			&:nth-of-type(9) {
 				width: 6%;
 			}
+
 			&:nth-of-type(10) {
 				width: 6%;
 			}
+
 			&:nth-of-type(11) {
 				width: 6%;
 			}
+
 			&:nth-of-type(12) {
 				width: 6%;
 			}
+
 			&:nth-of-type(13) {
 				width: 6%;
 			}
 		}
 	}
 }
+
 .table-2 {
 	width: 80% !important;
 	margin: auto;
+
 	table {
 		th {
 			&:first-of-type {
 				width: 5%;
 			}
+
 			&:nth-of-type(2) {
 				width: 5%;
 			}
+
 			&:nth-of-type(3) {
 				width: 5%;
 			}
+
 			&:nth-of-type(4) {
 				width: 5%;
 			}
 		}
 	}
 }
+
 .table-3 {
 	margin: auto;
+
 	table {
 		th {
 			&:first-of-type {
 				width: 10%;
 			}
+
 			&:nth-of-type(2) {
 				width: 10%;
 			}
+
 			&:nth-of-type(3) {
 				width: 10%;
 			}
+
 			&:nth-of-type(4) {
 				width: 10%;
 			}
+
 			&:nth-of-type(5) {
 				width: 10%;
 			}
 		}
+		td {
+			text-align: center;
+		}
 	}
 }
+
 .table-4 {
 	margin: auto;
+
 	table {
 		th {
 			&:first-of-type {
 				width: 3%;
 			}
+
 			&:nth-of-type(2) {
 				width: 6%;
 			}
+
 			&:nth-of-type(3) {
 				width: 18%;
 			}
+
 			&:nth-of-type(4) {
 				width: 16%;
 			}
 		}
+
 		td {
 			text-align: center;
 		}
@@ -123,16 +157,20 @@
 
 .table-5 {
 	margin: auto;
+	width: 80% !important;
+
 	table {
 		th {
 			&:first-of-type {
-				width: 2%;
-			}
-			&:nth-of-type(2) {
-				width: 4%;
-			}
-			&:nth-of-type(3) {
 				width: 20%;
+			}
+
+			&:nth-of-type(2) {
+				width: 30%;
+			}
+
+			&:nth-of-type(3) {
+				width: 30%;
 			}
 		}
 	}
@@ -140,28 +178,233 @@
 
 .table-6 {
 	margin: auto;
+
 	table {
 		th {
 			&:first-of-type {
 				width: 25%;
 			}
+
 			&:nth-of-type(2) {
 				width: 25%;
 			}
+
 			&:nth-of-type(3) {
 				width: 25%;
 			}
 		}
+
 		td {
 			text-align: center;
 		}
 	}
 }
+
 .table-7 {
 	margin: auto;
+
 	table {
 		td {
 			text-align: center;
 		}
 	}
+}
+
+.table-8 {
+	margin: auto;
+
+	table {
+		th.head {
+			&:first-of-type {
+				width: 3%;
+			}
+
+			&:nth-of-type(2) {
+				width: 10%;
+			}
+
+			&:nth-of-type(3) {
+				width: 15%;
+			}
+
+			&:nth-of-type(4) {
+				width: 10%;
+			}
+
+		}
+
+		td {
+			text-align: center;
+		}
+	}
+}
+
+.table-9 {
+	margin: auto;
+
+	table {
+		th {
+			&:first-of-type {
+				width: 10%;
+			}
+
+			&:nth-of-type(2) {
+				width: 15%;
+			}
+
+			&:nth-of-type(3) {
+				width: 15%;
+			}
+
+			&:nth-of-type(4) {
+				width: 15%;
+			}
+
+			&:nth-of-type(5) {
+				width: 40%;
+			}
+
+		}
+
+		td {
+			text-align: center;
+		}
+	}
+}
+
+.table-10 {
+	margin: auto;
+
+	table {
+		th {
+			&:first-of-type {
+				width: 50%;
+			}
+
+			&:nth-of-type(2) {
+				width: 50%;
+			}
+
+		}
+
+		td {
+			text-align: center;
+		}
+	}
+}
+
+
+.container {
+	display: flex;
+}
+
+.col {
+	flex: 1;
+}
+
+@import url('/NiGHT/assets/fonts/iosevka-term-slab-unhinted.css');
+@import url('/NiGHT/assets/fonts/iosevka-etoile-unhinted.css');
+
+
+/*.gloss {
+    font-family: "Iosevka Term Slab Web";
+	transition: background var(--color-transition), color var(--color-transition);
+	margin: 0;
+    padding: 0.2rem 0.4rem;
+    border-radius: 5px;
+    background: rgba(127, 127, 127, 0.12);
+    font-size: 0.85em;
+    overflow-wrap: break-word;
+}*/
+
+@import 'https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.2.0/style.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url("//fonts.lpsub.com/css/sarasa-gothic-sc.css");
+
+:root {
+	--examfont: "Minion 3", 'Noto Serif', "LXGW WenKai TC", serif;
+}
+
+dl.gloss {
+	display: inline-block;
+	margin: 0 0.5em 0 0;
+
+	dt {
+		font-weight: bold;
+		font-family: "Minion 3", "Noto Serif", "LXGW WenKai TC", serif;
+		font-size: larger;
+	}
+
+	dd {
+		margin-left: 0 !important;
+		font-size: smaller;
+		font-family: "Iosevka Term Slab Web", "Sarasa Gothic CL", monospace;
+		font-feature-settings: "halt";
+		;
+	}
+}
+
+.glend {
+	font-style: italic;
+}
+
+.expln {
+	margin-bottom: .75em;
+	font-family: "Minion 3", "Noto Serif", "LXGW WenKai TC", serif;
+	font-size: larger;
+}
+
+code {
+	font-variant-caps: small-caps;
+	font-feature-settings: "smcp";
+}
+
+.indent {
+	margin: auto;
+	width: 90%;
+}
+
+/* 通过:hover伪类在鼠标悬停时显示注释 */
+em {
+	font-style: italic;
+
+	&::before {
+		content: ' ';
+	}
+
+	&::after {
+		content: ' ';
+	}
+}
+
+.parnt {
+	display: inline;
+	color: var(--light-grey);
+
+	&::before {
+		content: '（';
+	}
+
+	&::after {
+		content: '）';
+	}
+}
+
+mark {
+	font-weight: 900;
+}
+
+.reveal .slides {
+	text-align: start !important;
+}
+
+strong {
+	font-weight: 900 !important;
+	text-decoration: underline 20% !important;
+}
+
+.t {
+	font-weight: 900 !important;
 }

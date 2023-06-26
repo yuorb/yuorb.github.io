@@ -1,10 +1,16 @@
 ---
-title: 术语表
+title: 术语表 Terminology
 ---
 
 ::: tabs
 
 @tab 基本概念
+
+* 语义角色 semantic role
+* 语用角色 pragmatic role
+* 语法（或句法）关系 grammatical (or syntactical) relations
+* 论元结构 argument structure
+* 位置槽 Positional Slot
 
 @tab 语音相关
 
@@ -44,7 +50,7 @@ title: 术语表
   * 扬音符 acute accent
   * 扬抑符 circumflex accent
   * 抑音符 grave accent
-* written juncture 书面间隔
+* written juncture 书面音渡
 
 @tab 构词相关
 
@@ -90,7 +96,7 @@ title: 术语表
 * 复合型词缀 affix-complex
 * 描述性 descriptive
 
-* 简替 shortcut
+* 简替形式 shortcut
 
 * 类型学 typology
 * 黏着语 agglutinative language
@@ -376,7 +382,7 @@ title: 术语表
   * 持用格 `UTL` Utilitative Case
   * 基于格 `PRD` Predicative Case
   * 关系格 `RLT` Relative Case
-* 系联格
+* 系联格 Affinitive Cases
   * 意能格 `ACT` Activative Case
   * 如同格 `ASI` Assimilative Case
   * 作为格 `ESS` Essive Case
@@ -385,7 +391,7 @@ title: 术语表
   * 根据格 `CFM` Conformative Case
   * 依赖格 `DEP` Dependent Case
   * 呼格 `VOC` Vocative Case
-* 时空格
+* 时空格 Spatio-Temporal Cases
   * 位格 `LOC` Locative Case
   * 当场格 `ATD` Attendant Case
   * 向格 `ALL` Allative Case
@@ -515,6 +521,12 @@ title: 术语表
 * 有框 Framed Relation
 
 格框 Case-Frame
+
+格辅词缀 Case-Accessor Affix
+
+反格辅词缀 Inverse Case-Accessor Affix
+
+格叠加词缀 Case-Stacking Affix
 
 言域 Registers
 

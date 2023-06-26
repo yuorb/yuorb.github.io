@@ -1,3 +1,3 @@
 ---
-title: 小抄
+title: 小抄 Cheatsheet
 ---

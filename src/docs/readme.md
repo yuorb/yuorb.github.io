@@ -1,4 +1,4 @@
 ---
-title: "新 Ithkuil 语法汉释"
+title: " New Ithkuil 语法汉释"
 ---
 
