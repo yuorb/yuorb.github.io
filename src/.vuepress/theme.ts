@@ -3,7 +3,7 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://circulus-ithkuilicus-sinice-loquentium.github.io/NiGHT/",
+  hostname: "https://yuorb.github.io",
 
   author: {
     name: "Lucifer Caelius Delicatus",
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "circulus-ithkuilicus-sinice-loquentium/NiGHT",
+  repo: "yuorb/yuorb.github.io",
 
   docsDir: "/src",
 

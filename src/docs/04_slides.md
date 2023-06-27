@@ -423,11 +423,11 @@
 
 其他模式亦有可行。例如，如下例句展示模式可用于翻译英语/汉语差异：
 
-- <em>‘I hit my leg with a rock’</em>
+- <em>‘I hit my leg with a rock’</em><br>
 我用石头打自己的腿
-- <em>‘I hit myself on the leg with a rock’</em>
+- <em>‘I hit myself on the leg with a rock’</em><br>
 我用石头打自己打到腿
-- <em>‘A rock hit me on the leg.’</em>
+- <em>‘A rock hit me on the leg.’</em><br>
 石头打我打到腿
 
 --

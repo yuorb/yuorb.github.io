@@ -37,6 +37,11 @@ features:
     details: 过往版本的归档
     link: https://ithkuil.place
 
+  - title: Telegram 群组
+    icon: fab fa-telegram
+    details: 反垄断联络
+    link: https://t.me/ithkuil_cn
+
   - title: QQ 群
     icon: fas fa-user-group
     details: Ithkuil 研究社团 865538600
@@ -45,10 +50,10 @@ features:
   - title: Github
     icon: fab fa-github-alt
     details: Github 项目
-    link: https://github.com/Circulus-Ithkuilicus-Sinice-Loquentium
+    link: https://github.com/yuorb
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
+footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> 主题 | CC BY-NC-SA 4.0 协议, 版权所有 © 2023-present Yuorb
 ---
 
 ::: center

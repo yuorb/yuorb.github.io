@@ -302,8 +302,8 @@
 	flex: 1;
 }
 
-@import url('/NiGHT/assets/fonts/iosevka-term-slab-unhinted.css');
-@import url('/NiGHT/assets/fonts/iosevka-etoile-unhinted.css');
+@import url('//yuorb.github.io/assets/fonts/iosevka-term-slab-unhinted.css');
+@import url('//yuorb.github.io/assets/fonts/iosevka-etoile-unhinted.css');
 
 
 /*.gloss {
@@ -407,4 +407,22 @@ strong {
 
 .t {
 	font-weight: 900 !important;
+}
+
+.reveal[data-theme=auto] {
+    --r-main-font: var(--font-family)!important;
+    --r-heading-font: var(--font-family-heading)!important;
+}
+
+.vp-tab-nav {
+    font-family: var(--font-family)!important;
+}
+
+ruby {
+    justify-content: space-evenly;
+    display: inline-flex;
+    align-content: stretch;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
 }

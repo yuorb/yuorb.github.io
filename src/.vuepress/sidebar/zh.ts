@@ -16,7 +16,7 @@ export const zhSidebar = sidebar({
         },
       ],
     },
-    {
+/*     {
       // icon: "discover",
       text: "案例",
       prefix: "demo/",
@@ -29,6 +29,6 @@ export const zhSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    "slides",
+    "slides", */
   ],
 });
