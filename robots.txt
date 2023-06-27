@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://circulus-ithkuilicus-sinice-loquentium.github.io/NiGHT/sitemap.xml
+Sitemap: https://yuorb.github.io/sitemap.xml
