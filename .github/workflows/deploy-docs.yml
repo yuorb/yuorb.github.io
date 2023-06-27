@@ -21,6 +21,7 @@ jobs:
       - name: 安装 pnpm
         uses: pnpm/action-setup@v2
         with:
+          version: latest
           run_install: true
 
 
