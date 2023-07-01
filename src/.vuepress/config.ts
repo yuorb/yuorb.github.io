@@ -1,10 +1,13 @@
 import { defineUserConfig } from "vuepress";
-import theme from "./theme.js";
+import { getDirname, path } from '@vuepress/utils'
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import theme from "./theme";
+
+const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   base: "/",
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
-
   locales: {
     "/": {
       lang: "zh-CN",
@@ -12,10 +15,12 @@ export default defineUserConfig({
       description: "New Ithkuil 语法汉译",
     },
   },
-
+  plugins: [
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    })
+  ],
   theme,
-
-
   // Enable it with pwa
   // shouldPrefetch: false,
 });
