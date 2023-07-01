@@ -340,7 +340,7 @@ dl.gloss {
 	dd {
 		margin-left: 0 !important;
 		font-size: smaller;
-		font-family: "Iosevka Term Slab Web", "Sarasa Gothic CL", monospace;
+		font-family: var(--font-family-mono);
 		font-feature-settings: "halt";
 		;
 	}
@@ -356,27 +356,29 @@ dl.gloss {
 	font-size: larger;
 }
 
+
 code {
 	font-variant-caps: small-caps;
 	font-feature-settings: "smcp";
+	font-size: large;
+	font-weight: inherit;
+	margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+q {
+	font-style: italic;
+	margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+
+abbr {
+	font-family: var(--font-family-mono)!important;
 }
 
 .indent {
 	margin: auto;
 	width: 90%;
-}
-
-/* 通过:hover伪类在鼠标悬停时显示注释 */
-em {
-	font-style: italic;
-
-	&::before {
-		content: ' ';
-	}
-
-	&::after {
-		content: ' ';
-	}
 }
 
 .parnt {
@@ -392,37 +394,42 @@ em {
 	}
 }
 
-mark {
-	font-weight: 900;
-}
-
-.reveal .slides {
+/* .reveal .slides {
 	text-align: start !important;
 }
+*/
 
 strong {
 	font-weight: 900 !important;
 	text-decoration: underline 20% !important;
 }
 
-.t {
+.t, mark {
 	font-weight: 900 !important;
 }
 
-.reveal[data-theme=auto] {
+/* .reveal[data-theme=auto] {
     --r-main-font: var(--font-family)!important;
     --r-heading-font: var(--font-family-heading)!important;
-}
+} */
 
 .vp-tab-nav {
     font-family: var(--font-family)!important;
 }
 
-ruby {
+/* ruby {
     justify-content: space-evenly;
     display: inline-flex;
     align-content: stretch;
     flex-wrap: wrap;
     flex-direction: column;
     align-items: flex-start;
+} */
+
+.reveal {
+	--r-main-font: var(--font-family) !important;
+	--r-heading-font: var(--font-family-heading) !important;
+	.slides {
+		text-align: start !important;
+	}
 }

@@ -44,8 +44,7 @@ features:
 
   - title: QQ 群
     icon: fas fa-user-group
-    details: Ithkuil 研究社团 865538600
-    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=NNymN4p3mp7tWkImDdWZzEpEpj7nUn19&authKey=PiLN6MLqzbTo1bvn1D5BxY1fUu7yk8PagPQyY1ErSLPiZgRJzp590Xyw8fqPPVFt&noverify=0&group_code=865538600
+    details: Ithkuil 研究社团 <a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('复制群号成功'); })()">点击复制QQ群号</a>
 
   - title: Github
     icon: fab fa-github-alt
@@ -93,3 +92,24 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+<script>
+  function copyQQGroupCode() {
+    const qqGroupCode = '865538600';
+
+    // 创建临时 textarea 元素
+    const textarea = document.createElement('textarea');
+    textarea.value = qqGroupCode;
+    document.body.appendChild(textarea);
+
+    // 选择并复制文本
+    textarea.select();
+    document.execCommand('copy');
+
+    // 移除临时元素
+    document.body.removeChild(textarea);
+
+    // 弹出提示消息
+    alert('复制群号成功');
+  }
+</script>

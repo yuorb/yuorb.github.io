@@ -41,8 +41,8 @@ title: 术语表 Terminology
 * 擦音 fricative
 * 咝音 sibilant
 * 有咝通音 sibilant continuant
-* 加长 Gemination
-* 得以加长 to be geminated
+* 延长 Gemination
+* 得以延长 to be geminated
 * 长辅音 geminated consonant
 * 词首位置 word-initial position
 * 词尾位置  word-final position
@@ -140,17 +140,21 @@ title: 术语表 Terminology
 * 语析小词 Parsing Adjuncts
 
 3. 指代词 Referentials
-   * 一称个指 `1m` Monadic Speaker Referential
-   * 二称个指 `2m` Monadic Addressee Referential
-   * 二称个指 `2p` Polyadic Addressee Referential
-   * 三称有生个指 `ma` Monadic Animate 3rd Party Referential
-   * 三称有生众指 `pa` Polyadic Animate 3rd Party Referential
-   * 三称无生个指 `mi` Monadic Inanimate 3rd Party Referential
-   * 三称无生众指 `pi` Polyadic Inanimate 3rd Party Referential
-   * 三称或生众指 `Mx` Mixed Animate/ Inanimate 3rd Party Referential
-   * 回指 `Rdp` Reduplicative Referential
-   * 远指 `Obv` Obviative Referential
-   * 暂指 `PVS` Provisional Referential
+  * 单指代词 Single-Referent Referential
+  * 双指代词 Dual-Referent Referential
+  * 带格叠加的组合指代词 Combination Referential with Case-Stacking
+  * 指代范畴
+    * 一称个指 `1m` Monadic Speaker Referential
+    * 二称个指 `2m` Monadic Addressee Referential
+    * 二称众指 `2p` Polyadic Addressee Referential
+    * 三称有生个指 `ma` Monadic Animate 3rd Party Referential
+    * 三称有生众指 `pa` Polyadic Animate 3rd Party Referential
+    * 三称无生个指 `mi` Monadic Inanimate 3rd Party Referential
+    * 三称无生众指 `pi` Polyadic Inanimate 3rd Party Referential
+    * 三称或生众指 `Mx` Mixed Animate/ Inanimate 3rd Party Referential
+    * 回指 `Rdp` Reduplicative Referential
+    * 远指 `Obv` Obviative Referential
+    * 暂指 `PVS` Provisional Referential
 
 @tab:active 语法范畴
 

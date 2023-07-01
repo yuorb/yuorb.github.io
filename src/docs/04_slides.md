@@ -432,9 +432,9 @@
 
 --
 
-- -**ţd**- 词干二、基础述 <em>‘forceful physical contact’</em>+ 词缀 `FRC₁/7` -**osm**-
+- -**ţd**- 词干二、基础述 <em>‘forceful physical contact’</em>+ 词缀`FRC₁/7`-**osm**-
 => <em>‘hit/strike’</em> 击打
-- -**šn**- 词干一、基础述 <em>‘leg (as physical body part)’</em>+ 词缀 `Rdp-GEN` -**ioth**-
+- -**šn**- 词干一、基础述 <em>‘leg (as physical body part)’</em>+ 词缀`Rdp-GEN`-**ioth**-
 => <em>‘their (sg.) leg’</em> 其（回指）腿
 - -**ggw**- 词干一、对象述 <em>‘(piece of) rock / (piece/chunk of) stone’</em>
 => 一块石头
@@ -933,7 +933,7 @@
 
 @slidestart auto
 
-下面句子说明了 `CHC` 词缀的使用，作为区分进食行为中 `EFF`、`ERG`、`IND`、`DAT` 和 `CSM` 参与者之间各种语义关系的手段（见[第 4.5.5 条](04#Sec4_5_5)的 `CSM` 消耗格）
+下面句子说明了`CHC`词缀的使用，作为区分进食行为中`EFF`、`ERG`、`IND`、`DAT`和`CSM`参与者之间各种语义关系的手段（见[第 4.5.5 条](04#Sec4_5_5)的`CSM`消耗格）
 
 --
 
