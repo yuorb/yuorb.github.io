@@ -947,7 +947,7 @@
 </dl>
 <div class="glend">The girl eats.</div>
 <div class="expln">女孩进食</div>
-<small class="parnt">一个女孩发起进食行为并经受其影响</small>
+（一个女孩发起进食行为并经受其影响）
 
 --
 
@@ -965,7 +965,7 @@
 </dl>
 <div class="glend">The girl is eating an apple.</div>
 <div class="expln">女孩吃苹果</div>
-<small class="parnt">……，其过程消耗一颗苹果</small>
+（……，其过程消耗一颗苹果）
 
 --
 
@@ -979,7 +979,7 @@
 </dl>
 <div class="glend">An apple gets eaten. / Someone eats an apple.</div>
 <div class="expln">有人吃到苹果</div>
-<small class="parnt">进食目的实现了，其过程消耗一颗苹果</small>
+（进食目的实现了，其过程消耗一颗苹果）
 
 --
 
@@ -1005,7 +1005,7 @@
 </dl>
 <div class="glend">The man feeds the girl an apple.</div>
 <div class="expln">男人喂女孩苹果 / 男人给女孩苹果吃</div>
-<small class="parnt">男人发起给予行为，由女孩领受，其目的是让女孩……，其过程……</small>
+（男人发起给予行为，由女孩领受，其目的是让女孩……，其过程……）
 
 --
 
@@ -1027,7 +1027,7 @@
 </dl>
 <div class="glend">The man gets the girl to eat an apple.</div>
 <div class="expln">男人说服女孩吃苹果</div>
-<small class="parnt">男人间接导致女孩……，而且女孩出于自身利益有意促成结果，其过程……</small>
+（男人间接导致女孩……，而且女孩出于自身利益有意促成结果，其过程……）
 
 --
 
@@ -1049,7 +1049,7 @@
 </dl>
 <div class="glend">The girl is given an apple to eat.</div>
 <div class="expln">有人给女孩苹果吃</div>
-<small class="parnt">给予发生，由女孩领受，其目的是让女孩……，其过程……</small>
+（给予发生，由女孩领受，其目的是让女孩……，其过程……）
 
 --
 
@@ -1067,7 +1067,7 @@
 </dl>
 <div class="glend">The girl is/gets fed an apple.</div>
 <div class="expln">女孩被喂苹果 / 女孩受说服吃苹果</div>
-<small class="parnt">有人间接导致女孩……，而且女孩出于自身利益有意促成结果，其过程……</small>
+（有人间接导致女孩……，而且女孩出于自身利益有意促成结果，其过程……）
 
 --
 
@@ -1089,7 +1089,7 @@
 </dl>
 <div class="glend">An apple gets fed to the girl.</div>
 <div class="expln">苹果喂给女孩 / 苹果给女孩吃</div>
-<small class="parnt">给予发生，由女孩领受，其目的是让女孩……，其过程……，而且女孩默许因为她认可结果或对结果不关心</small>
+（给予发生，由女孩领受，其目的是让女孩……，其过程……，而且女孩默许因为她认可结果或对结果不关心）
 
 --
 
@@ -1103,7 +1103,7 @@
 </dl>
 <div class="glend">The girl gets fed.</div>
 <div class="expln">女孩被喂 / 那女孩默许被迫进食</div>
-<small class="parnt">进食发生，女孩……，而且女孩默许因为她认可结果或对结果不关心</small>
+（进食发生，女孩……，而且女孩默许因为她认可结果或对结果不关心）
 
 --
 
@@ -1117,7 +1117,7 @@
 </dl>
 <div class="glend">The girl gets eaten.</div>
 <div class="expln">女孩被吃 / 有事物吃女孩（其尝试制止但失败）</div>
-<small class="parnt">有一方导致进食发生，其过程消耗女孩，而女孩试图制止/避免并失败</small>
+（有一方导致进食发生，其过程消耗女孩，而女孩试图制止/避免并失败）
 
 --
 
@@ -1131,7 +1131,7 @@
 </dl>
 <div class="glend">The girl eats herself.</div>
 <div class="expln">女孩自食</div>
-<small class="parnt">女孩发起进食并经受其影响，其过程消耗女孩自身</small>
+（女孩发起进食并经受其影响，其过程消耗女孩自身）
 
 --
 
@@ -1145,7 +1145,7 @@
 </dl>
 <div class="glend">The girl gets herself eaten.</div>
 <div class="expln">女孩任由自己被吃 / 有事物吃女孩（其未想尝试制止）</div>
-<small class="parnt">进食发生，其过程消耗女孩，而女孩不加思索违背自身利益促成其结果</small>
+（进食发生，其过程消耗女孩，而女孩不加思索违背自身利益促成其结果）
 
 --
 
@@ -1155,7 +1155,7 @@
 </dl>
 <div class="glend">Feeding is taking place (i.e., someone is feeding someone/something else).</div>
 <div class="expln">喂食发生 / 有人默许发起进食</div>
-<small class="parnt">有人导致另一方发起进食，其默许，因为认可结果或对结果不关心</small>
+（有人导致另一方发起进食，其默许，因为认可结果或对结果不关心）
 
 --
 
@@ -1169,7 +1169,7 @@
 </dl>
 <div class="glend">Feeding is taking place (i.e., someone is giving someone else food to eat).</div>
 <div class="expln">喂食发生 / 一方给另一方食物吃</div>
-<small class="parnt">给予食物以进食之事件发生</small>
+（给予食物以进食之事件发生）
 
 ---
 
