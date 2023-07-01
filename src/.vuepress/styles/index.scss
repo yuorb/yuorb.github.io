@@ -121,6 +121,7 @@
 				width: 10%;
 			}
 		}
+
 		td {
 			text-align: center;
 		}
@@ -363,17 +364,18 @@ code {
 	font-size: large;
 	font-weight: inherit;
 	margin-left: 0.5em;
-    margin-right: 0.5em;
+	margin-right: 0.5em;
 }
+
 q {
 	font-style: italic;
 	margin-left: 0.5em;
-    margin-right: 0.5em;
+	margin-right: 0.5em;
 }
 
 
 abbr {
-	font-family: var(--font-family-mono)!important;
+	font-family: var(--font-family-mono) !important;
 }
 
 .indent {
@@ -404,7 +406,8 @@ strong {
 	text-decoration: underline 20% !important;
 }
 
-.t, mark {
+.t,
+mark {
 	font-weight: 900 !important;
 }
 
@@ -414,22 +417,18 @@ strong {
 } */
 
 .vp-tab-nav {
-    font-family: var(--font-family)!important;
+	font-family: var(--font-family) !important;
 }
-
-/* ruby {
-    justify-content: space-evenly;
-    display: inline-flex;
-    align-content: stretch;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: flex-start;
-} */
 
 .reveal {
 	--r-main-font: var(--font-family) !important;
 	--r-heading-font: var(--font-family-heading) !important;
+
 	.slides {
 		text-align: start !important;
 	}
+}
+
+.vue-custom-tooltip {
+	--vue-custom-tooltip-background: var(--theme-color);
 }
