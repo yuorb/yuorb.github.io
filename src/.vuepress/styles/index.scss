@@ -203,6 +203,7 @@
 
 .table-7 {
 	margin: auto;
+	width: 80% !important;
 
 	table {
 		td {
@@ -431,4 +432,9 @@ mark {
 
 .vue-custom-tooltip {
 	--vue-custom-tooltip-background: var(--theme-color);
+	background: var(--theme-color);
+	color: white;
+	padding: 0 8px;
+	border-radius: 12px;
+	margin: 2px;
 }
