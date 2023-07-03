@@ -374,14 +374,8 @@ q {
 	margin-right: 0.5em;
 }
 
-
 abbr {
 	font-family: var(--font-family-mono) !important;
-}
-
-.indent {
-	margin: auto;
-	width: 90%;
 }
 
 .parnt {
@@ -437,4 +431,24 @@ mark {
 	padding: 0 8px;
 	border-radius: 12px;
 	margin: 2px;
+}
+
+.indent, .listo, .tablo {
+	margin: auto;
+	width: 90%;
+}
+
+.listo {
+	display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.tablo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
