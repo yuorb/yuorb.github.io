@@ -203,7 +203,6 @@
 
 .table-7 {
 	margin: auto;
-	width: 80% !important;
 
 	table {
 		td {
@@ -295,6 +294,17 @@
 	}
 }
 
+.table-11 {
+	margin: auto;
+	width: 80% !important;
+
+	table {
+		td {
+			text-align: center;
+		}
+	}
+}
+
 
 .container {
 	display: flex;
@@ -362,7 +372,7 @@ dl.gloss {
 code {
 	font-variant-caps: small-caps;
 	font-feature-settings: "smcp";
-	font-size: large;
+	font-size: larger;
 	font-weight: inherit;
 	margin-left: 0.5em;
 	margin-right: 0.5em;

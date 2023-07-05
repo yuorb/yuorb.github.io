@@ -1264,7 +1264,7 @@
     <dd>‘adult’-GID₁/1-IND</dd>
 </dl>
 <div class="glend">If there’s an audience, the woman will sing.</div>
-<div class="expln">若有观众在场，女人将会歌唱</div>
+<div class="expln">若有一位听众在场，女人将会歌唱</div>
 
 --
 
@@ -1285,7 +1285,7 @@
     <dd>‘song’-THM</dd>
 </dl>
 <div class="glend">If there’s an audience, the woman will sing a song.</div>
-<div class="expln">若有观众在场，女人将会歌唱一首歌</div>
+<div class="expln">若有一位听众在场，女人将会歌唱一首歌</div>
 
 --
 
@@ -1302,7 +1302,7 @@
     <dd>‘song’-THM</dd>
 </dl>
 <div class="glend">If there’s an audience, a song will be sung.</div>
-<div class="expln">若有观众在场，有人将会演唱一首歌</div>
+<div class="expln">若有一位听众在场，有人将会演唱一首歌</div>
 
 --
 
@@ -1315,7 +1315,7 @@
     <dd>‘sing’-STA-ASM-INF</dd>
 </dl>
 <div class="glend">If there’s an audience, there will be singing going on. / If there’s an audience, someone will sing.</div>
-<div class="expln">若有观众在场，将会有歌声</div>
+<div class="expln">若有一位听众在场，将会有歌声</div>
 
 --
 
@@ -1332,7 +1332,7 @@
     <dd>‘adult’-GID₁/1-IND</dd>
 </dl>
 <div class="glend">If there’s an audience, the woman will sing for someone.</div>
-<div class="expln">若有观众在场，女人会为某人歌唱</div>
+<div class="expln">若有一位听众在场，女人会为某人歌唱</div>
 
 --
 

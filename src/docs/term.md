@@ -1,5 +1,5 @@
 ---
-title: 术语表 Terminology
+title: 术语表
 ---
 
 ::: tabs
