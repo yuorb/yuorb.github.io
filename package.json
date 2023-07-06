@@ -20,6 +20,5 @@
     "@adamdehaven/vue-custom-tooltip": "^2.6.0",
     "@vuepress/plugin-register-components": "2.0.0-beta.64",
     "@vuepress/utils": "2.0.0-beta.64",
-    "night": "link:"
   }
 }
