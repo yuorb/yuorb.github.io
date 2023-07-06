@@ -294,6 +294,8 @@ title: 术语表
 
 级别 Levels
 
+每个都区分相对级别 Relative Level 和绝对级别 Absolute Level
+
 * 最小级 `MIN` Minimal Level
 * 低等级 `SBE` Subequative Level
 * 最低级 `IFR` Inferior Level
