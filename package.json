@@ -14,7 +14,7 @@
     "@vuepress/client": "2.0.0-beta.64",
     "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.64",
-    "vuepress-theme-hope": "2.0.0-beta.230"
+    "vuepress-theme-hope": "2.0.0-beta.231"
   },
   "dependencies": {
     "@adamdehaven/vue-custom-tooltip": "^2.6.0",

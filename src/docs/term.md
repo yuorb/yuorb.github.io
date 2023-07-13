@@ -125,401 +125,400 @@ title: 术语表
    * 独构词 Standalone Formative
    * 联构词 Concatenated Formatives
 2. 小词 Adjuncts
-
-* 词缀小词 Affixual Adjuncts
-  * 单缀小词 Single-Affix Adjunct
-  * 复缀小词 Multiple-Affix Adjunct
-* 模小词 Modular Adjuncts
-* 言域小词 Register Adjuncts
-* 补小词 Suppletive Adjuncts
-  * 载小词 `CAR` Carrier Adjunct
-  * 引小词 `QUO` Quotative Adjunct
-  * 名小词 `NAM` Naming Adjunct
-  * 短语小词 `PHR` Phrasal Adjunct
-* 观感小词 Bias Adjuncts
-* 语析小词 Parsing Adjuncts
+  * 词缀小词 Affixual Adjuncts
+    * 单缀小词 Single-Affix Adjunct
+    * 复缀小词 Multiple-Affix Adjunct
+  * 模小词 Modular Adjuncts
+  * 言域小词 Register Adjuncts
+  * 补小词 Suppletive Adjuncts
+    * 载小词 <abbr>CAR</abbr> Carrier Adjunct
+    * 引小词 <abbr>QUO</abbr> Quotative Adjunct
+    * 名小词 <abbr>NAM</abbr> Naming Adjunct
+    * 短语小词 <abbr>PHR</abbr> Phrasal Adjunct
+  * 观感小词 Bias Adjuncts
+  * 语析小词 Parsing Adjuncts
 
 3. 指代词 Referentials
   * 单指代词 Single-Referent Referential
   * 双指代词 Dual-Referent Referential
   * 带格叠加的组合指代词 Combination Referential with Case-Stacking
   * 指代范畴
-    * 一称个指 `1m` Monadic Speaker Referential
-    * 二称个指 `2m` Monadic Addressee Referential
-    * 二称众指 `2p` Polyadic Addressee Referential
-    * 三称有生个指 `ma` Monadic Animate 3rd Party Referential
-    * 三称有生众指 `pa` Polyadic Animate 3rd Party Referential
-    * 三称无生个指 `mi` Monadic Inanimate 3rd Party Referential
-    * 三称无生众指 `pi` Polyadic Inanimate 3rd Party Referential
-    * 三称或生众指 `Mx` Mixed Animate/ Inanimate 3rd Party Referential
-    * 回指 `Rdp` Reduplicative Referential
-    * 远指 `Obv` Obviative Referential
-    * 暂指 `PVS` Provisional Referential
+    * 一称个指 <abbr>1m</abbr> Monadic Speaker Referential
+    * 二称个指 <abbr>2m</abbr> Monadic Addressee Referential
+    * 二称众指 <abbr>2p</abbr> Polyadic Addressee Referential
+    * 三称有生个指 <abbr>ma</abbr> Monadic Animate 3rd Party Referential
+    * 三称有生众指 <abbr>pa</abbr> Polyadic Animate 3rd Party Referential
+    * 三称无生个指 <abbr>mi</abbr> Monadic Inanimate 3rd Party Referential
+    * 三称无生众指 <abbr>pi</abbr> Polyadic Inanimate 3rd Party Referential
+    * 三称或生众指 <abbr>Mx</abbr> Mixed Animate/ Inanimate 3rd Party Referential
+    * 回指 <abbr>Rdp</abbr> Reduplicative Referential
+    * 远指 <abbr>Obv</abbr> Obviative Referential
+    * 暂指 <abbr>PVS</abbr> Provisional Referential
 
 @tab:active 语法范畴
 
 详述 Specifications
 
-* 基本述 `BSC` Basic Specification
-* 内容述 `CTE` Contential Specification
-* 构成述 `CSV` Constitutive Specification
-* 对象述 `OBJ` Objective Specification
+* 基本述 <abbr>BSC</abbr> Basic Specification
+* 内容述 <abbr>CTE</abbr> Contential Specification
+* 构成述 <abbr>CSV</abbr> Constitutive Specification
+* 对象述 <abbr>OBJ</abbr> Objective Specification
 
 功能 Functions
 
-* 静态功能 `STA` Static Function
-* 动态功能 `DYN` Dynamic Function
+* 静态功能 <abbr>STA</abbr> Static Function
+* 动态功能 <abbr>DYN</abbr> Dynamic Function
 
 版本 Versions
 
-* 进程版 `PRC` Processual Version
-* 完成版 `CPT` Completive Version
+* 进程版 <abbr>PRC</abbr> Processual Version
+* 完成版 <abbr>CPT</abbr> Completive Version
 
 构型 Configurations
 
 * 构数 Plexities
-  * 单构 `U-` Uniplex
-  * 双构 `D-` Duplex
-  * 复构 `M-` Multiplex
+  * 单构 <abbr>U-</abbr> Uniplex
+  * 双构 <abbr>D-</abbr> Duplex
+  * 复构 <abbr>M-</abbr> Multiplex
 * 似度 Similarities
-  * 相似 `-S-` Similar
-  * 各异 `-D-` Different
-  * 含混 `-F-` Fuzzy
+  * 相似 <abbr>-S-</abbr> Similar
+  * 各异 <abbr>-D-</abbr> Different
+  * 含混 <abbr>-F-</abbr> Fuzzy
 * 分性 Separability
-  * 相离 `-S` Separate
-  * 相连 `-C` Connected
-  * 相合 `-F` Fused
+  * 相离 <abbr>-S</abbr> Separate
+  * 相连 <abbr>-C</abbr> Connected
+  * 相合 <abbr>-F</abbr> Fused
 
 三种子范畴组合成：
 
-* 单构型 `UPX` Uniplex Configuration
-* 复似离 `MSS` Multiplex-Similar-Separate Configuration
-* 复似连 `MSC` Multiplex-Similar-Connected Configuration
-* 复似合 `MSF` Multiplex-Similar-Fused
-* 复异离 `MDS` Multiplex-Dissimilar-Separate Configuration
-* 复异连 `MDC` Multiplex-Dissimilar-Connected Configuration
-* 复异合 `MDF` Multiplex-Dissimilar-Fused Configuration
-* 复混离 `MFS` Multiplex-Fuzzy-Separate Configuration
-* 复混连 `MFC` Multiplex-Fuzzy-Connected Configuration
-* 复混合 `MFF` Multiplex-Fuzzy-Fused Configuration
-* 双构型 `DPX` Duplex Configuration
-* 双似离 `DSS` Duplex-Similar-Separate Configuration
-* 双似连 `DSC` Duplex-Similar-Connected Configuration
-* 双似合 `DSF` Duplex-Similar-Fused Configuration
-* 双异离 `DDS` Duplex-Dissimilar-Separate Configuration
-* 双异连 `DDC` Duplex-Dissimilar-Connected Configuration
-* 双异合 `DDF` Duplex-Dissimilar-Fused Configuration
-* 双混离 `DFS` Duplex-Fuzzy-Separate Configuration
-* 双混连 `DFC` Duplex-Fuzzy-Connected Configuration
-* 双混合 `DFF` Duplex-Fuzzy-Fused Configuration
+* 单构型 <abbr>UPX</abbr> Uniplex Configuration
+* 复似离 <abbr>MSS</abbr> Multiplex-Similar-Separate Configuration
+* 复似连 <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
+* 复似合 <abbr>MSF</abbr> Multiplex-Similar-Fused
+* 复异离 <abbr>MDS</abbr> Multiplex-Dissimilar-Separate Configuration
+* 复异连 <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
+* 复异合 <abbr>MDF</abbr> Multiplex-Dissimilar-Fused Configuration
+* 复混离 <abbr>MFS</abbr> Multiplex-Fuzzy-Separate Configuration
+* 复混连 <abbr>MFC</abbr> Multiplex-Fuzzy-Connected Configuration
+* 复混合 <abbr>MFF</abbr> Multiplex-Fuzzy-Fused Configuration
+* 双构型 <abbr>DPX</abbr> Duplex Configuration
+* 双似离 <abbr>DSS</abbr> Duplex-Similar-Separate Configuration
+* 双似连 <abbr>DSC</abbr> Duplex-Similar-Connected Configuration
+* 双似合 <abbr>DSF</abbr> Duplex-Similar-Fused Configuration
+* 双异离 <abbr>DDS</abbr> Duplex-Dissimilar-Separate Configuration
+* 双异连 <abbr>DDC</abbr> Duplex-Dissimilar-Connected Configuration
+* 双异合 <abbr>DDF</abbr> Duplex-Dissimilar-Fused Configuration
+* 双混离 <abbr>DFS</abbr> Duplex-Fuzzy-Separate Configuration
+* 双混连 <abbr>DFC</abbr> Duplex-Fuzzy-Connected Configuration
+* 双混合 <abbr>DFF</abbr> Duplex-Fuzzy-Fused Configuration
 
 系属 Affiliations
 
-* 自然属 `CSL` Consolidative Affiliation
-* 一致属 `ASO` Associative Affiliation
-* 协同属 `COA` Coalescent Affiliation
-* 分化属 `VAR` Variative Affiliation
+* 自然属 <abbr>CSL</abbr> Consolidative Affiliation
+* 一致属 <abbr>ASO</abbr> Associative Affiliation
+* 协同属 <abbr>COA</abbr> Coalescent Affiliation
+* 分化属 <abbr>VAR</abbr> Variative Affiliation
 
 限域 Extensions
 
-* 全限域 `DEL` Delimitive Extension
-* 近限域 `PRX` Proximal Extension
-* 起始域 `ICP` Inceptive Extension
-* 终止域 `ATV` Attenuative Extension
-* 渐长域 `GRA` Graduative Extension
-* 渐消域 `DPL` Depletive Extension
+* 全限域 <abbr>DEL</abbr> Delimitive Extension
+* 近限域 <abbr>PRX</abbr> Proximal Extension
+* 起始域 <abbr>ICP</abbr> Inceptive Extension
+* 终止域 <abbr>ATV</abbr> Attenuative Extension
+* 渐长域 <abbr>GRA</abbr> Graduative Extension
+* 渐消域 <abbr>DPL</abbr> Depletive Extension
 
 视界 Perspectives
 
-* 个例界 `M` Monadic Perspective
-* 类聚界 `G` Agglomerative Perspective
-* 宇宙界 `N` Nomic Perspective
-* 无形界 `A` Abstract Perspective
+* 个例界 <abbr>M</abbr> Monadic Perspective
+* 类聚界 <abbr>G</abbr> Agglomerative Perspective
+* 宇宙界 <abbr>N</abbr> Nomic Perspective
+* 无形界 <abbr>A</abbr> Abstract Perspective
 
 本质 Essences
 
-* 正常本质 `NRM` Normal Essence
-* 假想本质 `RPV` Representative Essence
+* 正常本质 <abbr>NRM</abbr> Normal Essence
+* 假想本质 <abbr>RPV</abbr> Representative Essence
 
 时体 Aspects
 
-* 回顾体 `RTR` Retrospective Aspect
-* 展望体 `PRS` Prospective Aspect
-* 习惯体 `HAB` Habitual Aspect
-* 进行体 `PRG` Progressive Aspect
-* 将近体 `IMM` Imminent Aspect
-* 刚才体 `PCS` Precessive Aspect
-* 规律体 `REG` Regulative Aspect
-* 已然体 `SMM` Summative Aspect
-* 预期体 `ATP` Anticipatory Aspect
-* 接续体 `RSM` Resumptive Aspect
-* 停止体 `CSS` Cessative Aspect
-* 暂停体 `PAU` Pausal Aspect
-* 重返体 `RGR` Regressive Aspect
-* 专一体 `PCL` Preclusive Aspect
-* 继续体 `CNT` Continuative Aspect
-* 持续体 `ICS` Incessative Aspect
-* 曾经体 `EXP` Experiential Aspect
-* 中断体 `IRP` Interruptive Aspect
-* 首发体 `PMP` Preemptive Aspect
-* 最终体 `CLM` Climactic Aspect
-* 久延体 `DLT` Dilatory Aspect
-* 暂时体 `TMP` Temporary Aspect
-* 耗时体 `XPD` Expenditive Aspect
-* 及时体 `LIM` Limitative Aspect
-* 匆忙体 `EPD` Expeditive Aspect
-* 延长体 `PTC` Protractive Aspect
-* 预备体 `PPR` Preparatory Aspect
-* 显发体 `DCL` Disclusive Aspect
-* 结果体 `CCL` Conclusive Aspect
-* 结局体 `CUL` Culminative Aspect
-* 某刻体 `IMD` Intermediative Aspect
-* 减退体 `TRD` Tardative Aspect
-* 过渡体 `TNS` Transitional Aspect
-* 回施体 `ITC` Intercommutative Aspect
-* 去往体 `MTV` Motive Aspect
-* 接连体 `SQN` Sequential Aspect
+* 回顾体 <abbr>RTR</abbr> Retrospective Aspect
+* 展望体 <abbr>PRS</abbr> Prospective Aspect
+* 习惯体 <abbr>HAB</abbr> Habitual Aspect
+* 进行体 <abbr>PRG</abbr> Progressive Aspect
+* 将近体 <abbr>IMM</abbr> Imminent Aspect
+* 刚才体 <abbr>PCS</abbr> Precessive Aspect
+* 规律体 <abbr>REG</abbr> Regulative Aspect
+* 已然体 <abbr>SMM</abbr> Summative Aspect
+* 预期体 <abbr>ATP</abbr> Anticipatory Aspect
+* 接续体 <abbr>RSM</abbr> Resumptive Aspect
+* 停止体 <abbr>CSS</abbr> Cessative Aspect
+* 暂停体 <abbr>PAU</abbr> Pausal Aspect
+* 重返体 <abbr>RGR</abbr> Regressive Aspect
+* 专一体 <abbr>PCL</abbr> Preclusive Aspect
+* 继续体 <abbr>CNT</abbr> Continuative Aspect
+* 持续体 <abbr>ICS</abbr> Incessative Aspect
+* 曾经体 <abbr>EXP</abbr> Experiential Aspect
+* 中断体 <abbr>IRP</abbr> Interruptive Aspect
+* 首发体 <abbr>PMP</abbr> Preemptive Aspect
+* 最终体 <abbr>CLM</abbr> Climactic Aspect
+* 久延体 <abbr>DLT</abbr> Dilatory Aspect
+* 暂时体 <abbr>TMP</abbr> Temporary Aspect
+* 耗时体 <abbr>XPD</abbr> Expenditive Aspect
+* 及时体 <abbr>LIM</abbr> Limitative Aspect
+* 匆忙体 <abbr>EPD</abbr> Expeditive Aspect
+* 延长体 <abbr>PTC</abbr> Protractive Aspect
+* 预备体 <abbr>PPR</abbr> Preparatory Aspect
+* 显发体 <abbr>DCL</abbr> Disclusive Aspect
+* 结果体 <abbr>CCL</abbr> Conclusive Aspect
+* 结局体 <abbr>CUL</abbr> Culminative Aspect
+* 某刻体 <abbr>IMD</abbr> Intermediative Aspect
+* 减退体 <abbr>TRD</abbr> Tardative Aspect
+* 过渡体 <abbr>TNS</abbr> Transitional Aspect
+* 回施体 <abbr>ITC</abbr> Intercommutative Aspect
+* 去往体 <abbr>MTV</abbr> Motive Aspect
+* 接连体 <abbr>SQN</abbr> Sequential Aspect
 
 效果 Effects
 
-* 利我效 `1:BEN` Beneficial to Speaker Effect
-* 利你效 `2:BEN` Beneficial to Addressee Effect
-* 利他效 `3:BEN` Beneficial to Third Party Effect
-* 利己效 `SLF:BEN` Beneficial to Self Effect
-* 未知效 `UNK` Unknown Benefit Effect
-* 害己效 `SLF:DET` Detrimental to Self Effect
-* 害他效 `3:DET` Detrimental to Third Party Effect
-* 害你效 `2:DET` Detrimental to Addressee Effect
-* 害我效 `1:DET` Detrimental to Speaker Effect
+* 利我效 <abbr>1:BEN</abbr> Beneficial to Speaker Effect
+* 利你效 <abbr>2:BEN</abbr> Beneficial to Addressee Effect
+* 利他效 <abbr>3:BEN</abbr> Beneficial to Third Party Effect
+* 利己效 <abbr>SLF:BEN</abbr> Beneficial to Self Effect
+* 未知效 <abbr>UNK</abbr> Unknown Benefit Effect
+* 害己效 <abbr>SLF:DET</abbr> Detrimental to Self Effect
+* 害他效 <abbr>3:DET</abbr> Detrimental to Third Party Effect
+* 害你效 <abbr>2:DET</abbr> Detrimental to Addressee Effect
+* 害我效 <abbr>1:DET</abbr> Detrimental to Speaker Effect
 
 级别 Levels
 
 每个都区分相对级别 Relative Level 和绝对级别 Absolute Level
 
-* 最小级 `MIN` Minimal Level
-* 低等级 `SBE` Subequative Level
-* 最低级 `IFR` Inferior Level
-* 较低级 `DFT` Deficient Level
-* 相等级 `EQU` Equative Level
-* 较高级 `SUR` Surpassive Level
-* 最高级 `SPL` Superlative Level
-* 高等级 `SPQ` Superequative Level
-* 最大级 `MAX` Maximal Level
+* 最小级 <abbr>MIN</abbr> Minimal Level
+* 低等级 <abbr>SBE</abbr> Subequative Level
+* 最低级 <abbr>IFR</abbr> Inferior Level
+* 较低级 <abbr>DFT</abbr> Deficient Level
+* 相等级 <abbr>EQU</abbr> Equative Level
+* 较高级 <abbr>SUR</abbr> Surpassive Level
+* 最高级 <abbr>SPL</abbr> Superlative Level
+* 高等级 <abbr>SPQ</abbr> Superequative Level
+* 最大级 <abbr>MAX</abbr> Maximal Level
 
 相位 Phases
 
-* 点瞬相 `PCT` Punctual Phase
-* 点复相 `ITR` Iterative Phase
-* 重复相 `REP` Repetitive Phase
-* 间歇相 `ITM` Intermittent Phase
-* 反复相 `RCT` Recurrent Phase
-* 频繁相 `FRE` Frequentative Phase
-* 断续相 `FRG` Fragmentative Phase
-* 摇摆相 `VAC` Vacillative Phase
-* 随机相 `FLC` Fluctuative Phase
+* 点瞬相 <abbr>PCT</abbr> Punctual Phase
+* 点复相 <abbr>ITR</abbr> Iterative Phase
+* 重复相 <abbr>REP</abbr> Repetitive Phase
+* 间歇相 <abbr>ITM</abbr> Intermittent Phase
+* 反复相 <abbr>RCT</abbr> Recurrent Phase
+* 频繁相 <abbr>FRE</abbr> Frequentative Phase
+* 断续相 <abbr>FRG</abbr> Fragmentative Phase
+* 摇摆相 <abbr>VAC</abbr> Vacillative Phase
+* 随机相 <abbr>FLC</abbr> Fluctuative Phase
 
 配价 Valences
 
-* 独动价 `MNO` Monactive Valence
-* 共动价 `PRL` Parallel Valence
-* 各动价 `CRO` Corollary Valence
-* 互动价 `RCP` Reciprocal Valence
-* 补动价 `CPL` Complementary Valence
-* 复动价 `DUP` Duplicative Valence
-* 示动价 `DEM` Demonstrative Valence
-* 接动价 `CNG` Contingent Valence
-* 参动价 `PTI` Participative Valence
+* 独动价 <abbr>MNO</abbr> Monactive Valence
+* 共动价 <abbr>PRL</abbr> Parallel Valence
+* 各动价 <abbr>CRO</abbr> Corollary Valence
+* 互动价 <abbr>RCP</abbr> Reciprocal Valence
+* 补动价 <abbr>CPL</abbr> Complementary Valence
+* 复动价 <abbr>DUP</abbr> Duplicative Valence
+* 示动价 <abbr>DEM</abbr> Demonstrative Valence
+* 接动价 <abbr>CNG</abbr> Contingent Valence
+* 参动价 <abbr>PTI</abbr> Participative Valence
 
 语境 Contexts
 
-* 存在语境 `EXS` Existential Context
-* 意味语境 `FNC` Functional Context
-* 寓意语境 `RPS` Representational Context
-* 融合语境 `AMG` Amalgamative Context
+* 存在语境 <abbr>EXS</abbr> Existential Context
+* 意味语境 <abbr>FNC</abbr> Functional Context
+* 寓意语境 <abbr>RPS</abbr> Representational Context
+* 融合语境 <abbr>AMG</abbr> Amalgamative Context
 
 格 Cases & 格式 Format
 
 * 论元格 Transrelative Cases
-  * 主事格 `THM` Thematic Case
-  * 工具格 `INS` Instrumental Case
-  * 受事格 `ABS` Absolutive Case
-  * 感事格 `AFF` Affective Case
-  * 刺激格 `STM` Stimulative Case
-  * 使然格 `EFF` Effectuative Case
-  * 施事格 `ERG` Ergative Case
-  * 领事格 `DAT` Dative Case
-  * 自发格 `IND` Inducive Case
+  * 主事格 <abbr>THM</abbr> Thematic Case
+  * 工具格 <abbr>INS</abbr> Instrumental Case
+  * 受事格 <abbr>ABS</abbr> Absolutive Case
+  * 感事格 <abbr>AFF</abbr> Affective Case
+  * 刺激格 <abbr>STM</abbr> Stimulative Case
+  * 使然格 <abbr>EFF</abbr> Effectuative Case
+  * 施事格 <abbr>ERG</abbr> Ergative Case
+  * 领事格 <abbr>DAT</abbr> Dative Case
+  * 自发格 <abbr>IND</abbr> Inducive Case
 * 邻置格 Appositive Cases
-  * 暂有格 `POS` Possessive Case
-  * 物主格 `PRP` Proprietive Case
-  * 生有格 `GEN` Genitive Case
-  * 体验格 `ATT` Attributive Case
-  * 作者格 `PDC` Productive Case
-  * 诠释格 `ITP` Interpretative Case
-  * 来源格 `OGN` Originative Case
-  * 相依格 `IDP` Interdependent Case
-  * 部分格 `PAR` Partitive Case
+  * 暂有格 <abbr>POS</abbr> Possessive Case
+  * 物主格 <abbr>PRP</abbr> Proprietive Case
+  * 生有格 <abbr>GEN</abbr> Genitive Case
+  * 体验格 <abbr>ATT</abbr> Attributive Case
+  * 作者格 <abbr>PDC</abbr> Productive Case
+  * 诠释格 <abbr>ITP</abbr> Interpretative Case
+  * 来源格 <abbr>OGN</abbr> Originative Case
+  * 相依格 <abbr>IDP</abbr> Interdependent Case
+  * 部分格 <abbr>PAR</abbr> Partitive Case
 * 关联格 Associative Cases
-  * 应用格 `APL` Applicative Case
-  * 意图格 `PUR` Purposive Case
-  * 蒙受格 `TRA` Transmissive Case
-  * 重视格 `DFR` Deferential Case
-  * 对立格 `CRS` Contrastive Case
-  * 代表格 `TSP` Transpositive Case
-  * 交换格 `CMM` Commutative Case
-  * 对比格 `CMP` Comparative Case
-  * 观念格 `CSD` Considerative Case
+  * 应用格 <abbr>APL</abbr> Applicative Case
+  * 意图格 <abbr>PUR</abbr> Purposive Case
+  * 蒙受格 <abbr>TRA</abbr> Transmissive Case
+  * 重视格 <abbr>DFR</abbr> Deferential Case
+  * 对立格 <abbr>CRS</abbr> Contrastive Case
+  * 代表格 <abbr>TSP</abbr> Transpositive Case
+  * 交换格 <abbr>CMM</abbr> Commutative Case
+  * 对比格 <abbr>CMP</abbr> Comparative Case
+  * 观念格 <abbr>CSD</abbr> Considerative Case
 * 状语格 Adverbial Cases
-  * 方式格 `FUN` Functive Case
-  * 转化格 `TFM` Transformative Case
-  * 分类格 `CLA` Classificative Case
-  * 结果格 `RSL` Resultative Case
-  * 消耗格 `CSM` Consumptive Case
-  * 让步格 `CON` Concessive Case
-  * 避免格 `AVR` Aversive Case
-  * 若非格 `CVS` Conversive Case
-  * 处境格 `SIT` Situative Case
+  * 方式格 <abbr>FUN</abbr> Functive Case
+  * 转化格 <abbr>TFM</abbr> Transformative Case
+  * 分类格 <abbr>CLA</abbr> Classificative Case
+  * 结果格 <abbr>RSL</abbr> Resultative Case
+  * 消耗格 <abbr>CSM</abbr> Consumptive Case
+  * 让步格 <abbr>CON</abbr> Concessive Case
+  * 避免格 <abbr>AVR</abbr> Aversive Case
+  * 若非格 <abbr>CVS</abbr> Conversive Case
+  * 处境格 <abbr>SIT</abbr> Situative Case
 * 连属格 Relational Cases
-  * 关于格 `PRN` Pertinential Case
-  * 描述格 `DSP` Descriptive Case
-  * 相关格 `COR` Correlative Case
-  * 成分格 `CPS` Compositive Case
-  * 伴随格 `COM` Comitative Case
-  * 持用格 `UTL` Utilitative Case
-  * 基于格 `PRD` Predicative Case
-  * 关系格 `RLT` Relative Case
+  * 关于格 <abbr>PRN</abbr> Pertinential Case
+  * 描述格 <abbr>DSP</abbr> Descriptive Case
+  * 相关格 <abbr>COR</abbr> Correlative Case
+  * 成分格 <abbr>CPS</abbr> Compositive Case
+  * 伴随格 <abbr>COM</abbr> Comitative Case
+  * 持用格 <abbr>UTL</abbr> Utilitative Case
+  * 基于格 <abbr>PRD</abbr> Predicative Case
+  * 关系格 <abbr>RLT</abbr> Relative Case
 * 系联格 Affinitive Cases
-  * 意能格 `ACT` Activative Case
-  * 如同格 `ASI` Assimilative Case
-  * 作为格 `ESS` Essive Case
-  * 目标格 `TRM` Terminative Case
-  * 每逢格 `SEL` Selective Case
-  * 根据格 `CFM` Conformative Case
-  * 依赖格 `DEP` Dependent Case
-  * 呼格 `VOC` Vocative Case
+  * 意能格 <abbr>ACT</abbr> Activative Case
+  * 如同格 <abbr>ASI</abbr> Assimilative Case
+  * 作为格 <abbr>ESS</abbr> Essive Case
+  * 目标格 <abbr>TRM</abbr> Terminative Case
+  * 每逢格 <abbr>SEL</abbr> Selective Case
+  * 根据格 <abbr>CFM</abbr> Conformative Case
+  * 依赖格 <abbr>DEP</abbr> Dependent Case
+  * 呼格 <abbr>VOC</abbr> Vocative Case
 * 时空格 Spatio-Temporal Cases
-  * 位格 `LOC` Locative Case
-  * 当场格 `ATD` Attendant Case
-  * 向格 `ALL` Allative Case
-  * 离格 `ABL` Ablative Case
-  * 定向格 `ORI` Orientative Case
-  * 相对格 `IRL` Interrelative Case
-  * 起止格 `INV` Intrative Case
-  * 路径格 `NAV` Navigative Case
-  * 时段格 `CNR` Concursive Case
-  * 比例格 `ASS` Assessive Case
-  * 时期格 `PER` Periodic Case
-  * 时长格 `PRO` Prolapsive Case
-  * 之前格 `PCV` Precursive Case
-  * 之后格 `PCR` Postcursive Case
-  * 经过格 `ELP` Elapsive Case
-  * 到时格 `PLM` Prolimitive Case
+  * 位格 <abbr>LOC</abbr> Locative Case
+  * 当场格 <abbr>ATD</abbr> Attendant Case
+  * 向格 <abbr>ALL</abbr> Allative Case
+  * 离格 <abbr>ABL</abbr> Ablative Case
+  * 定向格 <abbr>ORI</abbr> Orientative Case
+  * 相对格 <abbr>IRL</abbr> Interrelative Case
+  * 起止格 <abbr>INV</abbr> Intrative Case
+  * 路径格 <abbr>NAV</abbr> Navigative Case
+  * 时段格 <abbr>CNR</abbr> Concursive Case
+  * 比例格 <abbr>ASS</abbr> Assessive Case
+  * 时期格 <abbr>PER</abbr> Periodic Case
+  * 时长格 <abbr>PRO</abbr> Prolapsive Case
+  * 之前格 <abbr>PCV</abbr> Precursive Case
+  * 之后格 <abbr>PCR</abbr> Postcursive Case
+  * 经过格 <abbr>ELP</abbr> Elapsive Case
+  * 到时格 <abbr>PLM</abbr> Prolimitive Case
 
 格辖 Case-Scope
 
-* 自然辖 `CCN` Natural Case-Scope
-* 先行辖 `CCA` Antecedent Case-Scope
-* 从属辖 `CCS` Subaltern Case-Scope
-* 修饰辖 `CCS` Qualifier Case-Scope
-* 前行辖 `CCS` Precedent Case-Scope
-* 接连辖 `CCV` Successive Case-Scope
+* 自然辖 <abbr>CCN</abbr> Natural Case-Scope
+* 先行辖 <abbr>CCA</abbr> Antecedent Case-Scope
+* 从属辖 <abbr>CCS</abbr> Subaltern Case-Scope
+* 修饰辖 <abbr>CCS</abbr> Qualifier Case-Scope
+* 前行辖 <abbr>CCS</abbr> Precedent Case-Scope
+* 接连辖 <abbr>CCV</abbr> Successive Case-Scope
 
 语式 Moods
 
-* 事实式 `FAC` Factual Mood
-* 虚拟式 `SUB` Subjunctive Mood
-* 假定式 `ASM` Assumptive Mood
-* 推测式 `SPC` Speculative Mood
-* 违实式 `COU` Counterfactive Mood
-* 假设式 `HYP` Hypothetical Mood
+* 事实式 <abbr>FAC</abbr> Factual Mood
+* 虚拟式 <abbr>SUB</abbr> Subjunctive Mood
+* 假定式 <abbr>ASM</abbr> Assumptive Mood
+* 推测式 <abbr>SPC</abbr> Speculative Mood
+* 违实式 <abbr>COU</abbr> Counterfactive Mood
+* 假设式 <abbr>HYP</abbr> Hypothetical Mood
 
 言据 Validations
 
-* 观察据 `OBS` Observational Validation
-* 回忆据 `REC` Recollective Validation
-* 声称据 `PUP` Purportive Validation
-* 报告据 `RPR` Reportive Validation
-* 未定据 `USP` Unspecified Validation
-* 想象据 `IMA` Imaginary Validation
-* 公认据 `CVN` Conventional Validation
-* 直觉据 `ITU` Intuitive Validation
-* 推论据 `INF` Inferential Validation
+* 观察据 <abbr>OBS</abbr> Observational Validation
+* 回忆据 <abbr>REC</abbr> Recollective Validation
+* 声称据 <abbr>PUP</abbr> Purportive Validation
+* 报告据 <abbr>RPR</abbr> Reportive Validation
+* 未定据 <abbr>USP</abbr> Unspecified Validation
+* 想象据 <abbr>IMA</abbr> Imaginary Validation
+* 公认据 <abbr>CVN</abbr> Conventional Validation
+* 直觉据 <abbr>ITU</abbr> Intuitive Validation
+* 推论据 <abbr>INF</abbr> Inferential Validation
 
 语为 Illocutions
 
-* 表述语为 `ASR` Assertive Illocution
-* 意使语为 `DIR` Directive Illocution
-* 宣示语为 `DEC` Declarative Illocution
-* 询问语为 `IRG` Interrogative Illocution
-* 确认语为 `VRF` Verificative Illocution
-* 劝示语为 `ADM` Admonitive Illocution
-* 祈愿语为 `POT` Potentiative Illocution
-* 但愿语为 `HOR` Hortative Illocution
-* 假设语为 `CNJ` Conjectural Illocution
+* 表述语为 <abbr>ASR</abbr> Assertive Illocution
+* 意使语为 <abbr>DIR</abbr> Directive Illocution
+* 宣示语为 <abbr>DEC</abbr> Declarative Illocution
+* 询问语为 <abbr>IRG</abbr> Interrogative Illocution
+* 确认语为 <abbr>VRF</abbr> Verificative Illocution
+* 劝示语为 <abbr>ADM</abbr> Admonitive Illocution
+* 祈愿语为 <abbr>POT</abbr> Potentiative Illocution
+* 但愿语为 <abbr>HOR</abbr> Hortative Illocution
+* 假设语为 <abbr>CNJ</abbr> Conjectural Illocution
 
 观感 Bias
 
-* 幸运观 `ACC` Accidental Bias
-* 原型观 `ACH` Archetypal Bias
-* 承认观 `ADM` Admissive Bias
-* 宣布观 `ANN` Annunciative Bias
-* 期盼观 `ANP` Anticipative Bias
-* 赞同观 `APB` Approbative Bias
-* 担忧观 `APH` Apprehensive Bias
-* 任意观 `ARB` Arbitrary Bias
-* 敬畏观 `ATE` Attentive Bias
-* 好笑观 `CMD` Comedic Bias
-* 断言观 `CNV` Contensive Bias
-* 偶运观 `COI` Coincidental Bias
-* 败坏观 `CRP` Corruptive Bias
-* 纠正观 `CRR` Corrective Bias
-* 鄙视观 `CTP` Contemptive Bias
-* 思惑观 `CTV` Contemplative Bias
-* 不安观 `DCC` Disconcertive Bias
-* 沮丧观 `DEJ` Dejective Bias
-* 无奈观 `DES` Desperative Bias
-* 羞怯观 `DFD` Diffident Bias
-* 轻淡观 `DIS` Dismissive Bias
-* 愉悦观 `DLC` Delectative Bias
-* 疼痛观 `DOL` Dolorous Bias
-* 反感观 `DPB` Disapprobative Bias
-* 嘲讽观 `DRS` Derisive Bias
-* 怀疑观 `DUB` Dubitative Bias
-* 狂喜观 `EUH` Euphoric Bias
-* 委婉观 `EUP` Euphemistic Bias
-* 恼嘲观 `EXA` Exasperative Bias
-* 紧迫观 `EXG` Exasperative Bias
-* 顺受观 `FOR` Fortuitous Bias
-* 着迷观 `FSC` Fascinative Bias
-* 满意观 `GRT` Gratificative Bias
-* 愠怒观 `IDG` Indignative Bias
-* 迷恋观 `IFT` Infatuative Bias
-* 当然观 `IPL` Implicative Bias
-* 催促观 `IPT` Impatient Bias
-* 讽刺观 `IRO` Ironic Bias
-* 乏味观 `ISP` Insipid Bias
-* 不满观 `IVD` Invidious Bias
-* 强制观 `MND` Mandatory Bias
-* 明示观 `MNF` Manifestive Bias
-* 夸张观 `OPT` Optimal Bias
-* 悲观观 `PES` Pessimistic Bias
-* 奇异观 `PPT` Propitious Bias
-* 困惘观 `PPX` Perplexive Bias
-* 提议观 `PPV` Propositive Bias
-* 平淡观 `PSC` Prosaic Bias
-* 推定观 `PSM` Prosaic Bias
-* 意外观 `RAC` Reactive Bias
-* 表观观 `RFL` Reflective Bias
-* 弃绝观 `RNC` Resignative Bias
-* 厌恶观 `RPU` Repulsive Bias
-* 发现观 `RVL` Revelative Bias
-* 满足观 `SAT` Satiative Bias
-* 建议观 `SGS` Suggestive Bias
-* 怀疑观 `SKP` Skeptical Bias
-* 请催观 `SOL` Solicitative Bias
-* 恍然观 `STU` Stupefactive Bias
-* 惊恐观 `TRP` Trepidative Bias
-* 恼火观 `VEX` Vexative Bias
+* 幸运观 <abbr>ACC</abbr> Accidental Bias
+* 原型观 <abbr>ACH</abbr> Archetypal Bias
+* 承认观 <abbr>ADM</abbr> Admissive Bias
+* 宣布观 <abbr>ANN</abbr> Annunciative Bias
+* 期盼观 <abbr>ANP</abbr> Anticipative Bias
+* 赞同观 <abbr>APB</abbr> Approbative Bias
+* 担忧观 <abbr>APH</abbr> Apprehensive Bias
+* 任意观 <abbr>ARB</abbr> Arbitrary Bias
+* 敬畏观 <abbr>ATE</abbr> Attentive Bias
+* 好笑观 <abbr>CMD</abbr> Comedic Bias
+* 断言观 <abbr>CNV</abbr> Contensive Bias
+* 偶运观 <abbr>COI</abbr> Coincidental Bias
+* 败坏观 <abbr>CRP</abbr> Corruptive Bias
+* 纠正观 <abbr>CRR</abbr> Corrective Bias
+* 鄙视观 <abbr>CTP</abbr> Contemptive Bias
+* 思惑观 <abbr>CTV</abbr> Contemplative Bias
+* 不安观 <abbr>DCC</abbr> Disconcertive Bias
+* 沮丧观 <abbr>DEJ</abbr> Dejective Bias
+* 无奈观 <abbr>DES</abbr> Desperative Bias
+* 羞怯观 <abbr>DFD</abbr> Diffident Bias
+* 轻淡观 <abbr>DIS</abbr> Dismissive Bias
+* 愉悦观 <abbr>DLC</abbr> Delectative Bias
+* 疼痛观 <abbr>DOL</abbr> Dolorous Bias
+* 反感观 <abbr>DPB</abbr> Disapprobative Bias
+* 嘲讽观 <abbr>DRS</abbr> Derisive Bias
+* 怀疑观 <abbr>DUB</abbr> Dubitative Bias
+* 狂喜观 <abbr>EUH</abbr> Euphoric Bias
+* 委婉观 <abbr>EUP</abbr> Euphemistic Bias
+* 恼嘲观 <abbr>EXA</abbr> Exasperative Bias
+* 紧迫观 <abbr>EXG</abbr> Exasperative Bias
+* 顺受观 <abbr>FOR</abbr> Fortuitous Bias
+* 着迷观 <abbr>FSC</abbr> Fascinative Bias
+* 满意观 <abbr>GRT</abbr> Gratificative Bias
+* 愠怒观 <abbr>IDG</abbr> Indignative Bias
+* 迷恋观 <abbr>IFT</abbr> Infatuative Bias
+* 当然观 <abbr>IPL</abbr> Implicative Bias
+* 催促观 <abbr>IPT</abbr> Impatient Bias
+* 讽刺观 <abbr>IRO</abbr> Ironic Bias
+* 乏味观 <abbr>ISP</abbr> Insipid Bias
+* 不满观 <abbr>IVD</abbr> Invidious Bias
+* 强制观 <abbr>MND</abbr> Mandatory Bias
+* 明示观 <abbr>MNF</abbr> Manifestive Bias
+* 夸张观 <abbr>OPT</abbr> Optimal Bias
+* 悲观观 <abbr>PES</abbr> Pessimistic Bias
+* 奇异观 <abbr>PPT</abbr> Propitious Bias
+* 困惘观 <abbr>PPX</abbr> Perplexive Bias
+* 提议观 <abbr>PPV</abbr> Propositive Bias
+* 平淡观 <abbr>PSC</abbr> Prosaic Bias
+* 推定观 <abbr>PSM</abbr> Prosaic Bias
+* 意外观 <abbr>RAC</abbr> Reactive Bias
+* 表观观 <abbr>RFL</abbr> Reflective Bias
+* 弃绝观 <abbr>RNC</abbr> Resignative Bias
+* 厌恶观 <abbr>RPU</abbr> Repulsive Bias
+* 发现观 <abbr>RVL</abbr> Revelative Bias
+* 满足观 <abbr>SAT</abbr> Satiative Bias
+* 建议观 <abbr>SGS</abbr> Suggestive Bias
+* 怀疑观 <abbr>SKP</abbr> Skeptical Bias
+* 请催观 <abbr>SOL</abbr> Solicitative Bias
+* 恍然观 <abbr>STU</abbr> Stupefactive Bias
+* 惊恐观 <abbr>TRP</abbr> Trepidative Bias
+* 恼火观 <abbr>VEX</abbr> Vexative Bias
 
 关系 Relations
 
@@ -536,12 +535,12 @@ title: 术语表
 
 言域 Registers
 
-* 叙事域 `NRR` Narrative Register
-* 直言域 `DSV` Discursive Register
-* 附注域 `PNT` Parenthetical Register
-* 详述域 `SPF` Specificative Register
-* 举例域 `EXM` Exemplificative Register
-* 思索域 `COG` Cogitant Register
-* 载止域 `END` Carrier-End Register
+* 叙事域 <abbr>NRR</abbr> Narrative Register
+* 直言域 <abbr>DSV</abbr> Discursive Register
+* 附注域 <abbr>PNT</abbr> Parenthetical Register
+* 详述域 <abbr>SPF</abbr> Specificative Register
+* 举例域 <abbr>EXM</abbr> Exemplificative Register
+* 思索域 <abbr>COG</abbr> Cogitant Register
+* 载止域 <abbr>END</abbr> Carrier-End Register
 
 :::

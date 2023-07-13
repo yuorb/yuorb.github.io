@@ -386,11 +386,17 @@ q {
 
 abbr {
 	font-family: var(--font-family-mono) !important;
+	color: #ffffff;
+	font-weight: inherit;
+	background: #fbae17;
+	padding: 0 8px;
+	border-radius: 12px;
+	margin: 2px;
 }
 
 .parnt {
 	display: inline;
-	color: var(--light-grey);
+	color: rgba(0, 0, 0, 0.5);
 
 	&::before {
 		content: '（';
@@ -441,6 +447,10 @@ mark {
 	padding: 0 8px;
 	border-radius: 12px;
 	margin: 2px;
+
+	.parnt {
+		color: rgba(255, 255, 255, 0.5);
+	}
 }
 
 .indent, .listo, .tablo {
@@ -461,4 +471,22 @@ mark {
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
+}
+
+h1, h2 {
+    font-weight: 900!important;
+}
+
+h3, h4 {
+    font-weight: 800!important;
+}
+
+h3, h4 {
+    font-weight: 700!important;
+}
+
+.abc {
+	ol, ul {
+		list-style: lower-alpha;
+	}
 }
