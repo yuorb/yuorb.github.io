@@ -282,13 +282,13 @@ title: 术语表
 效果 Effects
 
 * 利我效 <abbr>1:BEN</abbr> Beneficial to Speaker Effect
-* 利你效 <abbr>2:BEN</abbr> Beneficial to Addressee Effect
+* 利尔效 <abbr>2:BEN</abbr> Beneficial to Addressee Effect
 * 利他效 <abbr>3:BEN</abbr> Beneficial to Third Party Effect
 * 利己效 <abbr>SLF:BEN</abbr> Beneficial to Self Effect
 * 未知效 <abbr>UNK</abbr> Unknown Benefit Effect
 * 害己效 <abbr>SLF:DET</abbr> Detrimental to Self Effect
 * 害他效 <abbr>3:DET</abbr> Detrimental to Third Party Effect
-* 害你效 <abbr>2:DET</abbr> Detrimental to Addressee Effect
+* 害尔效 <abbr>2:DET</abbr> Detrimental to Addressee Effect
 * 害我效 <abbr>1:DET</abbr> Detrimental to Speaker Effect
 
 级别 Levels

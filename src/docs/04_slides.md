@@ -6,9 +6,9 @@
 
 所用词根
 
-- -**ksk**- 词干二、基础述 <em>‘anger; be angry/feel anger’</em> （愤怒；怒气冲冲/感到愤怒）
+- -<b>ksk</b>- 词干二、基础述 <em>‘anger; be angry/feel anger’</em> （愤怒；怒气冲冲/感到愤怒）
 
-- -**kš**- 词干一、对象述 <em>‘clown’</em>（小丑）
+- -<b>kš</b>- 词干一、对象述 <em>‘clown’</em>（小丑）
 
 --
 
@@ -286,8 +286,8 @@
 
 更多论元格模式，以以下词根展示：
 
-- -**žx**- 词干一、基础述 <em>‘burn’</em>
-- -**lḑ**- 词干一、基础述 <em>‘tree’</em>
+- -<b>žx</b>- 词干一、基础述 <em>‘burn’</em>
+- -<b>lḑ</b>- 词干一、基础述 <em>‘tree’</em>
 
 --
 
@@ -432,11 +432,11 @@
 
 --
 
-- -**ţd**- 词干二、基础述 <em>‘forceful physical contact’</em>+ 词缀<abbr>FRC₁/7</abbr>-**osm**-
+- -<b>ţd</b>- 词干二、基础述 <em>‘forceful physical contact’</em>+ 词缀<abbr>FRC₁/7</abbr>-<b>osm</b>-
 => <em>‘hit/strike’</em> 击打
-- -**šn**- 词干一、基础述 <em>‘leg (as physical body part)’</em>+ 词缀<abbr>Rdp-GEN</abbr>-**ioth**-
+- -<b>šn</b>- 词干一、基础述 <em>‘leg (as physical body part)’</em>+ 词缀<abbr>Rdp-GEN</abbr>-<b>ioth</b>-
 => <em>‘their (sg.) leg’</em> 其（回指）腿
-- -**ggw**- 词干一、对象述 <em>‘(piece of) rock / (piece/chunk of) stone’</em>
+- -<b>ggw</b>- 词干一、对象述 <em>‘(piece of) rock / (piece/chunk of) stone’</em>
 => 一块石头
 
 --
@@ -1165,7 +1165,7 @@
 </dl>
 <dl class="gloss">
     <dt>hetxejie-etxiţoë.</dt>
-    <dd>CONCATENATED:‘eat’-CSV-A-PUR-PARENT:‘food’-OBJ-MDS-CSM</dd>
+    <dd>联:‘eat’-CSV-A-PUR-主:‘food’-OBJ-MDS-CSM</dd>
 </dl>
 <div class="glend">Feeding is taking place (i.e., someone is giving someone else food to eat).</div>
 <div class="expln">喂食发生 / 一方给另一方食物吃</div>
@@ -1253,7 +1253,7 @@
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-Stem.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuhrú</dt>
@@ -1270,7 +1270,7 @@
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-Stem.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuhrú</dt>
@@ -1291,7 +1291,7 @@
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-Stem.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuhrú</dt>
@@ -1308,7 +1308,7 @@
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-Stem.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyahrú.</dt>
@@ -1321,7 +1321,7 @@
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-Stem.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuleëhrú</dt>

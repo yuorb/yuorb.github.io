@@ -335,8 +335,12 @@
 
 @import url("//fonts.lpsub.com/css/sarasa-gothic-sc.css");
 
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@0,1;0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,1;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 :root {
-	--examfont: "Minion 3", 'Noto Serif', "LXGW WenKai TC", serif;
+	--examfont: 'Ysabeau','Arsenal',"Minion 3", 'Noto Serif', "LXGW WenKai TC", serif;
 }
 
 dl.gloss {
@@ -345,7 +349,7 @@ dl.gloss {
 
 	dt {
 		font-weight: bold;
-		font-family: "Minion 3", "Noto Serif", "LXGW WenKai TC", serif;
+		font-family: var(--examfont);
 		font-size: larger;
 	}
 
@@ -354,17 +358,17 @@ dl.gloss {
 		font-size: smaller;
 		font-family: var(--font-family-mono);
 		font-feature-settings: "halt";
-		;
 	}
 }
 
 .glend {
 	font-style: italic;
+	font-family: var(--examfont);
 }
 
 .expln {
 	margin-bottom: .75em;
-	font-family: "Minion 3", "Noto Serif", "LXGW WenKai TC", serif;
+	font-family: var(--examfont);
 	font-size: larger;
 }
 
@@ -372,7 +376,7 @@ dl.gloss {
 code {
 	font-variant-caps: small-caps;
 	font-feature-settings: "smcp";
-	font-size: larger;
+	font-size: inherit;
 	font-weight: inherit;
 	margin-left: 0.5em;
 	margin-right: 0.5em;
@@ -396,7 +400,8 @@ abbr {
 
 .parnt {
 	display: inline;
-	color: rgba(0, 0, 0, 0.5);
+	color: rgba(128, 128, 128, 1);
+	vertical-align: bottom!important;
 
 	&::before {
 		content: '（';
@@ -489,4 +494,19 @@ h3, h4 {
 	ol, ul {
 		list-style: lower-alpha;
 	}
+}
+
+del {
+    text-decoration: line-through;
+    background-color: #fbb;
+    color: #555;
+}
+
+ins {
+    text-decoration: none;
+    background-color: #d4fcbc;
+}
+
+i {
+	font-family: var(--examfont);
 }
