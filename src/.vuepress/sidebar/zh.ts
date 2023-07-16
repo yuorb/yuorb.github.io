@@ -4,7 +4,7 @@ export const zhSidebar = sidebar({
   "/": [
     "",
     {
-      text: "文档",
+      text: "语法文档",
       prefix: "docs/",
       link: "docs/readme.md",
       children: [

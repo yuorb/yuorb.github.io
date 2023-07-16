@@ -401,7 +401,7 @@ abbr {
 .parnt {
 	display: inline;
 	color: rgba(128, 128, 128, 1);
-	vertical-align: bottom!important;
+	vertical-align: baseline!important;
 
 	&::before {
 		content: '（';
