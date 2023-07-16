@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,b as _}from"./app-0f4d1105.js";const c={},s=_("p",null,"请查看 pdf 或线上词典。",-1),n=[s];function r(a,l){return t(),o("div",null,n)}const i=e(c,[["render",r],["__file","14.html.vue"]]);export{i as default};
