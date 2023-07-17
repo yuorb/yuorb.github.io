@@ -305,6 +305,42 @@
 	}
 }
 
+.table-12 {
+	margin: auto;
+
+	table {
+		th {
+			&:first-of-type {
+				width: auto;
+			}
+			&:nth-of-type(2) {
+				width: 10%;
+			}
+			&:nth-of-type(4) {
+				width: 10%;
+			}
+			&:nth-of-type(6) {
+				width: 10%;
+			}
+			&:nth-of-type(4) {
+				width: 10%;
+			}
+			&:nth-of-type(6) {
+				width: 10%;
+			}
+			&:nth-of-type(7) {
+				width: 10%;
+			}
+
+		}
+
+		td {
+			text-align: center;
+
+		}
+	}
+}
+
 
 .container {
 	display: flex;
@@ -499,14 +535,21 @@ h3, h4 {
 del {
     text-decoration: line-through;
     background-color: #fbb;
-    color: #555;
+    color: black;
 }
 
 ins {
     text-decoration: none;
     background-color: #d4fcbc;
+	color: black;
 }
 
 i {
 	font-family: var(--examfont);
+}
+
+.mannaka {
+    margin: auto;
+    display: grid;
+    text-align: center;
 }
