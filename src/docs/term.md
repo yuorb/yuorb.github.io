@@ -76,11 +76,11 @@ title: 术语表
 * 联接 Concatenation
   * 联型 Concatenation Type
   * 联对 Concatenated Pair
-  * 联链 Concatenation\|Concatenated Chain
+  * 联链 Concatenation/Concatenated Chain
   * 联态 Concatenation Status
     * 无联型 No Concatenation
-    * 甲联型 Type-1 Concatenation
-    * 乙联型 Type-2 Concatenation
+    * 甲型联接 Type-1 Concatenation
+    * 乙型联接 Type-2 Concatenation
 * 未联的 unconcatenated
 * 联态的 concatenated
 * 联构词 concatenated formative
@@ -509,12 +509,12 @@ title: 术语表
 * 推定观 <abbr>PSM</abbr> Prosaic Bias
 * 意外观 <abbr>RAC</abbr> Reactive Bias
 * 表观观 <abbr>RFL</abbr> Reflective Bias
-* 弃绝观 <abbr>RNC</abbr> Resignative Bias
+* 弃绝观 <abbr>RSG</abbr> Resignative Bias
 * 厌恶观 <abbr>RPU</abbr> Repulsive Bias
 * 发现观 <abbr>RVL</abbr> Revelative Bias
 * 满足观 <abbr>SAT</abbr> Satiative Bias
 * 建议观 <abbr>SGS</abbr> Suggestive Bias
-* 怀疑观 <abbr>SKP</abbr> Skeptical Bias
+* 质疑观 <abbr>SKP</abbr> Skeptical Bias
 * 请催观 <abbr>SOL</abbr> Solicitative Bias
 * 恍然观 <abbr>STU</abbr> Stupefactive Bias
 * 惊恐观 <abbr>TRP</abbr> Trepidative Bias

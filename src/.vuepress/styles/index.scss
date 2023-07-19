@@ -414,14 +414,15 @@ code {
 	font-feature-settings: "smcp";
 	font-size: inherit;
 	font-weight: inherit;
-	margin-left: 0.5em;
-	margin-right: 0.5em;
+	margin-left: 0.1em;
+	margin-right: 0.1em;
 }
 
 q {
 	font-style: italic;
 	margin-left: 0.5em;
 	margin-right: 0.5em;
+	font-family: var(--examfont);
 }
 
 abbr {
