@@ -261,7 +261,7 @@
     <span class="expln">将 X 与其他个体识别/区分者</span>
     * <span class="glend">the party identified by or distinguishable by X</span>
     <span class="expln">为 X 所识别/区分开的人·事·物</span>
-    * RELATIVE <abbr>RLT</abbr> case: ‘...which/that is/does X’ [creates the equivalent to a simple relative clause] 可以创造相当于简单关系从句的等价者
+    * RELATIVE <abbr>RLT</abbr> case: ‘...which/that is/does X’ [creates the equivalent to a simple relative clause] 可以创造相当于简单关系从句的等效者
 
 </div>
 

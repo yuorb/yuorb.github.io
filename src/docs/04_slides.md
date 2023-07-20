@@ -51,7 +51,7 @@
     <dt>kšilo.</dt>
     <dd>ERG</dd>
 </dl>
-<div class="glend">‘The clown makes the child angry.’</div>
+<div class="glend"><q>The clown makes the child angry.</q></div>
 <div class="expln">小丑故意惹怒孩子</div>
 
 --
@@ -68,7 +68,7 @@
     <dt>kšilö.</dt>
     <dd>EFF</dd>
 </dl>
-<div class="glend">‘What the clown has started/caused makes the child angry.’</div>
+<div class="glend"><q>What the clown has started/caused makes the child angry.</q></div>
 <div class="expln">小丑做的事惹怒孩子</div>
 
 --
@@ -85,7 +85,7 @@
     <dt>kšilü.</dt>
     <dd>DAT</dd>
 </dl>
-<div class="glend">‘The child’s angry state is directed toward/affects the clown.’</div>
+<div class="glend"><q>The child’s angry state is directed toward/affects the clown.</q></div>
 <div class="expln">孩子冲小丑发火（小丑察觉到/对孩子的愤怒作出反应）</div>
 
 --
@@ -102,7 +102,7 @@
     <dt>kšili.</dt>
     <dd>AFF</dd>
 </dl>
-<div class="glend">‘The child notices/feels that the clown is angry at them.’</div>
+<div class="glend"><q>The child notices/feels that the clown is angry at them.</q></div>
 <div class="expln">孩子察觉到小丑对着他发火</div>
 
 --
@@ -119,7 +119,7 @@
     <dt>kšili.</dt>
     <dd>AFF</dd>
 </dl>
-<div class="glend">‘What the child started/caused makes the clown angry.’</div>
+<div class="glend"><q>What the child started/caused makes the clown angry.</q></div>
 <div class="expln">孩子的所作所为令小丑生气</div>
 
 --
@@ -136,7 +136,7 @@
     <dt>kšili.</dt>
     <dd>AFF</dd>
 </dl>
-<div class="glend">‘The child angers the clown.’</div>
+<div class="glend"><q>The child angers the clown.</q></div>
 <div class="expln">孩子激怒小丑</div>
 
 --
@@ -149,7 +149,7 @@
     <dt>welu.</dt>
     <dd>IND</dd>
 </dl>
-<div class="glend">‘The child makes themself angry.’</div>
+<div class="glend"><q>The child makes themself angry.</q></div>
 <div class="expln">孩子因自己生气</div>
 
 --
@@ -162,7 +162,7 @@
     <dt>welü.</dt>
     <dd>DAT</dd>
 </dl>
-<div class="glend">‘Someone is behaving angrily toward the child.’</div>
+<div class="glend"><q>Someone is behaving angrily toward the child.</q></div>
 <div class="expln">有人对孩子发火</div>
 
 --
@@ -175,7 +175,7 @@
     <dt>welö.</dt>
     <dd>EFF</dd>
 </dl>
-<div class="glend">‘The child started/caused something that makes someone angry.’</div>
+<div class="glend"><q>The child started/caused something that makes someone angry.</q></div>
 <div class="expln">孩子的所作所为令某人生气</div>
 
 --
@@ -188,7 +188,7 @@
     <dt>welo.</dt>
     <dd>ERG</dd>
 </dl>
-<div class="glend">‘The child angers someone.’</div>
+<div class="glend"><q>The child angers someone.</q></div>
 <div class="expln">孩子惹某人生气</div>
 
 --
@@ -201,7 +201,7 @@
     <dt>weli.</dt>
     <dd>AFF</dd>
 </dl>
-<div class="glend">‘The child is angry.’ /  ‘The child feels anger.’</div>
+<div class="glend"><q>The child is angry.</q> / <q>The child feels anger.</q></div>
 <div class="expln">孩子生气</div>
 
 --
@@ -214,7 +214,7 @@
     <dt>kšilu.</dt>
     <dd>IND</dd>
 </dl>
-<div class="glend">‘The clown (deliberately) makes themself angry.’</div>
+<div class="glend"><q>The clown (deliberately) makes themself angry.</q></div>
 <div class="expln">小丑(故意)使自己生气</div>
 
 --
@@ -227,7 +227,7 @@
     <dt>kšilü.</dt>
     <dd>DAT</dd>
 </dl>
-<div class="glend">‘Someone is behaving angrily toward the clown.’</div>
+<div class="glend"><q>Someone is behaving angrily toward the clown.</q></div>
 <div class="expln">有人对小丑发火</div>
 
 --
@@ -240,7 +240,7 @@
     <dt>kšilö.</dt>
     <dd>EFF</dd>
 </dl>
-<div class="glend">‘The clown has (deliberately) started/caused something that makes someone angry.’</div>
+<div class="glend"><q>The clown has (deliberately) started/caused something that makes someone angry.</q></div>
 <div class="expln">小丑(故意)做些什么激怒某人</div>
 
 --
@@ -253,7 +253,7 @@
     <dt>kšilo.</dt>
     <dd>ERG</dd>
 </dl>
-<div class="glend">‘The clown (deliberately) anger someone.’</div>
+<div class="glend"><q>The clown (deliberately) anger someone.</q></div>
 <div class="expln">小丑(故意)激怒人</div>
 
 --
@@ -266,7 +266,7 @@
     <dt>kšili.</dt>
     <dd>AFF</dd>
 </dl>
-<div class="glend">‘The clown is angry.’ / ‘The clown feels anger.’</div>
+<div class="glend"><q>The clown is angry.</q> / <q>The clown feels anger.</q></div>
 <div class="expln">小丑愤怒</div>
 
 --
@@ -275,7 +275,7 @@
     <dt>Wekská</dt>
     <dd>STA</dd>
 </dl>
-<div class="glend">‘There is a feeling of anger.’ /  ‘There is anger.’</div>
+<div class="glend"><q>There is a feeling of anger.</q> / <q>There is anger.</q></div>
 <div class="expln">有人生气</div>
 
 ---
@@ -303,7 +303,7 @@
     <dt>walḑe.</dt>
     <dd>ABS</dd>
 </dl>
-<div class="glend">‘The child burns down the tree.’</div>
+<div class="glend"><q>The child burns down the tree.</q></div>
 <div class="expln">孩子烧一棵树（动态）</div>
 
 --
@@ -316,7 +316,7 @@
     <dt>walḑe</dt>
     <dd>ABS</dd>
 </dl>
-<div class="glend">‘The tree burns up/down.’</div>
+<div class="glend"><q>The tree burns up/down.</q></div>
 <div class="expln">树（当下）在燃烧（静态）</div>
 
 --
@@ -329,7 +329,7 @@
     <dt>walḑu.</dt>
     <dd>IND</dd>
 </dl>
-<div class="glend">‘The tree burns itself up/down.’ / ‘The tree makes itself burn up/down.’</div>
+<div class="glend"><q>The tree burns itself up/down.</q> / <q>The tree makes itself burn up/down.</q></div>
 <div class="expln">一棵树自燃（自因）</div>
 
 --
@@ -342,7 +342,7 @@
     <dt>welo</dt>
     <dd>ERG</dd>
 </dl>
-<div class="glend">‘The child cause something to burn.’ / ‘The child burns (something).’</div>
+<div class="glend"><q>The child cause something to burn.</q> / <q>The child burns (something).</q></div>
 <div class="expln">孩子烧东西（其所致）</div>
 
 --
@@ -355,7 +355,7 @@
     <dt>welö</dt>
     <dd>EFF</dd>
 </dl>
-<div class="glend">‘The child causes something to burn (through a chain of events).’</div>
+<div class="glend"><q>The child causes something to burn (through a chain of events).</q></div>
 <div class="expln">孩子的所作所为引发燃烧</div>
 
 --
@@ -368,7 +368,7 @@
     <dt>wele</dt>
     <dd>ABS</dd>
 </dl>
-<div class="glend">‘The child burns/is burning.’ / ‘Something burns the child.’</div>
+<div class="glend"><q>The child burns/is burning.</q> / <q>Something burns the child.</q></div>
 <div class="expln">孩子在燃烧/孩子被烧（他因）</div>
 
 --
@@ -381,7 +381,7 @@
     <dt>welu</dt>
     <dd>IND</dd>
 </dl>
-<div class="glend">‘The child burns themself.’ / ‘The child makes themself burn.’</div>
+<div class="glend"><q>The child burns themself.</q> / <q>The child makes themself burn.</q></div>
 <div class="expln">孩子自燃（自因）</div>
 
 --
@@ -398,7 +398,7 @@
     <dt>walḑe.</dt>
     <dd>ABS</dd>
 </dl>
-<div class="glend">‘The child causes the tree to burn up/down (through a chain of events).’</div>
+<div class="glend"><q>The child causes the tree to burn up/down (through a chain of events).</q></div>
 <div class="expln">孩子的所作所为导致树燃烧</div>
 
 --
@@ -407,7 +407,7 @@
     <dt>Äžxutá</dt>
     <dd>DYN/PRX</dd>
 </dl>
-<div class="glend">‘Something’s doing some burning.’ / ‘Something’s making some burning happen.’</div>
+<div class="glend"><q>Something’s doing some burning.</q> / <q>Something’s making some burning happen.</q></div>
 <div class="expln">有东西当下处于燃烧过程</div>
 
 --
@@ -416,7 +416,7 @@
     <dt>Yažxá</dt>
     <dd>STA/PRX</dd>
 </dl>
-<div class="glend">‘Something’s burning.’ / ‘There’s burning happening.’</div>
+<div class="glend"><q>Something’s burning.</q> / <q>There’s burning happening.</q></div>
 <div class="expln">有东西当下处于燃烧状态</div>
 
 ---
@@ -462,7 +462,7 @@
   <p class="fragment fade-out grow">暗示其有意对待孩子的腿，将其腿视为与孩子主观上分离的实体，因此孩子是施事者，而腿部是受事者</p>
   <div class="fragment fade-up">
     <p>翻译：</p>
-    <div class="glend">‘The child (intentionally) hit their leg with a rock.’</div>
+    <div class="glend"><q>The child (intentionally) hit their leg with a rock.</q></div>
     <div class="expln">孩子（有意）用石头打自己的腿</div>
   </div>
 </div>
@@ -490,13 +490,13 @@
   <p class="fragment fade-out grow">在该模式，腿不再被视为与孩子（施事者）分离的受事者。相反，孩子既是施事者又是受事者（即，其发起行动对自己产生影响），而腿的角色被弱化为仅仅是击打行为的指称对象，也就是说，挨打的是孩子，不是腿；腿是说明打的部位</p>
   <div class="fragment fade-in-then-out">
     <p>因此，最接近的翻译可能是：</p>
-    <div class="glend">‘the child hit themself with a rock on the leg’</div>
+    <div class="glend"><q>the child hit themself with a rock on the leg</q></div>
     <div class="expln">孩子用石头打自己打到腿</div>
     <p>使用了一个「到腿」的位置构造，而该构造在该 New Ithkuil 语句子中并不存在</p>
   </div>
   <div class="fragment fade-up">
     <p>拙劣但更准确的翻译：</p>
-    <div class="glend">‘The child “leg-hits” themself with a rock’</div>
+    <div class="glend"><q>The child ‘leg-hits’ themself with a rock</q></div>
     <div class="expln">孩子用石头「击腿」自己</div>
   </div>
 </div>
@@ -523,8 +523,8 @@
 <div class="r-stack">
     <p class="fragment fade-out grow">该句子掩饰了一个隐含施事者，强调孩子作为受事/害者；而如同前述句子，腿只是指称对象，它作为受事者和位置/部位的地位被抑制了</p>
     <div class="fragment fade-up">
-        <p>在英语中，唯一显示这种抑制施动者的方式是使用被动结构或者使用动词“get”构建伪被动结构：</p>
-        <div class="glend">‘The child is/gets “leg-hit” with a rock.’</div>
+        <p>在英语中，唯一显示这种抑制施动者的方式是使用被动结构或者使用动词‘get’构建伪被动结构：</p>
+        <div class="glend"><q>The child is/gets ‘leg-hit’ with a rock.</q></div>
         <div class="expln">孩子被人用石头击及腿</div>
     </div>
 </div>
@@ -550,7 +550,7 @@
 
 <p class="fragment">这个句子与上面的句子类似，只是腿成为了击打的位置/部位</p>
 <div class="fragment">
-    <div class="glend">‘The chld is/gets hit on the leg with a rock’</div>
+    <div class="glend"><q>The chld is/gets hit on the leg with a rock</q></div>
     <div class="expln">孩子被人用石头打在腿上</div>
 </div>
 
@@ -577,7 +577,7 @@
     <p class="fragment fade-out grow">强调孩子既是施事者亦是受事者，而腿是击打的位置/部位</p>
     <div class="fragment fade-up">
         <p>翻译：</p>
-        <div class="glend">‘The child hit themself on their leg with a rock.’</div>
+        <div class="glend"><q>The child hit themself on their leg with a rock.</q></div>
         <div class="expln">孩子用石头打自己打在腿上</div>
     </div>
 </div>
@@ -605,7 +605,7 @@
     <p class="fragment fade-out grow">强调孩子既是施事者亦是受事者，但腿却被简化为仅仅是击打的指称对象</p>
     <div class="fragment fade-up">
         <p>不可能准确地翻译除非：</p>
-        <div class="glend">‘The child “leg-hit” themself with a rock’</div>
+        <div class="glend"><q>The child ‘leg-hit’ themself with a rock</q></div>
         <div class="expln">孩子用石头「击腿」自己</div>
     </div>
 </div>
@@ -624,7 +624,7 @@
     <dt>aggwilä.</dt>
     <dd>INS</dd>
 </dl>
-<div class="glend">‘The child hits something with a rock / The child does some hitting with a rock.’</div>
+<div class="glend"><q>The child hits something with a rock / The child does some hitting with a rock.</q></div>
 <div class="expln">孩子用石头打东西</div>
 
 --
@@ -641,7 +641,7 @@
     <dt>aggwilä.</dt>
     <dd>INS</dd>
 </dl>
-<div class="glend">‘The child hits themself with a rock.’</div>
+<div class="glend"><q>The child hits themself with a rock.</q></div>
 <div class="expln">孩子用石头打自己</div>
 
 --
@@ -658,7 +658,7 @@
     <dt>aggwilä.</dt>
     <dd>INS</dd>
 </dl>
-<div class="glend">‘The child is/gets hit with a rock.’</div>
+<div class="glend"><q>The child is/gets hit with a rock.</q></div>
 <div class="expln">孩子被人用石头打</div>
 
 --
@@ -675,7 +675,7 @@
     <dt>aggwilä.</dt>
     <dd>INS</dd>
 </dl>
-<div class="glend">‘A leg is/gets (intentionally) hit with a rock.’</div>
+<div class="glend"><q>A leg is/gets (intentionally) hit with a rock.</q></div>
 <div class="expln">腿被人（有意）用石头打</div>
 
 --
@@ -700,11 +700,11 @@
         <p>这在英语/汉语中只能通过非自然翻译来接近，如：</p>
         <ul>
             <li>
-                <div class="glend">‘“Leg-hitting” with a rock occurs’</div>
+                <div class="glend"><q>‘Leg-hitting’ with a rock occurs</q></div>
                 <div class="expln">以石「击腿」事件发生</div>
             </li>
             <li>
-                <div class="glend">‘An act of hitting with a rock involving a leg occurs’</div>
+                <div class="glend"><q>An act of hitting with a rock involving a leg occurs</q></div>
                 <div class="expln">涉及腿的以石击打之行为发生</div>
             </li>
         </ul>
@@ -725,7 +725,7 @@
     <dt>aggwilä.</dt>
     <dd>INS</dd>
 </dl>
-<div class="glend">‘There occurs a hit on a leg with a rock. /  A hit with a rock occurs on a leg.’</div>
+<div class="glend"><q>There occurs a hit on a leg with a rock. /  A hit with a rock occurs on a leg.</q></div>
 <div class="expln">用石头打到腿一次</div>
 
 --
@@ -745,9 +745,9 @@
     <div class="fragment">
         <p>可行翻译：</p>
         <ul>
-            <li><div class="glend">‘Hitting with a rock occurs’</div><div class="expln">发生了用石头打人的事件</div></li>
-            <li><div class="glend">‘The rock hits something’</div><div class="expln">用石头打到东西</div></li>
-            <li><div class="glend">‘Something gets hit with a rock.’</div><div class="expln">有东西被（人用）石头打到</div></li>
+            <li><div class="glend"><q>Hitting with a rock occurs</q></div><div class="expln">发生了用石头打人的事件</div></li>
+            <li><div class="glend"><q>The rock hits something</q></div><div class="expln">用石头打到东西</div></li>
+            <li><div class="glend"><q>Something gets hit with a rock.</q></div><div class="expln">有东西被（人用）石头打到</div></li>
         </ul>
     </div>
 </div>
@@ -770,7 +770,7 @@
     <dt>šnaliothe.</dt>
     <dd>ABS</dd>
 </dl>
-<div class="glend">‘The child hits their leg.’</div>
+<div class="glend"><q>The child hits their leg.</q></div>
 <div class="expln">孩子打自己腿</div>
 
 
@@ -788,7 +788,7 @@
     <dt>šnalioth.</dt>
     <dd>THM</dd>
 </dl>
-<div class="glend">‘The child “leg-hits” themself.’</div>
+<div class="glend"><q>The child ‘leg-hits’ themself.</q></div>
 <div class="expln">孩子「击腿」自己</div>
 
 --
@@ -805,7 +805,7 @@
     <dt>šnalioth.</dt>
     <dd>THM</dd>
 </dl>
-<div class="glend">‘The child is/gets “leg-hit”.’</div>
+<div class="glend"><q>The child is/gets ‘leg-hit’.</q></div>
 <div class="expln">孩子挨「击腿」</div>
 
 --
@@ -822,7 +822,7 @@
     <dt>šnali’othia.</dt>
     <dd>LOC</dd>
 </dl>
-<div class="glend">‘The child is/gets hit on the leg.’</div>
+<div class="glend"><q>The child is/gets hit on the leg.</q></div>
 <div class="expln">孩子挨打打到腿</div>
 
 --
@@ -839,7 +839,7 @@
     <dt>šnali’othia.</dt>
     <dd>LOC</dd>
 </dl>
-<div class="glend">‘The child hits themself on their leg.’</div>
+<div class="glend"><q>The child hits themself on their leg.</q></div>
 <div class="expln">孩子打自己打到腿</div>
 
 --
@@ -852,7 +852,7 @@
     <dt>welo.</dt>
     <dd>ERG</dd>
 </dl>
-<div class="glend">‘The child hits something.’ / ‘The child does some hitting.’</div>
+<div class="glend"><q>The child hits something.</q> / <q>The child does some hitting.</q></div>
 <div class="expln">孩子打东西 / 孩子发起打击</div>
 
 --
@@ -865,7 +865,7 @@
     <dt>welu.</dt>
     <dd>IND</dd>
 </dl>
-<div class="glend">‘The child hits themself.’</div>
+<div class="glend"><q>The child hits themself.</q></div>
 <div class="expln">孩子打自己</div>
 
 --
@@ -878,7 +878,7 @@
     <dt>wele.</dt>
     <dd>ABS</dd>
 </dl>
-<div class="glend">‘The child is/gets hit.’</div>
+<div class="glend"><q>The child is/gets hit.</q></div>
 <div class="expln">孩子挨打</div>
 
 --
@@ -891,7 +891,7 @@
     <dt>šnale.</dt>
     <dd>ABS</dd>
 </dl>
-<div class="glend">‘A leg is/gets hit.’</div>
+<div class="glend"><q>A leg is/gets hit.</q></div>
 <div class="expln">腿被打</div>
 
 --
@@ -904,7 +904,7 @@
     <dt>šnala.</dt>
     <dd>THM</dd>
 </dl>
-<div class="glend">‘“Leg-hitting” occurs’ / ‘An act of hitting involving a leg occurs.’</div>
+<div class="glend"><q>‘Leg-hitting’ occurs</q> / <q>An act of hitting involving a leg occurs.</q></div>
 <div class="expln">涉及腿的击打事件发生</div>
 
 --
@@ -917,7 +917,7 @@
     <dt>šnali’a.</dt>
     <dd>LOC</dd>
 </dl>
-<div class="glend">‘There occurs a hit on a leg. /  A hit occurs on a leg.’</div>
+<div class="glend"><q>There occurs a hit on a leg. /  A hit occurs on a leg.</q></div>
 <div class="expln">有东西击中腿 / 发生一次击中腿</div>
 
 --
@@ -926,7 +926,7 @@
     <dt>Weţdosmá.</dt>
     <dd>DYN</dd>
 </dl>
-<div class="glend">‘Some hitting occurs’ / ‘Something does some hitting’ / ‘Something gets hit.’</div>
+<div class="glend"><q>Some hitting occurs</q> / <q>Something does some hitting</q> / <q>Something gets hit.</q></div>
 <div class="expln">有东西被击中 / 发生一次击中</div>
 
 @slideend

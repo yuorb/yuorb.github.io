@@ -398,7 +398,6 @@ dl.gloss {
 }
 
 .glend {
-	font-style: italic;
 	font-family: var(--examfont);
 }
 
@@ -553,4 +552,8 @@ i {
     margin: auto;
     display: grid;
     text-align: center;
+}
+
+.center {
+	text-align: center!important;
 }
