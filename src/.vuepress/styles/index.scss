@@ -559,3 +559,7 @@ i {
 .center {
 	text-align: center!important;
 }
+
+.inverted {
+    filter: invert(100%);
+}
