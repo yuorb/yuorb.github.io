@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://www.zhihu.com/people/ryanlo713",
   },
 
-  iconAssets: ["iconfont","fontawesome-with-brands", "fontawesome"],
+  iconAssets: ["iconfont", "fontawesome-with-brands", "fontawesome"],
 
   logo: "/logo.svg",
 
@@ -70,9 +70,7 @@ export default hopeTheme({
       playground: {
         presets: ["ts", "vue"],
       },
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+      presentation: ["highlight", "math", "search", "notes", "zoom"],
       stylize: [
         {
           matcher: "Recommended",
@@ -112,7 +110,7 @@ export default hopeTheme({
         "YouTube",
       ],
     },
-
+    
     // uncomment these if you want a pwa
     // pwa: {
     //   favicon: "/favicon.ico",
