@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://www.zhihu.com/people/ryanlo713",
   },
 
-  iconAssets: ["iconfont","fontawesome-with-brands", "fontawesome"],
+  iconAssets: ["iconfont", "fontawesome-with-brands", "fontawesome"],
 
   logo: "/logo.svg",
 
@@ -111,7 +111,7 @@ export default hopeTheme({
         "YouTube",
       ],
     },
-
+    
     // uncomment these if you want a pwa
     // pwa: {
     //   favicon: "/favicon.ico",
