@@ -1,7 +1,3 @@
----
-layout: Slide
----
-
 @slidestart auto
 
 <!-- eg1 -->
