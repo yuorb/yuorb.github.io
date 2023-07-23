@@ -1,3 +1,7 @@
+---
+layout: Slide
+---
+
 @slidestart auto
 
 <!-- eg1 -->
@@ -725,7 +729,7 @@
     <dt>aggwilä.</dt>
     <dd>INS</dd>
 </dl>
-<div class="glend"><q>There occurs a hit on a leg with a rock. /  A hit with a rock occurs on a leg.</q></div>
+<div class="glend"><q>There occurs a hit on a leg with a rock. / A hit with a rock occurs on a leg.</q></div>
 <div class="expln">用石头打到腿一次</div>
 
 --
@@ -917,7 +921,7 @@
     <dt>šnali’a.</dt>
     <dd>LOC</dd>
 </dl>
-<div class="glend"><q>There occurs a hit on a leg. /  A hit occurs on a leg.</q></div>
+<div class="glend"><q>There occurs a hit on a leg. / A hit occurs on a leg.</q></div>
 <div class="expln">有东西击中腿 / 发生一次击中腿</div>
 
 --
@@ -933,7 +937,7 @@
 
 @slidestart auto
 
-下面句子说明了<abbr>CHC</abbr>词缀的使用，作为区分进食行为中<abbr>EFF</abbr>、<abbr>ERG</abbr>、<abbr>IND</abbr>、<abbr>DAT</abbr>和<abbr>CSM</abbr>参与者之间各种语义关系的手段（见[第 4.5.5 条](04#Sec4_5_5)的<abbr>CSM</abbr>消耗格）
+下面句子说明了 <abbr>CHC</abbr> 词缀的使用，作为区分进食行为中<abbr>EFF</abbr>、<abbr>ERG</abbr>、<abbr>IND</abbr>、<abbr>DAT</abbr> 和 <abbr>CSM</abbr>参与者之间各种语义关系的手段（见[第 4.5.5 条](04#Sec4_5_5)的 <abbr>CSM</abbr> 消耗格）
 
 --
 

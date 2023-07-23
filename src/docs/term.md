@@ -45,7 +45,7 @@ title: 术语表
 * 得以延长 to be geminated
 * 长辅音 geminated consonant
 * 词首位置 word-initial position
-* 词尾位置  word-final position
+* 词尾位置 word-final position
 * 变音符号 diacritic
   * 扬音符 acute accent
   * 扬抑符 circumflex accent

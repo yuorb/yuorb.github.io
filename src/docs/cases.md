@@ -82,7 +82,7 @@
     * <span class="glend">that which X authored/created or originated</span>
     <span class="expln">为 X 所创作的人·事·物</span>
 15. 诠释格 <abbr>ITP</abbr>：ou
-    * <span class="glend">the party X by / thru  which / whom something is subjectively interpreted / considered / described</span>
+    * <span class="glend">the party X by / thru which / whom something is subjectively interpreted / considered / described</span>
     <span class="expln">以自身主观诠释/思考/描述的参与者 X</span>
     * <span class="glend">that which is subjectively considered, described or interpreted by/thru X</span>
     <span class="expln">以 X 所主观诠释/思考/描述的人·事·物</span>
@@ -158,7 +158,7 @@
 
 </div>
 
-@tab  状语格
+@tab 状语格
 
 <div class="indent">
 
