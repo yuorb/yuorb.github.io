@@ -33,7 +33,6 @@ export default hopeTheme({
       // page meta
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
-        contributors: false,
       },
     },
   },
@@ -111,7 +110,7 @@ export default hopeTheme({
         "YouTube",
       ],
     },
-    
+
     // uncomment these if you want a pwa
     // pwa: {
     //   favicon: "/favicon.ico",

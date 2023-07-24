@@ -6,7 +6,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -21,7 +21,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -36,7 +36,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -51,7 +51,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -66,11 +66,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -81,7 +81,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -89,18 +89,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -111,7 +111,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -126,7 +126,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -141,11 +141,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -162,7 +162,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -177,7 +177,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -192,7 +192,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -207,7 +207,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -222,11 +222,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -237,7 +237,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -245,18 +245,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -267,7 +267,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -282,7 +282,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -297,11 +297,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -318,7 +318,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -333,7 +333,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -348,7 +348,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -363,7 +363,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -378,11 +378,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -393,7 +393,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -401,18 +401,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -423,7 +423,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -438,7 +438,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -453,11 +453,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -474,7 +474,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -489,7 +489,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -504,7 +504,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -519,7 +519,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -534,11 +534,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -549,7 +549,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -557,18 +557,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -579,7 +579,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -594,7 +594,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -609,11 +609,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -630,7 +630,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -645,7 +645,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -660,7 +660,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -675,7 +675,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -690,11 +690,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -705,7 +705,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -713,18 +713,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -735,7 +735,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -750,7 +750,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -765,11 +765,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -786,7 +786,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -801,7 +801,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -816,7 +816,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -831,7 +831,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -846,11 +846,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -861,7 +861,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -869,18 +869,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -891,7 +891,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -906,7 +906,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -921,11 +921,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -942,7 +942,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -957,7 +957,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -972,7 +972,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -987,7 +987,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1002,11 +1002,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1017,7 +1017,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1025,18 +1025,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1047,7 +1047,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1062,7 +1062,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1077,11 +1077,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1098,7 +1098,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1113,7 +1113,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1128,7 +1128,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1143,7 +1143,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1158,11 +1158,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1173,7 +1173,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1181,18 +1181,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab VII
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1203,7 +1203,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1218,7 +1218,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1233,11 +1233,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1254,7 +1254,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(Cc</dd>
+    <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1269,7 +1269,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vv)</dd>
+    <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1284,7 +1284,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Cr</dd>
+    <dd><code>Cr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1299,7 +1299,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vr</dd>
+    <dd><code>Vr</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1314,11 +1314,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(CsVx ... )</dd>
+    <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干但不于 Ca；为标准列位 VII VxCs 形式的倒装</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1329,7 +1329,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Ca</dd>
+    <dd><code>Ca</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1337,18 +1337,18 @@
 </dl>
 <dl>
     <dt>形式</dt>
-    <dd>若已填列位 V 则 Ca 需延长</dd>
+    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
 </dl>
 
 @tab <mark>VII</mark>
 
 <dl>
     <dt>术语</dt>
-    <dd>(VxCs ... )</dd>
+    <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>VxCs 词缀（丛）应用于词干 + Ca</dd>
+     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1359,7 +1359,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>(VnCn)</dd>
+    <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1374,7 +1374,7 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>Vc / Vk</dd>
+    <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
@@ -1389,11 +1389,11 @@
 
 <dl>
     <dt>术语</dt>
-    <dd>[重读]</dd>
+    <dd><code>[重读]</code></dd>
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 + Vc <br>尾音节重读 = 无框关系 + Vk <br>前音节重读 = 有框关系 + Vc</dd>
+    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
 </dl>
 <dl>
     <dt>形式</dt>

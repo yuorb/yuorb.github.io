@@ -394,21 +394,29 @@ dl.gloss {
 	dd {
 		margin-left: 0 !important;
 		font-size: smaller;
-		font-family: var(--font-family-mono);
+		font-family: var(--font-family);
 		font-feature-settings: "halt";
 	}
 }
 
 .glend {
 	font-family: var(--examfont);
+	q {
+		margin-left: 0em;
+		margin-right: 0em;
+	}
 }
 
 .expln {
 	margin-bottom: .75em;
 	font-family: var(--examfont);
-	font-size: larger;
 }
 
+.indent {
+	.expln {
+		font-size: larger;
+	}
+}
 
 code {
 	font-variant-caps: small-caps;
@@ -427,7 +435,7 @@ q {
 }
 
 abbr {
-	font-family: var(--font-family-mono) !important;
+
 	color: #ffffff;
 	font-weight: inherit;
 	background: #fbae17;
