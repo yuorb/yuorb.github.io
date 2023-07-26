@@ -168,7 +168,7 @@
     * <span class="glend">that which is/occurs in a manner described or characterized by X</span>
     <span class="expln">处于以 X 所述的方式中的人·事·物</span>
 29. 转化格 <abbr>TFM</abbr>：aö
-    * <span class="glend">that into which, X transforms/changes </span>
+    * <span class="glend">that into which, X transforms/changes</span>
     <span class="expln">X 所转化的人·事·物</span>
     * <span class="glend">that which is/occurs as a result of the transformation of X</span>
     <span class="expln">由于 X 的转变而产生的结果</span>
