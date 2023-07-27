@@ -16,6 +16,14 @@ export const zhSidebar = sidebar({
         },
       ],
     },
+    {
+      text: "同人教学",
+      prefix: "tutorial/",
+      link: "tutorial/readme.md",
+      children: [
+        "primo",
+      ],
+    },
 /*     {
       // icon: "discover",
       text: "案例",

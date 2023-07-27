@@ -166,7 +166,7 @@ title: 术语表
 
 功能 Functions
 
-* 静态功能 <abbr>STA</abbr> Static Function
+* 静态功能 <abbr>STA</abbr> Static/Stative Function
 * 动态功能 <abbr>DYN</abbr> Dynamic Function
 
 版本 Versions
@@ -487,7 +487,7 @@ title: 术语表
 * 狂喜观 <abbr>EUH</abbr> Euphoric Bias
 * 委婉观 <abbr>EUP</abbr> Euphemistic Bias
 * 恼嘲观 <abbr>EXA</abbr> Exasperative Bias
-* 紧迫观 <abbr>EXG</abbr> Exasperative Bias
+* 紧迫观 <abbr>EXG</abbr> Exigent Bias
 * 顺受观 <abbr>FOR</abbr> Fortuitous Bias
 * 着迷观 <abbr>FSC</abbr> Fascinative Bias
 * 满意观 <abbr>GRT</abbr> Gratificative Bias
@@ -506,7 +506,7 @@ title: 术语表
 * 困惘观 <abbr>PPX</abbr> Perplexive Bias
 * 提议观 <abbr>PPV</abbr> Propositive Bias
 * 平淡观 <abbr>PSC</abbr> Prosaic Bias
-* 推定观 <abbr>PSM</abbr> Prosaic Bias
+* 推定观 <abbr>PSM</abbr> Presumptive Bias
 * 意外观 <abbr>RAC</abbr> Reactive Bias
 * 表观观 <abbr>RFL</abbr> Reflective Bias
 * 弃绝观 <abbr>RSG</abbr> Resignative Bias
