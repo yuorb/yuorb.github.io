@@ -1,6 +1,8 @@
-## New Ithkuil 简明教学
+---
+title: New Ithkuil 简明教学
+---
 
-更新至 v1.1
+## New Ithkuil 简明教学
 
 ## 词类
 
@@ -41,7 +43,7 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
   <dd style="background-color: #7f47dd; color: var(--white);">Ca</dd>
 </dl>
 <dl class="gloss">
-  <dt>-a-</dt>
+  <dt>-a</dt>
   <dd>Vc</dd>
 </dl>
 <div class="glend">a pin 📍</div>
@@ -328,10 +330,10 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <div class="indent">
 
 <dl class="gloss">
-  <dt>açkad<mark>ah</mark>á</dt>
+  <dt>yuçk<mark>ah</mark>á</dt>
 </dl>
 <dl class="gloss">
-  <dt>emmaţi</dt>
+  <dt>weimmi</dt>
 </dl>
 <dl class="gloss">
   <dt>bei</dt>
@@ -346,10 +348,10 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <div class="indent">
 
 <dl class="gloss">
-  <dt>açkad<mark>ahr</mark>á</dt>
+  <dt>yuçk<mark>ahr</mark>á</dt>
 </dl>
 <dl class="gloss">
-  <dt>emmaţi</dt>
+  <dt>weimmi</dt>
 </dl>
 <dl class="gloss">
   <dt>bei</dt>
@@ -358,10 +360,10 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <div class="expln">他的孩子就会病了（不知道他有没有孩子，如果有，他们一定病了）<br>[假定式 <abbr>ASM</abbr>]​：前提未知且命题真值确定；如果前提为真命题也为真​</div>
 
 <dl class="gloss">
-  <dt>açkad<mark>ahn</mark>á</dt>
+  <dt>yuçk<mark>ahn</mark>á</dt>
 </dl>
 <dl class="gloss">
-  <dt>emmaţi</dt>
+  <dt>weimmi</dt>
 </dl>
 <dl class="gloss">
   <dt>bei</dt>
@@ -370,10 +372,10 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <div class="expln">他的孩子本来会病了（他要是有孩子他们就会病，但他没有）<br>[违实式 <abbr>COU</abbr>]​：命题真值确定且前提为假；前提为假否则命题为真​</div>
 
 <dl class="gloss">
-  <dt>açkad<mark>ahň</mark>á</dt>
+  <dt>yuçk<mark>ahň</mark>á</dt>
 </dl>
 <dl class="gloss">
-  <dt>emmaţi</dt>
+  <dt>weimmi</dt>
 </dl>
 <dl class="gloss">
   <dt>bei</dt>
@@ -460,7 +462,7 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 
 </div>
 
-你可以用 -en 「拉起」子句中心词。这相当于 New Ithkuil 关系化短语：
+你可以用 -en 「拉起」子句中心语。这相当于 New Ithkuil 关系化短语：
 
 <div class="indent">
 
