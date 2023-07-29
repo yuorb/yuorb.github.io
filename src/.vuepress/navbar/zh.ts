@@ -14,9 +14,14 @@ export const zhNavbar = navbar([
         link: "/enthrirch/",
       },
       {
-        text: "词典 Enţrirç",
-        icon: "dictionary",
-        link: "/enthrirch/",
+        text: "构词器 Hwirbuvie-Ekţgyil",
+        icon: "fas fa-pen-to-square",
+        link: "https://thexxos.github.io/ithkapp/",
+      },
+      {
+        text: "选色",
+        icon: "fas fa-palette",
+        link: "https://ithkuil.place/4/colors/",
       },
     ]
   },

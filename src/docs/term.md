@@ -527,7 +527,7 @@ title: 术语表
 
 格框 Case-Frame
 
-格辅词缀 Case-Accessor Affix
+正格辅词缀 Case-Accessor Affix
 
 反格辅词缀 Inverse Case-Accessor Affix
 

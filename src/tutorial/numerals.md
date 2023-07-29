@@ -284,15 +284,15 @@ $N^{3^{27}}$ -osduosduosd-
 
 1. 1928,3746,5005,6473,8291
 2. 1928 *wočgui* 3746 *wopcui wokẓui* 5005 *wokẓui* 6473 *wopcui* 8291
-3. wolẓarsa wočkirsün *wočgui* wonsersë’i wocpirsün *wopcui wokẓui* wovrëirsë’i wostün *wokẓui* wopšörsë’i wozorsün *wopcui* woksürsë’i wollursün
-4. wolẓarsa wočkirsün *očgalui* wonsersë’i wocpirsün *wopcalui wokẓui* wovrëirsë’i wostün *okẓalui* wopšörsë’i wozorsün *opcalui* woksürsë’i wollursün
+3. wolẓars<b>a</b> wočkirsün *wočgui* wonsersë’i wocpirsün *wopcui wokẓui* wovrëirsë’i wostün *wokẓui* wopšörsë’i wozorsün *wopcui* woksürsë’i wollursün
+4. wolẓars<b>a</b> wočkirsün *<del>w</del>očg<ins>al</ins>ui* wonsersë’i wocpirsün *<del>w</del>opc<ins>al</ins>ui wokẓui* wovrëirsë’i wostün *<del>w</del>okẓ<ins>al</ins>ui* wopšörsë’i wozorsün *<del>w</del>opc<ins>al</ins>ui* woksürsë’i wollursün
 
 另一个例子：
 
 1. 9876,5432,1000,0000,0001,2345,6789
 2. 9876 *wokẓui wočgui* 5432 *wopcui wočgui* 1000 *wočgui* 0000 *wopcui wokẓui* 0001 *wokẓui* 2345 *wopcui* 6789
-3. wočkursa wocporsün *wokẓui wočgui* wopšëirsë’i woksersün *wopcui wočgui* wovrarsë’i wogzui *wočgui* wollë’i *wokẓui* wozärsë’i wostirsün *wopcui* wonsörsë’i wolẓürsün
-4. wočkursa wocporsün *okẓalui wočgui* wopšëirsë’i woksersün *opcalui wočgui* wovrarsë’i wogzui *wočgui* wollë’i *wokẓui* wozärsë’i wostirsün *opcalui* wonsörsë’i wolẓürsün
+3. wočkurs<b>a</b> wocporsün *wokẓui wočgui* wopšëirsë’i woksersün *wopcui wočgui* wovrarsë’i <ins>wogzui</ins> *wočgui* wollë’i *wokẓui* wozärsë’i wostirsün *wopcui* wonsörsë’i wolẓürsün
+4. wočkurs<b>a</b> wocporsün *<del>w</del>okẓ<ins>al</ins>ui wočgui* wopšëirsë’i woksersün *<del>w</del>opc<ins>al</ins>ui wočgui* wovrarsë’i wogzui *wočgui* wollë’i *wokẓui* wozärsë’i wostirsün *<del>w</del>opc<ins>al</ins>ui* wonsörsë’i wolẓürsün
 
 挑战题：
 

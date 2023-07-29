@@ -429,7 +429,7 @@
 
 ::: tabs
 
-@tab 格辅词缀
+@tab 正格辅词缀
 
 <div class="table-12">
 
