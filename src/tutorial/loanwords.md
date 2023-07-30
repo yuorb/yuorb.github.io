@@ -274,3 +274,71 @@ iongr: /jʊ̃˞/ :yu\{Ṽ\}ˤ: （中派 /ɥʊ̃˞/）:ywu\{Ṽ\}ˤ:
 
 IPA 上下分别来自 **Standard Chinese (Beijing) 宽**和**UntPhesoca 宽**，见[普通话 IPA 转换工具](https://nk2028.shn.hk/putonghua-ipa-converter/)
 
+### 切韵
+
+拼音用[切韵拼音（TUPA）](https://phesoca.com/tupa/)，拟音采用 [unt 切韵拟音 L](https://phesoca.com/aws/337/)。
+
+音位和音素混合方案。
+
+韵母
+
+::: tabs
+
+@tab 锐音性韵尾
+
+|   	| -y- 	| -r- 	| -∅- 	| -(y/r)- 	| -∅- 	|
+|---	|---	|---	|---	|---	|---	|
+| /ɨ/ 	| 之 \<y\> 	| 之 \<y\> 	| 之 \<y\> 	| 尤 \<u\> 	| 侯  \<ou\> 	|
+| :ë: 	| Cyë 	| Crë 	| Cë 	| C(y/r)u 	| Qu 	|
+| /ə/ 	| - 	| 佳 \<(w)ee\> 	| - 	| - 	| 模 \<o\> 	|
+| :ë: 	| - 	| Qr(w)e 	| - 	| - 	| Qo 	|
+| /a/ 	| 麻 \<iae\> 	| 麻 \<(w)ae\> 	| - 	| 歌 \<ya,ua\> 	| 歌 \<(w)a\> 	|
+| :a: 	| Cyä 	| Qr(w)ä / Cr(w)ä 	| - 	| C(y/r)(w)a 	| Q(w)a 	|
+| /ɨə/ 	| 鱼 \<yo\> 	| 鱼 \<yo\> 	| 鱼 \<yo\> 	| 虞 \<uo\> 	| 虞 \<uo\> 	|
+| :ëë: 	| Cyië 	| Crië 	| Cië 	| C(y/r)uo 	| Cuo 	|
+| /ɨŋ/ 	| - 	| 蒸 \<ying,uing\> 	| 蒸 \<yng\> 	| 东 \<ung\> 	| 东 \<oung\> 	|
+| :ëň: 	| - 	| Cr(w)iň 	| Ciň 	| C(y/r)uň 	| Quň 	|
+| /əŋ/ 	| 青 \<(w)eng\> 	| 耕 \<(w)eeng\> 	| 登 \<eong,weong\> 	| 江 \<oeung\> /  钟   \<uong\> 	| 东 \<ong\> / 钟 \<uong\> 	|
+| :ëň: 	| Qy(w)eň 	| Qr(w)eň 	| Q(w)ëň 	| Qröň / C(y/r)oň 	| Qoň  / Coň 	|
+| /aŋ/ 	| 清 \<(w)iaeng\> 	| 庚   \<(w)aeng\> / \<yaeng,uaeng\> 	| - 	| 阳 \<yang,uang\> 	| 唐 \<(w)ang\> 	|
+| :aň: 	| Cy(w)äň 	| Qr(w)äň / Cr(w)äň 	| - 	| C(y/r)(w)aň 	| Q(w)aň 	|
+
+@tab 钝音性韵尾
+
+|   	| -y- 	| -r- 	| -∅- 	| -(y/r)- 	| -∅- 	|
+|---	|---	|---	|---	|---	|---	|
+| /ɨ/ 	| 之 \<y\> 	| 之 \<y\> 	| 之 \<y\> 	| 尤 \<u\> 	| 侯  \<ou\> 	|
+| :ë: 	| Cyë 	| Crë 	| Cë 	| C(y/r)u 	| Qu 	|
+| /ə/ 	| - 	| 佳 \<(w)ee\> 	| - 	| - 	| 模 \<o\> 	|
+| :ë: 	| - 	| Qr(w)e 	| - 	| - 	| Qo 	|
+| /a/ 	| 麻 \<iae\> 	| 麻 \<(w)ae\> 	| - 	| 歌 \<ya,ua\> 	| 歌 \<(w)a\> 	|
+| :a: 	| Cyä 	| Qr(w)ä / Cr(w)ä 	| - 	| C(y/r)(w)a 	| Q(w)a 	|
+| /ɨə/ 	| 鱼 \<yo\> 	| 鱼 \<yo\> 	| 鱼 \<yo\> 	| 虞 \<uo\> 	| 虞 \<uo\> 	|
+| :ëë: 	| Cyië 	| Crië 	| Cië 	| C(y/r)uo 	| Cuo 	|
+| /ɨŋ/ 	| - 	| 蒸 \<ying,uing\> 	| 蒸 \<yng\> 	| 东 \<ung\> 	| 东 \<oung\> 	|
+| :ëň: 	| - 	| Cr(w)iň 	| Ciň 	| C(y/r)uň 	| Quň 	|
+| /əŋ/ 	| 青 \<(w)eng\> 	| 耕 \<(w)eeng\> 	| 登 \<eong,weong\> 	| 江 \<oeung\> /  钟   \<uong\> 	| 东 \<ong\> / 钟 \<uong\> 	|
+| :ëň: 	| Qy(w)eň 	| Qr(w)eň 	| Q(w)ëň 	| Qröň / C(y/r)oň 	| Qoň  / Coň 	|
+| /aŋ/ 	| 清 \<(w)iaeng\> 	| 庚   \<(w)aeng\> / \<yaeng,uaeng\> 	| - 	| 阳 \<yang,uang\> 	| 唐 \<(w)ang\> 	|
+| :aň: 	| Cy(w)äň 	| Qr(w)äň / Cr(w)äň 	| - 	| C(y/r)(w)aň 	| Q(w)aň 	|
+
+@tab 唇音性韵尾
+
+|   	| -y- 	| -r- 	| -∅- 	|
+|---	|---	|---	|---	|
+| /ɨw/ 	| 幽 \<iw\> 	| 幽 \<yiw\> 	| - 	|
+| :ëw: 	| Cyiu 	| Criu 	| - 	|
+| /əw/ 	| 萧 \<ew\> / 宵 \<iew\> 	| 宵 \<yew\> 	| 豪 \<aw\> 	|
+| :ëw: 	| Qyeu / Cyeu 	| Creu 	| Qëu 	|
+| /aw/ 	| - 	| 肴 \<aew\> 	| - 	|
+| :aw: 	| - 	| Qräu 	| - 	|
+| - 	| - 	| - 	| - 	|
+| - 	| - 	| - 	| - 	|
+| /ɨm/ 	| 侵 \<im\> 	| 侵 \<yim\> 	| - 	|
+| :ëm: 	| Cyim 	| Crim 	| - 	|
+| /əm/ 	| 添 \<em\> / 盐 \<iem\> 	| 咸 \<eem\> / 盐 \<yem\> 	| 覃 \<om\> / 严\<yom\>,凡\<uom\> 	|
+| :ëm: 	| Qyem / Cyem 	| Qrem / Crem 	| Qëm / Cëm,Pom 	|
+| /am/ 	| - 	| 衔 \<aem\> 	| 谈 \<am\> 	|
+| :am: 	| - 	| Qräm 	| Qam 	|
+
+:::
