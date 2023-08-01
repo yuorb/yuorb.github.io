@@ -21,7 +21,7 @@ export const zhSidebar = sidebar({
       prefix: "tutorial/",
       link: "tutorial/readme.md",
       children: [
-        "beginner","numerals","loanwords",
+        "beginner","numerals","loanwords","idioms","old"
       ],
     },
 /*     {

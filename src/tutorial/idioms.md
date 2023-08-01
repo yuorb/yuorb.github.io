@@ -1,5 +1,5 @@
 ---
-title: 常见句翻译
+title: 习语
 ---
 
 ## 问候
@@ -104,22 +104,26 @@ Myaláu.
 Thanks!
 谢谢！
 
-Luwüs enuláu myaliöla.
+Luwüs udvuláu myaliöla.
 I offer you my gratitude.
 我把我的谢意交给你。
 
-Luwüs anulëiháu myaliöla wenziösuo.
+Luwüs advulëiháu myaliöla wenziösuo.
 I offer you my gratitude in exchange for your kindness.
 我向你交出我的谢意以换取你的善意。
 
 简短形式是 Myaliöla<q>my thanks/my offer of gratitude</q>（我的谢意）。
 
 如感谢的表达更为正式，可用词干 -ermy- 「感到荣幸/感激」。
-以上例句也可用变体，将词干 asp- 或 osp- 併入词干 amy- 。如：ükʰu ispimyalo.
+
+以上例句也可用变体，将词干 adv- 或 udv- 併入词干 -amy- 成为一个联对 。如：Luwüsë hludvao-myuláu.「我向你以提供以交换的方式表达谢意」
 
 表示不用客气的方法很多，比如羞怯观 cč 「这没什么」「没什么大不了的」表达谦虚。
 
 也能以「我很乐意为你服务」「这是我应该做的」之类的句子回应。
+
+Wagtái tula (sio) la’o.
+（为你做）这是我的义务。/我应（为你）做此。
 
 或「不用（对我）客气」或「你太客气了」，如：
 
@@ -127,7 +131,7 @@ Su enšwusortá.
 You're showing too much politeness.
 你太客气了。
 
-### 欢迎
+## 欢迎
 
 -alţm-: 正式欢迎，说欢迎
 -elţm-: 殷勤款待，好客
@@ -145,7 +149,7 @@ Li walţmá.
 I feel welcome.
 我感到受欢迎/宾至如归。
 
-### 介绍·称呼
+## 介绍·称呼
 
 Wadná lëi hla Maik.
 I'm Mike.
@@ -171,18 +175,35 @@ Malái lü adniloësa.
 Tell me your name.
 告诉我你的名字。
 
-### 问句
+## 问句
 
+注意以下的动词「去」都用了宇宙界，表明这是持续发生的情况，而不涉及特定实例或活动的发生。事实上，指的是所有可能的实例或活动。
+
+Mmä wiatréi su arţtudëužči’o?
 How do you go to school?
+你怎么[以何为手段/工具]去学校？
 
+Malái lü harţtudëužčió-wiatroasäswa.
+Tell me your means to go to school.
+告诉我你去学校的手段/工具。
+
+Mma’o wiatréi su arţtudëužči’o?
 When do you go to school?
+你什么时候去学校？
 
+Mmie wiatréi su arţtudëužči’o?
 Why do you go to school?
+你出于什么目的去学校？
 
+Mmi’axinļ arţtudëužča siu?
 Where is your school?
+你学校在哪？
 
+Arţtudëužčüsva siuxinļ?
 Which one is your school?
+哪个学校是你就读/就职的？
 
 ----
 
-以上例句只用于对方是一个人时。如对方是类聚界或其他构型的人，则相应的代词须作改变。例如：2u-AFF、DAT-1m-2u-IND、AGG-DAT-1m-2m-IND、2u-ATT 等。
+以上例句只用于对方是一个人时。如对方是类聚界或其他构型的人，则相应的指代词须作改变。例如： nü <abbr>2p-AFF</abbr>、luwün <abbr>1m-IND-DAT-2p</abbr>、süxüöţ <abbr>2m-DAT-(MDS)</abbr>、neu <abbr>2p-ATT</abbr> 等。
+
