@@ -399,7 +399,7 @@
     <span class="expln">事件，X 先于之</span>
     * <span class="glend">the act/event or point in time which is/occurs prior to X</span>
     <span class="expln">事件，其先于 X</span>
-66. 之後格 <abbr>PCR</abbr>：öe
+66. 之后格 <abbr>PCR</abbr>：öe
     * <span class="glend">the act/event or time，after/following which or subsequent to which, X occurs</span>
     <span class="expln">事件，X 后于之</span>
     * <span class="glend">the act/event or time which is/occurs after or following or subsequent to X</span>

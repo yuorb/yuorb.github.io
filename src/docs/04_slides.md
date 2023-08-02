@@ -1196,7 +1196,7 @@
 </dl>
 <dl class="gloss">
     <dt>ampalaicö</dt>
-    <dd>‘parent’-GID2/1-EFF</dd>
+    <dd>‘parent’-GID₂/1-EFF</dd>
 </dl>
 <dl class="gloss">
     <dt>welecu</dt>
