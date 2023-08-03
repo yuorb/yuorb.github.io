@@ -582,3 +582,19 @@ i {
 	display: flex;
     justify-content: space-between;
 }
+
+.lr {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: .75em;
+}
+
+.left {
+	text-align: left;
+	font-family: var(--basefonts);
+}
+
+.right {
+	text-align: right;
+	font-family: var(--basefonts);
+}
