@@ -333,7 +333,7 @@ title: 术语表
 
 * 存在语境 <abbr>EXS</abbr> Existential Context
 * 意味语境 <abbr>FNC</abbr> Functional Context
-* 寓意语境 <abbr>RPS</abbr> Representational Context
+* 喻意语境 <abbr>RPS</abbr> Representational Context
 * 融合语境 <abbr>AMG</abbr> Amalgamative Context
 
 格 Cases & 格式 Format

@@ -544,14 +544,16 @@ IPA 上下分别来自和**unt 切韵拟音 L 的实现和音位底层**，见[�
 
 以下描述的只是普遍情况，适用于一般性原则，遇到特殊情况请自行按具体调整。
 
-#### 元音和拗音
+::: tabs
+
+@tabs 元音和拗音
 
 アイウエオ  ヤイィユイェヨ  ワウィ[ヰ]ウェ[ヱ]ウォ[ヲ]ウゥ  ユヮ...  ヰャ...
 a i u e o ya (yi) yu (ye) yo wa (wi we wo wu) (yw-: ...) (wy-: ...)
 
 为上古日语语音描写增加的元音：ü ä ë
 
-#### 辅音
+@tabs 辅音
 
 以 C + 元音 a 举例：
 
@@ -566,13 +568,13 @@ a i u e o ya (yi) yu (ye) yo wa (wi we wo wu) (yw-: ...) (wy-: ...)
 * ラ r, ラ゚ (l)
 * ワ w, ヴァ[ヷ] (v)
 
-#### 促音·拨音·长音
+@tabs 促音·拨音·长音
 
 * ッ ʔ，根据情况双写成长辅音或作 \{Cʼ\} 挤喉音
 * ン \{Ṽ\}，受紧接的后续辅音影响变成 m、n、ň
 * ー ◌ː / \{Vː\}
 
-#### 片假名语音扩展
+@tabs 片假名语音扩展
 
 主要用于阿伊努语。
 
@@ -594,15 +596,19 @@ a i u e o ya (yi) yu (ye) yo wa (wi we wo wu) (yw-: ...) (wy-: ...)
 * 𛅕（小写コ） ko
 * 𛅧 同 ン
 
-#### 其他
+@tabs 其他
 
 * さ゚（サ゚） ：在江户时代，它被用来代表江户语言的 ツァ 音。片假名中的 サ゚ 主要用于唐音资料
 * セ゚（せ゚） ：在江户时代，它被用来代表在唐音或阿伊努语中的 チェ 的音；或读 ツェ
 * ツ゚、ト゚ ：这两个字母主要用于早期文献，代表阿伊努语发音 トゥ
 
+:::
+
 ### 根据语音转写
 
 主要是为琉球语和日语方言调整。
+
+<div class="indent">
 
 * /kff/ [kf̩ː] kff
 * /ʔma/ [ˀma] ʔma
@@ -620,13 +626,11 @@ a i u e o ya (yi) yu (ye) yo wa (wi we wo wu) (yw-: ...) (wy-: ...)
 * /f.fɑ/ [fːɑ] ffa
 * /ff.fɑ/ [fːːɑ] fffa
 
-<!--
+</div>
 
 ## 韩·朝鲜语罗马字转写
 
-### 基于谚文字母转写
-
-#### 训民正音
+### 基于谚文字母转写（训民正音）
 
 ::: tabs
 
@@ -657,6 +661,7 @@ g ks nc nx d lk lm lp ls lth lph lx b ps z ẓ
 ai yai ei yei wa way oi we wey ui üi
 
 旧辅音：
+
 ᇺᅚᇃᇻᇄᇼᇽᇾ
 ᄓㅥㅦퟋᄖㅧㅨퟌᇉ
 ᄗퟎᇋꥠꥡꥢퟑꥣퟓퟔ
@@ -686,9 +691,574 @@ thth-
 php- -phs -phth fh
 -xn -xl -xm -xp xs- ř ʔʔ
 
+旧元音：
+ᅶᅷᆣᅸᅹᆤ
+ᅺᅻᅼᆥᅽᅾ
+ᆦᆧᅿᆀힰᆁᆂힱᆃힲힳㆇㆈힴᆆᆇㆉ
+ᆉᆊᆋힵᆌᆍힶᆎힷᆏᆐㆊㆋힸᆓㆌ
+ힹힺힻힼᆕᆖᆗ
+ᆘᆙힽힾힿퟀᆚퟁퟂᆛퟃᆜퟄᆝ
+ퟅᆟퟆᆠㆎ
 
-旧元音：ᅶᅷᆣᅸᅹᆤᅺᅻᅼᆥᅽᅾᆦᆧᅿᆀힰᆁᆂힱᆃힲힳㆇㆈힴᆆᆇㆉᆉᆊᆋힵᆌᆍힶᆎힷᆏᆐㆊㆋힸᆓㆌힹힺힻힼᆕᆖᆗᆘᆙힽힾힿퟀᆚퟁퟂᆛퟃᆜퟄᆝퟅᆟퟆᆠㆎ
+ao au aü yao yayo yau
+eo eu eü yeya yeo yeu
+oya oyai oe oei oye oyei oo ooi ou yoa yoai yuya yoyai yoe yoye yoo yoi
+ua uai ueü uye uyei uu uii yua yuai yue yuei yuye yuyei yuo yuu yui
+üa üe üei üo üu üü üiu
+ia iya iyao iyai iye iyei io ioi iyo iu iyu iü ii ië
+ëa ëe ëei ëu ëi
 
-仍用于济州语：ᆢ
+仍用于济州语：ᆢ yë
 
--->
+@tab 音高轮廓
+
+空：降
+〮：高
+〯：升
+
+:::
+
+### 现代标准韩语·朝鲜语
+
+::: tabs
+
+@tab 基本字母
+
+辅音：ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ
+
+k/g n/nd/d t/d r/l m/mb/b p/b s(h)/š(h) 空/ň c/č/ẓ/j ch/čh kh/gh th/dh ph/bh h/ř/f/ç/x
+
+元音：ㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣ
+
+a ya ë yë o yo wu yu u i
+
+@tab 复合字母
+
+辅音：ㄲㄳㄵㄶㄸㄺㄻㄼㄽㄾㄿㅀㅃㅄㅆㅉ
+
+k! ks nc nx t! lk lm lp ls lth lph lh p! ps s!/š! c!/č!
+
+元音：ㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢ
+
+ä/e yä/ye e ye wa wä/we we/ö wë we wi/ü ui
+
+:::
+
+音变：
+
+::: tabs
+
+@tab 辅音音位
+
+1. /p, t, tɕ, k, h/ 在浊音间为浊音 [b, d, dʑ, ɡ, ɦ]，在句首时会成为调值偏低的清音。口语中浊音 [ɦ] 常弱化甚至消失。
+2. /ŋ/ 只见于元音间和韵尾。
+3. /s, s͈/ 在 /i, j/ 前为颚化的 [ɕ, ɕ͈]。
+4. /l/：在元音间或元音和 /h/ 间时为齿龈弹音 [ɾ]，在词末、辅音（除 /h/）前或与 /l/ 相邻时为 [l] 或 [ɭ]。该音在词首是不稳定的，倾向于变为 [n]（多数元音前）或消失（/i, j/ 前）。英语借词中该音也常为 [ɾ]。
+5. /tɕ͈, tɕʰ~dʑʱ, tɕ~dʑ/ 有些人读为 /ts͈, tsʰ~dzʱ, ts~dz/，特别是在后元音前时。
+6. 鼻音声母 /m/、/n/ 在词首有去鼻化的自由变体 [ᵐb]、[ⁿd] 或 [b]、[d]。该现象在句首更加明显，只有25%的概率仍然读作 [m]、[n]。
+
+@tab 短长元音
+
+韩语有8个长短对立的元音，还有另外两个前圆唇元音 /ø/ (ㅚ) 和 /y/ (ㅟ)，不过这两个元音一般只能在年老的使用者口中听到，现在它们基本上已经分别双元音化为 [we] 和 [wi] 了。2003年曾对汉城的350名民众进行调查，发现近90%都是将 ㅟ 读为 [wi]。
+
+元音的长短对立也在逐渐消失，现代的青年基本上已经不能分辨所有的长短元音，有些甚至完全不能区分这两者。 /e/ 和 /ɛ/ 之间的对立也在逐渐消失，尤其是汉城一带的青年使用者，将这两个音大多情况下均念为 [e̞]。
+
+<table>
+<thead>
+  <tr>
+    <th>谚文</th>
+    <th colspan="3">短元音</th>
+    <th colspan="3">长元音</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>ㅣ</td>
+    <td>/i/</td>
+    <td>시장</td>
+    <td>šijaň (sijang [ɕi.dʑɐŋ] 饿)</td>
+    <td>/iː/</td>
+    <td>시장</td>
+    <td>šiːjaň (sijang [ɕiː.dʑɐŋ] 市场)</td>
+  </tr>
+  <tr>
+    <td>ㅔ</td>
+    <td>/e/</td>
+    <td>베개</td>
+    <td>pegä (begae [pe̞.ɡɛ̝] 枕头 )</td>
+    <td>/eː/</td>
+    <td>베다</td>
+    <td>peːda (beda [peː.dɐ] 切)</td>
+  </tr>
+  <tr>
+    <td>ㅐ</td>
+    <td>/ɛ/</td>
+    <td>태양</td>
+    <td>thäyaň (taeyang [tʰɛ̝.jɐŋ] 太阳)</td>
+    <td>/ɛː/</td>
+    <td>태도</td>
+    <td>thäːdo (taedo [tʰɛː.do] 态度)</td>
+  </tr>
+  <tr>
+    <td>ㅏ</td>
+    <td>/a/</td>
+    <td>말</td>
+    <td>mal (mal [mɐl] 马)</td>
+    <td>/aː/</td>
+    <td>말</td>
+    <td>maːl (mal [mɐːl] 话)</td>
+  </tr>
+  <tr>
+    <td>ㅗ</td>
+    <td>/o/</td>
+    <td>보리</td>
+    <td>pori (bori [po̞.ɾi] 大麦)</td>
+    <td>/oː/</td>
+    <td>보수</td>
+    <td>poːswu (bosu [poː.su̞] 报酬，即工资)</td>
+  </tr>
+  <tr>
+    <td>ㅜ</td>
+    <td>/u/</td>
+    <td>구리</td>
+    <td>kwuri (guri [ku.ɾi] 铜)</td>
+    <td>/uː/</td>
+    <td>수박</td>
+    <td>swuːbak (subak [suː.bäk̚] 西瓜)</td>
+  </tr>
+  <tr>
+    <td>ㅓ</td>
+    <td>/ʌ/</td>
+    <td>벌</td>
+    <td>pël (beol [pʌl] 罚)</td>
+    <td>/ʌː/</td>
+    <td>벌</td>
+    <td>pëːl (beol [pɘːl] 蜂)</td>
+  </tr>
+  <tr>
+    <td>ㅡ</td>
+    <td>/ɯ/</td>
+    <td>어른</td>
+    <td>ëːrun (eoreun [ɘː.ɾɯn] 成人)</td>
+    <td>/ɯː/</td>
+    <td>음식</td>
+    <td>ëːmšik (eumsik [ɯːm.ɕik̚] 飮食)</td>
+  </tr>
+  <tr>
+    <td>ㅚ</td>
+    <td>/ø/</td>
+    <td>교회</td>
+    <td>kyoːřö (gyohoe [kjoː.ɦø̞] 敎会)</td>
+    <td>/øː/</td>
+    <td>외투</td>
+    <td>öːdhwu (oetu [ø̞ː.dʰu] 外套)</td>
+  </tr>
+</tbody>
+</table>
+
+@tab
+
+韩语辅音主要有三种受所处位置影响的同位异音，分别为词首、词中与词尾。词中的辅音发生浊化，词尾辅音则无除阻过程。
+
+<table>
+<thead>
+  <tr>
+    <th>音位</th>
+    <th>ᄀ<br>g</th>
+    <th>ᄏ<br>k</th>
+    <th>ᄁ<br>kk</th>
+    <th>ᄋ<br>ng</th>
+    <th>ᄃ<br>d</th>
+    <th>ᄐ<br>t</th>
+    <th>ᄉ<br>s</th>
+    <th>ᄊ<br>ss</th>
+    <th>ᄌ<br>j</th>
+    <th>ᄎ<br>ch</th>
+    <th>ᄄ<br>tt</th>
+    <th>ᄍ<br>jj</th>
+    <th>ᄂ<br>n</th>
+    <th>ᄅ<br>r</th>
+    <th>ᄇ<br>b</th>
+    <th>ᄑ<br>p</th>
+    <th>ᄈ<br>pp</th>
+    <th>ᄆ<br>m</th>
+    <th>ᄒ<br>h</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>词首</td>
+    <td>k</td>
+    <td>kʰ</td>
+    <td rowspan="2">k͈</td>
+    <td>–</td>
+    <td>t</td>
+    <td>tʰ</td>
+    <td rowspan="2">s</td>
+    <td rowspan="2">s͈</td>
+    <td>tɕ</td>
+    <td>tɕʰ</td>
+    <td rowspan="2">t͈</td>
+    <td rowspan="2">t͈ɕ</td>
+    <td rowspan="3">n</td>
+    <td>(n)</td>
+    <td>p</td>
+    <td>pʰ</td>
+    <td rowspan="2">p͈</td>
+    <td rowspan="3">m</td>
+    <td>h</td>
+  </tr>
+  <tr>
+    <td>词中</td>
+    <td>ɡ</td>
+    <td>ɡʱ</td>
+    <td rowspan="2">ŋ</td>
+    <td>d</td>
+    <td>dʱ</td>
+    <td>dʑ</td>
+    <td>dʑʱ</td>
+    <td>ɾ</td>
+    <td>b</td>
+    <td>bʱ</td>
+    <td>(ɦ)</td>
+  </tr>
+  <tr>
+    <td>词尾</td>
+    <td colspan="3">k̚</td>
+    <td colspan="6">t̚</td>
+    <td colspan="2"></td>
+    <td>l/ɭ</td>
+    <td colspan="3">p̚</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+ᄒ不出现在词尾，但可出现字母末，影响后继字母的发音（见下）。于元音间的ᄒ为浊音[ɦ]，浊辅音后的ᄒ则为[ɦ]或无声。
+
+ᄋ在词首不发音。ᄅ也不出现在韩语固有词词首（即头音法则），但汉语词和欧洲语言借词词首可为ᄅ音。由于朝鲜语随着时代的变化，古代以ᄅ开头的汉语词发音已经发生了改变，故在日治时期的《朝鲜文拼写法统一案》中将头音法则作为标准语法。因此在南韩，古代以/ri/或/rj/开头的汉语词中的ᄅ写作和读作为ㅇ，以ᄅ开头的其他汉语词中的ᄅ则写作和读作ㄴ，但在朝鲜，则是在制定文化语方案时，强制性地将这些汉语词的词首改回为ᄅ。
+
+同样在南韩，古代以/ni/或/ny/开头的汉字词中的ㄴ变化为ㅇ，在北韩则改回ㄴ。
+
+劳动：（朝鲜）로동；（南韩）노동
+历史：（朝鲜）력사；（南韩）역사
+女子：（朝鲜）녀자；（南韩）여자
+
+@tab 同化
+
+多数韩国人将后跟 /i/ 与 /j/ 的 s 和 ss 辅音分别颚化为 /ɕ/ 和 /ɕ͈/。词素末的 d |t| 和 t |tʰ| 在后接以 /i/ 或 /j/ 开头的词或词尾时，变为颚化塞擦音 /tɕʰ/，因此与词素末的 |tɕʰ| 在发音上无区别。不过这一规则有例外。
+
+k /kʰ/ 在 i /i/ 或 eu /ɯ/ 前时变为塞擦音：ki [kçi]、keu [kxɯ]。h /h/ 在 /i/ 或 /j/ 前时变为硬颚音 [ç]，在 /ɯ/ 前时变为软颚音 [x]，在 o /o/、u /u/ 和 w /w/ 前则变为双唇音 [ɸ]（有点类似日语）。
+
+<table>
+<thead>
+  <tr>
+    <th>后接元音</th>
+    <th>ㅣ /i/,<br>/j/</th>
+    <th>ㅡ /ɯ/</th>
+    <th>ㅗ /o/,<br>ㅜ /u/,<br>/w/</th>
+    <th>ㅏ /a/,<br>ㅓ /ʌ/</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>ᄉ /s/ 与 ᄊ /s͈/</td>
+    <td>[ɕ], [ɕ͈]</td>
+    <td colspan="3">[s], [s͈]</td>
+  </tr>
+  <tr>
+    <td>ᄃ /t/ + 词尾</td>
+    <td>[dʑ]-</td>
+    <td colspan="3">[d]-</td>
+  </tr>
+  <tr>
+    <td>ᄐ /tʰ/ + 词尾</td>
+    <td>[dʑʱ]-</td>
+    <td colspan="3">[dʱ]-</td>
+  </tr>
+  <tr>
+    <td>ᄏ /kʰ/</td>
+    <td>[kç]</td>
+    <td>[kx]</td>
+    <td colspan="2">[kʰ]</td>
+  </tr>
+  <tr>
+    <td>ᄒ /h/</td>
+    <td>[ç]</td>
+    <td>[x]</td>
+    <td>[ɸ]</td>
+    <td>[h]</td>
+  </tr>
+</tbody>
+</table>
+
+在很多情况下（如从元音结尾的动词词干添加元音开头的后缀时），元音 |i|、|u| 和 |o| 分别变为半元音 |j|、|w|、|w|。某些方言中和某些使用者也将半元音 /w/ 与后继的 /e/ 或 /i/ 同化为前圆唇元音 [ø] 和 [y]，不过这一现象越来越少见。
+
+韩语的辅音同化是极为发达的，总结在下表中。
+
+<table>
+<caption>韩语辅音组合的变音表（后接/a/）</caption>
+<thead>
+  <tr>
+    <th>↓前一辅音 ↱后一辅音</th>
+    <th>#<br>无音</th>
+    <th>ᄀ<br>g-</th>
+    <th>ᄁ<br>kk-</th>
+    <th>ᄃ<br>d-</th>
+    <th>ᄄ<br>tt-</th>
+    <th>ᄂ<br>n-</th>
+    <th>ᄅ<br>r-</th>
+    <th>ᄆ<br>m-</th>
+    <th>ᄇ<br>b-</th>
+    <th>ᄈ<br>pp-</th>
+    <th>ᄉ<br>s-</th>
+    <th>ᄊ<br>ss-</th>
+    <th>ᄌ<br>j-</th>
+    <th>ᄍ<br>jj-</th>
+    <th>ᄎ<br>ch-</th>
+    <th>ᄏ<br>k-</th>
+    <th>ᄐ<br>t-</th>
+    <th>ᄑ<br>p-</th>
+    <th>ᄒ<br>h-</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>ᇂ -h</td>
+    <td> </td>
+    <td>k̚.kʰ</td>
+    <td> </td>
+    <td>t̚.tʰ</td>
+    <td> </td>
+    <td>n.n</td>
+    <td colspan="2">  </td>
+    <td>p̚.pʰ</td>
+    <td> </td>
+    <td>s.s͈</td>
+    <td> </td>
+    <td>t̚.tɕʰ</td>
+    <td colspan="6"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>软颚</td>
+    <td>k̚</td>
+    <td colspan="2">k̚.k͈</td>
+    <td colspan="2">k̚.t͈</td>
+    <td colspan="2" rowspan="2">ŋ.n</td>
+    <td rowspan="2">ŋm</td>
+    <td colspan="2">k̚.p͈</td>
+    <td colspan="2">k.s͈</td>
+    <td colspan="2">k̚.t͈ɕ</td>
+    <td>k̚.tɕʰ</td>
+    <td>k̚.kʰ</td>
+    <td>k̚.tʰ</td>
+    <td>k̚.pʰ</td>
+    <td>.kʰ</td>
+  </tr>
+  <tr>
+    <td>ᆼ -ng</td>
+    <td>ŋ</td>
+    <td>ŋ.ɡ</td>
+    <td>ŋ.k͈</td>
+    <td>ŋ.d</td>
+    <td>ŋ.t͈</td>
+    <td>ŋ.b</td>
+    <td>ŋ.p͈</td>
+    <td>ŋ.s</td>
+    <td>ŋ.s͈</td>
+    <td>ŋ.dʑ</td>
+    <td>ŋ.t͈ɕ</td>
+    <td>ŋ.dʑʱ</td>
+    <td>ŋ.ɡʱ</td>
+    <td>ŋ.dʱ</td>
+    <td>ŋ.bʱ</td>
+    <td>ŋ.ɦ~.ŋ</td>
+  </tr>
+  <tr>
+    <td>龈</td>
+    <td>t̚</td>
+    <td colspan="2">t̚.k͈</td>
+    <td colspan="2">t̚.t͈</td>
+    <td colspan="2">n.n</td>
+    <td rowspan="2">n.m</td>
+    <td colspan="2">t̚.p͈</td>
+    <td colspan="2">s.s͈</td>
+    <td colspan="2">t̚.t͈ɕ</td>
+    <td>t̚.tɕʰ</td>
+    <td>t̚.kʰ</td>
+    <td>t̚.tʰ</td>
+    <td>t̚.pʰ</td>
+    <td>.tʰ</td>
+  </tr>
+  <tr>
+    <td>ᆫ -n</td>
+    <td>n</td>
+    <td>n.ɡ</td>
+    <td>n.k͈</td>
+    <td>n.d</td>
+    <td>n.t͈</td>
+    <td>n.n</td>
+    <td>l.l</td>
+    <td>n.b</td>
+    <td>n.p͈</td>
+    <td>n.s</td>
+    <td>n.s͈</td>
+    <td>n.dʑ</td>
+    <td>n.t͈ɕ</td>
+    <td>n.dʑʱ</td>
+    <td>n.ɡʱ</td>
+    <td>n.dʱ</td>
+    <td>n.bʱ</td>
+    <td>n.ɦ~.n</td>
+  </tr>
+  <tr>
+    <td>ᆯ -r</td>
+    <td>l</td>
+    <td>l.ɡ</td>
+    <td>l.k͈</td>
+    <td>l.d</td>
+    <td>l.t͈</td>
+    <td colspan="2">l.l</td>
+    <td>l.m</td>
+    <td>l.b</td>
+    <td>l.p͈</td>
+    <td>l.s</td>
+    <td>l.s͈</td>
+    <td>l.dʑ</td>
+    <td>l.t͈ɕ</td>
+    <td>l.dʑʱ</td>
+    <td>l.ɡʱ</td>
+    <td>l.dʱ</td>
+    <td>l.bʱ</td>
+    <td>l.ɦ~.ɾ</td>
+  </tr>
+  <tr>
+    <td>双唇</td>
+    <td>p̚</td>
+    <td colspan="2">p̚.k͈</td>
+    <td colspan="2">p̚.t͈</td>
+    <td colspan="2" rowspan="2">m.n</td>
+    <td rowspan="2">m.m</td>
+    <td colspan="2">p̚.p͈</td>
+    <td colspan="2">p.s͈</td>
+    <td colspan="2">p̚.t͈ɕ</td>
+    <td>p̚.tɕʰ</td>
+    <td>p̚.kʰ</td>
+    <td>p̚.tʰ</td>
+    <td>p̚.pʰ</td>
+    <td>.pʰ</td>
+  </tr>
+  <tr>
+    <td>ᆷ -m</td>
+    <td>m</td>
+    <td>m.ɡ</td>
+    <td>m.k͈</td>
+    <td>m.d</td>
+    <td>m.t͈</td>
+    <td>m.b</td>
+    <td>m.p͈</td>
+    <td>m.s</td>
+    <td>m.s͈</td>
+    <td>m.dʑ</td>
+    <td>m.t͈ɕ</td>
+    <td>m.dʑʱ</td>
+    <td>m.ɡʱ</td>
+    <td>m.dʱ</td>
+    <td>m.bʱ</td>
+    <td>m.ɦ~.m</td>
+  </tr>
+</tbody>
+</table>
+
+注：
+
+1. 末尾的软颚音：ᆨ g, ᄁ kk, ᆿ k
+2. 末尾的龈音：ᆮ d, ᇀ t, ᆺ s, ᆻ ss, ᆽ j, ᆾ ch
+3. 末尾的双唇音：ᆸ b, ᇁ p
+
+可见：
+
+* 清不送气塞音与 /h/ 在浊音 /m, n, ŋ, l/ 后浊化。浊化产生的 [ɦ] 还易减音。
+* 清不送气塞音在阻碍音（[k̚, t̚, p̚]）后时变为紧音，即：/kt/ -> [k̚t͈]。
+* 紧音与鼻塞音不受上述两点影响。但 /n/ 在 /l/ 后时同化为 /l/。
+* /h/ 后，清不送气塞音变为送气，/s/ 紧化，/n/ 不变。
+* /l/ 变化丰富。在另一个 /l/ 后时，不发生变化。在 /n/ 后时，它让 /n/ 后退同化为 l。在其他辅音后时，则变为 [n]。即：종로 |tɕoŋlo| -> /tɕoŋno/。
+* （发音方法同化）在鼻塞音前的阻碍音变为鼻塞音，但发音部位不变。软颚塞音（k/g/kk）变为 [ŋ]；龈音（t/d/tt）变为 [n]，双唇音（p/b/pp）变为 [m]。即：한국말 |hankukmal| -> /hankuŋmal/ -> [hanɡuŋmal]。
+* 擦音 /s, s͈/ 前的龈阻碍音同化为擦音，形成长辅音。即：|tʰs| -> /ss͈/ -> [s͈ː]。字末的 /h/ 在发音方法和部位上都发生同化，即：|hC| 为长辅音（C为塞音时则有送气）。龈响音 /n/ 与 /l/ 无论哪个在前，一律同化为 /l/，即：|nl| 与 |ln| -> [lː]。
+
+上述规则是有例外的。浊音也可使后继辅音紧化，而非浊化，特别是在 |ls| 与 |ltɕ|（-> [ls͈] 与 [lt͈ɕ]）中，但不限于这两者。例：겨울방학 |kjʌ.ulpaŋhak| -> [kjʌulp͈aŋak̚]、참동안 |tɕʰamtoŋan| -> [tɕʰamt͈oŋan]、외장간으로 |wejaŋkanɯlo| -> [wejaŋk͈anɯɾo]。
+
+同化产生的长阻碍音 [k̚k͈]、[ss͈]、[p̚pʰ] 和 [t̚tɕʰ]（即 [k͈ː]、[s͈ː]、[pʰː]、[tːɕʰ]）在快读时常弱化为 [k͈]、[s͈]、[pʰ] 和 [tɕʰ]。异器的阻碍音组合，如 [k̚p͈]、[t̚kʰ]，也可同化为同器的长辅音 [p͈ː]、[kːʰ] 并进一步弱化为 [p͈]、[kʰ]，但不如前者常见。
+
+上述辅音同化规则也像上节「元音引发的同化」中提到的一样，受到第二辅音后的元音的影响。即：|ts|、|hs| 在 /i/ 和 /j/ 前时，颚化为 [ɕɕ͈]（[ɕ͈ː]）；|hk| 与 |lkʰ| 在 /ɯ/ 前时，分别塞擦音化为 [kx] 和 [lkx]；词素末的 |ht|、|s͈h| 与 |th| 在词素间时，颚化为 [t̚tɕʰ] 和 [tɕʰ]；等等。
+
+谚文书写是基于词素的，基本上不反映出辅音同化的过程。要想掌握韩语口语对话，就需要对上述的同化规则有较深的了解。
+
+@tab 音节结构
+
+韩语音节可容许的最长结构为/CgVC/，即辅音＋介音（/j/、/w/）＋元音＋辅音。除 /ŋ/ 以外的辅音都可见于音节首，但只有 /p, t, k, m, n, ŋ, l/ 可处于音节末。元音间可出现两个辅音组成的复辅音。
+
+实际上，从谚文的书写也可看出，词素（特别是固有词素）还有很多是以 CC 辅音丛结构结尾的。这样的辅音丛在词单念时，只念出其中的一个辅音：如果一个辅音为 /h/，则将其省略掉，读出另一个辅音；其他情况下则省略其中的舌面前音。如果是由两个舌面前音组成的辅音丛，则不念出清音（/s, tʰ, tɕ/），念出 /n/ 或 /l/。即没有单词素中的辅音丛在单念时会念为 [t̚]。
+
+只有在后接以元音开头的音节时，辅音丛才会完全表现出来。
+
+<table>
+<thead>
+  <tr>
+    <th>辅音丛 </th>
+    <th>ㄳ<br>gs </th>
+    <th>ㄺ<br>lg </th>
+    <th>ㄵ<br>nj </th>
+    <th>ㄶ<br>nh </th>
+    <th>ㄼ<br>lb </th>
+    <th>ㄽ<br>ls </th>
+    <th>ㄾ<br>lt </th>
+    <th>ㅀ<br>lh </th>
+    <th>ㅄ<br>bs </th>
+    <th>ㄿ<br>lp </th>
+    <th>ㄻ<br>lm </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>位于词中 </td>
+    <td>[k̚s͈] </td>
+    <td>[lɡ] </td>
+    <td>[ndʑ] </td>
+    <td>[n(ɦ)] </td>
+    <td>[lb] </td>
+    <td>[ls] </td>
+    <td>[ldʱ] </td>
+    <td>[l(ɦ)] </td>
+    <td>[p̚s͈] </td>
+    <td>[lbʱ] </td>
+    <td>[lm] </td>
+  </tr>
+  <tr>
+    <td>位于词末 </td>
+    <td colspan="2">[k̚] </td>
+    <td colspan="2">[n] </td>
+    <td colspan="4">[l] </td>
+    <td colspan="2">[p̚] </td>
+    <td>[m] </td>
+  </tr>
+</tbody>
+</table>
+
+如果辅音丛后接的是辅音，则先按照上表推出辅音丛的表现形式，然后根据上节推测出辅音丛表现形式与后继辅音的同化结果。不过，被省略的辅音可能对后接辅音有影响。如果辅音丛中被省略的辅音是阻碍音，则后继辅音紧化。如果后继辅音为塞音，则被省略的 |h| 会使其送气化。受语义限制，实际上可出现的组合是有限的。
+
+例：|lh-tɕ| = [ltɕʰ]、|nh-t| = [ntʰ]、|nh-s| = [ns͈]、|ltʰ-t| = [lt͈]、|ps-k| = [p̚k͈]、|ps-tɕ| = [p̚t͈ɕ]、|ps-n| = [mn]（因 /s/ 对 /n/ 无影响）、|ks-h| = [kʰ]。
+
+如果第二和第三个辅音为同器的阻碍音，则两者合并为紧音或送气音。前面若有 |l|，则 /l/ 有时不省略：|lk-k| = [lk͈]，这与具体的词有关。
+
+|l| 被省略时对后继辅音无影响：|lk-t| = [k̚t͈]、|lk-tɕ| = [k̚t͈ɕ]、|lk-s| = [k̚s͈]、|lk-n| = [ŋn]、|lm-t| = [md]、|lp-k| = [p̚k͈]、|lp-t| = [p̚t͈]、|lp-tɕ| = [p̚t͈ɕ]、|lpʰ-t| = [p̚t͈]、|lpʰ-tɕ| = [p̚t͈ɕ]、|lp-n| = [mn]。
+
+就元音而言，则 /*jø, *jɯ, *ji, *wo, *wɯ, *wu/ 一类的组合是不被允许的。워虽然转写为 wo，它实际代表的是 /wʌ/ 音。半元音 [ɰ] 只见于 /ɰ͡i/ 二合元音中。
+
+双收音ㄼ，在词尾或在下一字的辅音前，一般情况收“ㄹ”，特例时收“ㅂ”。
+
+@tab 音高重音
+
+现代标准朝鲜语遵循一定的高低音语调规则。在多音节词汇中，第二音节语调更高，之后音节的语调渐次降低。首个音节若是紧音（ㅃ, ㅉ, ㄸ, ㄲ, ㅆ），送气音（ㅍ, ㅊ, ㅌ, ㅋ）或ㅅ, ㅎ两个音开头，则首音节和第二音节同样读高平语调；若是其他音ㅂ, ㅈ, ㄷ, ㄱ, ㅁ, ㄴ, ㄹ, ㅇ 开头，首音节的语调就是由低到高的升调。
+
+:::
