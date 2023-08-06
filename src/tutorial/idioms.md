@@ -127,9 +127,13 @@ Wagtái tula (sio) la’o.
 
 或「不用（对我）客气」或「你太客气了」，如：
 
-Su enšwusortá.
+Su enšwudortá.
 You're showing too much politeness.
 你太客气了。
+
+Einšwudái.
+You are welcome.
+不要客气。
 
 ## 欢迎
 

@@ -2,13 +2,11 @@
 title: 数词应用
 ---
 
-## 数词应用
-
 数字读法是用上述构形词加以下所需变化：
 
 基位数（百-万-亿…）用部分格（-ui），随后较大数（1\~99）用伴随格（-ëi+'-），较小数（1\~99）加 <abbr>COO</abbr> 词缀「附加並列」(-ň)。
 
-超过 199 的数常省略 wa<b>gz</b>ui (百-部分格)，类似英语口语习惯说<q>three twelve</q>代替<q>three hundred and twelve</q>。但 New Ithkuil 里这种省略是首选，wagzui 只出现在较大数目中为免模糊。
+超过 199 的数常省略 wa<b>gz</b>ui（百-部分格），类似英语口语习惯说<q>three twelve</q>代替<q>three hundred and twelve</q>。但 New Ithkuil 里这种省略是首选，wagzui 只出现在较大数目中为免模糊。
 
 例：
 
@@ -29,7 +27,7 @@ title: 数词应用
     <dd>29</dd>
   </dl>
   <div class="glend">42,29 或 4229</div>
-  <div class="expln">四<sub>十</sub>二 (百) 廿九</div>
+  <div class="expln">四<sub>十</sub>二（百）廿九</div>
   <dl class="gloss">
     <dt>cpalärsa</dt>
     <dd>S1​-“set​/group of six entities”​-TNX​/2₁</dd>
@@ -56,7 +54,7 @@ title: 数词应用
     <dd>66</dd>
   </dl>
   <div class="glend">26,97,66 或 26,9766</div>
-  <div class="expln">廿六 万 [带]九<sub>十</sub>七 (百) 六<sub>十</sub>六</div>
+  <div class="expln">廿六 万 [带]九<sub>十</sub>七（百）六<sub>十</sub>六</div>
   <dl class="gloss">
     <dt>wallärsa</dt>
     <dd>S1​-“set​/group of one”​-TNX​/2₁</dd>
@@ -114,7 +112,7 @@ title: 数词应用
   <div class="glend">七<sub>十</sub>二 百 又 七<sub>十</sub>九 亿 [带] 三 百 又 五<sub>十</sub>三 万 [带] 卅四 六十</div>
 </div>
 
-### 单位数列表
+## 单位数列表
 
 这里引入单位数列表以方便转换，注意使用了词干零概括：
 
@@ -301,11 +299,11 @@ $N^{3^{27}}$ -osduosduosd-
 3. ?
 4. ?
 
-### 数量和命名
+## 数量和命名
 
 数词用来表示有几个东西时，该名词用部分格，因数词本身是作为数目表达的「中心词」。如「十二个盒子」在 New Ithkuil 里是「盒子的 12 个」，或更自然点是「盒子的一打」：waksars waskui。
 
-数词作为独立构形词的另一个句法作用是，一个数字可用作标签或标识符，比如「216房」。数字的这种用法不太像是次序性的(否则会用到「序数词」，即每个数词词根的词干三)，倒像是编制性的(像旅馆房间号码的三维阵列)。New Ithkuil表达这种编制式标签用对比格 <abbr>CMP</abbr>或作为格 <abbr>ESS</abbr>，二者的选择取决于是为了跟其他同类区分还是纯为命名引用：
+数词作为独立构形词的另一个句法作用是，一个数字可用作标签或标识符，比如「216房」。数字的这种用法不太像是次序性的（否则会用到「序数词」，即每个数词词根的词干三），倒像是编制性的（像旅馆房间号码的三维阵列）。New Ithkuil表达这种编制式标签用对比格 <abbr>CMP</abbr>或作为格 <abbr>ESS</abbr>，二者的选择取决于是为了跟其他同类区分还是纯为命名引用：
 
 <div class="indent">
   <dl class="gloss">

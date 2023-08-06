@@ -215,7 +215,7 @@
     <dd>IND</dd>
 </dl>
 <div class="glend"><q>The clown (deliberately) makes themself angry.</q></div>
-<div class="expln">小丑(故意)使自己生气</div>
+<div class="expln">小丑（故意）使自己生气</div>
 
 --
 
@@ -241,7 +241,7 @@
     <dd>EFF</dd>
 </dl>
 <div class="glend"><q>The clown has (deliberately) started/caused something that makes someone angry.</q></div>
-<div class="expln">小丑(故意)做些什么激怒某人</div>
+<div class="expln">小丑（故意）做些什么激怒某人</div>
 
 --
 
@@ -254,7 +254,7 @@
     <dd>ERG</dd>
 </dl>
 <div class="glend"><q>The clown (deliberately) anger someone.</q></div>
-<div class="expln">小丑(故意)激怒人</div>
+<div class="expln">小丑（故意）激怒人</div>
 
 --
 

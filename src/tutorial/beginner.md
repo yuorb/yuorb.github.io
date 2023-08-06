@@ -2,8 +2,6 @@
 title: New Ithkuil 简明教学
 ---
 
-## New Ithkuil 简明教学
-
 ## 词类
 
 New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip label="Adjuncts">小词</tooltip>、<tooltip label="Referentials">指代词</tooltip>。
@@ -92,7 +90,6 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <div class="expln">若没有一颗钉子<br>（若非格）</div>
 
 :::
-
 
 变更复合语素 `Ca`{style="background-color: #7f47dd; color: var(--white);"} 以描述事物的：
 

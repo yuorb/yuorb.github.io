@@ -12,7 +12,7 @@ title: 句法·词汇·语义
 * 语用角色：指词语相对于谓语或句子其余部分的功能，即关于其是否及如何代表「已知」或「新」的信息。这些角色通常有三种：话题、评论、焦点。
 * 句法关系：指词序规则，不论具体语义或语用角色。
 
-任何一门语言的句法 (1)确立其合法的句法关系，或(2)反映/强化语义角色，或(3)反映/强化语用角色，或(4)以上任何组合。例如英语的句子通常主语在动词前，直接宾语在动词后。它的句法偏重确立句法关系，几乎不反映语义角色，也很少反映语用角色(一个例外是特殊疑问词几乎总是位于句首)，不过这些角色倒是常常会用「超音段」的方法，即音高、语调的变化来表示。
+任何一门语言的句法：(1)确立其合法的句法关系，或(2)反映/强化语义角色，或(3)反映/强化语用角色，或(4)以上任何组合。例如英语的句子通常主语在动词前，直接宾语在动词后。它的句法偏重确立句法关系，几乎不反映语义角色，也很少反映语用角色（一个例外是特殊疑问词几乎总是位于句首），不过这些角色倒是常常会用「超音段」的方法，即音高、语调的变化来表示。
 
 我们已经知道 New Ithkuil 是如何使用众多的格在构词上反映语义角色。既然句法关系是一门语言任意决定的，New Ithkuil 的词序便主要用于反映语用角色，即句子的话题/焦点。此外也有一些必要的词序限制以避免歧义。
 
@@ -166,7 +166,7 @@ New Ithkuil 使用词序完成同样的选择：话题置于句首，焦点直�
 
 New Ithkuil 没有象似性。虽然它的词序可能会碰巧反映临时或原因性的事件次序，但这与句法设计无关。它已有多种手段在构词上区分次序、因果、结果状态、领受者与临时接收者，因此不需要象似性。
 
-New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Affixes 及 Coordinative and Connective Affixes）非常具体地表达不同的並列和次序样式：有表示简单列举的「及」(梨和苹果和香蕉)，有表示同时性的「並」（我握紧拳头並怒视），有表示附加信息的「且」（小丑喜欢孩子，且喜欢吃东西），有表示平行描述或活动的「而」（我们去跳舞，而他们也去）, 还有表示描述性次序的「並」(我去窗口並向外看)。
+New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Affixes 及 Coordinative and Connective Affixes）非常具体地表达不同的並列和次序样式：有表示简单列举的「及」（梨和苹果和香蕉），有表示同时性的「並」（我握紧拳头並怒视），有表示附加信息的「且」（小丑喜欢孩子，且喜欢吃东西），有表示平行描述或活动的「而」（我们去跳舞，而他们也去）, 还有表示描述性次序的「並」（我去窗口並向外看）。
 
 ## 形态语义上的考虑
 
@@ -261,7 +261,7 @@ New Ithkuil 里，控制否定词缀对构形词的管辖关系，可准确说�
 
 * 我不想继续唱歌。Ire ellyumčöjjalzá la’i.
 * 我想继续不唱歌。Iru ellyumčöjjalzá la’i.
-* 我想不继续(不再)唱歌。Ira ellyumčöjjalzá la’i.
+* 我想不继续（不再）唱歌。Ira ellyumčöjjalzá la’i.
 
 </div>
 
@@ -556,7 +556,7 @@ New Ithkuil 的语法内在认同宇宙从宏观到微观无时无刻不处在�
 
 欧洲语言的 being/être/Sein 等词的概念本身带「存在」之意（there is），且既用于身份命名（is a tree），又用于性质或状态描述（is tall）等，故有本段说法（认为西语倾向于把身份/性质/状态等同于存在），虽有夸张之嫌（作者似乎忽略了「时态」的概念）
 
-汉语的「是」本身带判断之意(是的)，用于身份命名(是树)，但不用于性质状态描述（「树高」与「树生长」「树摇晃」等同属谓句结构。「树是高的」这种句型应属舶来品；或者你可以认为它与「俺是耕田的」结构类似，虽然这些其实带有惯常属性的意思）
+汉语的「是」本身带判断之意（是……的），用于身份命名（是树），但不用于性质状态描述。「树高」与「树生长」「树摇晃」等同属谓句结构。「树是高的」这种句型应属舶来品；或者你可以认为它与「俺是耕田的」结构类似，虽然这些其实带有惯常属性的意思。
 
 :::
 
@@ -575,9 +575,91 @@ New Ithkuil 的系词性词根 -Č- 只用于这些情况（编号同词干数�
 
 ### 翻译「有」(to have)
 
-New Ithkuil 把「拥有」的概念拆分为若干更具体的功能状态和类别（见词根 -ŘK- & -ŘKW- 及若干个邻置格），分别独立运作，彼此无甚关系。中性默认的表达「有」的方法是把拥有者放到[与有格]，拥有对象用[表态功能]，于是「我有一本书」大概翻译成「有一本书于我」。
+New Ithkuil 把「拥有」的概念拆分为若干更具体的功能状态和类别（见词根 -ŘK- & -ŘKW- 及若干个邻置格），分别独立运作，彼此无甚关系。
 
-<!-- (Ëiltánļ tü) -->
+一般表达「有」的方法有很多，下面介绍利用格·格式·格辅·格叠加的方式。
+
+1. 把拥有者放到**主事格**（如果涉及状态变化或状态体验，可考虑其他论元格），而拥有对象加上适当一种**邻置正格辅**并改成**动词**形式，于是「我有一本书」大概翻译成「存在一本书的拥有者，其是我」，即「我是一本书的拥有者」。
+
+<div class="indent">
+    <dl class="gloss">
+      <dt>Eňtyarkaiswá</dt>
+      <dd>S2-“written page”-COA.MSC-(acc:POS)₁-OBS</dd>
+    </dl>
+    <dl class="gloss">
+      <dt>la</dt>
+      <dd>1m-THM</dd>
+    </dl>
+    <div class="expln"><q>I’m the alienable/circumstantial possessor of the book</q></div>
+</div>
+
+2. 把拥有者放到适当一种**邻置格**（如果是**指代**，可选择以词缀形式放在构形词上；如果管辖次序正确，构形词也可转作**联构词**来修饰，并使用适当的**邻置格式**），而拥有对象改成动词形式，于是「我有一本书」大概翻译成「存在一本书，其拥有者是我」。
+
+<div class="indent">
+    <dl class="gloss">
+      <dt>Eňtyarká</dt>
+      <dd>S2-“written page”-COA.MSC-OBS</dd>
+    </dl>
+    <dl class="gloss">
+      <dt>lai.</dt>
+      <dd>1m-POS</dd>
+    </dl>
+    <dl class="gloss">
+      <dt>/</dt>
+    </dl>
+    <dl class="gloss">
+      <dt>Eňtyarkialá.</dt>
+      <dd>S2-“written page”-COA.MSC-(1m-POS)-OBS</dd>
+    </dl>
+    <div class="expln"><q>There is my book. / There is a book, possessed by me alienably or circumstantially.</q></div>
+</div>
+
+3. 把拥有者加上适当一种**邻置反格辅**并改成动词形式，而拥有对象放到**主事格**（如果涉及状态变化或状态体验，可考虑其他论元格），于是「我有一本书」大概翻译成「存在我所拥有的东西，其是书」，即「书是我所拥有的」。
+
+<div class="indent">
+    <dl class="gloss">
+      <dt>Laxaišwainļ</dt>
+      <dd>1m-(ia:POS)₁-(OBS)</dd>
+    </dl>
+    <dl class="gloss">
+      <dt>eňtyarka.</dt>
+      <dd>S2-“written page”-COA.MSC-THM</dd>
+    </dl>
+    <div class="expln"><q>The book is that which I alienably or circumstantially possesses</q></div>
+</div>
+
+4. 把拥有者加上适当一种**邻置格叠加**并改成动词形式，而拥有对象放到**主事格**（如果涉及状态变化或状态体验，可考虑其他论元格）；这意味着将格关系动词化，于是「我有一本书」大概翻译成「书『拥有于我』」。
+
+<div class="indent">
+    <dl class="gloss">
+      <dt>Waelailwá</dt>
+      <dd>1m-(case:POS)-OBS</dd>
+    </dl>
+    <dl class="gloss">
+      <dt>eňtyarka.</dt>
+      <dd>S2-“written page”-COA.MSC-THM</dd>
+    </dl>
+    <div class="expln"><q>The book is that which I alienably or circumstantially possesses</q></div>
+</div>
+
+搭配 -ŘK- & -ŘKW- 词根动词时，拥有对象用**刺激格**，表示触发存在性状态，而拥有者用**感事格**。
+
+<div class="indent">
+    <dl class="gloss">
+      <dt>Wořká</dt>
+      <dd>S0-“alienable possession/ownership”-OBS</dd>
+    </dl>
+    <dl class="gloss">
+      <dt>li</dt>
+      <dd>1m-AFF</dd>
+    </dl>
+    <dl class="gloss">
+      <dt>eňtyarkëi.</dt>
+      <dd>S2-“written page”-COA.MSC-STM</dd>
+    </dl>
+    <div class="glend"><q>I possess a book alienably.</q>/<q>The book triggers an existential state, i.e. alienable possession, that I experience.</q></div>
+    <div class="expln">存在可转让占有，该存在性状态由一本书所触发，由我体验</div>
+</div>
 
 ### 应答词「是/否」及其他叹词
 

@@ -274,6 +274,63 @@ iongr: /jʊ̃˞/ :yu\{Ṽ\}ˤ: （中派 /ɥʊ̃˞/）:ywu\{Ṽ\}ˤ:
 
 IPA 上下分别来自 **Standard Chinese (Beijing) 宽**和**UntPhesoca 宽**，见[普通话 IPA 转换工具](https://nk2028.shn.hk/putonghua-ipa-converter/)
 
+### 粤语
+
+使用[扩展粤拼](https://jyutjam.org/j++/)（兼容标准粤拼）作参考
+
+::: tabs
+
+@tab 声母
+
+| 扩展粤拼 | 转写 |
+| :---: | :---: |
+| b p m f bb rb mb ph vh | p ph m f b! b mb fh vh |
+| d t n l dd rd nd th rr | t th n l d! d nd ţ rr |
+| g k ng h gg rg ngg kh gh | k kh ň h g! g ňg x ř |
+| gw kw w | kw khw w |
+| gv kv v | gv kv v |
+| z c \* \* s rs sl | c ch tḷ tḷh s z ḷ |
+| zh ch sh | č čh š |
+| zr cr sr r nr | cr chr sr r nr|
+| zj cj nj sj nj | čy čç ny šy ny |
+| j hj jj gn | y ç ž ňy |
+| 无/q | (ʔ) h řh |
+
+@tab 韵母
+
+介音
+
+韵头
+
+| 扩展粤拼 | 转写 |
+| :---: | :---: |
+| i y ii u | y yw - w |
+
+韵腹
+
+| 扩展粤拼 | 转写 |
+| :---: | :---: |
+| i yu ur u | i ü u wu |
+| iw uw | i u |
+| ee eo ea oo | e ë ë o |
+| e oe o | e ö o |
+| ae a | ä ë |
+| aa oa | a a |
+
+韵尾
+
+| 扩展粤拼 | 转写 |
+| :---: | :---: |
+| i u | i u |
+| p t k h | p t k ʔ |
+| m n ng nn | m n ň {Ṽ} |
+
+独韵
+
+| 扩展粤拼 | 转写 |
+| :---: | :---: |
+| m n ng | m n ň |
+
 ### 切韵
 
 拼音用[切韵拼音（TUPA）](https://phesoca.com/tupa/)，拟音采用 [unt 切韵拟音 L](https://phesoca.com/aws/337/)。
