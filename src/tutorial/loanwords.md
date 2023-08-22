@@ -331,6 +331,8 @@ IPA 上下分别来自 **Standard Chinese (Beijing) 宽**和**UntPhesoca 宽**�
 | :---: | :---: |
 | m n ng | m n ň |
 
+:::
+
 ### 切韵
 
 拼音用[切韵拼音（TUPA）](https://phesoca.com/tupa/)，拟音采用 [unt 切韵拟音 L](https://phesoca.com/aws/337/)。
@@ -345,78 +347,78 @@ IPA 上下分别来自 **Standard Chinese (Beijing) 宽**和**UntPhesoca 宽**�
 
 | | 三  | 非三  |
 |:---: |:---: |:---: |
-| 帮 \<p\>  | p  | pˁ  |
-| 滂 \<ph\> | ph  | phˁ  |
-| 並 \<b\> | b  | bˁ  |
-| 明 \<m\> | m  | mˁ  |
+| 帮 ⟨p⟩  | p  | pˁ  |
+| 滂 ⟨ph⟩ | ph  | phˁ  |
+| 並 ⟨b⟩ | b  | bˁ  |
+| 明 ⟨m⟩ | m  | mˁ  |
 
 @tab 齒·齦
 
 | | 三  | 非三  |
 |:---: |:---: |:---: |
-| 端 \<t\> | -  | tˁ  |
-| 透 \<th\> | -  | thˁ  |
-| 定 \<d\> | -  | dˁ  |
-| 泥 \<n\> | -  | nˁ  |
-| 精 \<ts\> | c  | cˁ  |
-| 清 \<tsh\> | ch  | chˁ  |
-| 從 \<dz\> | ż  | żˁ  |
-| 心 \<s\> | s  | sˁ  |
-| 邪 \<z\> | z  | -  |
-| 來 \<l\> | l  | lˁ  |
+| 端 ⟨t⟩ | -  | tˁ  |
+| 透 ⟨th⟩ | -  | thˁ  |
+| 定 ⟨d⟩ | -  | dˁ  |
+| 泥 ⟨n⟩ | -  | nˁ  |
+| 精 ⟨ts⟩ | c  | cˁ  |
+| 清 ⟨tsh⟩ | ch  | chˁ  |
+| 從 ⟨dz⟩ | ż  | żˁ  |
+| 心 ⟨s⟩ | s  | sˁ  |
+| 邪 ⟨z⟩ | z  | -  |
+| 來 ⟨l⟩ | l  | lˁ  |
 
 @tab 捲舌
 
 | | 三·非三  |
 |:---: |:---: |
-| 知 \<tr\> | tr(ˁ)  |
-| 徹 \<trh\> | thr(ˁ)  |
-| 澄 \<dr\> | dr(ˁ)  |
-| 孃 \<nr\> | nr(ˁ)  |
-| 莊  \<dzr\> | cr(ˁ)  |
-| 初 \<tsrh\> | chr(ˁ)   |
-| 崇 \<dzr\> | żr(ˁ)  |
-| 生 \<sr\> | sr(ˁ)  |
-| 俟 \<zr\> | zr(ˁ)  |
-| 炎 \<y\> | r  |
-| 來 \<l\> | lr(ˁ)  |
+| 知 ⟨tr⟩ | tr(ˁ)  |
+| 徹 ⟨trh⟩ | thr(ˁ)  |
+| 澄 ⟨dr⟩ | dr(ˁ)  |
+| 孃 ⟨nr⟩ | nr(ˁ)  |
+| 莊  ⟨dzr⟩ | cr(ˁ)  |
+| 初 ⟨tsrh⟩ | chr(ˁ)   |
+| 崇 ⟨dzr⟩ | żr(ˁ)  |
+| 生 ⟨sr⟩ | sr(ˁ)  |
+| 俟 ⟨zr⟩ | zr(ˁ)  |
+| 炎 ⟨y⟩ | r  |
+| 來 ⟨l⟩ | lr(ˁ)  |
 
 
 @tab 腭
 
 | | 三  |
 |:---: |:---: |
-| 日 \<nj\> | n = ny  |
-| 章 \<tj\> | t = ty \> č  |
-| 昌 \<tjh\> | th = tç \> čh  |
-| 常 \<dj\> | d = dy \> j  |
-| 書 \<sj\> | š  |
-| 船 \<zj\> | ž  |
-| 以 \<j\> | y  |
+| 日 ⟨nj⟩ | n = ny  |
+| 章 ⟨tj⟩ | t = ty ⟩ č  |
+| 昌 ⟨tjh⟩ | th = tç ⟩ čh  |
+| 常 ⟨dj⟩ | d = dy ⟩ j  |
+| 書 ⟨sj⟩ | š  |
+| 船 ⟨zj⟩ | ž  |
+| 以 ⟨j⟩ | y  |
 
 @tab 軟腭·小舌
 
 | | 三  | 非三  |
 |:---: |:---: |:---: |
-| 見 \<k\> | k  | kˁ  |
-| 溪 \<kh\> | kh  | khˁ  |
-| 群 \<g\> | g  | -  |
-| 疑 \<ng\> | ň  | ňˁ  |
-| 曉 \<h\> | x  | xˁ  |
-| 匣 \<gh\> | -  | ř  |
-| 云 \<w\> | w  | -  |
+| 見 ⟨k⟩ | k  | kˁ  |
+| 溪 ⟨kh⟩ | kh  | khˁ  |
+| 群 ⟨g⟩ | g  | -  |
+| 疑 ⟨ng⟩ | ň  | ňˁ  |
+| 曉 ⟨h⟩ | x  | xˁ  |
+| 匣 ⟨gh⟩ | -  | ř  |
+| 云 ⟨w⟩ | w  | -  |
 
 @tab 喉
 
 | | 三 | 非三  |
 |:---: |:---: |:---: |
-| 影 \<q\> | ʔ  | ʔˁ  |
+| 影 ⟨q⟩ | ʔ  | ʔˁ  |
 
 :::
 
 #### 介音（等呼）
 
-介音有 -y(w)-, -r(w)-, -∅(w)-。分别对应三等·非三声母的 3a-4、3b-2、3c-1。等呼区分的详细细节参见[切韻新韻圖](https://phesoca.com/rime-table/)。
+介音有 -y(w)-、-r(w)-、-∅(w)-。分别对应三等·非三声母的 3a-4、3b-2、3c-1。等呼区分的详细细节参见[切韻新韻圖](https://phesoca.com/rime-table/)。
 
 由于卷舌·腭音组已经包括 -r- 和 -y-，拼的时候可省略韵母介音 -r- 和 -y-。
 
@@ -430,57 +432,57 @@ IPA 上下分别来自 **Standard Chinese (Beijing) 宽**和**UntPhesoca 宽**�
 
 |    | -y-  | -r-  | -∅-  | -w-  |
 |:---: |:---: |:---: |:---: |:---: |
-| /ɨj/  | 脂A \<(w)i\>  | 脂B \<yi,ui\>  | 微 \<yj\>  | 微 \<uj\>  |
+| /ɨj/  | 脂A ⟨(w)i⟩  | 脂B ⟨yi,ui⟩  | 微 ⟨yj⟩  | 微 ⟨uj⟩  |
 | :ëy:  | Cy(w)i  | Cr(w)i  | Ci  | Cui  |
-| /əj/  | 齐 \<(w)ej\> / 祭 \<(w)iej\>  | 皆 \<(w)eej\> / 祭 \<yej,uej\>  | 咍 \<eoj\> / 废 \<yoj\>  | 灰 \<oj\> / 废 \<uoj\>  |
+| /əj/  | 齐 ⟨(w)ej⟩ / 祭 ⟨(w)iej⟩  | 皆 ⟨(w)eej⟩ / 祭 ⟨yej,uej⟩  | 咍 ⟨eoj⟩ / 废 ⟨yoj⟩  | 灰 ⟨oj⟩ / 废 ⟨uoj⟩  |
 | :ëy:  | Qy(w)ei /Cy(w)ei  | Qr(w)ei / Cr(w)ei  | Qëi / C(w)ëi  | Qoi / Cwëi  |
-| /aj/  | -  | 夬 \<(w)aej\>  | 泰 \<aj\>  | 泰 \<waj\>  |
+| /aj/  | -  | 夬 ⟨(w)aej⟩  | 泰 ⟨aj⟩  | 泰 ⟨waj⟩  |
 | :ay:  | -  | Qr(w)äi  | Qai  | Qwai  |
-| /ɨe/  | 支 \<(w)ie\>  | 支 \<ye,ue\>  | -  | -  |
+| /ɨe/  | 支 ⟨(w)ie⟩  | 支 ⟨ye,ue⟩  | -  | -  |
 | :ëe:  | Cy(w)ie  | Cr(w)ie  | -  | -  |
-| /ɨn/  | 真 \<(w)in\>  | 臻 \<yin\>  | 殷 \<yn\>  | 文 \<un\>  |
+| /ɨn/  | 真 ⟨(w)in⟩  | 臻 ⟨yin⟩  | 殷 ⟨yn⟩  | 文 ⟨un⟩  |
 | :ën:  | Cy(w)in  | Crin  | Cin  | Cun  |
-| /ən/  | 先 \<(w)en\> / 仙 \<(w)ien\>  | 山 \<(w)een\> / 仙 \<yen,uen\>  | 痕 \<eon\> / 元 \<yon\>  | 魂 \<on\> / 元 \<uon\>  |
+| /ən/  | 先 ⟨(w)en⟩ / 仙 ⟨(w)ien⟩  | 山 ⟨(w)een⟩ / 仙 ⟨yen,uen⟩  | 痕 ⟨eon⟩ / 元 ⟨yon⟩  | 魂 ⟨on⟩ / 元 ⟨uon⟩  |
 | :ën:  | Qy(w)en / Cy(w)en  | Qr(w)en / Cr(w)en  | Qën / Cën  | Qon / Cwën  |
-| /an/  | -  | 删 \<(w)aen\>  | 寒 \<an\>  | 寒 \<wan\>  |
+| /an/  | -  | 删 ⟨(w)aen⟩  | 寒 ⟨an⟩  | 寒 ⟨wan⟩  |
 | :an:  | -  | Qr(w)än  | Qan  | Qwan  |
 
 @tab 钝音性韵尾
 
 |    | -y-  | -r-  | -∅-  | -(y/r)-  | -∅-  |
 |:---: |:---: |:---: |:---: |:---: |:---: |
-| /ɨ/  | 之 \<y\>  | 之 \<y\>  | 之 \<y\>  | 尤 \<u\>  | 侯  \<ou\>  |
+| /ɨ/  | 之 ⟨y⟩  | 之 ⟨y⟩  | 之 ⟨y⟩  | 尤 ⟨u⟩  | 侯  ⟨ou⟩  |
 | :ë:  | Cyë  | Crë  | Cë  | C(y/r)u  | Qu  |
-| /ə/  | -  | 佳 \<(w)ee\>  | -  | -  | 模 \<o\>  |
+| /ə/  | -  | 佳 ⟨(w)ee⟩  | -  | -  | 模 ⟨o⟩  |
 | :ë:  | -  | Qr(w)e  | -  | -  | Qo  |
-| /a/  | 麻 \<iae\>  | 麻 \<(w)ae\>  | -  | 歌 \<ya,ua\>  | 歌 \<(w)a\>  |
+| /a/  | 麻 ⟨iae⟩  | 麻 ⟨(w)ae⟩  | -  | 歌 ⟨ya,ua⟩  | 歌 ⟨(w)a⟩  |
 | \:a\:  | Cyä  | Qr(w)ä / Cr(w)ä  | -  | C(y/r)(w)a  | Q(w)a  |
-| /ɨə/  | 鱼 \<yo\>  | 鱼 \<yo\>  | 鱼 \<yo\>  | 虞 \<uo\>  | 虞 \<uo\>  |
+| /ɨə/  | 鱼 ⟨yo⟩  | 鱼 ⟨yo⟩  | 鱼 ⟨yo⟩  | 虞 ⟨uo⟩  | 虞 ⟨uo⟩  |
 | :ëë:  | Cyië  | Crië  | Cië  | C(y/r)uo  | Cuo  |
-| /ɨŋ/  | -  | 蒸 \<ying,uing\>  | 蒸 \<yng\>  | 东 \<ung\>  | 东 \<oung\>  |
+| /ɨŋ/  | -  | 蒸 ⟨ying,uing⟩  | 蒸 ⟨yng⟩  | 东 ⟨ung⟩  | 东 ⟨oung⟩  |
 | :ëň:  | -  | Cr(w)iň  | Ciň  | C(y/r)uň  | Quň  |
-| /əŋ/  | 青 \<(w)eng\>  | 耕 \<(w)eeng\>  | 登 \<eong,weong\>  | 江 \<oeung\> /  钟   \<uong\>  | 东 \<ong\> / 钟 \<uong\>  |
+| /əŋ/  | 青 ⟨(w)eng⟩  | 耕 ⟨(w)eeng⟩  | 登 ⟨eong,weong⟩  | 江 ⟨oeung⟩ /  钟   ⟨uong⟩  | 东 ⟨ong⟩ / 钟 ⟨uong⟩  |
 | :ëň:  | Qy(w)eň  | Qr(w)eň  | Q(w)ëň  | Qröň / C(y/r)oň  | Qoň  / Coň  |
-| /aŋ/  | 清 \<(w)iaeng\>  | 庚   \<(w)aeng\> / \<yaeng,uaeng\>  | -  | 阳 \<yang,uang\>  | 唐 \<(w)ang\>  |
+| /aŋ/  | 清 ⟨(w)iaeng⟩  | 庚   ⟨(w)aeng⟩ / ⟨yaeng,uaeng⟩  | -  | 阳 ⟨yang,uang⟩  | 唐 ⟨(w)ang⟩  |
 | :aň:  | Cy(w)äň  | Qr(w)äň / Cr(w)äň  | -  | C(y/r)(w)aň  | Q(w)aň  |
 
 @tab 唇音性韵尾
 
 |    | -y-  | -r-  | -∅-  |
 |:---: |:---: |:---: |:---: |
-| /ɨw/  | 幽 \<iw\>  | 幽 \<yiw\>  | -  |
+| /ɨw/  | 幽 ⟨iw⟩  | 幽 ⟨yiw⟩  | -  |
 | :ëw:  | Cyiu  | Criu  | -  |
-| /əw/  | 萧 \<ew\> / 宵 \<iew\>  | 宵 \<yew\>  | 豪 \<aw\>  |
+| /əw/  | 萧 ⟨ew⟩ / 宵 ⟨iew⟩  | 宵 ⟨yew⟩  | 豪 ⟨aw⟩  |
 | :ëw:  | Qyeu / Cyeu  | Creu  | Qëu  |
-| /aw/  | -  | 肴 \<aew\>  | -  |
+| /aw/  | -  | 肴 ⟨aew⟩  | -  |
 | :aw:  | -  | Qräu  | -  |
 | -  | -  | -  | -  |
 | -  | -  | -  | -  |
-| /ɨm/  | 侵 \<im\>  | 侵 \<yim\>  | -  |
+| /ɨm/  | 侵 ⟨im⟩  | 侵 ⟨yim⟩  | -  |
 | :ëm:  | Cyim  | Crim  | -  |
-| /əm/  | 添 \<em\> / 盐 \<iem\>  | 咸 \<eem\> / 盐 \<yem\>  | 覃 \<om\> / 严\<yom\>,凡\<uom\>  |
+| /əm/  | 添 ⟨em⟩ / 盐 ⟨iem⟩  | 咸 ⟨eem⟩ / 盐 ⟨yem⟩  | 覃 ⟨om⟩ / 严⟨yom⟩,凡⟨uom⟩  |
 | :ëm:  | Qyem / Cyem  | Qrem / Crem  | Qëm / Cëm,Pom  |
-| /am/  | -  | 衔 \<aem\>  | 谈 \<am\>  |
+| /am/  | -  | 衔 ⟨aem⟩  | 谈 ⟨am⟩  |
 | :am:  | -  | Qräm  | Qam  |
 
 :::
