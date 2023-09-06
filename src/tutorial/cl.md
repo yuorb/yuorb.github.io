@@ -551,7 +551,7 @@ A:  Wattráu.
 
 **列位 IX（填入尾音节重读）指示语为**
 
-本节课构形词的结尾表示所谓**语为**的概念，它指由一种由说话者所作的「语言行为」，即话语
+<!-- 本节课构形词的结尾表示所谓**语为**的概念，它指由一种由说话者所作的「语言行为」，即话语
 
 The ending of formatives in this lesson denotes a concept of so-called **illocution**, which refers to the type of “speech act” being made by a speaker, i.e. the purpose of the statement in terms of how the addressee is to interpret either its truth-value, or its requirements/demands upon the speaker in terms of a physical and/or psychological response.
 
@@ -1991,3 +1991,4 @@ almost always use PRC version.
 use more adjunct.
 
 Q: how many adjuncts can be applied to a formative?
+ -->
