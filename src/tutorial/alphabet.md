@@ -44,7 +44,7 @@ The table describes how each letter in the New Ithkuil alphabet is spelled and p
 | **Z** | ez | /ez/ | |
 | **Ẓ** | ẓe | /dze/ | |
 | **Ž** | ež | /ʒe/ | |
-| **’** | e’e | /eʔe/ | |
+| **ʼ** | eʼe | /eʔe/ | |
 
 † The letter ⟨q⟩ is rarely used except in loanwords.
 

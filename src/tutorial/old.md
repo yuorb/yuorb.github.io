@@ -111,7 +111,7 @@ New Ithkuil 使用词序完成同样的选择：话题置于句首，焦点直�
       <dt>→</dt>
     </dl>
     <dl class="gloss">
-      <dt>Ri’hlëimčëiřḑi</dt>
+      <dt>Riʼhlëimčëiřḑi</dt>
       <dd>NEG​/4₁​-{VIIDom}​-AP2​/5₁​-EXT​/5₁​-{VIISub}</dd>
     </dl>
     <dl class="gloss">
@@ -122,7 +122,7 @@ New Ithkuil 使用词序完成同样的选择：话题置于句首，焦点直�
       <dt>eřdmilu.</dt>
       <dd>S2​-“physician​/medical doctor”​-OBJ​-IND</dd>
     </dl>
-    <div class="glend"><q>If only the physician wouldn’t eat his food in one gulp like that.</q></div>
+    <div class="glend"><q>If only the physician wouldnʼt eat his food in one gulp like that.</q></div>
     <div class="expln">那医生别那样一个劲的吃才好。</div>
 </div>
 
@@ -195,7 +195,7 @@ New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Af
       <dd>S1-“ascending descending at a slant”-DYN-PRX.N.RPV-OBS</dd>
     </dl>
     <dl class="gloss">
-      <dt>wavňë’ifçu’a.</dt>
+      <dt>wavňëʼifçuʼa.</dt>
       <dd>S1-“valley”-DSZ/5₁-{Ca}-NAV</dd>
     </dl>
     <div class="glend"><q>The path through the canyon is steep.</q></div>
@@ -217,7 +217,7 @@ New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Af
 
 两组句子的句法样式相同，但(4b)词序不合法，(3b)同样的词序却没问题。这种区别的隐含原因在于语义角色。「分析师」能充当[领收者]的角色，「污渍」却不能（只是[方向性目标]，即溶剂应用处）。认知上，污渍不能像分析师「拥有」报告一样「拥有」溶剂。New Ithkuil 里，语义角色可用名词格标记明确定义，因此不会有(3b)(4b)这种句法不一致的句对。
 
-有时不是语义角色，而是一个论元关联隐含从句的问题。例如 He’s a tall president 意思是「他是个身材高的总统」。那为什么 He’s a likely president 意思不是「*他是个有可能的总统」？因为“tall”是描述相邻的对象“president”，“likely” 却不描述相邻的对象，毋宁说是描述该对象正在或将要参与的某个过程，即「竞选总统」。因此这两句英语里句法构成一样的话译到 New Ithkuil 时句法构成会很不一样：
+有时不是语义角色，而是一个论元关联隐含从句的问题。例如 Heʼs a tall president 意思是「他是个身材高的总统」。那为什么 Heʼs a likely president 意思不是「*他是个有可能的总统」？因为“tall”是描述相邻的对象“president”，“likely” 却不描述相邻的对象，毋宁说是描述该对象正在或将要参与的某个过程，即「竞选总统」。因此这两句英语里句法构成一样的话译到 New Ithkuil 时句法构成会很不一样：
 
 <div class="indent">
     <dl class="gloss">
@@ -229,10 +229,10 @@ New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Af
       <dd>S1-“degree of height”-PTT/6₂-N-OBS</dd>
     </dl>
     <dl class="gloss">
-      <dt>hruḑfiu-e’vkyiržuišmó’idde.</dt>
+      <dt>hruḑfiu-eʼvkyiržuišmóʼidde.</dt>
       <dd>T2​-S3​-“group of authorities recognized as a government”​-IDP​—S2​-“leader​/director”​-OBJ​-HRC​/9₂​-FRM​/7₂​-PRX​-COR\FRA</dd>
     </dl>
-    <div class="glend"><q>He’s a tall president.</q>[literally: There is much height to him who is the official supreme leader of the government.]</div>
+    <div class="glend"><q>Heʼs a tall president.</q>[literally: There is much height to him who is the official supreme leader of the government.]</div>
     <div class="expln">身为总统的他体验到很多高度 = 他是个高总统 / 他，作为总统，身材高大。</div>
 </div>
 
@@ -242,10 +242,10 @@ New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Af
       <dd>ma-THM</dd>
     </dl>
     <dl class="gloss">
-      <dt>hruḑfiu-e’vkyiržuišmoiggórẓ.</dt>
+      <dt>hruḑfiu-eʼvkyiržuišmoiggórẓ.</dt>
       <dd>T2​-S3​-“group of authorities recognized as a government”​-IDP​—S2​-“leader​/director”​-OBJ​-HRC​/9₂​-FRM​/7₂​-ICP​-PRB​/7₁​-OBS</dd>
     </dl>
-    <div class="glend"><q>He’s a likely president.</q>[literally: He is one who probably will begin to be the official supreme leader of the government.]</div>
+    <div class="glend"><q>Heʼs a likely president.</q>[literally: He is one who probably will begin to be the official supreme leader of the government.]</div>
     <div class="expln">他很有可能会开始当总统 = 他很有可能当选总统</div>
 </div>
 
@@ -257,11 +257,11 @@ New Ithkuil 里，控制否定词缀对构形词的管辖关系，可准确说�
 
 <div class="indent">
 
-原句：我想继续唱歌 Ellyumčöjjalzá la’i.
+原句：我想继续唱歌 Ellyumčöjjalzá laʼi.
 
-* 我不想继续唱歌。Ire ellyumčöjjalzá la’i.
-* 我想继续不唱歌。Iru ellyumčöjjalzá la’i.
-* 我想不继续（不再）唱歌。Ira ellyumčöjjalzá la’i.
+* 我不想继续唱歌。Ire ellyumčöjjalzá laʼi.
+* 我想继续不唱歌。Iru ellyumčöjjalzá laʼi.
+* 我想不继续（不再）唱歌。Ira ellyumčöjjalzá laʼi.
 
 </div>
 
@@ -273,10 +273,10 @@ New Ithkuil 里，控制否定词缀对构形词的管辖关系，可准确说�
       <dd>S2-“singing a song”-DYN-NEG/6₁-N-OBS</dd>
     </dl>
     <dl class="gloss">
-      <dt>wela’i.</dt>
+      <dt>welaʼi.</dt>
       <dd>S2-“human child”-ACT</dd>
     </dl>
-    <div class="glend"><q>The child doesn’t sing.</q>[because (s)he can’t, i.e., (s)he is mute].</div>
+    <div class="glend"><q>The child doesnʼt sing.</q>[because (s)he canʼt, i.e., (s)he is mute].</div>
     <div class="expln">孩子不能唱 [因他无法，比如他是哑巴]</div>
 </div>
 
@@ -286,10 +286,10 @@ New Ithkuil 里，控制否定词缀对构形词的管辖关系，可准确说�
       <dd>S2-“singing a song”-DYN-NEG/4₁-N-OBS</dd>
     </dl>
     <dl class="gloss">
-      <dt>wela’i.</dt>
+      <dt>welaʼi.</dt>
       <dd>S2-“human child”-ACT</dd>
     </dl>
-    <div class="glend"><q>The child doesn’t sing.</q> [even though (s)he can, i.e., (s)he chooses not to]</div>
+    <div class="glend"><q>The child doesnʼt sing.</q> [even though (s)he can, i.e., (s)he chooses not to]</div>
     <div class="expln">孩子不会唱 [能唱但选择不唱]</div>
 </div>
 
@@ -442,7 +442,7 @@ New Ithkuil 使用者在描述两个物体如何在空间中运动时，只需�
 
 <div class="indent">
     <dl class="gloss">
-      <dt>Walacëirga’o</dt>
+      <dt>Walacëirgaʼo</dt>
       <dd>S1-“adult human”-GID/1₁-MVT/5₁-CNR</dd>
     </dl>
     <dl class="gloss">
@@ -454,7 +454,7 @@ New Ithkuil 使用者在描述两个物体如何在空间中运动时，只需�
       <dd>T1-S2-“rapid ambulation (run, gallop)”-INS—S3-“from right, ahead, & above”-DYN-P27/3₁-RTR-OBS</dd>
     </dl>
     <dl class="gloss">
-      <dt>arctúda’o</dt>
+      <dt>arctúdaʼo</dt>
       <dd>S1-“observation”-DYN-PRX-CNR\FRA</dd>
     </dl>
     <dl class="gloss">
@@ -462,7 +462,7 @@ New Ithkuil 使用者在描述两个物体如何在空间中运动时，只需�
       <dd>1m-IND-THM-pa</dd>
     </dl>
     <dl class="gloss">
-      <dt>wafkwi’a.</dt>
+      <dt>wafkwiʼa.</dt>
       <dd>S1-“position right, behind, & below”-LOC</dd>
     </dl>
 </div>
@@ -520,11 +520,11 @@ New Ithkuil 使用者在描述两个物体如何在空间中运动时，只需�
 
 </div>
 
-左边的描述我如何发起行为，右边的描述物体如何运动。New Ithkuil 里，通常前者都会译成同一个单句「我使球向篮里结束移动」(Epřülá skeli’o lo wanzňe)<q>I made it end up inside the basket</q>。而后者除了施事者「我」省略外会译成同样的句子<q>It ended up inside the basket.</q>。
+左边的描述我如何发起行为，右边的描述物体如何运动。New Ithkuil 里，通常前者都会译成同一个单句「我使球向篮里结束移动」(Epřülá skeliʼo lo wanzňe)<q>I made it end up inside the basket</q>。而后者除了施事者「我」省略外会译成同样的句子<q>It ended up inside the basket.</q>。
 
 那么，那些描述扔球进篮的手段和球到篮里的不同轨道的一系列词怎么办？通常在 New Ithkuil 的话语里，这种区分会被视为不相干，因为它的语法对一切行为、事件、状况探问的都是其基本认知意图。上述句子被视为有着同样的基本意图，即表达「我使球以穿过我和篮之间的物理空间的方式从被我临时拥有的状态过渡到处于篮里的状态」，所以每对句子只有一种翻译。
 
-就在读者要以为 New Ithkuil 没能力区分上述各例句的细微意义时，应该指出，这种区分很容易通过添加词缀或词来实现。比如如果真的有必要指出球是「甩」进篮的，可以对上面一句加上表示这些意思的派生词缀：用手、迅速而猛烈到达、有较大幅度反弹；得 Epřülëizboţmözmüsmá skeli’o lo wanzňe <q>Using my hand in a sudden, subtle, recoil-like motion I caused it to move quickly away and end up forcefully inside the basket.</q>.
+就在读者要以为 New Ithkuil 没能力区分上述各例句的细微意义时，应该指出，这种区分很容易通过添加词缀或词来实现。比如如果真的有必要指出球是「甩」进篮的，可以对上面一句加上表示这些意思的派生词缀：用手、迅速而猛烈到达、有较大幅度反弹；得 Epřülëizboţmözmüsmá skeliʼo lo wanzňe <q>Using my hand in a sudden, subtle, recoil-like motion I caused it to move quickly away and end up forcefully inside the basket.</q>.
 
 虽然这多少准确传达了「甩」的细微意义，然而 New Ithkuil 一开始就让我们停下自问，其实真的有必要描述这些细节吗？毕竟日常情境中，上述句子如果不说「甩」而说「扔」「抛」「撇」等，受话者会认为你给的信息有任何不足或不够关键以理解其意图吗？这一切再次说明 New Ithkuil 词汇语义的活力：既然已经有一套复杂详尽的形态手段来传达高度的语义和认知细节，又何必多此一举地在词汇层面强调这种细节？所以 New Ithkuil 不仅在表达各层次的认知细节时远超西方语言的能力范围，也能在这些细节並非关键时让发话者能避免被迫提供它们。
 
@@ -590,7 +590,7 @@ New Ithkuil 把「拥有」的概念拆分为若干更具体的功能状态和�
       <dt>la</dt>
       <dd>1m-THM</dd>
     </dl>
-    <div class="expln"><q>I’m the alienable/circumstantial possessor of the book</q></div>
+    <div class="expln"><q>Iʼm the alienable/circumstantial possessor of the book</q></div>
 </div>
 
 2. 把拥有者放到适当一种**邻置格**（如果是**指代**，可选择以词缀形式放在构形词上；如果管辖次序正确，构形词也可转作**联构词**来修饰，并使用适当的**邻置格式**），而拥有对象改成动词形式，于是「我有一本书」大概翻译成「存在一本书，其拥有者是我」。
@@ -696,7 +696,7 @@ New Ithkuil 的语法使我们了解到，我们对日常生活经验的理解�
 
 <div class="indent">
     <dl class="gloss">
-      <dt>Wiose’ẓdua</dt>
+      <dt>Wioseʼẓdua</dt>
       <dd>S2.N-“[inanimate/abstract carrier]”-MET/3₁-{Ca}-CSD</dd>
       <dd>词干二/宇宙界-【无生·抽象载】-MET/3₁-观念格</dd>
     </dl>

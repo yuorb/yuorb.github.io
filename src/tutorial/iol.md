@@ -88,11 +88,11 @@ title: 语奥试题
   <span class="right">4598651367</span>
 </div>
 <div class="lr">
-  <span class="left">wolẓarsa [wogzui] wočkirsün očgalui wonsersë’i [wogzui] wocpirsün opcalui wokẓui wovrëirsë’i [wogzui] wostün okẓalui wopšörsë’i [wogzui] wozorsün opcalui woksürsë’i [wogzui] wollursün</span>
+  <span class="left">wolẓarsa [wogzui] wočkirsün očgalui wonsersëʼi [wogzui] wocpirsün opcalui wokẓui wovrëirsëʼi [wogzui] wostün okẓalui wopšörsëʼi [wogzui] wozorsün opcalui woksürsëʼi [wogzui] wollursün</span>
   <span class="right">19283746500564738291</span>
 </div>
 <div class="lr">
-  <span class="left">wočkursa [wogzui] wocporsün okẓalui wočgui wopšëirsë’i [wogzui] woksersün opcalui wočgui wovrarsë’i wogzui wočgui wollë’i wokẓui wozärsë’i [wogzui] wostirsün opcalui wonsörsë’i [wogzui] wolẓürsün</span>
+  <span class="left">wočkursa [wogzui] wocporsün okẓalui wočgui wopšëirsëʼi [wogzui] woksersün opcalui wočgui wovrarsëʼi wogzui wočgui wollëʼi wokẓui wozärsëʼi [wogzui] wostirsün opcalui wonsörsëʼi [wogzui] wolẓürsün</span>
   <span class="right">9876543210000000000123456789</span>
 </div>
 </div>

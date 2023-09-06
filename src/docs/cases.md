@@ -35,7 +35,7 @@
     * <span class="glend">the event (chain) that the ENABLER X initiates</span>
     <span class="expln">为 X 所间接导致的事件(链)；X 所致之事(链)</span>
 7. 施事格 <abbr>ERG</abbr>：o
-    * <span class="glend">the AGENT who/that X’s</span>
+    * <span class="glend">the AGENT who/that Xʼs</span>
     <span class="expln">行 X 者 / X 的施事者；施 X 者</span>
     * <span class="glend">that which the AGENT or FORCE X does/initiates</span>
     <span class="expln">为 X 所行/引发的；X 所施之(事)</span>
@@ -45,7 +45,7 @@
     * <span class="glend">that which the RECIPIENT X receives</span>
     <span class="expln">为 X 所接受的；X 所领之(事)</span>
 9. 自发格 <abbr>IND</abbr>：u
-    * <span class="glend">the AGENT who/that X’s him-/her-/itself</span>
+    * <span class="glend">the AGENT who/that Xʼs him-/her-/itself</span>
     <span class="expln">X 的自施自受者；自 X 者</span>
     * <span class="glend">that which the AGENT X does to him-/her-/itself</span>
     <span class="expln">为 X 所施于己的；X 自为之(事)</span>
@@ -99,7 +99,7 @@
 18. 部分格 <abbr>PAR</abbr>：ui
     * <span class="glend">that of which X is its apportioned or enumerated contents</span>
     <span class="expln">以 X 为其内容物/数量对象者</span>
-    * <span class="glend">that which is X’s apportioned or enumerated contents</span>
+    * <span class="glend">that which is Xʼs apportioned or enumerated contents</span>
     <span class="expln">作为 X 的内容物/数量对象的人·事·物</span>
     * 仅与另一个名词同置; 它不再独立表示「X 的某些/部分」。对于后一种含义，必须使用 <abbr>DGR</abbr>、<abbr>PTW</abbr>、<abbr>PTT</abbr>、<abbr>EXN</abbr>、<abbr>SUF</abbr>、<abbr>EXD</abbr>、<abbr>CNM</abbr>、<abbr>FEA/3</abbr> 或类似的词缀代替，或将 X 以 <abbr>PAR</abbr> 格式併入指表示 (X 的) 容器、数量或程度的名词中
 
@@ -129,16 +129,16 @@
     <span class="expln">X (事件)中所重视的一方</span>
     * <span class="glend">that which occurs or is done out of respect/deference, or for the sake of, X</span>
     <span class="expln">为了 X /出于其情分而发生的人·事·物</span>
-    * 从 Ithkuil 2004 重新引入. reintroduced to disambiguate phrases such as ‘I have a gift for your mother’ meaning either your mother is the intended recipient (BENEFACTIVE) or your mother is the motivating reason for the gift (DEFERENTIAL).
+    * 从 Ithkuil 2004 重新引入. reintroduced to disambiguate phrases such as “I have a gift for your mother” meaning either your mother is the intended recipient (BENEFACTIVE) or your mother is the motivating reason for the gift (DEFERENTIAL).
 23. 对立格 <abbr>CRS</abbr>：eë
-    * <span class="glend">that which substitutes for X or takes X’s place</span>
+    * <span class="glend">that which substitutes for X or takes Xʼs place</span>
     <span class="expln">X 的代替者</span>
     * <span class="glend">that for which X is substituted or whose place X takes</span>
     <span class="expln">X 所代替的人·事·物</span>
 24. 代表格 <abbr>TSP</abbr>：uö / öë
     * <span class="glend">that on whose behalf X occurs/is</span>
     <span class="expln">X 的代表人</span>
-    * <span class="glend">that which is (done) on X’s behalf</span>
+    * <span class="glend">that which is (done) on Xʼs behalf</span>
     <span class="expln">代表 X (作)的</span>
 25. 交换格 <abbr>CMM</abbr>：uo / öä
     * <span class="glend">that which is received in an act of exchange</span>
@@ -212,7 +212,7 @@
 
 废除格
 
-* IRRESPECTIVE <abbr>IRS</abbr> case: ‘whether X or not’, ‘whether or not X’, ‘regardless of X’ (previously named the RESTRICTIVE <abbr>RST</abbr>)
+* IRRESPECTIVE <abbr>IRS</abbr> case: “whether X or not”, “whether or not X”, “regardless of X” (previously named the RESTRICTIVE <abbr>RST</abbr>)
 
 @tab 连属格
 
@@ -261,7 +261,7 @@
     <span class="expln">将 X 与其他个体识别/区分者</span>
     * <span class="glend">the party identified by or distinguishable by X</span>
     <span class="expln">为 X 所识别/区分开的人·事·物</span>
-    * RELATIVE <abbr>RLT</abbr> case: ‘...which/that is/does X’ [creates the equivalent to a simple relative clause] 可以创造相当于简单关系从句的等效者
+    * RELATIVE <abbr>RLT</abbr> case: “...which/that is/does X” [creates the equivalent to a simple relative clause] 可以创造相当于简单关系从句的等效者
 
 </div>
 
@@ -269,7 +269,7 @@
 * Postulative <abbr>PTL</abbr> 合并于 Provisional <abbr>PVS</abbr>;
 * Abessive 无格 <abbr>ABE</abbr>, 以 <abbr>COM</abbr> 伴随格 + 否定后缀代替;
 * Exceptive 除外格 <abbr>EXC</abbr>, 以 <abbr>CTR</abbr> 词缀的<q>except (for) X; but (not) X; excluding X</q>代替
-* SEMBLATIVE <abbr>SBL</abbr> case = ‘as if (it were) X’. Distinguished from the ASSIMILATIVE to disambiguate phrases such as treat her as/like a princess having two different implications: (1) ‘...because she is a princess (or like one)’ [ASSIMILATIVE] or (2) ‘...even though she isn’t a princess (or doesn’t look/act/seem like one)’ [new SEMBLATIVE case]. 作为代替，以 <abbr>ESS</abbr> 和 <abbr>ASI</abbr> 区分.
+* SEMBLATIVE <abbr>SBL</abbr> case = “as if (it were) X”. Distinguished from the ASSIMILATIVE to disambiguate phrases such as treat her as/like a princess having two different implications: (1) “...because she is a princess (or like one)” [ASSIMILATIVE] or (2) “...even though she isnʼt a princess (or doesnʼt look/act/seem like one)” [new SEMBLATIVE case]. 作为代替，以 <abbr>ESS</abbr> 和 <abbr>ASI</abbr> 区分.
 * Conjunctive <abbr>CNJ</abbr> 用 <abbr>COM</abbr> + <abbr>PRL</abbr> 或 <abbr>CPL</abbr>配价代替
 
 @tab 系联格
@@ -292,11 +292,11 @@
     * <span class="glend">that, in whose role/name, X is/occurs</span>
     <span class="expln">以 X 为其身份的人·事·物</span>
 48. 目标格 <abbr>TRM</abbr>：eu
-    * <span class="glend">X’s goal; what X pursues as a goal</span>
+    * <span class="glend">Xʼs goal; what X pursues as a goal</span>
     <span class="expln">X 所追求的目标</span>
     * <span class="glend">the goal X</span>
     <span class="expln">目标 X</span>
-    * TERMINATIVE <abbr>TRM</abbr>: identifies a GOAL (whether circumstantial, sequential, figurative, spatial or temporal) [NOTE: the name TERMINATIVE has been reassigned from Ithkuil’s TERMINATIVE extension, which in turn has been renamed the ATTENTUATIVE in this language.]
+    * TERMINATIVE <abbr>TRM</abbr>: identifies a GOAL (whether circumstantial, sequential, figurative, spatial or temporal) [NOTE: the name TERMINATIVE has been reassigned from Ithkuilʼs TERMINATIVE extension, which in turn has been renamed the ATTENTUATIVE in this language.]
 49. 每逢格 <abbr>SEL</abbr>：ëu
     * <span class="glend">the recurring entity/period on/for/with which X occurs</span>
     <span class="expln">X 发生的反复存在/周期</span>
@@ -308,7 +308,7 @@
     <span class="expln">符合(规定) X 的人·事·物</span>
     * <span class="glend">that which X is pursuant to or in conformance with</span>
     <span class="expln">X 所符合的(规定)</span>
-    * ‘as per (the requirements of)’ = ‘in conformance with (the dictates of)’ = ‘as is necessitated by’ [split off from Ithkuil’s CONSIDERATIVE case]
+    * “as per (the requirements of)” = “in conformance with (the dictates of)” = “as is necessitated by” [split off from Ithkuilʼs CONSIDERATIVE case]
 51. 依赖格 <abbr>DEP</abbr>：oi
     * <span class="glend">that upon which the existence/occurrence of X depends</span>
     <span class="expln">X 的存在/发生所依赖的人·事·物</span>
@@ -325,16 +325,16 @@
 
 53. 位格 <abbr>LOC</abbr>：ia / uä
 
-    * <span class="glend">where X occurs/is (situated); X’s location</span>
+    * <span class="glend">where X occurs/is (situated); Xʼs location</span>
     <span class="expln">发生 X 的地点</span>
     * <span class="glend">that which is located, situated, or occurring at X</span>
     <span class="expln">位于 X 发生的人·事·物</span>
 54. 当场格 <abbr>ATD</abbr>：ie / uë
     * <span class="glend">that in whose presence which, X is/occurs</span>
     <span class="expln">X 发生的附近处</span>
-    * <span class="glend">that which is situated or occurring in X’s presence</span>
+    * <span class="glend">that which is situated or occurring in Xʼs presence</span>
     <span class="expln">在 X 面前发生的人·事·物</span>
-    * ‘in the presence of X’,‘before/with X’ = ‘in X’s presence’ [implies purposeful or a relational reference to X, different from LOCATIVE which only signifies location], e.g., the difference between ‘ *I am in my car* ’ (LOCATIVE) vs. ‘ *I am at my car* ’ (ATTENDANT), the latter implying “I’ve arrived at my car” or “My car is before me.” 在 X 面前.
+    * “in the presence of X”, “before/with X” = “in Xʼs presence” [implies purposeful or a relational reference to X, different from LOCATIVE which only signifies location], e.g., the difference between “ *I am in my car* ” (LOCATIVE) vs. “ *I am at my car* ” (ATTENDANT), the latter implying “Iʼve arrived at my car” or “My car is before me.” 在 X 面前.
 55. 向格 <abbr>ALL</abbr>：io / üä
     * <span class="glend">where X is headed/going toward</span>
     <span class="expln">X 所去处</span>
@@ -346,7 +346,7 @@
     * <span class="glend">that which is coming from or moving away from X</span>
     <span class="expln">来自 X 的人·事·物</span>
 57. 定向格 <abbr>ORI</abbr>：eë
-    * <span class="glend">that which serves as X’s orientational interface</span>
+    * <span class="glend">that which serves as Xʼs orientational interface</span>
     <span class="expln">作为 X 的定向面的人·事·物</span>
     * <span class="glend">that which is oriented, facing in the direction designated by X</span>
     <span class="expln">朝向 X 所指定的方向的人·事·物</span>
@@ -356,14 +356,14 @@
     <span class="expln">与 X 的发生相对处/时</span>
     * <span class="glend">that which occurs relative to the place/time designated by X</span>
     <span class="expln">相对于 X 所指定的地点/时间所发生的(事件)</span>
-    * ‘spatially/temporally relative to’ [taken from the 2nd function of Ithkuil 2011 CORRELATIVE case]
+    * “spatially/temporally relative to” [taken from the 2nd function of Ithkuil 2011 CORRELATIVE case]
 59. 起止格 <abbr>INV</abbr>：uo / öä
     * <span class="glend">the place/time since/until/between which, X is/occurs</span>
     <span class="expln">X 发生的起止时间点/ X 所发生的此处与彼处之间</span>
     * <span class="glend">that which occurs since, until, or between the place(s)/time(s) designated by X</span>
     <span class="expln">为在 X 所指定处或时间段发生的(事件)</span>
 60. 路径格 <abbr>NAV</abbr>：ua / iä
-    * <span class="glend">that which serves as X’s directional trajectory, path or way</span>
+    * <span class="glend">that which serves as Xʼs directional trajectory, path or way</span>
     <span class="expln">作为 X 的路径的人·事·物</span>
     * <span class="glend">that which is traveling along the directional trajectory, path or way designated by X</span>
     <span class="expln">沿着 X 指定的方向性轨迹、路径行驶的人·事·物</span>
@@ -422,7 +422,7 @@
 * Dffusive 时候格 <abbr>DFF</abbr> 合并于 <abbr>CNR</abbr>;
 * Interpolative 每间格 <abbr>INP</abbr> 以 <abbr>PRO</abbr> 代替;
 * Allapsive 以后格 <abbr>ALP</abbr> 并入 <abbr>ELP</abbr> (以时体区分以前vs.以后)
-* PRECURRENT <abbr>PRT</abbr> case = ‘there having first been X’ / ‘preceded by X’ (temporal or spatial)
+* PRECURRENT <abbr>PRT</abbr> case = “there having first been X” / “preceded by X” (temporal or spatial)
 
 :::
 

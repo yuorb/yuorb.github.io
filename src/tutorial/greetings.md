@@ -2,12 +2,12 @@
 
 ### 1月 · January
 * 新春の候、…… (In the beginning of the New Year, ...)
-* 初春の候、…… (In early spring, ...) : Zyaga'o
-* 頌春の候、…… (Celebrating the arrival of spring, ...) Hmäzyüë-wiappļa'o
+* 初春の候、…… (In early spring, ...) : Zyagaʼo
+* 頌春の候、…… (Celebrating the arrival of spring, ...) Hmäzyüë-wiappļaʼo
 * 厳寒の候、…… (In the severe cold, ...)
 * 厳冬の候、…… (In the harsh winter, ...)
 * 中冬の候、…… (In the middle of winter, ...)
-* 麗春の候、…… (In the beautiful spring, ...) Hurçädâ-zyada'o
+* 麗春の候、…… (In the beautiful spring, ...) Hurçädâ-zyadaʼo
 * 大寒のみぎり、…… (At the end of the coldest days, ...)
 * 酷寒のみぎり、…… (At the peak of the severe cold, ...)
 * 寒さ厳しき季節、…… (In this harshly cold season, ...)
@@ -144,15 +144,15 @@
 
 ## 安否の挨拶 · 贺词 · Salutation
 
-* 貴社ますますご盛栄のこととお慶び申し上げます。([We extend our ]Congratulations on your company’s increasing prosperity.)
-* 貴社ますますご清祥のこととお慶び申し上げます。([We extend our ]Congratulations on your company’s continued well-being.)
-* 貴社いよいよご清栄のこととお慶び申し上げます。([We extend our ]Congratulations on your company’s flourishing success.)
-* 貴社いよいよご清祥のこととお慶び申し上げます。([We extend our ]Congratulations on your company’s continued well-being.)
-* 貴社ますますご繁栄のこととお慶び申し上げます。([We extend our ]Congratulations on your company’s growing prosperity.)
-* 貴社いよいよご隆盛のこととお慶び申し上げます。([We extend our ]Congratulations on your company’s flourishing achievements.)
-* 貴社ますます御隆昌にてお慶び申し上げます。([We extend our ]Congratulations on your company’s continued prosperity.)
-* 貴店ますますご発展のこととお慶び申し上げます。([We extend our ]Congratulations on your store’s continued development.)
-* 貴行ますますご清栄のことお慶び申し上げます。([We extend our ]Congratulations on your bank’s continued prosperity.)
+* 貴社ますますご盛栄のこととお慶び申し上げます。([We extend our ]Congratulations on your companyʼs increasing prosperity.)
+* 貴社ますますご清祥のこととお慶び申し上げます。([We extend our ]Congratulations on your companyʼs continued well-being.)
+* 貴社いよいよご清栄のこととお慶び申し上げます。([We extend our ]Congratulations on your companyʼs flourishing success.)
+* 貴社いよいよご清祥のこととお慶び申し上げます。([We extend our ]Congratulations on your companyʼs continued well-being.)
+* 貴社ますますご繁栄のこととお慶び申し上げます。([We extend our ]Congratulations on your companyʼs growing prosperity.)
+* 貴社いよいよご隆盛のこととお慶び申し上げます。([We extend our ]Congratulations on your companyʼs flourishing achievements.)
+* 貴社ますます御隆昌にてお慶び申し上げます。([We extend our ]Congratulations on your companyʼs continued prosperity.)
+* 貴店ますますご発展のこととお慶び申し上げます。([We extend our ]Congratulations on your storeʼs continued development.)
+* 貴行ますますご清栄のことお慶び申し上げます。([We extend our ]Congratulations on your bankʼs continued prosperity.)
 * ますます御健勝のこととお慶び申し上げます。([We extend our ]Congratulations on your good health and well-being.)
 * 時下ますますご清祥の段、お慶び申し上げます。([We extend our ]Congratulations during this auspicious time.)
 
@@ -182,7 +182,7 @@
 ## 結び言葉 · 结束语 · Closing Phrases
 
 * まずは右まで。 (Thank you for your attention.)
-* まずは用件のみ。 (That’s all for now.)
+* まずは用件のみ。 (Thatʼs all for now.)
 * 乱筆お許しください。 (Please forgive any messy writing.)
 * 乱筆乱文ご容赦。 (Please excuse the messy handwriting.)
 * ご自愛のほど祈ります。 (Take care of yourself.)

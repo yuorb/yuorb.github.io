@@ -59,21 +59,21 @@ Hopefully, things are well with you.
 希望你还好。
 
 Li wažfëitha.
-I’m doing fine.  (literally:  I’m in acceptable health.)
+Iʼm doing fine.  (literally:  Iʼm in acceptable health.)
 我健康状况还好。
 
 Li ëitha.
-I’m fine.
+Iʼm fine.
 我还好。
 
 Ažfa.
-I’m healthy.
+Iʼm healthy.
 无恙。/ 很健康。
 
 「别来无恙。」可以翻译为
 
-Walpyáu wažfóëhëi si wettrawu’o.
-You're looking as healthy as ever, nice to see you again. / I trust you have been well since we last met.
+Walpyáu wažfóëhëi si wettrawuʼo.
+Youʼre looking as healthy as ever, nice to see you again. / I trust you have been well since we last met.
 很高兴上次道别以来你还如往常般健康。
 
 ## 道别
@@ -122,13 +122,13 @@ I offer you my gratitude in exchange for your kindness.
 
 也能以「我很乐意为你服务」「这是我应该做的」之类的句子回应。
 
-Wagtái tula (sio) la’o.
+Wagtái tula (sio) laʼo.
 （为你做）这是我的义务。/我应（为你）做此。
 
 或「不用（对我）客气」或「你太客气了」，如：
 
 Su enšwudortá.
-You're showing too much politeness.
+Youʼre showing too much politeness.
 你太客气了。
 
 Einšwudái.
@@ -156,7 +156,7 @@ I feel welcome.
 ## 介绍·称呼
 
 Wadná lëi hla Maik.
-I'm Mike.
+Iʼm Mike.
 我名字是麦克。我有名字，麦克。
 
 Ňňs, wadnái lü hla Maik.
@@ -172,7 +172,7 @@ Are you Mike?
 你叫作麦克？
 
 Mmaxinļ adniloësa.
-What's your name?
+Whatʼs your name?
 你的名字是什么？
 
 Malái lü adniloësa.
@@ -183,7 +183,7 @@ Tell me your name.
 
 注意以下的动词「去」都用了宇宙界，表明这是持续发生的情况，而不涉及特定实例或活动的发生。事实上，指的是所有可能的实例或活动。
 
-Mmä wiatréi su arţtudëužči’o?
+Mmä wiatréi su arţtudëužčiʼo?
 How do you go to school?
 你怎么[以何为手段/工具]去学校？
 
@@ -191,15 +191,15 @@ Malái lü harţtudëužčió-wiatroasäswa.
 Tell me your means to go to school.
 告诉我你去学校的手段/工具。
 
-Mma’o wiatréi su arţtudëužči’o?
+Mmaʼo wiatréi su arţtudëužčiʼo?
 When do you go to school?
 你什么时候去学校？
 
-Mmie wiatréi su arţtudëužči’o?
+Mmie wiatréi su arţtudëužčiʼo?
 Why do you go to school?
 你出于什么目的去学校？
 
-Mmi’axinļ arţtudëužča siu?
+Mmiʼaxinļ arţtudëužča siu?
 Where is your school?
 你学校在哪？
 

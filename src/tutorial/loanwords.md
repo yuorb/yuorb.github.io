@@ -61,7 +61,7 @@ title: 借词转写
 
 | 音段特征 | 符号 | 例子 |
 | :---: | :---: | :---: |
-| 声门塞音 | ’ [U+2019] / ʔ | ’yö’s ~ ʔyöʔs [ʔjøʔs] |
+| 声门塞音 | ʼ [U+2019] / ʔ | ʼyöʼs ~ ʔyöʔs [ʔjøʔs] |
 | 挤喉辅音 | 弱 ◌ʼ [U+02BC] / \{Cʼ\} ~ 强 ◌! / \{C!\} | t\{Cʼ\}öc\{Cʼ\}ha [tʼˈøtsʼʰa]  |
 | 软腭化~咽化辅音 | ◌ˠ ~ ◌ˤ | t\{Cˠ\}ösˤa [tˠˈøsˤa] |
 
@@ -97,8 +97,8 @@ b p m f (v) w/u-
 → p ph m f (p) w
 d t n l
 → t th n l
-g k h (’)
-→ k kh x ’
+g k h (ʼ)
+→ k kh x ʼ
 j q x y/i-
 → čy čhy šy y
 z c s
@@ -106,7 +106,7 @@ z c s
 zh ch sh r
 → č čh š r
 
-如果分词了，在词内使用 ’ /ʔ/ 隔开音节如安友 an’you 西安 šyi’an.
+如果分词了，在词内使用 ʼ /ʔ/ 隔开音节如安友 anʼyou 西安 šyiʼan.
 
 -∅: i u ü e ie io uo üe a ia ua
 → i u ü ë ye o yo wo ywe a ya wa
@@ -288,7 +288,7 @@ IPA 上下分别来自 **Standard Chinese (Beijing) 宽**和**UntPhesoca 宽**�
 | d t n l dd rd nd th rr | t th n l d! d nd ţ rr |
 | g k ng h gg rg ngg kh gh | k kh ň h g! g ňg x ř |
 | gw kw w | kw khw w |
-| gv kv v | gv kv v |
+| gv kv v | kv kf v |
 | z c \* \* s rs sl | c ch tḷ tḷh s z ḷ |
 | zh ch sh | č čh š |
 | zr cr sr r nr | cr chr sr r nr|

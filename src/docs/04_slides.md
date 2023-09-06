@@ -6,9 +6,9 @@
 
 所用词根
 
-- -<b>ksk</b>- 词干二、基础述 <em>‘anger; be angry/feel anger’</em> （愤怒；怒气冲冲/感到愤怒）
+- -<b>ksk</b>- 词干二、基础述 <em>“anger; be angry/feel anger”</em> （愤怒；怒气冲冲/感到愤怒）
 
-- -<b>kš</b>- 词干一、对象述 <em>‘clown’</em>（小丑）
+- -<b>kš</b>- 词干一、对象述 <em>“clown”</em>（小丑）
 
 --
 
@@ -85,7 +85,7 @@
     <dt>kšilü.</dt>
     <dd>DAT</dd>
 </dl>
-<div class="glend"><q>The child’s angry state is directed toward/affects the clown.</q></div>
+<div class="glend"><q>The childʼs angry state is directed toward/affects the clown.</q></div>
 <div class="expln">孩子冲小丑发火（小丑察觉到/对孩子的愤怒作出反应）</div>
 
 --
@@ -286,8 +286,8 @@
 
 更多论元格模式，以以下词根展示：
 
-- -<b>žx</b>- 词干一、基础述 <em>‘burn’</em>
-- -<b>lḑ</b>- 词干一、基础述 <em>‘tree’</em>
+- -<b>žx</b>- 词干一、基础述 <em>“burn”</em>
+- -<b>lḑ</b>- 词干一、基础述 <em>“tree”</em>
 
 --
 
@@ -407,7 +407,7 @@
     <dt>Äžxutá</dt>
     <dd>DYN/PRX</dd>
 </dl>
-<div class="glend"><q>Something’s doing some burning.</q> / <q>Something’s making some burning happen.</q></div>
+<div class="glend"><q>Somethingʼs doing some burning.</q> / <q>Somethingʼs making some burning happen.</q></div>
 <div class="expln">有东西当下处于燃烧过程</div>
 
 --
@@ -416,27 +416,27 @@
     <dt>Yažxá</dt>
     <dd>STA/PRX</dd>
 </dl>
-<div class="glend"><q>Something’s burning.</q> / <q>There’s burning happening.</q></div>
+<div class="glend"><q>Somethingʼs burning.</q> / <q>Thereʼs burning happening.</q></div>
 <div class="expln">有东西当下处于燃烧状态</div>
 
 ---
 
 其他模式亦有可行。例如，如下例句展示模式可用于翻译英语/汉语差异：
 
-- <em>‘I hit my leg with a rock’</em><br>
+- <em>“I hit my leg with a rock”</em><br>
 我用石头打自己的腿
-- <em>‘I hit myself on the leg with a rock’</em><br>
+- <em>“I hit myself on the leg with a rock”</em><br>
 我用石头打自己打到腿
-- <em>‘A rock hit me on the leg.’</em><br>
+- <em>“A rock hit me on the leg.”</em><br>
 石头打我打到腿
 
 --
 
-- -<b>ţd</b>- 词干二、基础述 <em>‘forceful physical contact’</em>+ 词缀<abbr>FRC₁/7</abbr>-<b>osm</b>-
-=> <em>‘hit/strike’</em> 击打
-- -<b>šn</b>- 词干一、基础述 <em>‘leg (as physical body part)’</em>+ 词缀<abbr>Rdp-GEN</abbr>-<b>ioth</b>-
-=> <em>‘their (sg.) leg’</em> 其（回指）腿
-- -<b>ggw</b>- 词干一、对象述 <em>‘(piece of) rock / (piece/chunk of) stone’</em>
+- -<b>ţd</b>- 词干二、基础述 <em>“forceful physical contact”</em>+ 词缀<abbr>FRC₁/7</abbr>-<b>osm</b>-
+=> <em>“hit/strike”</em> 击打
+- -<b>šn</b>- 词干一、基础述 <em>“leg (as physical body part)”</em>+ 词缀<abbr>Rdp-GEN</abbr>-<b>ioth</b>-
+=> <em>“their (sg.) leg”</em> 其（回指）腿
+- -<b>ggw</b>- 词干一、对象述 <em>“(piece of) rock / (piece/chunk of) stone”</em>
 => 一块石头
 
 --
@@ -496,7 +496,7 @@
   </div>
   <div class="fragment fade-up">
     <p>拙劣但更准确的翻译：</p>
-    <div class="glend"><q>The child ‘leg-hits’ themself with a rock</q></div>
+    <div class="glend"><q>The child “leg-hits” themself with a rock</q></div>
     <div class="expln">孩子用石头「击腿」自己</div>
   </div>
 </div>
@@ -523,8 +523,8 @@
 <div class="r-stack">
     <p class="fragment fade-out grow">该句子掩饰了一个隐含施事者，强调孩子作为受事/害者；而如同前述句子，腿只是指称对象，它作为受事者和位置/部位的地位被抑制了</p>
     <div class="fragment fade-up">
-        <p>在英语中，唯一显示这种抑制施动者的方式是使用被动结构或者使用动词‘get’构建伪被动结构：</p>
-        <div class="glend"><q>The child is/gets ‘leg-hit’ with a rock.</q></div>
+        <p>在英语中，唯一显示这种抑制施动者的方式是使用被动结构或者使用动词 “get” 构建伪被动结构：</p>
+        <div class="glend"><q>The child is/gets “leg-hit” with a rock.</q></div>
         <div class="expln">孩子被人用石头击及腿</div>
     </div>
 </div>
@@ -540,7 +540,7 @@
     <dd>ABS</dd>
 </dl>
 <dl class="gloss">
-    <dt>šnali’othia</dt>
+    <dt>šnaliʼothia</dt>
     <dd>LOC</dd>
 </dl>
 <dl class="gloss">
@@ -565,7 +565,7 @@
     <dd>IND</dd>
 </dl>
 <dl class="gloss">
-    <dt>šnali’othia</dt>
+    <dt>šnaliʼothia</dt>
     <dd>LOC</dd>
 </dl>
 <dl class="gloss">
@@ -605,7 +605,7 @@
     <p class="fragment fade-out grow">强调孩子既是施事者亦是受事者，但腿却被简化为仅仅是击打的指称对象</p>
     <div class="fragment fade-up">
         <p>不可能准确地翻译除非：</p>
-        <div class="glend"><q>The child ‘leg-hit’ themself with a rock</q></div>
+        <div class="glend"><q>The child “leg-hit” themself with a rock</q></div>
         <div class="expln">孩子用石头「击腿」自己</div>
     </div>
 </div>
@@ -700,7 +700,7 @@
         <p>这在英语/汉语中只能通过非自然翻译来接近，如：</p>
         <ul>
             <li>
-                <div class="glend"><q>‘Leg-hitting’ with a rock occurs</q></div>
+                <div class="glend"><q>“Leg-hitting” with a rock occurs</q></div>
                 <div class="expln">以石「击腿」事件发生</div>
             </li>
             <li>
@@ -718,7 +718,7 @@
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
-    <dt>šnali’a</dt>
+    <dt>šnaliʼa</dt>
     <dd>LOC</dd>
 </dl>
 <dl class="gloss">
@@ -788,7 +788,7 @@
     <dt>šnalioth.</dt>
     <dd>THM</dd>
 </dl>
-<div class="glend"><q>The child ‘leg-hits’ themself.</q></div>
+<div class="glend"><q>The child “leg-hits” themself.</q></div>
 <div class="expln">孩子「击腿」自己</div>
 
 --
@@ -805,7 +805,7 @@
     <dt>šnalioth.</dt>
     <dd>THM</dd>
 </dl>
-<div class="glend"><q>The child is/gets ‘leg-hit’.</q></div>
+<div class="glend"><q>The child is/gets “leg-hit”.</q></div>
 <div class="expln">孩子挨「击腿」</div>
 
 --
@@ -819,7 +819,7 @@
     <dd>ABS</dd>
 </dl>
 <dl class="gloss">
-    <dt>šnali’othia.</dt>
+    <dt>šnaliʼothia.</dt>
     <dd>LOC</dd>
 </dl>
 <div class="glend"><q>The child is/gets hit on the leg.</q></div>
@@ -836,7 +836,7 @@
     <dd>IND</dd>
 </dl>
 <dl class="gloss">
-    <dt>šnali’othia.</dt>
+    <dt>šnaliʼothia.</dt>
     <dd>LOC</dd>
 </dl>
 <div class="glend"><q>The child hits themself on their leg.</q></div>
@@ -904,7 +904,7 @@
     <dt>šnala.</dt>
     <dd>THM</dd>
 </dl>
-<div class="glend"><q>‘Leg-hitting’ occurs</q> / <q>An act of hitting involving a leg occurs.</q></div>
+<div class="glend"><q>“Leg-hitting” occurs</q> / <q>An act of hitting involving a leg occurs.</q></div>
 <div class="expln">涉及腿的击打事件发生</div>
 
 --
@@ -914,7 +914,7 @@
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
-    <dt>šnali’a.</dt>
+    <dt>šnaliʼa.</dt>
     <dd>LOC</dd>
 </dl>
 <div class="glend"><q>There occurs a hit on a leg. / A hit occurs on a leg.</q></div>
@@ -939,11 +939,11 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welacu.</dt>
-    <dd>‘child’-GID₁/1-IND</dd>
+    <dd>“child”-GID₁/1-IND</dd>
 </dl>
 <div class="glend">The girl eats.</div>
 <div class="expln">女孩进食</div>
@@ -953,15 +953,15 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welacu</dt>
-    <dd>‘child’-GID₁/1-IND</dd>
+    <dd>“child”-GID₁/1-IND</dd>
 </dl>
 <dl class="gloss">
     <dt>wanžekcoë.</dt>
-    <dd>[Ca]-‘apple.tree’-EPP₁/3-CSM</dd>
+    <dd>[Ca]-“apple.tree”-EPP₁/3-CSM</dd>
 </dl>
 <div class="glend">The girl is eating an apple.</div>
 <div class="expln">女孩吃苹果</div>
@@ -971,11 +971,11 @@
 
 <dl class="gloss">
     <dt>Itxulá</dt>
-    <dd>CPT-‘eat’-DYN</dd>
+    <dd>CPT-“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>wanžekcoë.</dt>
-    <dd>[Ca]-‘apple.tree’-EPP₁/3-CSM</dd>
+    <dd>[Ca]-“apple.tree”-EPP₁/3-CSM</dd>
 </dl>
 <div class="glend">An apple gets eaten. / Someone eats an apple.</div>
 <div class="expln">有人吃到苹果</div>
@@ -985,23 +985,23 @@
 
 <dl class="gloss">
     <dt>Enulá</dt>
-    <dd>‘give’-DYN</dd>
+    <dd>“give”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>laleco</dt>
-    <dd>‘adult’-GID₁/3-ERG</dd>
+    <dd>“adult”-GID₁/3-ERG</dd>
 </dl>
 <dl class="gloss">
     <dt>welacülwu</dt>
-    <dd>‘child’-GID₁/1-DAT/IND</dd>
+    <dd>“child”-GID₁/1-DAT/IND</dd>
 </dl>
 <dl class="gloss">
     <dt>wanžekcoë</dt>
-    <dd>[Ca]-‘apple.tree’-EPP₁/3-CSM</dd>
+    <dd>[Ca]-“apple.tree”-EPP₁/3-CSM</dd>
 </dl>
 <dl class="gloss">
     <dt>etxulie.</dt>
-    <dd>‘eat’-DYN-[Ca]-PUR</dd>
+    <dd>“eat”-DYN-[Ca]-PUR</dd>
 </dl>
 <div class="glend">The man feeds the girl an apple.</div>
 <div class="expln">男人喂女孩苹果 / 男人给女孩苹果吃</div>
@@ -1011,19 +1011,19 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>lalecö</dt>
-    <dd>‘adult’-GID₁/3-EFF</dd>
+    <dd>“adult”-GID₁/3-EFF</dd>
 </dl>
 <dl class="gloss">
     <dt>welac<mark>urz</mark>u</dt>
-    <dd>‘child’-GID₁/1-<mark>CHC₁/9</mark>-IND</dd>
+    <dd>“child”-GID₁/1-<mark>CHC₁/9</mark>-IND</dd>
 </dl>
 <dl class="gloss">
     <dt>wanžekcoë.</dt>
-    <dd>[Ca]-‘apple.tree’-EPP₁/3-CSM</dd>
+    <dd>[Ca]-“apple.tree”-EPP₁/3-CSM</dd>
 </dl>
 <div class="glend">The man gets the girl to eat an apple.</div>
 <div class="expln">男人说服女孩吃苹果</div>
@@ -1033,19 +1033,19 @@
 
 <dl class="gloss">
     <dt>Enulá</dt>
-    <dd>‘give’-DYN</dd>
+    <dd>“give”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welacülwu</dt>
-    <dd>‘child’-GID₁/1-DAT/IND</dd>
+    <dd>“child”-GID₁/1-DAT/IND</dd>
 </dl>
 <dl class="gloss">
     <dt>wanžekcoë</dt>
-    <dd>[Ca]-‘apple.tree’-EPP₁/3-CSM</dd>
+    <dd>[Ca]-“apple.tree”-EPP₁/3-CSM</dd>
 </dl>
 <dl class="gloss">
     <dt>etxulie.</dt>
-    <dd>‘eat’-DYN-[Ca]-PUR</dd>
+    <dd>“eat”-DYN-[Ca]-PUR</dd>
 </dl>
 <div class="glend">The girl is given an apple to eat.</div>
 <div class="expln">有人给女孩苹果吃</div>
@@ -1055,15 +1055,15 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welac<mark>urz</mark>u</dt>
-    <dd>‘child’-GID₁/1-<mark>CHC₁/9</mark>-IND</dd>
+    <dd>“child”-GID₁/1-<mark>CHC₁/9</mark>-IND</dd>
 </dl>
 <dl class="gloss">
     <dt>wanžekcoë.</dt>
-    <dd>[Ca]-‘apple.tree’-EPP₁/3-CSM</dd>
+    <dd>[Ca]-“apple.tree”-EPP₁/3-CSM</dd>
 </dl>
 <div class="glend">The girl is/gets fed an apple.</div>
 <div class="expln">女孩被喂苹果 / 女孩受说服吃苹果</div>
@@ -1073,19 +1073,19 @@
 
 <dl class="gloss">
     <dt>Enulá</dt>
-    <dd>‘give’-DYN</dd>
+    <dd>“give”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>wanžekcoë</dt>
-    <dd>[Ca]-‘apple.tree’-EPP₁/3-CSM</dd>
+    <dd>[Ca]-“apple.tree”-EPP₁/3-CSM</dd>
 </dl>
 <dl class="gloss">
     <dt>welac<mark>ärz</mark>ülwu</dt>
-    <dd>‘child’-GID₁/1-<mark>CHC₁/2</mark>-DAT/IND</dd>
+    <dd>“child”-GID₁/1-<mark>CHC₁/2</mark>-DAT/IND</dd>
 </dl>
 <dl class="gloss">
     <dt>etxulie.</dt>
-    <dd>‘eat’-DYN-[Ca]-PUR</dd>
+    <dd>“eat”-DYN-[Ca]-PUR</dd>
 </dl>
 <div class="glend">An apple gets fed to the girl.</div>
 <div class="expln">苹果喂给女孩 / 苹果给女孩吃</div>
@@ -1095,11 +1095,11 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welac<mark>ärz</mark>u.</dt>
-    <dd>‘child’-GID₁/1-<mark>CHC₁/2</mark>-IND</dd>
+    <dd>“child”-GID₁/1-<mark>CHC₁/2</mark>-IND</dd>
 </dl>
 <div class="glend">The girl gets fed.</div>
 <div class="expln">女孩被喂 / 那女孩默许被迫进食</div>
@@ -1109,11 +1109,11 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welac<mark>erz</mark>oë.</dt>
-    <dd>‘child’-GID₁/1-<mark>CHC₁/3</mark>-CSM</dd>
+    <dd>“child”-GID₁/1-<mark>CHC₁/3</mark>-CSM</dd>
 </dl>
 <div class="glend">The girl gets eaten.</div>
 <div class="expln">女孩被吃 / 有事物吃女孩（其尝试制止但失败）</div>
@@ -1123,11 +1123,11 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welaculwoë</dt>
-    <dd>‘child’-GID₁/1-IND/CSM</dd>
+    <dd>“child”-GID₁/1-IND/CSM</dd>
 </dl>
 <div class="glend">The girl eats herself.</div>
 <div class="expln">女孩自食</div>
@@ -1137,11 +1137,11 @@
 
 <dl class="gloss">
     <dt>Etxulá</dt>
-    <dd>‘eat’-DYN</dd>
+    <dd>“eat”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>welac<mark>orz</mark>oë</dt>
-    <dd>‘child’-GID₁/1-<mark>CHC₁/7</mark>-CSM</dd>
+    <dd>“child”-GID₁/1-<mark>CHC₁/7</mark>-CSM</dd>
 </dl>
 <div class="glend">The girl gets herself eaten.</div>
 <div class="expln">女孩任由自己被吃 / 有事物吃女孩（其未想尝试制止）</div>
@@ -1151,7 +1151,7 @@
 
 <dl class="gloss">
     <dt>Etxul<mark>ärz</mark>á.</dt>
-    <dd>‘eat’-DYN-<mark>CHC₁/2</mark></dd>
+    <dd>“eat”-DYN-<mark>CHC₁/2</mark></dd>
 </dl>
 <div class="glend">Feeding is taking place (i.e., someone is feeding someone/something else).</div>
 <div class="expln">喂食发生 / 有人默许发起进食</div>
@@ -1161,11 +1161,11 @@
 
 <dl class="gloss">
     <dt>Enulá</dt>
-    <dd>‘give’-DYN</dd>
+    <dd>“give”-DYN</dd>
 </dl>
 <dl class="gloss">
     <dt>hetxejie-etxiţoë.</dt>
-    <dd>联:‘eat’-CSV-A-PUR-主:‘food’-OBJ-MDS-CSM</dd>
+    <dd>联:“eat”-CSV-A-PUR-主:“food”-OBJ-MDS-CSM</dd>
 </dl>
 <div class="glend">Feeding is taking place (i.e., someone is giving someone else food to eat).</div>
 <div class="expln">喂食发生 / 一方给另一方食物吃</div>
@@ -1173,17 +1173,17 @@
 
 ---
 
-下面以动词 ‘jump’ 举例
+下面以动词 “jump” 举例
 
 --
 
 <dl class="gloss">
     <dt>Aḑçulëuhá</dt>
-    <dd>‘jump’-DYN-RCT-OBS</dd>
+    <dd>“jump”-DYN-RCT-OBS</dd>
 </dl>
 <dl class="gloss">
     <dt>welecu.</dt>
-    <dd>[默认 CA]-‘child’-GID₁/3-IND</dd>
+    <dd>[默认 CA]-“child”-GID₁/3-IND</dd>
 </dl>
 <div class="glend">The boy jumps (up and down).</div>
 <div class="expln">男孩反复跳</div>
@@ -1192,15 +1192,15 @@
 
 <dl class="gloss">
     <dt>Aḑçulëuhá</dt>
-    <dd>‘jump’-DYN-RCT-OBS</dd>
+    <dd>“jump”-DYN-RCT-OBS</dd>
 </dl>
 <dl class="gloss">
     <dt>ampalaicö</dt>
-    <dd>‘parent’-GID₂/1-EFF</dd>
+    <dd>“parent”-GID₂/1-EFF</dd>
 </dl>
 <dl class="gloss">
     <dt>welecu</dt>
-    <dd>[默认 CA]-‘child’-GID₁/3-IND</dd>
+    <dd>[默认 CA]-“child”-GID₁/3-IND</dd>
 </dl>
 <div class="glend">Mother makes the boy jump (up and down).</div>
 <div class="expln">母亲让男孩反复跳</div>
@@ -1209,11 +1209,11 @@
 
 <dl class="gloss">
     <dt>Aḑçulëuhá</dt>
-    <dd>‘jump’-DYN-RCT-OBS</dd>
+    <dd>“jump”-DYN-RCT-OBS</dd>
 </dl>
 <dl class="gloss">
     <dt>welec<mark>ärz</mark>u</dt>
-    <dd>[默认 CA]-‘child’-GID₁/3-<mark>CHC₁/2</mark>-IND</dd>
+    <dd>[默认 CA]-“child”-GID₁/3-<mark>CHC₁/2</mark>-IND</dd>
 </dl>
 <div class="glend">The boy is made to jump (up and down).</div>
 <div class="expln">有人导致男孩反复跳（其默许）</div>
@@ -1222,123 +1222,123 @@
 
 <dl class="gloss">
     <dt>Yaḑçëuhá.</dt>
-    <dd>PRX-‘jump’-(STA)-RCT-OBS</dd>
+    <dd>PRX-“jump”-(STA)-RCT-OBS</dd>
 </dl>
-<div class="glend">Jumping (up and down) takes place. / There’s jumping (up and down) going on.</div>
+<div class="glend">Jumping (up and down) takes place. / Thereʼs jumping (up and down) going on.</div>
 <div class="expln">反复跳当下进行中 / 当下正处于反复跳的状态</div>
 
 --
 
 <dl class="gloss">
     <dt>Aḑçulëuhá.</dt>
-    <dd>‘jump’-DYN-RCT-OBS</dd>
+    <dd>“jump”-DYN-RCT-OBS</dd>
 </dl>
-<div class="glend">Someone’s jumping (up and down). / There’s someone jumping (up and down).</div>
+<div class="glend">Someoneʼs jumping (up and down). / Thereʼs someone jumping (up and down).</div>
 <div class="expln">有人反复跳 / 经历反复跳的过程</div>
 
 --
 
 <dl class="gloss">
     <dt>Aḑçul<mark>ärz</mark>ëuhá.</dt>
-    <dd>‘jump’-DYN-<mark>CHC₁/2</mark>-RCT-OBS</dd>
+    <dd>“jump”-DYN-<mark>CHC₁/2</mark>-RCT-OBS</dd>
 </dl>
-<div class="glend">Someone’s being made to jump (up and down).</div>
+<div class="glend">Someoneʼs being made to jump (up and down).</div>
 <div class="expln">一方导致另一方经历反复跳的过程（其默许）</div>
 
 ---
 
-下面以动词 ‘sing’ 举例
+下面以动词 “sing” 举例
 
 --
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-“audience.member”-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuhrú</dt>
-    <dd>‘sing’-DYN-ASM-INF</dd>
+    <dd>“sing”-DYN-ASM-INF</dd>
 </dl>
 <dl class="gloss">
     <dt>lalacu.</dt>
-    <dd>‘adult’-GID₁/1-IND</dd>
+    <dd>“adult”-GID₁/1-IND</dd>
 </dl>
-<div class="glend">If there’s an audience, the woman will sing.</div>
+<div class="glend">If thereʼs an audience, the woman will sing.</div>
 <div class="expln">若有一位听众在场，女人将会歌唱</div>
 
 --
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-“audience.member”-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuhrú</dt>
-    <dd>‘sing’-DYN-ASM-INF</dd>
+    <dd>“sing”-DYN-ASM-INF</dd>
 </dl>
 <dl class="gloss">
     <dt>lalacu</dt>
-    <dd>‘adult’-GID₁/1-IND</dd>
+    <dd>“adult”-GID₁/1-IND</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyila.</dt>
-    <dd>‘song’-THM</dd>
+    <dd>“song”-THM</dd>
 </dl>
-<div class="glend">If there’s an audience, the woman will sing a song.</div>
+<div class="glend">If thereʼs an audience, the woman will sing a song.</div>
 <div class="expln">若有一位听众在场，女人将会歌唱一首歌</div>
 
 --
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-“audience.member”-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuhrú</dt>
-    <dd>‘sing’-DYN-ASM-INF</dd>
+    <dd>“sing”-DYN-ASM-INF</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyila.</dt>
-    <dd>‘song’-THM</dd>
+    <dd>“song”-THM</dd>
 </dl>
-<div class="glend">If there’s an audience, a song will be sung.</div>
+<div class="glend">If thereʼs an audience, a song will be sung.</div>
 <div class="expln">若有一位听众在场，有人将会演唱一首歌</div>
 
 --
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-“audience.member”-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyahrú.</dt>
-    <dd>‘sing’-STA-ASM-INF</dd>
+    <dd>“sing”-STA-ASM-INF</dd>
 </dl>
-<div class="glend">If there’s an audience, there will be singing going on. / If there’s an audience, someone will sing.</div>
+<div class="glend">If thereʼs an audience, there will be singing going on. / If thereʼs an audience, someone will sing.</div>
 <div class="expln">若有一位听众在场，将会有歌声</div>
 
 --
 
 <dl class="gloss">
     <dt>Yubškirfúi</dt>
-    <dd>PRX-词干.3-‘audience.member’-PTW₁/4-CNJ</dd>
+    <dd>PRX-词干.3-“audience.member”-PTW₁/4-CNJ</dd>
 </dl>
 <dl class="gloss">
     <dt>ellyuleëhrú</dt>
-    <dd>‘sing’-DYN-3:BEN-ASM-INF</dd>
+    <dd>“sing”-DYN-3:BEN-ASM-INF</dd>
 </dl>
 <dl class="gloss">
     <dt>lalacu.</dt>
-    <dd>‘adult’-GID₁/1-IND</dd>
+    <dd>“adult”-GID₁/1-IND</dd>
 </dl>
-<div class="glend">If there’s an audience, the woman will sing for someone.</div>
+<div class="glend">If thereʼs an audience, the woman will sing for someone.</div>
 <div class="expln">若有一位听众在场，女人会为某人歌唱</div>
 
 --
 
 <dl class="gloss">
     <dt>Ellyulá</dt>
-    <dd>‘sing’-DYN-OBS</dd>
+    <dd>“sing”-DYN-OBS</dd>
 </dl>
 <dl class="gloss">
     <dt>rö</dt>
@@ -1346,7 +1346,7 @@
 </dl>
 <dl class="gloss">
     <dt>lalacu.</dt>
-    <dd>‘adult’-GID₁/1-IND</dd>
+    <dd>“adult”-GID₁/1-IND</dd>
 </dl>
 <div class="glend">I make the woman sing.</div>
 <div class="expln">我让女人歌唱</div>
@@ -1355,7 +1355,7 @@
 
 <dl class="gloss">
     <dt>Ellyul<mark>erz</mark>á</dt>
-    <dd>‘sing’-DYN-<mark>CHC₁/3</mark>-OBS</dd>
+    <dd>“sing”-DYN-<mark>CHC₁/3</mark>-OBS</dd>
 </dl>
 <dl class="gloss">
     <dt>rö</dt>
@@ -1363,7 +1363,7 @@
 </dl>
 <dl class="gloss">
     <dt>lalacu.</dt>
-    <dd>‘adult’-GID₁/1-IND</dd>
+    <dd>“adult”-GID₁/1-IND</dd>
 </dl>
 <div class="glend">I get the woman to sing.</div>
 <div class="expln">我让女人歌唱（其试图制止但失败）</div>
@@ -1372,7 +1372,7 @@
 
 <dl class="gloss">
     <dt>Ellyal<mark>erz</mark>á</dt>
-    <dd>‘sing’-STA-<mark>CHC₁/3</mark>-OBS</dd>
+    <dd>“sing”-STA-<mark>CHC₁/3</mark>-OBS</dd>
 </dl>
 <dl class="gloss">
     <dt>rö.</dt>
@@ -1385,7 +1385,7 @@
 
 <dl class="gloss">
     <dt>Ellyulá</dt>
-    <dd>‘sing’-DYN-OBS</dd>
+    <dd>“sing”-DYN-OBS</dd>
 </dl>
 <dl class="gloss">
     <dt>rö.</dt>
