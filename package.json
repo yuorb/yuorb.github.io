@@ -15,7 +15,7 @@
     "@vuepress/plugin-docsearch": "2.0.0-beta.67",
     "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.67",
-    "vuepress-theme-hope": "2.0.0-beta.237"
+    "vuepress-theme-hope": "2.0.0-beta.236"
   },
   "dependencies": {
     "@adamdehaven/vue-custom-tooltip": "^2.6.0",
