@@ -58,21 +58,27 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/" target="_blank">VuePres
 ::: center
 # Interpretes et Programmatei 翻译及开发成员
 :::
+<div class="vp-card-container">
 
-```card
+```component VPCard
 title: 天邪弱 Lucifer Caelius Delicatus
-desc: 电波系美少年
+desc: Hliošraumhâ-Ulalëučha hi Allwizyëilliöhla Aḷḷtḷiẓdövvei Altyaswë’illä hiu
 logo: https://avatars.githubusercontent.com/u/12672523?s=400
 link: https://github.com/ryanlo713
-color: rgba(127, 71, 221, 0.1)
+background: rgba(127, 71, 221, 0.1)
+color: var(--my-bg)
 ```
-```card
+
+```component VPCard
 title: Lomírus
 desc: 暂缺
 logo: https://avatars.githubusercontent.com/u/21173956?v=4
 link: https://github.com/lomirus
-color: rgba(127, 71, 221, 0.1)
+background: rgba(127, 71, 221, 0.1)
+color: var(--my-bg)
 ```
+
+</div>
 
 ------
 

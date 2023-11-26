@@ -606,3 +606,11 @@ i {
 .blue {
 	color: blue;
 }
+
+pre {
+	code {
+		font-variant-caps: normal!important;
+		font-feature-settings: normal!important;
+		font-family: monospace, var(--font-family-mono)!important;
+	}
+}

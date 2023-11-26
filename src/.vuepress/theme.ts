@@ -46,7 +46,11 @@ export default hopeTheme({
   plugins: {
     comment: {
       // ts-expect-error: You should generate and use your own comment service
-      provider: "Waline",
+      provider: "Giscus",
+      repo: "yuorb/yuorb.github.io",
+      repoId: "R_kgDOJq7_KQ",
+      category: "General",
+      categoryId: "DIC_kwDOJq7_Kc4CbRCM"
     },
 
     // all features are enabled for demo, only preserve features you need here
@@ -66,11 +70,27 @@ export default hopeTheme({
       katex: true,
       mark: true,
       mermaid: true,
-      card: true,
+      component: true,
       playground: {
         presets: ["ts", "vue"],
       },
-      presentation: ["highlight", "math", "search", "notes", "zoom"],
+      revealJs: {
+        plugins: ["highlight", "math", "search", "notes", "zoom"],
+        themes: [
+          "auto",
+          "beige",
+          "black",
+          "blood",
+          "league",
+          "moon",
+          "night",
+          "serif",
+          "simple",
+          "sky",
+          "solarized",
+          "white",
+        ],
+      },
       stylize: [
         {
           matcher: "Recommended",
@@ -104,10 +124,11 @@ export default hopeTheme({
         "Share",
         "SiteInfo",
         "StackBlitz",
-        // "VidStack",
+        "VidStack",
         "VideoPlayer",
         "XiGua",
         "YouTube",
+        "VPCard",
       ],
     },
 
