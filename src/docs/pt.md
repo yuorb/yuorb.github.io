@@ -1215,6 +1215,14 @@ title: 语音组合法
     <th>ň</th>
     <td> </td>
     <td> </td>
+    <td>❌</td>
+    <td> </td>
+    <td> </td>
+    <td>❌</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>❌</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -1233,15 +1241,7 @@ title: 语音组合法
     <td> </td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td>❌</td>
     <td> </td>
     <td>26</td>
   </tr>
@@ -1299,7 +1299,7 @@ title: 语音组合法
 
 | 起首辅音                                          	| 第二辅音 	| 第三辅音                                                  	| 总数 	|
 |---------------------------------------------------	|----------	|-----------------------------------------------------------	|------	|
-| r ř                                               	| p        	| p t k d g f ţ x s š v ḍ z ž c č ż j m n l r w y h ļ ř ç   	| 54   	|
+| r ř                                               	| p        	| p t k d g f ţ x s š v ḍ z ž c č ż j m n l r w y h ļ ř ç   	| 56   	|
 | l                                                 	| p        	| p t k d g f ţ x s š ḍ c č ż j m n l r w y h ļ ř ç         	| 25   	|
 | m                                                 	| p        	| d g m n l r w y h ļ ř ç                                   	| 12   	|
 | ň                                                 	| p        	| ţ l r w y h ļ ř ç                                         	| 9    	|
@@ -1330,7 +1330,7 @@ title: 语音组合法
 | l                                                 	| d        	| v m n l r w y ř                                           	| 8    	|
 | n                                                 	| d        	| v m l r w y ř                                             	| 7    	|
 | m ň                                               	| d        	| v l r w y ř                                               	| 12   	|
-| s š f v x ţ c č ż j ḍ ç                           	| d        	| v l r w y ř                                               	| 60   	|
+| s š f v x ţ c č ż j ḍ ç                           	| d        	| v l r w y ř                                               	| 72   	|
 | z ž                                               	| d        	| v l r w y ř                                               	| 12   	|
 | ļ                                                 	| d        	| l r w y ř                                                 	| 5    	|
 | p k b g                                           	| d        	| l r w y ř                                                 	| 20   	|
@@ -1396,7 +1396,7 @@ title: 语音组合法
 | b g v                                             	| ž        	| p t k b d g v ḍ ž j m n ň l r w y h ř                     	| 57   	|
 | ž                                                 	| ž        	| p t k b d g f ţ x v ḍ č j m n ň l r w y h ļ ř             	| 23   	|
 | r ř l                                             	| c        	| p t k b d g f ţ x v ḍ c č j m n ň l r w y h ļ ř           	| 72   	|
-| c                                                 	| c        	| p t k b d g f ţ x v ḍ č j m n ň l r w y h ļ ř             	| 223  	|
+| c                                                 	| c        	| p t k b d g f ţ x v ḍ č j m n ň l r w y h ļ ř             	| 23  	|
 | s x                                               	| c        	| w y h                                                     	| 6    	|
 | r ř l                                             	| č        	| p t k b d g f ţ x v ḍ č m n ň l r w y h ļ ř               	| 66   	|
 | č                                                 	| č        	| p t k b d g f ţ x v ḍ m n ň l r w y h ļ ř                 	| 21   	|
@@ -1428,7 +1428,7 @@ title: 语音组合法
 | p t k m n ň r l ř                                 	| ç        	| p t k b d g f v c č m n ň l r w ř ç                       	| 162  	|
 | f                                                 	| ç        	| p t k m n ç w                                             	| 7    	|
 | ç                                                 	| ç        	| p t k b d g f v c č m n ň l r w ř                         	| 17   	|
-|                                                   	|          	| 总数                                                      	| 5183 	|
+|                                                   	|          	| 总数                                                      	| 5021 	|
 
 ::: warning
 
@@ -1628,11 +1628,11 @@ title: 语音组合法
 | b g v ž               	| ž                                         	| l        	| w y                                                     	| 8     	|
 | r                     	| ļ                                         	| ļ        	| p t k b d g f ţ x v ḍ c č ż j m n ň r w ř               	| 21    	|
 | m n ň                 	| ļ                                         	| ļ        	| p t k b d g f x v m n ň r w ř                           	| 45    	|
-| r ř l n               	| t                                         	| ļ        	| p t k b d g f x v m n ň r w ř                           	| 64    	|
+| r ř l n               	| t                                         	| ļ        	| p t k b d g f x v m n ň r w ř                           	| 60    	|
 | r ř l                 	| c č ż j s š z ž f ţ v                     	| ļ        	| ļ                                                       	| 33    	|
 | m n ň                 	| s š z ž ţ                                 	| ļ        	| ļ                                                       	| 15    	|
 | m ň                   	| f                                         	| ļ        	| ļ                                                       	| 2     	|
-| r ř l                 	| p t m                                     	| ļ        	| ļ                                                       	| 6     	|
+| r ř l                 	| p t m                                     	| ļ        	| ļ                                                       	| 9     	|
 | r ř                   	| m n ň p k f                               	| s        	| p t k b d g f ţ x s v ḍ c č j m n ň l r w y h ř         	| 288   	|
 | l                     	| m p k f                                   	| s        	| p t k b d g f ţ x s v ḍ c č j m n ň l r w y h ř         	| 96    	|
 | m                     	| f                                         	| s        	| p t k b d g f ţ x s v ḍ c č j m n ň l r w y h ř         	| 24    	|
@@ -1660,12 +1660,12 @@ title: 语音组合法
 | b g v z               	| z                                         	| v        	| v l r w y ř                                             	| 24    	|
 | b g v ž               	| ž                                         	| v        	| v l r w y ř                                             	| 24    	|
 | m n r ř l             	| t k d ţ s š z ž                           	| v        	| v l r w y ř                                             	| 240   	|
-| ň                     	| t d ţ s š z ž                             	| v        	| v l r w y ř                                             	| 48    	|
+| ň                     	| t d ţ s š z ž                             	| v        	| v l r w y ř                                             	| 42    	|
 | r ř                   	| m ň g                                     	| v        	| v l r w y ř                                             	| 36    	|
 | r ř l                 	| m p z ž ż j b                             	| v        	| v l r w y ř                                             	| 126   	|
 | r ř l m ň             	| v                                         	| v        	| p t k b d g ţ x s š ḍ z ž c č ż j m n ň l r w y ļ ř     	| 130   	|
 | p k ţ                 	| ţ                                         	| v        	| v l r w y ř                                             	| 18    	|
-| p k f m n ň           	| s š                                       	| v        	| v l r w y ř                                             	| 60    	|
+| p k f m n ň           	| s š                                       	| v        	| v l r w y ř                                             	| 72    	|
 | r ř m n ň             	| ļ                                         	| v        	| w y                                                     	| 10    	|
 | r                     	| r                                         	| v        	| b d g ţ x s š ḍ z ž c č ż j m n ň l r w y ļ ř           	| 23    	|
 | ř                     	| ř                                         	| v        	| b d g ţ x s š ḍ z ž c č ż j m n ň l r w y ļ ř           	| 23    	|
@@ -1686,7 +1686,7 @@ title: 语音组合法
 | ň                     	| ň                                         	| ḍ        	| p t k b d g f x v c č ż j m n ň l r w y ļ ř             	| 22    	|
 | r ř                   	| n ň                                       	| z        	| p t k b d g f ţ x v ḍ z j m n ň l r w y ř               	| 84    	|
 | r ř l                 	| m                                         	| z        	| p t k b d g f ţ x v ḍ z j m n ň l r w y ř               	| 63    	|
-| r ř l                 	| b g v                                     	| z        	| b d g v ḍ z j m n ň l r w y h ř                         	| 64    	|
+| r ř l                 	| b g v                                     	| z        	| b d g v ḍ z j m n ň l r w y h ř                         	| 144    	|
 | r ř l m n ň           	| z                                         	| z        	| p t k b d g f ţ x v ḍ j m n ň l r w y ļ ř               	| 126   	|
 | b g                   	| z                                         	| z        	| p t k b d g v x ḍ j m n ň l r w y ř                     	| 36    	|
 | r                     	| r                                         	| z        	| p t k b d g v x ḍ j m n ň l r w y ř                     	| 18    	|
@@ -1731,7 +1731,7 @@ title: 语音组合法
 | l                     	| l                                         	| j        	| m n ň l r ř w y                                         	| 8     	|
 | r ř l                 	| m                                         	| m        	| p t k b d g f ţ x s š v ḍ z ž c č ż j n l r w y h ļ ř ç 	| 84    	|
 | r ř                   	| p t k b d g f v ţ ḍ s š z ž x ļ c č ż j ç 	| m        	| l r ř w y                                               	| 210   	|
-| l                     	| p t k f ţ s š z ž x ļ c č ż j ç           	| m        	| l r ř w y                                               	| 75    	|
+| l                     	| p t k f ţ s š z ž x ļ c č ż j ç           	| m        	| l r ř w y                                               	| 80    	|
 | m                     	| f v ţ ḍ s š z ž x ļ ç                     	| m        	| l r ř w y                                               	| 55    	|
 | n                     	| t k d ţ ḍ s š z ž x ļ ç                   	| m        	| l r ř w y                                               	| 60    	|
 | ň                     	| t d ţ ḍ s š z ž ļ ç                       	| m        	| l r ř w y                                               	| 50    	|
@@ -1748,7 +1748,7 @@ title: 语音组合法
 | ř                     	| ř                                         	| m        	| p t k b d g f ţ x s š v ḍ z ž c č ż j n l r w y h ļ ř   	| 27    	|
 | l                     	| l                                         	| m        	| p t k b d g f ţ x s š v ḍ z ž c č ż j n l r w y h ļ ř   	| 27    	|
 | r ř l                 	| n                                         	| n        	| t k d g f ţ x s š v ḍ z ž m l r w y h ļ ř ç             	| 66    	|
-| r ř                   	| p t k b d g f v ţ ḍ s š z ž x ļ c č ż j ç 	| n        	| w y                                                     	| 42    	|
+| r ř                   	| p t k b d g f v ţ ḍ s š z ž x ļ c č ż j ç 	| n        	| w y                                                     	| 84    	|
 | l                     	| p t k f ţ s š z ž x ļ c č ż j ç           	| n        	| w y                                                     	| 32    	|
 | m                     	| f v ţ s š z ž x ļ ç                       	| n        	| w y                                                     	| 20    	|
 | n                     	| t k d ţ ḍ s š z ž x ļ ç                   	| n        	| w y                                                     	| 24    	|
@@ -1798,7 +1798,7 @@ title: 语音组合法
 | m                     	| m                                         	| ç        	| p t k b d g f v c č m n ň l r w ř                       	| 17    	|
 | n                     	| n                                         	| ç        	| p t k b d g f v c č m n ň l r w ř                       	| 17    	|
 | ň                     	| ň                                         	| ç        	| p t k b d g f v c č m n ň l r w ř                       	| 17    	|
-|                       	|                                           	|          	| 总数                                                    	| 15034 	|
+|                       	|                                           	|          	| 总数                                                    	| 15166 	|
 
 ## 11. 可作词根的五辅音组合 {#Sec11}
 
@@ -1815,8 +1815,8 @@ title: 语音组合法
 | l   r m n ň         	| s š ç    	| p k                  	| f             	| l r ř w y                      	| 150   	|
 | l r ř               	| m        	| s š z ž ç            	| ţ f           	| l r ř w y                      	| 150   	|
 | l   r ř             	| m        	| s š z ž ţ f ç        	| p t k b d g   	| l r ř w y                      	| 630   	|
-| l r ř               	| m        	| s š z ž ţ f ç        	| p t k         	| h f                            	| 63    	|
-| l   r ř             	| m        	| s š z ž ç            	| p k           	| ţ                              	| 60    	|
+| l r ř               	| m        	| s š z ž ţ f ç        	| p t k         	| h f                            	| 126    	|
+| l   r ř             	| m        	| s š z ž ç            	| p k           	| ţ                              	| 30    	|
 | l                   	| m        	| s š z ž ç            	| p t           	| ļ                              	| 10    	|
 | l   r ř             	| p t      	| ļ                    	| p t k b d g   	| l r ř w y                      	| 180   	|
 | l r ř               	| p t      	| ļ                    	| p t k         	| h                              	| 18    	|
@@ -1908,11 +1908,11 @@ title: 语音组合法
 | l r ř               	| m n ň    	| z ž                  	| d             	| v                              	| 18    	|
 | l   r ř             	| m ň      	| v                    	| b d g         	| l r ř w y                      	| 90    	|
 | l r ř               	| n        	| ḑ                    	| b d g         	| l r ř w y                      	| 45    	|
-| b   g v m n ň l r ř 	| z        	| z                    	| p t k         	| l r ř h w y                    	| 135   	|
+| b   g v m n ň l r ř 	| z        	| z                    	| p t k         	| l r ř h w y                    	| 162   	|
 | b g v m n ň l r ř   	| z        	| z                    	| b d g f v     	| l r ř w y                      	| 225   	|
-| b   g v m n ň l r ř 	| z        	| z                    	| m n           	| w y                            	| 45    	|
+| b   g v m n ň l r ř 	| z        	| z                    	| m n           	| w y                            	| 36    	|
 | b g v m n ň l r ř   	| z        	| z                    	| ň             	| w                              	| 9     	|
-| b   g v m n ň l r ř 	| ž        	| ž                    	| p t k         	| l r ř h w y                    	| 135   	|
+| b   g v m n ň l r ř 	| ž        	| ž                    	| p t k         	| l r ř h w y                    	| 162   	|
 | b g v m n ň l r ř   	| ž        	| ž                    	| b d g f v     	| l r ř w y                      	| 225   	|
 | b   g v m n ň l r ř 	| ž        	| ž                    	| m n           	| w y                            	| 36    	|
 | b g v m n ň l r ř   	| ž        	| ž                    	| ň             	| w                              	| 9     	|
@@ -1955,7 +1955,7 @@ title: 语音组合法
 | ř                   	| ř        	| z ž v ḑ              	| b d g         	| l r ř w y                      	| 60    	|
 | ř                   	| ř        	| m                    	| z ž v ḑ       	| p t k b d g l r ř w y          	| 44    	|
 | ř                   	| ř        	| m                    	| z ž           	| f ţ v ḑ                        	| 8     	|
-|                     	|          	|                      	|               	| 总数                           	| 12367 	|
+|                     	|          	|                      	|               	| 总数                           	| 12445 	|
 
 ## 原文参考
 
