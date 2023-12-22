@@ -82,6 +82,22 @@ color: var(--my-bg)
 
 ------
 
+::: center
+
+# *Yuorb*
+
+该形式分析为 √-RB- 的词干零加上无形界，表示「含义、翻译、解释」；基本涵盖了本组织的目的。
+
+本组织的全称是 Hlesaḑcä-Yuorba :Han:，即「以汉语释译」。
+
+Malëuţřaitaẓa: 学习 New Ithkuil 的地方。
+
+Malëuţřait 是该语言的内名，意思是「本语言交流系统」。
+
+:::
+
+------
+
 Shield: [CC BY-NC-SA 4.0][cc-by-nc-sa]
 
 This work is licensed under a
