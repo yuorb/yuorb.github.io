@@ -44,6 +44,7 @@ export default hopeTheme({
   },
 
   plugins: {
+
     comment: {
       // ts-expect-error: You should generate and use your own comment service
       provider: "Giscus",
@@ -114,8 +115,6 @@ export default hopeTheme({
     components: {
       // 你想使用的组件
       components: [
-        "ArtPlayer",
-        "AudioPlayer",
         "Badge",
         "BiliBili",
         "CodePen",
@@ -125,9 +124,7 @@ export default hopeTheme({
         "SiteInfo",
         "StackBlitz",
         "VidStack",
-        "VideoPlayer",
         "XiGua",
-        "YouTube",
         "VPCard",
       ],
     },

@@ -23,12 +23,12 @@
     "mermaid": "^10.6.1",
     "mpegts.js": "^1.7.3",
     "plyr": "^3.7.8",
-    "reveal.js": "^5.0.3",
+    "reveal.js": "^5.0.4",
     "vidstack": "^1.9.8",
-    "vue": "^3.3.13",
+    "vue": "^3.4.3",
     "vuepress": "2.0.0-rc.0",
-    "vuepress-plugin-md-enhance": "2.0.0-rc.5",
-    "vuepress-theme-hope": "2.0.0-rc.5"
+    "vuepress-plugin-md-enhance": "2.0.0-rc.10",
+    "vuepress-theme-hope": "2.0.0-rc.10"
   },
   "dependencies": {
     "@adamdehaven/vue-custom-tooltip": "^2.6.0",
