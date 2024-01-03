@@ -401,7 +401,7 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <div class="expln">我记得它<br>字面意思：它引发我体验记忆​</div>
 
 <dl class="gloss">
-  <dt>Urçpal<mark>a</mark></dt>
+  <dt>Urçpal<mark>á</mark></dt>
 </dl>
 <dl class="gloss">
   <dt>tu</dt>
