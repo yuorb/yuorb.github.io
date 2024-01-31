@@ -13,10 +13,8 @@
   "devDependencies": {
     "@vue/repl": "^3.4.0",
     "@vuepress/bundler-vite": "2.0.0-rc.2",
-    "@vuepress/client": "2.0.0-rc.2",
     "@vuepress/plugin-docsearch": "2.0.0-rc.1",
     "@vuepress/theme-default": "2.0.0-rc.2",
-    "@vuepress/utils": "2.0.0-rc.2",
     "chart.js": "^4.4.1",
     "dashjs": "^4.7.3",
     "echarts": "^5.4.3",
