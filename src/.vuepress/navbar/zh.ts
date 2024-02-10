@@ -11,7 +11,7 @@ export const zhNavbar = navbar([
       {
         text: "词典 Enţrirç",
         icon: "fas fa-book",
-        link: "/enthrirch/",
+        link: "/enthrirhc/",
       },
       {
         text: "构词器 Hwirbuvie-Ekţgyil",
