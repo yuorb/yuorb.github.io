@@ -98,9 +98,9 @@
     <span class="expln">与 X 共享的互补关系</span>
 18. 部分格 <abbr>PAR</abbr>：ui
     * <span class="glend">that of which X is its apportioned or enumerated contents</span>
-    <span class="expln">以 X 为其内容物/数量对象者</span>
+    <span class="expln">以 X 为其内容物/数量对象者（即容器）</span>
     * <span class="glend">that which is Xʼs apportioned or enumerated contents</span>
-    <span class="expln">作为 X 的内容物/数量对象的人·事·物</span>
+    <span class="expln">作为 X 的内容物/数量对象者</span>
     * 仅与另一个名词同置; 它不再独立表示「X 的某些/部分」。对于后一种含义，必须使用 <abbr>DGR</abbr>、<abbr>PTW</abbr>、<abbr>PTT</abbr>、<abbr>EXN</abbr>、<abbr>SUF</abbr>、<abbr>EXD</abbr>、<abbr>CNM</abbr>、<abbr>FEA/3</abbr> 或类似的词缀代替，或将 X 以 <abbr>PAR</abbr> 格式併入指表示 (X 的) 容器、数量或程度的名词中
 
 </div>
@@ -146,10 +146,10 @@
     * <span class="glend">that which is relinquished in an act of exchange</span>
     <span class="expln">交换中所让与者</span>
 26. 对比格 <abbr>CMP</abbr>：ue / ië
-    * <span class="glend">that which is according to or pursuant to X; that which occurs as per, or in conformance to X</span>
-    <span class="expln">根据 X 的; 符合 X 而发生者</span>
-    * <span class="glend">that, according to or pursuant to which, or as per or in conformance to which, X is/occurs</span>
-    <span class="expln">为 X (发生)之依据的人·事·物</span>
+    * <span class="glend"><ins>that which is compared to X</ins>; 错误地照搬自 <abbr>CFM</abbr> <del>that which is according to or pursuant to X; that which occurs as per, or in conformance to X</del></span>
+    <span class="expln">与 X 比较者</span>
+    * <span class="glend"><ins>that which X is compared to</ins>; <del>that, according to or pursuant to which, or as per or in conformance to which, X is/occurs</del></span>
+    <span class="expln">X 所比较者</span>
 27. 观念格 <abbr>CSD</abbr>：ua / iä
     * <span class="glend">that which is according to X</span>
     <span class="expln">依 X 之见的人·事·物</span>
