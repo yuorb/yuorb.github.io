@@ -27,6 +27,11 @@ features:
     details: 最活跃的 Ithkuil 频道
     link: https://discord.gg/PMzFpYJ
 
+  - title: 日语 Discord 社区
+    icon: fab fa-discord
+    details: 面向日语使用者的 Ithkuil 频道
+    link: https://discord.gg/8ACHfqNwwb
+
   - title: Reddit 社区
     icon: fab fa-reddit-alien
     details: Ithkuil 论坛
