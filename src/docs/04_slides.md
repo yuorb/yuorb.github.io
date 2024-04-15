@@ -442,7 +442,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -470,7 +470,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -504,7 +504,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -532,7 +532,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -557,7 +557,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -585,7 +585,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -613,7 +613,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -630,7 +630,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -647,7 +647,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -664,7 +664,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -681,7 +681,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -714,7 +714,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -731,7 +731,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -759,7 +759,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -777,7 +777,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -794,7 +794,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -811,7 +811,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -828,7 +828,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -845,7 +845,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -858,7 +858,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -871,7 +871,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -884,7 +884,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -897,7 +897,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -910,7 +910,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá</dt>
+    <dt>Eţdulosmá</dt>
     <dd>DYN</dd>
 </dl>
 <dl class="gloss">
@@ -923,7 +923,7 @@
 --
 
 <dl class="gloss">
-    <dt>Weţdosmá.</dt>
+    <dt>Eţdulosmá.</dt>
     <dd>DYN</dd>
 </dl>
 <div class="glend"><q>Some hitting occurs</q> / <q>Something does some hitting</q> / <q>Something gets hit.</q></div>
