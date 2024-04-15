@@ -277,7 +277,7 @@ title: 术语表
 * 过渡体 <abbr>TNS</abbr> Transitional Aspect
 * 回施体 <abbr>ITC</abbr> Intercommutative Aspect
 * 去往体 <abbr>MTV</abbr> Motive Aspect
-* 接连体 <abbr>SQN</abbr> Sequential Aspect
+* 依序体 <abbr>SQN</abbr> Sequential Aspect
 
 效果 Effects
 
@@ -319,7 +319,7 @@ title: 术语表
 
 配价 Valences
 
-* 独动价 <abbr>MNO</abbr> Monactive Valence
+* 独动价 <abbr>MNO</abbr> Monoactive Valence
 * 共动价 <abbr>PRL</abbr> Parallel Valence
 * 各动价 <abbr>CRO</abbr> Corollary Valence
 * 互动价 <abbr>RCP</abbr> Reciprocal Valence

@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://www.zhihu.com/people/ryanlo713",
   },
 
-  iconAssets: ["iconfont", "fontawesome-with-brands", "fontawesome", "iconify"],
+  iconAssets: ["fontawesome-with-brands", "fontawesome", "iconify"],
 
   logo: "/logo.svg",
 
