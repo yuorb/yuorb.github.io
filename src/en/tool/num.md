@@ -412,7 +412,7 @@ function 解析并显示结果() {
     `;
 
     if (类型 === "0") {
-        输出 += `<p>Nominal number notation　based on position rather than quantity: ${位置名数串}</p>`;
+        输出 += `<p>Nominal number notation based on position rather than quantity: ${位置名数串}</p>`;
     }
 
     输出区域.innerHTML = 输出;
