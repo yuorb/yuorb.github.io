@@ -20,7 +20,7 @@ export const enNavbar = navbar([
       },
       {
         text: "Ithkuil Script Generator",
-        icon: "fa-s fa-signature",
+        icon: "fas fa-signature",
         link: "https://v8.zsnout.com/ithkuil/script",
       },
       {

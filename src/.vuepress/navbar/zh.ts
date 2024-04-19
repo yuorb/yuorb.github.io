@@ -20,7 +20,7 @@ export const zhNavbar = navbar([
       },
       {
         text: "Ithkuil 文字生成器",
-        icon: "fa-s fa-signature",
+        icon: "fas fa-signature",
         link: "https://v8.zsnout.com/ithkuil/script",
       },
       {

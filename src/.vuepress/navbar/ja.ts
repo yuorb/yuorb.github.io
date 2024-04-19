@@ -20,7 +20,7 @@ export const jaNavbar = navbar([
       },
       {
         text: "イスクイル文字生成",
-        icon: "fa-s fa-signature",
+        icon: "fas fa-signature",
         link: "https://v8.zsnout.com/ithkuil/script",
       },
       {
