@@ -1,10 +1,10 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export const enSidebar = sidebar({
+export const jaSidebar = sidebar({
   "/": [
     "",
     {
-      text: "Grammar docs",
+      text: "文法ドキュメント",
       prefix: "docs/",
       link: "docs/readme.md",
       children: [
@@ -17,7 +17,7 @@ export const enSidebar = sidebar({
       ],
     },
     {
-      text: "Tutorial",
+      text: "同人チュートリアル",
       prefix: "tutorial/",
       link: "tutorial/readme.md",
       children: [

@@ -19,6 +19,16 @@ export const zhNavbar = navbar([
         link: "https://thexxos.github.io/ithkapp/",
       },
       {
+        text: "Ithkuil 文字生成器",
+        icon: "fa-s fa-signature",
+        link: "https://v8.zsnout.com/ithkuil/script",
+      },
+      {
+        text: "数字转换工具",
+        icon: "fas fa-hashtag",
+        link: "/tool/num",
+      },
+      {
         text: "选色",
         icon: "fas fa-palette",
         link: "https://ithkuil.place/4/colors/",

@@ -15,7 +15,17 @@ export default defineUserConfig({
     "/": {
       lang: "zh-CN",
       title: "NiGHT",
-      description: "New Ithkuil 语法汉译",
+      description: "Yuorb: New Ithkuil 语法汉译",
+    },
+    "/en/": {
+      lang: "en-US",
+      title: "NiGHT",
+      description: "Yuorb: New Ithkuil Grammar Translation Into Chinese",
+    },
+    "/ja/": {
+      lang: "ja-JP",
+      title: "NiGHT",
+      description: "ユオルブ：新イスクイル語文法漢訳",
     },
   },
   plugins: [
