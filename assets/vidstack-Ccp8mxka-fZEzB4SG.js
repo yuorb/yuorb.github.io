@@ -1,1 +1,0 @@
-import{bp as i,bq as t}from"./app-BLdtRpIX.js";class n{constructor(s){this.La=s}Xa(){i(this.ya)&&this.fg()}$(){t(this.ya)&&window.cancelAnimationFrame(this.ya),this.ya=void 0}fg(){this.ya=window.requestAnimationFrame(()=>{i(this.ya)||(this.La(),this.fg())})}}export{n as R};
