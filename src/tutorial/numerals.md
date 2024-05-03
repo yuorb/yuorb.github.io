@@ -144,7 +144,7 @@ title: 数词应用
 | 100^19^ | wogza wopcui wočgui wočgui | 1 百万亿亿亿亿 | 百涧 | 百万垓 |
 | 100^20^ | wokẓa wočgui wočgui | 1 亿亿亿亿亿 | 正 | 秭 |
 | 100^21^ | wogza wokẓui wočgui wočgui | 1 百亿亿亿亿亿 | 百正 | 百秭 |
-| 100^22^ | wopca wokẓui wočgui wočgui | 1 万亿亿亿亿亿 | 载  | 万秭 |
+| 100^22^ | wopca wokẓui wočgui wočgui | 1 万亿亿亿亿亿 | 载 | 万秭 |
 | 100^23^ | wogza wopcui wokẓui wočgui wočgui | 1 百万亿亿亿亿亿 | 百载 | 百万秭 |
 | 100^24^ | wočga wočgui wočgui | 1 亿亿亿亿亿亿 | 极 | 穰 |
 | … | ... | ... | ... |
@@ -159,7 +159,7 @@ title: 数词应用
 
 | 百的幂 | 可用形式（不限于此） | 翻译 |
 | :---: | :--- | :--- |
-| 100^3^ | wogzëipca : wogzosda | 1 万个 1 百 :  1 百的立方 |
+| 100^3^ | wogzëipca : wogzosda | 1 万个 1 百 : 1 百的立方 |
 | 100^5^ | wogzëikẓa | 1 百个亿 |
 | 100^6^ | wopcëikẓa : wopcosda | 1 亿个 1 万 : 1 万的立方 |
 | 100^7^ | wogzëipcëikẓa : wogzaensuasda | 1 亿个 1 万个 1 百 : 1 百的 7 次方 |
@@ -168,8 +168,8 @@ title: 数词应用
 | 100^11^ | wogzëipcëičga : wogzaecguasda | 1 亿亿个 1 万个 1 百 : 1 百的 11 次方 |
 | 100^12^ | wokẓëičga : wokẓosda | 1 亿亿个 1 亿 : 1 亿的立方 |
 | 100^13^ | wogzëikẓëičga : wogzaeļjuasda | 1 亿亿个 1 亿个 1 百 : 1 百的 13 次方 |
-| 100^14^ | wopcëikẓëičga : wogzaebcuasda |  1 亿亿个 1 亿个 1 万 : 1 百的 14 次方 |
-| 100^15^ | wogzëipcëikẓëičga : wogzaeţẓuasda | 1 亿亿个 1 亿个 1 万个 1 百 : 1 百的 15 次方  |
+| 100^14^ | wopcëikẓëičga : wogzaebcuasda | 1 亿亿个 1 亿个 1 万 : 1 百的 14 次方 |
+| 100^15^ | wogzëipcëikẓëičga : wogzaeţẓuasda | 1 亿亿个 1 亿个 1 万个 1 百 : 1 百的 15 次方 |
 | 100^16^ | wočgëičga : wočgösda | 1 亿亿个 1 亿亿 : 1 亿亿的平方 |
 | 100^17^ | wogzëičgëičga | 1 亿亿个 1 亿亿个 1 百 |
 | 100^18^ | wopcëikẓosda : wopcosdosda | [1 亿个 1 万]的立方 : [1 万的立方]的立方 |
@@ -178,7 +178,7 @@ title: 数词应用
 | 100^21^ | wopcëičgösdëigza | 1 百个[[1 亿亿个 1 万]的平方] |
 | 100^22^ | wogzëipcëičgösda : wogzaecguasdösda | [1 亿亿个 1 万个 1 百]的平方 : [1 百的 11 次方]的平方 |
 | 100^23^ | wogzëipcëičgösdëigza : wogzaecguasdösdëigza | 1 百个[[1 亿亿个 1 万个 1 百]的平方] : 1 百个[[1 百的 11 次方]的平方] |
-| 100^24^ | wočgosda |  1 亿亿的立方 |
+| 100^24^ | wočgosda | 1 亿亿的立方 |
 | … | ... | ... |
 | 100^32^ | wočgaepšuasda : wočgösdösda | 1 亿亿的 4 次方 : 1 亿亿的平方的平方 |
 | 100^64^ | wočgaečkuasda : wočgösdösdösda | 1 亿亿的 8 次方 : 1 亿亿的平方的平方的平方 |
@@ -365,7 +365,7 @@ $N^{3^{27}}$ -osduosduosd-
 
 * u576584uosa : 第 57,6584 个 + <abbr>DYN.CSV.RPS​-DPX</abbr>
 * u9658984ila :: 第 9658984 个
-* hu1000ilui-wa9999a ::  、第 1000 个实体的 9999 个副本
+* hu1000ilui-wa9999a :: 、第 1000 个实体的 9999 个副本
 
 :::
 

@@ -49,7 +49,6 @@ function 删前置零(text) {
     return result;
 }
 
-
 function 简替(数字, 极性) {
     var result = "";
     // 判断数字是否为空
@@ -289,13 +288,11 @@ function 格和音渡处理(text) {
     // 将文本中所有的 "@" 替换成 "e"
     let result = a.replace(/@/g, 'ëʼi').replace("ëʼi", "a");
 
-
     // 使用正则表达式匹配 "un w#(一至两个非空白字符)ui"
     // 并将匹配到的字符串中的 "(一至两个非空白字符)" 部分提取出来替换回去
     result = result.replace(/üň w(\S{1,3})ui/g, (match, p1) => {
         return `üň ${p1}alui`;
     });
-
 
     return result;
 }
@@ -345,7 +342,6 @@ function 解析并显示结果() {
     const 简化简替数 = 简替形(简替数, 简化);
 
     const 位置名数 = 简替形(词干(位置名数替换(数字串, 个数, 极性), 类型), 简化);
-
 
     数字串 = 删前置零(数字串)
 

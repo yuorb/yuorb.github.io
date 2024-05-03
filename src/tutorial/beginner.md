@@ -353,7 +353,7 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <dl class="gloss">
   <dt>bei</dt>
 </dl>
-<div class="glend">His kidsʼll be ill OR If he has kids, they are ill. [i.e., it is unknown whether he has kids, but if he does, they are certainly ill.]</div>
+<div class="glend">His kids’ll be ill OR If he has kids, they are ill. [i.e., it is unknown whether he has kids, but if he does, they are certainly ill.]</div>
 <div class="expln">他的孩子就会病了（不知道他有没有孩子，如果有，他们一定病了）<br>[假定式 <abbr>ASM</abbr>]​：前提未知且命题真值确定；如果前提为真命题也为真​</div>
 
 <dl class="gloss">
@@ -377,7 +377,7 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <dl class="gloss">
   <dt>bei</dt>
 </dl>
-<div class="glend">His kids mightʼve been ill [if he had kids, but he doesnʼt, so weʼll never know].</div>
+<div class="glend">His kids might’ve been ill [if he had kids, but he doesnʼt, so we’ll never know].</div>
 <div class="expln">他的孩子本来可能病了（他要是有孩子他们可能病了，不过他没孩子）<br>[假设式 <abbr>HYP</abbr>]：命题真值不确定且前提为假</div>
 
 </div>

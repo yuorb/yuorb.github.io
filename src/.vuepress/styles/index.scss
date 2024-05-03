@@ -313,21 +313,27 @@
 			&:first-of-type {
 				width: auto;
 			}
+
 			&:nth-of-type(2) {
 				width: 10%;
 			}
+
 			&:nth-of-type(4) {
 				width: 10%;
 			}
+
 			&:nth-of-type(6) {
 				width: 10%;
 			}
+
 			&:nth-of-type(4) {
 				width: 10%;
 			}
+
 			&:nth-of-type(6) {
 				width: 10%;
 			}
+
 			&:nth-of-type(7) {
 				width: 10%;
 			}
@@ -394,8 +400,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 :root {
-	--examfont: 'Ysabeau','Andika','EB Garamond','Arsenal',"Minion 3", 'Noto Serif', "LXGW WenKai TC", serif;
+	--examfont: 'Ysabeau', 'Andika', 'EB Garamond', 'Arsenal', "Minion 3", 'Noto Serif', "LXGW WenKai TC", serif;
 	--basefonts: 'Andika', var(--examfont), var(--font-family);
+	--cjkfonts: "Iosevka Etoile Web", "Sarasa Gothic CL", "Sarasa Gothic SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Noto Sans SC", STHeiti, "Microsoft YaHei", SimSun;
 }
 
 dl.gloss {
@@ -411,13 +418,14 @@ dl.gloss {
 	dd {
 		margin-left: 0 !important;
 		font-size: smaller;
-		font-family: var(--font-family);
+		font-family: var(--font-family-mono);
 		font-feature-settings: "halt";
 	}
 }
 
 .glend {
 	font-family: var(--examfont);
+
 	q {
 		margin-left: 0em;
 		margin-right: 0em;
@@ -436,18 +444,20 @@ dl.gloss {
 }
 
 code {
+	font-family: var(--basefonts), var(--font-family-mono);
 	font-variant-caps: small-caps;
 	font-feature-settings: "smcp";
 	font-size: inherit;
 	font-weight: inherit;
 	margin-left: 0.1em;
 	margin-right: 0.1em;
+	padding: 0 8px;
 }
 
 q {
 	font-style: italic;
-	margin-left: 0.5em;
-	margin-right: 0.5em;
+	margin-left: 0.2em;
+	margin-right: 0.2em;
 	font-family: var(--examfont);
 }
 
@@ -464,7 +474,7 @@ abbr {
 .parnt {
 	display: inline;
 	color: rgba(128, 128, 128, 1);
-	vertical-align: baseline!important;
+	vertical-align: baseline !important;
 
 	&::before {
 		content: '（';
@@ -482,7 +492,18 @@ abbr {
 
 strong {
 	font-weight: 900 !important;
-	text-decoration: underline 20% !important;
+	// text-decoration: var(--theme-color) underline 15% !important;
+}
+
+em {
+	// text-decoration: #fbae17 wavy underline 10% !important;
+	margin: 0em 0.2em;
+	color: var(--theme-color);
+	font-family: var(--cjkfonts);
+}
+
+em > strong {
+    text-decoration: var(--theme-color) wavy underline 10% !important;
 }
 
 .t,
@@ -512,89 +533,101 @@ mark {
 	--vue-custom-tooltip-background: var(--theme-color);
 	background: var(--theme-color);
 	color: white;
-	padding: 0 8px;
+	padding: 2px 8px;
 	border-radius: 12px;
-	margin: 2px;
+	margin: 0px 2px;
 
 	.parnt {
 		color: rgba(255, 255, 255, 0.5);
 	}
 }
 
-.indent, .listo, .tablo {
+.indent,
+.listo,
+.tablo {
 	margin: auto;
 	width: 90%;
 }
 
 .listo {
 	display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: flex-start;
 }
 
 .tablo {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
 	text-align: center;
 }
 
-h1, h2 {
-    font-weight: 900!important;
+h1,
+h2 {
+	font-weight: 900 !important;
 }
 
-h3, h4 {
-    font-weight: 800!important;
+h3,
+h4 {
+	font-weight: 800 !important;
 }
 
-h3, h4 {
-    font-weight: 700!important;
+h3,
+h4 {
+	font-weight: 700 !important;
 }
 
 .abc {
-	ol, ul {
+
+	ol,
+	ul {
 		list-style: lower-alpha;
 	}
 }
 
 del {
-    text-decoration: line-through;
-    background-color: #fbb;
-    color: black;
+	text-decoration: line-through;
+	background-color: var(--del-color);
+	color: var(--black);
+	padding: 2px;
+    border-radius: 5px;
 }
 
 ins {
-    text-decoration: none;
-    background-color: #d4fcbc;
-	color: black;
+	text-decoration: none;
+	background-color: var(--ins-color);
+	color: var(--black);
+	padding: 2px;
+    border-radius: 5px;
 }
+
 
 i {
 	font-family: var(--examfont);
 }
 
 .mannaka {
-    margin: auto;
-    display: grid;
-    text-align: center;
+	margin: auto;
+	display: grid;
+	text-align: center;
 }
 
 .center {
-	text-align: center!important;
+	text-align: center !important;
 }
 
 .inverted {
-    filter: invert(100%);
+	filter: invert(100%);
 }
 
 .shige {
 	margin: auto;
 	width: 80%;
 	display: flex;
-    justify-content: space-between;
+	justify-content: space-between;
 }
 
 .lr {
@@ -614,7 +647,7 @@ i {
 }
 
 .gray {
-    color: lightgray;
+	color: lightgray;
 }
 
 .blue {
@@ -623,8 +656,46 @@ i {
 
 pre {
 	code {
-		font-variant-caps: normal!important;
-		font-feature-settings: normal!important;
-		font-family: monospace, var(--font-family-mono)!important;
+		font-variant-caps: normal !important;
+		font-feature-settings: normal !important;
+		font-family: var(--font-family-mono), monospace!important;
 	}
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+body {
+	font-optical-sizing: auto;
+	font-style: normal;
+	font-variation-settings:
+    "wdth" 100;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-optical-sizing: auto;
+	font-style: normal;
+	font-variation-settings:
+    "wdth" 75;
+}
+
+.glend {
+    margin-bottom: .75em;
+}
+
+.note {
+	color: var(--orange);
+}
+
+caption {
+    margin-bottom: 10px;
 }

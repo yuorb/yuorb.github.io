@@ -115,7 +115,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -130,7 +130,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -271,7 +271,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -286,7 +286,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -427,7 +427,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -442,7 +442,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -583,7 +583,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -598,7 +598,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -739,7 +739,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -754,7 +754,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -895,7 +895,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -910,7 +910,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1051,7 +1051,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1066,7 +1066,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1207,7 +1207,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1222,7 +1222,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1363,7 +1363,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>配价 <strong>或</strong> 时体 <strong>或</strong> 相位 <strong>或</strong> 级别 <strong>或</strong> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
 </dl>
 <dl>
     <dt>形式</dt>
@@ -1378,7 +1378,7 @@
 </dl>
 <dl>
     <dt>范畴</dt>
-    <dd>格 <strong>或</strong> 格式 <strong>或</strong> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
 </dl>
 <dl>
     <dt>形式</dt>

@@ -59,7 +59,7 @@ title: 术语表
 * 词根 root
   * 载词根 Carrier Root
   * 特化Cs-词根 Specialized Cs-Roots
-  * 特化人称词根 Specialized Personal-Reference Roots
+  * 特化指代词根 Specialized Referential Roots
 * 词干 Stems
   * 词干一 Stem 1
   * 词干二 Stem 2
@@ -184,7 +184,7 @@ title: 术语表
   * 相似 <abbr>-S-</abbr> Similar
   * 各异 <abbr>-D-</abbr> Different
   * 含混 <abbr>-F-</abbr> Fuzzy
-* 分性 Separability
+* 分性 Separabilities
   * 相离 <abbr>-S</abbr> Separate
   * 相连 <abbr>-C</abbr> Connected
   * 相合 <abbr>-F</abbr> Fused

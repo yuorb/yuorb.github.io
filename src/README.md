@@ -24,12 +24,12 @@ features:
 
   - title: Discord 社区
     icon: fab fa-discord
-    details: 最活跃的 Ithkuil 频道
+    details: 最活跃的 Ithkuil 服务器
     link: https://discord.gg/PMzFpYJ
 
   - title: 日语 Discord 社区
     icon: fab fa-discord
-    details: 面向日语使用者的 Ithkuil 频道
+    details: 面向日语使用者的 Ithkuil 服务器
     link: https://discord.gg/8ACHfqNwwb
 
   - title: Reddit 社区

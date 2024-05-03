@@ -132,7 +132,6 @@ New Ithkuil 使用词序完成同样的选择：话题置于句首，焦点直�
 
 一般语言往往有一些短语结构或词序样式，用来反映或强化一种说明描述对象的认知上的理解，即词序本身告诉我们应该怎样去理解话语。这种现象被称为「<tooltip label="iconicity">象似性</tooltip>」。最常见的是所谓的「次序象似性」，即词语顺序反映所述事件次序。像：「看一看，试一试，买一买」，「我来到，我看到，我征服」，「dine and dash」，描述的都是次序性事件，词语顺序反映事件次序。更改这些词序要么会导致无意义，要么会改变话语意义。以下例子颇有代表性：
 
-
 <div class="indent">
 
 (1) Jane结了婚，有了孩子。
@@ -217,7 +216,7 @@ New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Af
 
 两组句子的句法样式相同，但(4b)词序不合法，(3b)同样的词序却没问题。这种区别的隐含原因在于语义角色。「分析师」能充当[领收者]的角色，「污渍」却不能（只是[方向性目标]，即溶剂应用处）。认知上，污渍不能像分析师「拥有」报告一样「拥有」溶剂。New Ithkuil 里，语义角色可用名词格标记明确定义，因此不会有(3b)(4b)这种句法不一致的句对。
 
-有时不是语义角色，而是一个论元关联隐含从句的问题。例如 Heʼs a tall president 意思是「他是个身材高的总统」。那为什么 Heʼs a likely president 意思不是「*他是个有可能的总统」？因为“tall”是描述相邻的对象“president”，“likely” 却不描述相邻的对象，毋宁说是描述该对象正在或将要参与的某个过程，即「竞选总统」。因此这两句英语里句法构成一样的话译到 New Ithkuil 时句法构成会很不一样：
+有时不是语义角色，而是一个论元关联隐含从句的问题。例如 He’s a tall president 意思是「他是个身材高的总统」。那为什么 He’s a likely president 意思不是「*他是个有可能的总统」？因为“tall”是描述相邻的对象“president”，“likely” 却不描述相邻的对象，毋宁说是描述该对象正在或将要参与的某个过程，即「竞选总统」。因此这两句英语里句法构成一样的话译到 New Ithkuil 时句法构成会很不一样：
 
 <div class="indent">
     <dl class="gloss">
@@ -232,7 +231,7 @@ New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Af
       <dt>hruḑfiu-eʼvkyiržuišmóʼidde.</dt>
       <dd>T2​-S3​-“group of authorities recognized as a government”​-IDP​—S2​-“leader​/director”​-OBJ​-HRC​/9₂​-FRM​/7₂​-PRX​-COR\FRA</dd>
     </dl>
-    <div class="glend"><q>Heʼs a tall president.</q>[literally: There is much height to him who is the official supreme leader of the government.]</div>
+    <div class="glend"><q>He’s a tall president.</q>[literally: There is much height to him who is the official supreme leader of the government.]</div>
     <div class="expln">身为总统的他体验到很多高度 = 他是个高总统 / 他，作为总统，身材高大。</div>
 </div>
 
@@ -245,7 +244,7 @@ New Ithkuil 用各种词缀（见词缀文档章节关于 Sequential/Temporal Af
       <dt>hruḑfiu-eʼvkyiržuišmoiggórẓ.</dt>
       <dd>T2​-S3​-“group of authorities recognized as a government”​-IDP​—S2​-“leader​/director”​-OBJ​-HRC​/9₂​-FRM​/7₂​-ICP​-PRB​/7₁​-OBS</dd>
     </dl>
-    <div class="glend"><q>Heʼs a likely president.</q>[literally: He is one who probably will begin to be the official supreme leader of the government.]</div>
+    <div class="glend"><q>He’s a likely president.</q>[literally: He is one who probably will begin to be the official supreme leader of the government.]</div>
     <div class="expln">他很有可能会开始当总统 = 他很有可能当选总统</div>
 </div>
 
@@ -289,10 +288,9 @@ New Ithkuil 里，控制否定词缀对构形词的管辖关系，可准确说�
       <dt>welaʼi.</dt>
       <dd>S2-“human child”-ACT</dd>
     </dl>
-    <div class="glend"><q>The child doesnʼt sing.</q> [even though (s)he can, i.e., (s)he chooses not to]</div>
+    <div class="glend"><q>The child doesnʼt sing.</q><br>[even though (s)he can, i.e., (s)he chooses not to]</div>
     <div class="expln">孩子不会唱 [能唱但选择不唱]</div>
 </div>
-
 
 ## 空间方位表达
 

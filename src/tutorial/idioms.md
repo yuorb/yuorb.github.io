@@ -51,7 +51,7 @@ Are you healthy?
 你健康吗？
 
 Si wažfëithéu?
-How are you?  (literally:  Are you in acceptable health?)
+How are you? (literally: Are you in acceptable health?)
 你健康状况还好吗？
 
 Si wažfëithói.
@@ -59,7 +59,7 @@ Hopefully, things are well with you.
 希望你还好。
 
 Li wažfëitha.
-Iʼm doing fine.  (literally:  Iʼm in acceptable health.)
+Iʼm doing fine. (literally: Iʼm in acceptable health.)
 我健康状况还好。
 
 Li ëitha.
@@ -73,7 +73,7 @@ Iʼm healthy.
 「别来无恙。」可以翻译为
 
 Walpyáu wažfóëhëi si wettrawuʼo.
-Youʼre looking as healthy as ever, nice to see you again. / I trust you have been well since we last met.
+You’re looking as healthy as ever, nice to see you again. / I trust you have been well since we last met.
 很高兴上次道别以来你还如往常般健康。
 
 ## 道别
@@ -116,7 +116,7 @@ I offer you my gratitude in exchange for your kindness.
 
 如感谢的表达更为正式，可用词干 -ermy- 「感到荣幸/感激」。
 
-以上例句也可用变体，将词干 adv- 或 udv- 併入词干 -amy- 成为一个联对 。如：Luwüsë hludvao-myuláu.「我向你以提供以交换的方式表达谢意」
+以上例句也可用变体，将词干 adv- 或 udv- 联接词干 -amy- 成为一个联对 。如：Luwüsë hludvao-myuláu.「我向你以提供以交换的方式表达谢意」
 
 表示不用客气的方法很多，比如羞怯观 cč 「这没什么」「没什么大不了的」表达谦虚。
 
@@ -128,7 +128,7 @@ Wagtái tula (sio) laʼo.
 或「不用（对我）客气」或「你太客气了」，如：
 
 Su enšwudortá.
-Youʼre showing too much politeness.
+You’re showing too much politeness.
 你太客气了。
 
 Einšwudái.
@@ -172,7 +172,7 @@ Are you Mike?
 你叫作麦克？
 
 Mmaxinļ adniloësa.
-Whatʼs your name?
+What’s your name?
 你的名字是什么？
 
 Malái lü adniloësa.

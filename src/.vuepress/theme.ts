@@ -30,7 +30,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "Yuorb: 该非官方组织旨在为提供 New Ithkuil 的 S·T·I（意指、翻译、解释）服务。",
 
       displayFooter: true,
 
@@ -39,14 +39,14 @@ export default hopeTheme({
         editLink: "在 GitHub 上编辑此页",
       },
     },
-    "/en": {
+    "/en/": {
       // navbar
       navbar: enNavbar,
 
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "Yuorb: The unofficial organization aiming to provide the S·T·I (Signification, Translation, Interpretation) service for New Ithkuil.",
 
       displayFooter: true,
 
@@ -55,14 +55,14 @@ export default hopeTheme({
         editLink: "Edit this page on GitHub",
       },
     },
-    "/ja": {
+    "/ja/": {
       // navbar
       navbar: jaNavbar,
 
       // sidebar
       sidebar: jaSidebar,
 
-      footer: "Default footer",
+      footer: "Yuorb: New Ithkuil に S・T・I (Signification、Translation、Interpretation) サービスを提供することを目的とした非公式組織",
 
       displayFooter: true,
 
@@ -204,7 +204,6 @@ export default hopeTheme({
       "BiliBili",
       "CodePen",
       "PDF",
-      "Replit",
       "Share",
       "SiteInfo",
       "StackBlitz",

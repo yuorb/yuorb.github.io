@@ -559,18 +559,15 @@ There are nine illocutions.  Additionally, the first Illocution, ASSERTIVE, has 
 
 In this lesson we will learn three illocutions-validations used in the dialog. They are
 
-
 1. <b>ASR-OBS (Assertive-Observational) : marked by á, sometimes can be unmarked</b>
 
 The statement is an assertion/proposition about the world which constitutes a truth claim
 
 Present sensory knowledge or present sensory experience: “I perceive... / I know...”
 
-
 2. <b>VER Verificative : marked by éu</b>
 
 A statement whose purpose is to seek/obtain corroboration, confirmation, or verification (i.e., equivalent to a Yes/No question)
-
 
 3. <b>DEC Declarative : marked by áu</b>
 
@@ -578,23 +575,13 @@ A “performative” statement which. by its utterance/publication, creates a ch
 
 #### Affix
 
-Letʼs take a look at the structures of the word yagḑá (to feel good) and yagḑögá (to feel pretty good), as well as wamyáu (thank you) and wamyogáu (thank you very much)
+Let’s take a look at the structures of the word yagḑá (to feel good) and yagḑögá (to feel pretty good), as well as wamyáu (thank you) and wamyogáu (thank you very much)
 
 插入表格
 
 We notice that
 
-
-1. **An affix can be inserted into the slot VII** (later we will see itʼs not the only possibility)
-2. The consonant part of the affix (-g) determines the meaning
-3. The vowel part of the affix (ö and o) determines the degree
-
-Every affix in Ithkuil has 9 degrees, each one has a different meaning. Some affixes, exemplified by (-g), have a gradual meaning in relation to degree. There is a sequence of 9 corresponding vowels shown in figure below.
-
-(This vowel sequence is only for building type-I affixes which will be enough for this lesson. More details will be uncovered in future lessons. )
-
 The degree 0 means the umbrella term for all 9 degrees, or a degree-less version of the meaning. It doesnʼt always apply to affixes, like (-g). .
-
 
 <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -605,7 +592,6 @@ The degree 0 means the umbrella term for all 9 degrees, or a degree-less version
 ![alt_text](images/image8.png "image_tooltip")
 
 For example, we can say “not thank you at all” in the following way
-
 
 1. Construct the word “thank you” = wamyáu
 2. Consider the the affix EXN*(-g)
@@ -628,7 +614,6 @@ Q3. Follow-up question. What are their counterparts in Ithkuil called?
 
 Q4. How to distinguish verbal formatives from nominal formatives?
 
-
 1. Verbal formatives start with w. Nominal formatives start with y.
 2. Verbal formatives start with y. Nominal formatives start with w.
 3. Verbal formatives have ultimate stress. Nominal formatives have penultimate stress.
@@ -640,7 +625,6 @@ Q5. Parse the following words in analog to examples in the lesson
 
 Q6. Concerning the illocution of wattáu, select the right answer.
 
-
 1. Wattáu is in Assertive illocution and it is because it starts with “w”
 2. Wattáu is in Assertive illocution and it is because it contains a double consonant “tt”
 3. Wattáu is in Declarative illocution and it is because it ends with “áu”
@@ -650,8 +634,7 @@ Q7. True or False. A yes/no question is formed by inflecting the verb to VER Ver
 
 Q8. True or False. A natural statement (such as I feel good) is formed by inflecting to verb to Declarative, marked with á at the end (slot IX)
 
-Q9. According to rootʼs meaning, guess the meanings of uttrak, wugḑa, uttalkra, umyalaha
-
+Q9. According to root’s meaning, guess the meanings of uttrak, wugḑa, uttalkra, umyalaha
 
 1. offering gratitude merely as a superficial courtesy
 2. feel post-orgasmic/coital bliss
@@ -664,14 +647,12 @@ Q11. Change <b>Wattáu </b>to ASR & OBS (Assertive illocution & Observational va
 
 Q12. Which sentence is best suited for DEC Declarative illocution?
 
-
 1. I am jogging in the park
 2. What are you talking about?
 3. You better never ever do that again!
-4. Hereʼs the winner !
+4. Here’s the winner !
 
 Q13. Which of the following assertive sentences is best suited for OBS observational validation?
-
 
 1. I am a data engineer working in google
 2. He seems to like her a lot
@@ -683,7 +664,6 @@ Q14. Pronounce all the words “thank you” with affix “-<b>g</b>” in all 9
 Q15. How to say “I donʼt feel very good at all” and “I donʼt feel very good”? Do it for other degrees as well.
 
 Answers :
-
 
 1. False
 2. (D)
@@ -709,7 +689,6 @@ End of lesson 1.
 
 ### Hidden content : sentence study for lesson design (not intended for immersive learners).
 
-
 1. Translation of “hi” – “Greeting hereby happens”
 
 STEP ONE: Semantic Analysis of Source Sentence
@@ -724,13 +703,11 @@ At this point, the original sentence must be analyzed to determine what Ithkuil 
 
 The only relevant lexeme is the root -tt- “salutation/ greeting/ introduction”
 
-
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image9.png "image_tooltip")
 
 which we can anticipate the following derivation terms
-
 
 1. Stem 1 BSC => Hi, Hello
 2. Stem 1 BSC => To greet. Say hello to.
@@ -750,7 +727,6 @@ Version : Both version make sense for (2) and (5)
 
 CAEPE :
 
-
 1. “hi” = Default.
 2. “to greet” = same below
 3. “greeting” = default except :
@@ -758,7 +734,7 @@ CAEPE :
     2. Associative like when an entire army greets the commander at the same time.
     3. Proximal like when the greeting itself is long (for 5 minutes in a formal talk) and you want to say something happened when the greeting was happening.
     4. G Agglomerative cf. (a)
-    5. N Nomic when itʼs general like “It is important to greet people”
+    5. N Nomic when it’s general like “It is important to greet people”
 4. “hey there” = default
 5. “introduce oneself”  = same as above
 
@@ -772,13 +748,11 @@ Aspect : default
 
 illocution : declarative
 
-
 * Translation of how are you
 
 Cognitive analysis : do you feel-good or no?
 
 root : gḑ feel good
-
 
 <p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -822,7 +796,7 @@ _Wimbruswiöháu!_
 
 _[default CA]- STEM2/CPT-“compete.to.win”-ACCESSOR:IND-SLF:BEN-DEC_
 
-_“Hereʼs the winner! / We have a winner!”_
+_“Here’s the winner! / We have a winner!”_
 
 By declaring the winner, all the audiences now gained extra information. “We have a winner” is no longer just a logically true statement, but it changes the state for the addresses (audiences/ or the competitors themselves).
 
@@ -850,7 +824,6 @@ Due to the fact that EXS is unmarked and makes the word easier to use. Just need
 
 Translation : Thank you
 
-
 <p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image11.png "image_tooltip")
@@ -861,7 +834,7 @@ Processual version
 
 UPX configuration for a single utterance of thank you.
 
-* Itʼs possible to show gratitude for several things. (Youʼve done A,B,C to me. I thank you for all youʼve done for me.) In this case, add a noun “those things” inflected to adequate case.
+* It’s possible to show gratitude for several things. (You’ve done A,B,C to me. I thank you for all you’ve done for me.) In this case, add a noun “those things” inflected to adequate case.
 
 M / G / N perspective.
 
@@ -895,7 +868,6 @@ Translation : Goodbye
 
 root : -ttr-
 
-
 <p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image12.png "image_tooltip")
@@ -908,13 +880,11 @@ Discussions within the discord group has occurred
 
 ## Lesson 2. Wadnéu si asal Bill?
 
-
 <p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "previous lesson"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [previous lesson](#heading=h.76qe01id1gsk)
 
 ### Objective of the lesson
-
 
 * Know how to say “yes” “no” “pardon” and “no worries”
 * Introduce the concept of the carrier root
@@ -966,12 +936,11 @@ B: Have a nice day.
 
 插入表格
 
-
 ### Grammar
 
 #### Root, stem and specification
 
-Weʼve learnt in lesson 1 that the root suggests a vague, general, holistic meaning of a word. In order to instantiate and provide more specific meanings, a combination of 4 stems and 4 specifications is used. Letʼs take a look at some words with learnt, and study their full form for the time being :
+We’ve learnt in lesson 1 that the root suggests a vague, general, holistic meaning of a word. In order to instantiate and provide more specific meanings, a combination of 4 stems and 4 specifications is used. Let’s take a look at some words with learnt, and study their full form for the time being :
 
 插入表格
 
@@ -999,7 +968,6 @@ In addition to the stem, there are four specifications : <b>Basic, Contential, C
 
 A holistic instantiation of a stem, prior to the application of one of the other three Specifications, essentially encompassing the meanings of the CTE and CSV specifications below.
 
-
 1. For stems representing naturally “activized”, “time-unstable”, dynamic, or psychologically verb-like notions
     1. “an instance/occurrence of X”
     2. “(an instance/occurrence of) X(-ing) happens”
@@ -1019,12 +987,10 @@ The form (physical or non-physical) in which an entity/state/act actually expres
 
 In order of priority (if (1) is not applicable then refer to (2) etc) :
 
-
 1. The tangible tool/instrument/means by which a state act/state/event occurs
 2. The third-party object/entity associated with the interaction between two parties (e.g., the object being given in a dative interaction)
 3. The resulting tangible object/product/situation
 4. The semantic patient or experiencer of the state/act/event.
-
 
 Example 1. Nominal formatives
 
@@ -1034,10 +1000,9 @@ Example 2. Verbal formatives :
 
 插入表格
 
-Letʼs show the full 4 by 4 table for all the combinations for slot II – slot IV values.
+Let’s show the full 4 by 4 table for all the combinations for slot II – slot IV values.
 
 插入表格
-
 
 #### The carrier root -s-
 
@@ -1049,13 +1014,13 @@ Yapţ Iu <b>asal </b>Bill <b>(hü)</b>
 
 where Bill is the foreign word, sandwiched between <b>asal </b>and <b>hü</b>.
 
-Letʼs start with the latter <b>hü</b>. It is used to **indicate the end of a foreign word/ sentence**. However, we can alternatively omit it and mark the last syllable with a <b>high or rising tone </b>instead.
+Let’s start with the latter <b>hü</b>. It is used to **indicate the end of a foreign word/ sentence**. However, we can alternatively omit it and mark the last syllable with a <b>high or rising tone </b>instead.
 
 插入表格
 
-Weʼve chosen to use the default instead of IV/VI shortcut form to make it easy to inflect for stems and specifications.
+We’ve chosen to use the default instead of IV/VI shortcut form to make it easy to inflect for stems and specifications.
 
-If youʼve followed the lesson so far, you should be able to answer these
+If you’ve followed the lesson so far, you should be able to answer these
 
 (Answers marked in white. Select the text to unveil. )
 
@@ -1064,7 +1029,6 @@ Q. Is asal a verbal or nominal formative? why? nominal. It has penultimate stres
 Q. What is the root of asal? s
 
 Q. What is the stem of asal? What is the specification? stem 1 basic specification
-
 
 <p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1116,13 +1080,11 @@ Q. What is the stem and specification of this word? why?  stem 1 (slot II = a), 
 
 Q. Slot VII represents affixes. Which degree of the affix is used? Can you list out the vowels for each degree? The degree 4 affix is used. They are (from 1 to 9).  a ä e i ëi ö o ü u
 
-
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image14.png "image_tooltip")
 
 Affixes are shown as follows : the most used one is the degree 4.
-
 
 <p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1160,7 +1122,6 @@ Q. Slot VII represents affixes. Which degree of the affix is used? The degree 4 
 
 The affix -r is used to negate a word.
 
-
 <p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image16.png "image_tooltip")
@@ -1171,7 +1132,6 @@ Exercise: Make the other 8 words with root -t- with -r affix, and think of a tra
 
 Q. True or false.
 
-
 1. Stem is a synonym of root (they mean the exact same thing)
 2. Slot II, III and IV indicate stem, root and specification respectively.
 3. Contential, Constitutive and Objective specifications only apply to nominal formatives.
@@ -1181,7 +1141,6 @@ Q. Change the word attalaháu to stem 2, CTE / stem 2, CSV / stem 2, OBJ / stem 
 Q. True or false. The carrier root is used for foreign human names only, so is not used for foreign brand name.
 
 Q. Translate the sentence :
-
 
 1. Do you need a carrefour?
 2. I am looking for .
@@ -1199,13 +1158,11 @@ Cognitive analysis
 
 Based on cambridge dictionary, this term can mean :
 
-
-1. a polite way of attracting someoneʼs attention, especially someone you do not know:
+1. a polite way of attracting someone’s attention, especially someone you do not know:
 
 Excuse me, does this bus go to Oxford Street?
 
 Excuse me, you look familiar. Have we met somewhere before?
-
 
 Candidates roots for expressing
 
@@ -1213,13 +1170,9 @@ Candidates roots for expressing
 
 ![alt_text](images/image17.png "image_tooltip")
 
-
-
 <p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image18.png "image_tooltip")
-
-
 
 <p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1227,13 +1180,11 @@ Candidates roots for expressing
 
 (this one above can be candidate for “excuse me may i walk past”)
 
-
 <p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image20.png "image_tooltip")
 
 (this one above seems to be the most adequate, using stem 2. Discussed in lesson 1 actually)
-
 
 <p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1241,24 +1192,19 @@ Candidates roots for expressing
 
 (this one above, maybe useful?)
 
-
 2. used to politely ask someone to move so that you can walk past them:
 
 Excuse me, can I just get past?
 
 Excuse me, I need to get to the front of the room.
 
-
-
 3. used to tell someone politely that you are leaving:
 
-Excuse me a moment, Iʼll be with you shortly.
+Excuse me a moment, I’ll be with you shortly.
 
-Do excuse me, Iʼm expected at Richardʼs in fifteen minutes.
+Do excuse me, Iʼm expected at Richard’s in fifteen minutes.
 
-Excuse me - Iʼll be right back.
-
-
+Excuse me - I’ll be right back.
 
 4. A2 used to say sorry for something you have done by accident:
 
@@ -1266,17 +1212,13 @@ Did I take your seat? Do excuse me.
 
 Oh, excuse me, I didnʼt mean to disturb you.
 
-
-
 5. said before disagreeing with someone:
 
 Excuse me, but arenʼt you forgetting something?
 
 Excuse me! That was my idea, not yours!
 
-
 US
-
 
 6. (UK pardon?); (I beg your pardon?) used to politely ask someone to repeat something they have said because you have not heard it:
 
@@ -1284,17 +1226,13 @@ Excuse me, I didnʼt quite hear what you said.
 
 Pardon? Did you say "Morris" or "Norris"?
 
-
-
 #### Translation : Do you need help?
-
 
 <p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image22.png "image_tooltip")
 
 Stem 1 CTE = to need
-
 
 <p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1308,13 +1246,11 @@ amskäléu si wanna/ nnala
 
 amskälahéu si annalaha
 
-
 * On the mood of “do you need help”
 
 Option A : Factual always works.
 
 Option B : Speculative. But then all Yes/No questions should be speculative, otherwise why should we ask questions in the first place?
-
 
 * On the effect of referentials
 
@@ -1326,9 +1262,9 @@ Taličřá/ watičřá/ ataličřahá
 
 talír/ aitál/ atalirahá/ watír
 
-#### Translation of whatʼs your name
+#### Translation of what’s your name
 
-“Whatʼs your name?” “My name is Adam”
+“What’s your name?” “My name is Adam”
 
 STEP ONE: Semantic Analysis of Source Sentence
 
@@ -1340,13 +1276,11 @@ At this point, the original sentence must be analyzed to determine what Ithkuil 
 
 The only relevant lexeme is the root -dn- “name/ designation/ label”
 
-
 <p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image24.png "image_tooltip")
 
 There are two stem-specification combinations that are relevant.
-
 
 1. Stem 1 BSC : to be named/ called something
 2. Stem 1 OBJ : the name
@@ -1365,47 +1299,35 @@ wadná/ adnál/
 
 #### Translation of look for
 
-
 <p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image25.png "image_tooltip")
-
 
 #### Translation of “sorry” and “no worries”
 
 candidate roots
 
-
 <p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image26.png "image_tooltip")
-
-
 
 <p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image27.png "image_tooltip")
 
-
-
 <p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image28.png "image_tooltip")
-
-
 
 <p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image29.png "image_tooltip")
 
-
-
 <p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image30.png "image_tooltip")
 
-Or another way of translating this : “Iʼve made a mistake”
-
+Or another way of translating this : “I’ve made a mistake”
 
 <p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1413,13 +1335,11 @@ Or another way of translating this : “Iʼve made a mistake”
 
 or an affix
 
-
 <p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image32.png "image_tooltip")
 
 A better one may be
-
 
 <p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1436,7 +1356,6 @@ please, uiļgwalái you(erg) I(dative)
 ## Lesson 3.
 
 ### Objective of lesson
-
 
 * Introduce all the transrelational cases
 * Talk about oneself.
@@ -1473,7 +1392,6 @@ Sure. Tell me.
 
 Translation study
 
-
 1. Help me
     1. ňňs (sollicitative bias) wannái zü?
     2. ňňs wannöarái
@@ -1499,7 +1417,6 @@ Translation study
 
 Case study :
 
-
 1. I throw garbage away
     1. throw I (ERG) garbage (ABS)
     2. terminative for garbage works ?
@@ -1513,7 +1430,6 @@ Case study :
     7. Decrease (1:NEU) I (AFF) weight (IND)
 
 Affix note
-
 
 1. MET: place for inhabitants/occupants (metonymy 借代)
 2. -lč: SIA (some arguements are implied)
@@ -1543,14 +1459,13 @@ Irregardless of how the details of a war (how many battles, do battles resemble 
 
 It can happen that a war consists of only one battle. And we count several wars. In this case, UPX + Agglomerative makes sense to me.
 
-I sell bamboo, letʼs dig into the config and perspective of "sell"  (so regardless of how many bamboo i am or i was selling. It is about the act of "selling" not the bamboo
+I sell bamboo, let’s dig into the config and perspective of "sell"  (so regardless of how many bamboo i am or i was selling. It is about the act of "selling" not the bamboo
 
 UPX -> I sell it once (on a certain date), MPX -> I sell it several times
 
 SCF -> Did the sellings connect to each other. (maybe everyday for connected etc)
 
 SDF -> Did the sellings resemble each other? (I sell on internet, sell on a market, sell by indirect help of friends recommending others etc)
-
 
 * ungrammatical vs nonsensical
     * Colorless green ideas sleep furiously
@@ -1561,10 +1476,9 @@ Agglomerative -> means that selling bamboo are regarded as several activities
 
 ( I feel in this case agglomerative doesnʼt make too much sense. But if you change to I run business on bamboos, it can mean that you put an emphasis on not a single but several activities (cutting bamboos, cleaning bamboos, storing bamboos)
 
-
 * Warning from yıeʼkřàîdhux̧ü
 
-I just gave this a quick skim and it worries me that youʼre trying to find direct ithkuil translations for a bunch of solidified (and often meaningless/unimpactful filler) conversational english phrases
+I just gave this a quick skim and it worries me that you’re trying to find direct ithkuil translations for a bunch of solidified (and often meaningless/unimpactful filler) conversational english phrases
 
 "Excuse me" for example can mean several different things depending on how you say it
 
@@ -1584,7 +1498,6 @@ A < B means A is a more basic knowledge point than B
 
 Criteria for level distinction :
 
-
 * Basic
     * necessary to make a minimal sentence
     * or very useful formulation (comparison, description …)
@@ -1596,7 +1509,6 @@ Criteria for level distinction :
     *
 
 Knowledge points, by theme from the a grammar of new Ithkuil
-
 
 * Phonology
     * Phonemic inventory
@@ -1689,14 +1601,12 @@ Knowledge points, by theme from the a grammar of new Ithkuil
 
 Order of introduction
 
-
 1. illocution
 2. case
 
 The iceberg of each topic :
 
 referentials
-
 
 1. I you he she, neutral effect,  Ergative, Absolutive < Inducive < Instrumental
 2. Give and take -> Dative = Thematic
@@ -1717,8 +1627,7 @@ In terms of topics
 
 Yes / No question
 
-Whatʼs your name / Where are you from
-
+What’s your name / Where are you from
 
 * carrier root > stem and root (maybe carrier adjunct?)
 * asking wh- questions
@@ -1726,12 +1635,9 @@ Whatʼs your name / Where are you from
     * or declarative
     * or Interrogative with PTN
 
-
 <p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image34.png "image_tooltip")
-
-
 
 *
 
@@ -1739,11 +1645,11 @@ Negation
 
 ## Hidden content : deleted paragraphs
 
-The arrangement of these lessons are based on difficulties from an English native speakerʼs perspective. The objective of these lessons are to provide a step-by-step guide of the Ithkuil language to make it easier especially for learners without a linguistic background or experience with linguistic features absent in English.
+The arrangement of these lessons are based on difficulties from an English native speaker’s perspective. The objective of these lessons are to provide a step-by-step guide of the Ithkuil language to make it easier especially for learners without a linguistic background or experience with linguistic features absent in English.
 
 Just as any language textbook wouldnʼt introduce every tenses as well as complicated grammar features in the first lessons, rather starting with greetings, introducing oneself, talking about family members, talking about times etc. Although it makes logical sense to discuss all at once some grammatical features (cross-comparison of every single tenses in English, full-table of irregular verb inflexions for example), it would make more sense from an educational point of view to introduce these features in order of either the importance in the conversational level, or in order of difficulties.
 
-Because of the sheer complexity and the difference from existing natural language, it is hard to achieve fluency via study of grammar with a bottom-up approach, which is to build parts of speech using theory. When people learn a foreign language in a conversational way, it is common to expose themselves to not-yet-fully-understood grammar points by memorizing fixed, useful daily sentences in the first place. It was not until they were comfortable with basic conversation and enough grammar knowledge did they start to re-analyze the sentence they have been memorizing and saying without fully understanding the complexity of grammar behind it. For instance, the French translation for the sentence “youʼre welcome” is “je vous en prie”. It is a very useful daily sentence yet the grammar behind it is way beyond the first few lessons of french. It is far-fetched and confusing to explain the use of “en” and explain the word order of “vous” being an indirect complement of an object, before even teaching students how to say “youʼre welcome”.
+Because of the sheer complexity and the difference from existing natural language, it is hard to achieve fluency via study of grammar with a bottom-up approach, which is to build parts of speech using theory. When people learn a foreign language in a conversational way, it is common to expose themselves to not-yet-fully-understood grammar points by memorizing fixed, useful daily sentences in the first place. It was not until they were comfortable with basic conversation and enough grammar knowledge did they start to re-analyze the sentence they have been memorizing and saying without fully understanding the complexity of grammar behind it. For instance, the French translation for the sentence “you’re welcome” is “je vous en prie”. It is a very useful daily sentence yet the grammar behind it is way beyond the first few lessons of french. It is far-fetched and confusing to explain the use of “en” and explain the word order of “vous” being an indirect complement of an object, before even teaching students how to say “you’re welcome”.
 
 In the same vein, on this conversational guide, we will apply a top-down approach by introducing some words and not-yet-explained grammar points of Ithkuil to be remembered at first, letting readers figure out the beautiful well-thought structure of this language by simulating to immerse oneself in an (imaginary but realistic) text examples and talking environment.
 
@@ -1763,13 +1669,13 @@ In sum, the classification of languages based on their syntactic features offers
 
 Language syntax involves rules governing word arrangement in sentences for meaningful communication. It shapes languages, guiding how elements combine to convey ideas. Languages are analytic, agglutinative, synthetic, or polysynthetic based on syntax.
 
-Analytic languages rely on word order and context, like Englishʼs SVO structure: "She eats an apple."
+Analytic languages rely on word order and context, like English’s SVO structure: "She eats an apple."
 
-Agglutinative languages use affixes systematically for precise grammar. Turkishʼs "ev" (house) becomes "evde" (at the house) or "evlerimizde" (at our houses).
+Agglutinative languages use affixes systematically for precise grammar. Turkish’s "ev" (house) becomes "evde" (at the house) or "evlerimizde" (at our houses).
 
-Synthetic languages balance word order and inflection. Latinʼs "amare" (to love) inflects to "amo" (I love), "amas" (you love), "amat" (he/she/it loves), showing subjects and tenses.
+Synthetic languages balance word order and inflection. Latin’s "amare" (to love) inflects to "amo" (I love), "amas" (you love), "amat" (he/she/it loves), showing subjects and tenses.
 
-Polysynthetic languages pack info with affixes. Inuktitutʼs "uvvaqatigiittialaat" means "he/she had not yet said again," conveying tense, negation, subject.
+Polysynthetic languages pack info with affixes. Inuktitut’s "uvvaqatigiittialaat" means "he/she had not yet said again," conveying tense, negation, subject.
 
 Classifying languages by syntax reveals how they use word order, inflection, and affixation for meaning in human communication.
 
@@ -1779,16 +1685,13 @@ A root is always a consonant or cluster of up to 5 consonants, capable of derivi
 
 **Learners are invited to only take a quick glance and revisit this part after lesson 2. **
 
-
 <p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Jump to next section. "). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Jump to next section. ](#heading=h.66g6skcamts2)
 
-
 <p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image35.png "image_tooltip")
-
 
 ###
 
@@ -1796,25 +1699,19 @@ A root is always a consonant or cluster of up to 5 consonants, capable of derivi
 
 ![alt_text](images/image36.png "image_tooltip")
 
-
-
 <p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image37.png "image_tooltip")
 
-
-
 <p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image38.png "image_tooltip")
-
 
 #### Affix
 
 #### Part of speech
 
 There are four types of words in New Ithkuil: verbal formatives, nominal formatives, adjuncts, and referentials.
-
 
 5. Verbal formatives constitute a class of words which generally correspond to verbs in natural human languages. (see paragraph below)
 6. Nominal formatives constitute a class of words which generally correspond to nouns in natural human languages. (see paragraph below)
@@ -1825,11 +1722,9 @@ The nominal and verbal formatives share most morphological categories such as fu
 
 The reason why nouns and verbs are closed related to each other is because New Ithkuil morpho-semantics do not see them as being cognitively distinct from one another, but rather as complementary manifestations of an idea existing in a common underlying semantic continuum whose components are space and time. As in physics, the holistic continuum containing these two components can be thought of as spacetime. It is in this continuum of spacetime that New Ithkuil instantiates semantic ideas into lexical roots, giving rise to the part of speech termed the formative. The speaker then chooses to either spatially “reify” this formative into an object or entity (i.e., a noun) or to temporally “activize” it into an act, event, or state (i.e., a verb). This complementary process can be diagrammed as follows:
 
-
 <p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image39.png "image_tooltip")
-
 
 ###
 
@@ -1837,12 +1732,11 @@ The reason why nouns and verbs are closed related to each other is because New I
 
 (See the grammar point affix)
 
-Letʼs show the structures for the following forms of the same word for “hi”. Default values for slots are marked in blue and special values are marked in green.
+Let’s show the structures for the following forms of the same word for “hi”. Default values for slots are marked in blue and special values are marked in green.
 
 插入表格
 
 The rule for default shortcut
-
 
 1. The full form has every slot except V and VII filled.
 2. Slot I and II can be omitted together if both take default values ʼa.
@@ -1852,7 +1746,6 @@ The rule for default shortcut
 Intermediate forms can also exist (omitting only slot I and II and not VIII, or vice versa), yielding <b>ttalaháu </b>or <b>attaláu</b>
 
 The rules for IV/ VI shortcut (formative where IV and VI are removed) are as follows
-
 
 1. Slot IV always needs to take default value a
 2. If slot VI = l (letter L) then change slot-one to w.
@@ -1886,67 +1779,47 @@ attrudahau / ttrudau / NA
 
 -tt- and -ttr- have been introduced in lesson 1. However, here we are using different “stem and specification” of the root. See the grammar point of this lesson for more details.
 
-
 <p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image40.png "image_tooltip")
-
-
 
 <p id="gdcalert46" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert47">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image41.png "image_tooltip")
 
-
-
 <p id="gdcalert47" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert48">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image42.png "image_tooltip")
-
-
 
 <p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image43.png "image_tooltip")
 
-
-
 <p id="gdcalert49" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert50">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image44.png "image_tooltip")
-
-
 
 <p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image45.png "image_tooltip")
 
-
-
 <p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image46.png "image_tooltip")
-
-
 
 <p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image47.png "image_tooltip")
 
-
 #### Affixes
-
 
 <p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image48.png "image_tooltip")
 
-
-
 <p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ![alt_text](images/image49.png "image_tooltip")
-
 
 ## Hidden content : personal brainstorming
 
@@ -1978,7 +1851,7 @@ analytic ithkuil :
 
 Use simple formative. express extra information with adjuncts.
 
-Q: whatʼs the simplest formative we can use?
+Q: what’s the simplest formative we can use?
 
 For nouns, (root-stem-specification) = the yisi
 
