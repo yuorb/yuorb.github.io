@@ -2,6 +2,8 @@
 ## Introduction
 NiGHT (Nᴇᴡ Iᴛʜᴋᴜɪʟ Gʀᴀᴍᴍᴀʀ Hᴀɴ Tʀᴀɴsʟᴀᴛɪᴏɴ) is a website that provides a translation of the New Ithkuil grammar into Chinese. The website also includes a number of other resources for learning New Ithkuil, such as a [dictionary](https://yuorb.github.io/enthrirhc/) and a grammar guide.
 
+Furthermore, this repository offers a communal revision of the New Ithkuil Grammar with the purpose of detecting and rectifying inaccuracies found in the official website’s explanations, as well as addressing discrepancies in the functioning of New Ithkuil.
+
 ## Features
 Translation of the New Ithkuil grammar into Chinese
 Dictionary of New Ithkuil terms

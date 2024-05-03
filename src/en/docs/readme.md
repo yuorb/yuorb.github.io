@@ -2,7 +2,7 @@
 title: Grammar Docs
 ---
 
-Please note that this website is unofficial and its purpose is to offer revised documentation aimed at identifying and rectifying errors in the official website’s descriptions and inconsistencies in the behavior of New Ithkuil. It is important to acknowledge that the current official website has been derived from the New Ithkuil (aka. v4, or TNIL) development document and incorporated into the outdated Ithkuil 2011 (aka. v3) document. Consequently, there may be instances of omissions and conflicting behaviors. Therefore, relying solely on the official website for information regarding New Ithkuil is not dependable. It is advisable to consult the development documentation for a more reliable reference. Thus, this unofficial website serves that purpose.
+Please note that this website is unofficial and its purpose is to offer communal revised documentation aimed at identifying and rectifying errors in the official website’s descriptions and inconsistencies in the behavior of New Ithkuil. It is important to acknowledge that the current official website has been derived from the New Ithkuil (aka. v4, or TNIL) development document and incorporated into the outdated Ithkuil 2011 (aka. v3) document. Consequently, there may be instances of omissions and conflicting behaviors. Therefore, relying solely on the official website for information regarding New Ithkuil is not dependable. It is advisable to consult the development documentation for a more reliable reference. Thus, this unofficial website serves that purpose.
 
 ## Copyright Notice
 

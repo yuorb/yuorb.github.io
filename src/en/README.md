@@ -1,13 +1,13 @@
 ---
 home: true
 icon: home
-title: NiGHT
+title: Yuorb
 heroImage: /logo.svg
 heroText: NiGHT
-tagline: New Ithkuil Grammar Han Translation
+tagline: New Ithkuil Grammar Community Revised Version
 actions:
   - text: Official Docs Revised 💡
-    link: /docs/
+    link: /en/docs/
     type: primary
 
   - text: Tutorials
