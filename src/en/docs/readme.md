@@ -18,7 +18,7 @@ Furthermore, the website offers access to resources and practical tools to help 
 
 Moreover, it includes a Chinese translation and aims to produce a Japanese translation. Anyone interested in contributing to the translation of the grammar document into languages they are proficient in are encouraged to contact us.
 
-The website repository can be accessed here. Please feel free to report any issues or submit pull requests.
+The website repository can be accessed [here](https://github.com/yuorb/yuorb.github.io). Please feel free to report any issues or submit pull requests.
 
 ## Copyright Notice
 
