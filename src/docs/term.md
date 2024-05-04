@@ -460,7 +460,7 @@ title: 术语表
 
 * 幸运观 <abbr>ACC</abbr> Accidental Bias
 * 原型观 <abbr>ACH</abbr> Archetypal Bias
-* 承认观 <abbr>ADM</abbr> Admissive Bias
+* 承认观 <abbr>ADS</abbr> Admissive Bias
 * 宣布观 <abbr>ANN</abbr> Annunciative Bias
 * 期盼观 <abbr>ANP</abbr> Anticipative Bias
 * 赞同观 <abbr>APB</abbr> Approbative Bias

@@ -1,8 +1,8 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
-  { text: "Home", icon: "fas fa-house", link: "/" },
-  { text: "Docs", icon: "fas fa-book-open", link: "/docs/" },
+  { text: "Home", icon: "fas fa-house", link: "/en/" },
+  { text: "Docs", icon: "fas fa-book-open", link: "/en/docs/" },
   { text: "Tutorial", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
   {
     text: "Tools",
