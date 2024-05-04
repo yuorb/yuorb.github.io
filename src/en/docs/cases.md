@@ -168,7 +168,7 @@ Difference From Ithkuil 2011:
 34. AVERSIVE <abbr>AVR</abbr>: oe
     * C.A.: <span class="glend">(to be) that, in aversion to which, X occurs/is</span>
     * I.A.: <span class="glend">(to be) that which is/occurs in avoidance or fear of X</span>
-    * C.S.: <ins><span class="glend">(to be) a <abbr>AVR</abbr> semantic relationship where is/occurs in avoidance or fear of X</span></ins>
+    * C.S.: <ins><span class="glend">(to be) a <abbr>AVR</abbr> semantic relationship where something is/occurs in avoidance or fear of X</span></ins>
 35. CONVERSIVE <abbr>CVS</abbr>: öa
     * C.A.: <span class="glend">(to be) that, if not for which, or but for which, or except for which, X (would) occur(s); <ins>an exception to X</ins></span>
     * I.A.: <span class="glend">(to be) that which would be/occur but for, or if not for, or except for X; <ins>that which X is an exception to</ins></span>

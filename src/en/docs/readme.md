@@ -2,7 +2,23 @@
 title: Grammar Docs
 ---
 
-Please note that this website is unofficial and its purpose is to offer communal revised documentation aimed at identifying and rectifying errors in the official website’s descriptions and inconsistencies in the behavior of New Ithkuil. It is important to acknowledge that the current official website has been derived from the New Ithkuil (aka. v4, or TNIL) development document and incorporated into the outdated Ithkuil 2011 (aka. v3) document. Consequently, there may be instances of omissions and conflicting behaviors. Therefore, relying solely on the official website for information regarding New Ithkuil is not dependable. It is advisable to consult the development documentation for a more reliable reference. Thus, this unofficial website serves that purpose.
+::: warning
+
+This website is built with support from the Ithkuil community.
+
+:::
+
+## Introduction
+
+It is important to acknowledge that the current official website has been derived from the New Ithkuil (aka. v4, or TNIL) development document and incorporated into the outdated Ithkuil 2011 (aka. v3) document. Consequently, there may be instances of omissions and conflicting behaviors. Therefore, relying solely on the official website for information regarding New Ithkuil is not dependable. It is advisable to consult the development documentation for a more reliable reference. This website is unofficial and its purpose is to offer Community Revised Edition aimed at identifying and rectifying errors in the official website’s descriptions and inconsistencies in the behavior of New Ithkuil.
+
+The review process is conducted through comments and annotations while maintaining the integrity of the original text for reference purposes. Any identified typos have been rectified.
+
+Furthermore, the website offers access to resources and practical tools to help you learn New Ithkuil.
+
+Moreover, it includes a Chinese translation and aims to produce a Japanese translation. Anyone interested in contributing to the translation of the grammar document into languages they are proficient in are encouraged to contact us.
+
+The website repository can be accessed here. Please feel free to report any issues or submit pull requests.
 
 ## Copyright Notice
 
