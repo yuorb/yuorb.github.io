@@ -269,7 +269,7 @@
 * Postulative <abbr>PTL</abbr> 合并于 Provisional <abbr>PVS</abbr>;
 * Abessive 无格 <abbr>ABE</abbr>, 以 <abbr>COM</abbr> 伴随格 + 否定后缀代替;
 * Exceptive 除外格 <abbr>EXC</abbr>, 以 <abbr>CTR</abbr> 词缀的<q>except (for) X; but (not) X; excluding X</q>代替
-* SEMBLATIVE <abbr>SBL</abbr> case = “as if (it were) X”. Distinguished from the ASSIMILATIVE to disambiguate phrases such as treat her as/like a princess having two different implications: (1) “...because she is a princess (or like one)” [ASSIMILATIVE] or (2) “...even though she isnʼt a princess (or doesnʼt look/act/seem like one)” [new SEMBLATIVE case]. 作为代替，以 <abbr>ESS</abbr> 和 <abbr>ASI</abbr> 区分.
+* SEMBLATIVE <abbr>SBL</abbr> case = “as if (it were) X”. Distinguished from the ASSIMILATIVE to disambiguate phrases such as treat her as/like a princess having two different implications: (1) “...because she is a princess (or like one)” [ASSIMILATIVE] or (2) “...even though she isn’t a princess (or doesn’t look/act/seem like one)” [new SEMBLATIVE case]. 作为代替，以 <abbr>ESS</abbr> 和 <abbr>ASI</abbr> 区分.
 * Conjunctive <abbr>CNJ</abbr> 用 <abbr>COM</abbr> + <abbr>PRL</abbr> 或 <abbr>CPL</abbr>配价代替
 
 @tab 系联格

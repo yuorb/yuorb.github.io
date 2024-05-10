@@ -581,7 +581,7 @@ Let’s take a look at the structures of the word yagḑá (to feel good) and ya
 
 We notice that
 
-The degree 0 means the umbrella term for all 9 degrees, or a degree-less version of the meaning. It doesnʼt always apply to affixes, like (-g). .
+The degree 0 means the umbrella term for all 9 degrees, or a degree-less version of the meaning. It doesn’t always apply to affixes, like (-g). .
 
 <p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -661,7 +661,7 @@ Q13. Which of the following assertive sentences is best suited for OBS observati
 
 Q14. Pronounce all the words “thank you” with affix “-<b>g</b>” in all 9 degrees.
 
-Q15. How to say “I donʼt feel very good at all” and “I donʼt feel very good”? Do it for other degrees as well.
+Q15. How to say “I don’t feel very good at all” and “I don’t feel very good”? Do it for other degrees as well.
 
 Answers :
 
@@ -838,11 +838,11 @@ UPX configuration for a single utterance of thank you.
 
 M / G / N perspective.
 
-(G for example, being overjoyed/ relieved by a big favor, one canʼt stop saying thank you to the helper)
+(G for example, being overjoyed/ relieved by a big favor, one can’t stop saying thank you to the helper)
 
 MNO / CPL valence?
 
-(That I say thanks to you, doesnʼt require you to do anything)
+(That I say thanks to you, doesn’t require you to do anything)
 
 	(That I say thanks to you, does require you to be hearing me/ receiving my thanks, similar to the example given “dad reads the kid a story”)
 
@@ -854,7 +854,7 @@ Neutral aspect.
 
 No case. (a verb)
 
-Functional context : I am thanking you with a purpose to let you feel my gratitude, let you know that I am not taking your help for granted. Either by pure habit of conforming social value, or by intentional willingness to create a mutually beneficial relationship. (otherwise you may not like me anymore and I wonʼt be able to receive any more helps from you, which is unwanted )
+Functional context : I am thanking you with a purpose to let you feel my gratitude, let you know that I am not taking your help for granted. Either by pure habit of conforming social value, or by intentional willingness to create a mutually beneficial relationship. (otherwise you may not like me anymore and I won’t be able to receive any more helps from you, which is unwanted )
 
 In summary, thank you can thus be translated as (most logically in my opinion)
 
@@ -1210,11 +1210,11 @@ Excuse me - I’ll be right back.
 
 Did I take your seat? Do excuse me.
 
-Oh, excuse me, I didnʼt mean to disturb you.
+Oh, excuse me, I didn’t mean to disturb you.
 
 5. said before disagreeing with someone:
 
-Excuse me, but arenʼt you forgetting something?
+Excuse me, but aren’t you forgetting something?
 
 Excuse me! That was my idea, not yours!
 
@@ -1222,7 +1222,7 @@ US
 
 6. (UK pardon?); (I beg your pardon?) used to politely ask someone to repeat something they have said because you have not heard it:
 
-Excuse me, I didnʼt quite hear what you said.
+Excuse me, I didn’t quite hear what you said.
 
 Pardon? Did you say "Morris" or "Norris"?
 
@@ -1347,7 +1347,7 @@ A better one may be
 
 Please pardon me. = Please, grant-directive(order) you(Erg) I (Dative)
 
-Please donʼt request to be excused. = Please, request-directive(order) you(Erg) I (Dative)
+Please don’t request to be excused. = Please, request-directive(order) you(Erg) I (Dative)
 
 please, eļgwalái you(erg) I(dative)
 
@@ -1423,7 +1423,7 @@ Case study :
 2. I lose weight (as intended)
     3. Decrease(1:BEN) I (EFF) weight (IND) = I effectuate the weight to decrease itself
     4. Decrease(1:BEN) my (GEN) weight (IND)
-3. I lose weight (I didnʼt intend to but Iʼm not bothered)
+3. I lose weight (I didn’t intend to but Iʼm not bothered)
     5. Decrease (1:NEU) I (AFF) weight (IND) = I am affected that weight decreases itself
     6. Decrease (1:NEU) my (GEN) weight (IND)
 4. I lose weight (while i intended to gain weight)
@@ -1474,7 +1474,7 @@ Monadic -> selling bamboo is regarded as a single activity, whether i did it sev
 
 Agglomerative -> means that selling bamboo are regarded as several activities
 
-( I feel in this case agglomerative doesnʼt make too much sense. But if you change to I run business on bamboos, it can mean that you put an emphasis on not a single but several activities (cutting bamboos, cleaning bamboos, storing bamboos)
+( I feel in this case agglomerative doesn’t make too much sense. But if you change to I run business on bamboos, it can mean that you put an emphasis on not a single but several activities (cutting bamboos, cleaning bamboos, storing bamboos)
 
 * Warning from yıeʼkřàîdhux̧ü
 
@@ -1482,7 +1482,7 @@ I just gave this a quick skim and it worries me that you’re trying to find dir
 
 "Excuse me" for example can mean several different things depending on how you say it
 
-As for the "meaningless" part, this is relatively subjective but I feel that it is not ithkuil to use these phrases when you donʼt actually mean to say them, otherwise they become fossilized and lose their original meaning, as happens so often in natural languages. In ithkuil, you say what you mean. I just wanted to warn that you should exercise great caution even when explaining "basics" like this, even if that means just throwing a bunch of warnings in
+As for the "meaningless" part, this is relatively subjective but I feel that it is not ithkuil to use these phrases when you don’t actually mean to say them, otherwise they become fossilized and lose their original meaning, as happens so often in natural languages. In ithkuil, you say what you mean. I just wanted to warn that you should exercise great caution even when explaining "basics" like this, even if that means just throwing a bunch of warnings in
 
 One example of such a fossilized and relatively vacuous phrase is "(God) bless you" as used whenever someone sneezes. Iʼd be willing to bet quite a bit that almost everyone has no idea why they say that other than that it is polite, and do not actually intend to beseech God when they do
 
@@ -1647,7 +1647,7 @@ Negation
 
 The arrangement of these lessons are based on difficulties from an English native speaker’s perspective. The objective of these lessons are to provide a step-by-step guide of the Ithkuil language to make it easier especially for learners without a linguistic background or experience with linguistic features absent in English.
 
-Just as any language textbook wouldnʼt introduce every tenses as well as complicated grammar features in the first lessons, rather starting with greetings, introducing oneself, talking about family members, talking about times etc. Although it makes logical sense to discuss all at once some grammatical features (cross-comparison of every single tenses in English, full-table of irregular verb inflexions for example), it would make more sense from an educational point of view to introduce these features in order of either the importance in the conversational level, or in order of difficulties.
+Just as any language textbook wouldn’t introduce every tenses as well as complicated grammar features in the first lessons, rather starting with greetings, introducing oneself, talking about family members, talking about times etc. Although it makes logical sense to discuss all at once some grammatical features (cross-comparison of every single tenses in English, full-table of irregular verb inflexions for example), it would make more sense from an educational point of view to introduce these features in order of either the importance in the conversational level, or in order of difficulties.
 
 Because of the sheer complexity and the difference from existing natural language, it is hard to achieve fluency via study of grammar with a bottom-up approach, which is to build parts of speech using theory. When people learn a foreign language in a conversational way, it is common to expose themselves to not-yet-fully-understood grammar points by memorizing fixed, useful daily sentences in the first place. It was not until they were comfortable with basic conversation and enough grammar knowledge did they start to re-analyze the sentence they have been memorizing and saying without fully understanding the complexity of grammar behind it. For instance, the French translation for the sentence “you’re welcome” is “je vous en prie”. It is a very useful daily sentence yet the grammar behind it is way beyond the first few lessons of french. It is far-fetched and confusing to explain the use of “en” and explain the word order of “vous” being an indirect complement of an object, before even teaching students how to say “you’re welcome”.
 
@@ -1755,7 +1755,7 @@ The rules for IV/ VI shortcut (formative where IV and VI are removed) are as fol
 
 The reason for extra rules for IV/ VI shortcuts is because the slot VI has several “common and useful” special values. This rule generalizes the shortcut possibility. Also this way, starting with “w” or “y” becomes an indicator that words are without IV/VI values .
 
-Donʼt worry if learners donʼt understand the meaning of “a” in slot IV or “l/d” in slot VI. We will talk about slot IV in the next lesson, and slot VI in future lessons.
+Don’t worry if learners don’t understand the meaning of “a” in slot IV or “l/d” in slot VI. We will talk about slot IV in the next lesson, and slot VI in future lessons.
 
 Q. For these words, write the full word (pay attention to stress), their default shortcut form(s) and their IV/VI shortcut.
 

@@ -122,7 +122,7 @@ New Ithkuil 使用词序完成同样的选择：话题置于句首，焦点直�
       <dt>eřdmilu.</dt>
       <dd>S2​-“physician​/medical doctor”​-OBJ​-IND</dd>
     </dl>
-    <div class="glend"><q>If only the physician wouldnʼt eat his food in one gulp like that.</q></div>
+    <div class="glend"><q>If only the physician wouldn’t eat his food in one gulp like that.</q></div>
     <div class="expln">那医生别那样一个劲的吃才好。</div>
 </div>
 
@@ -275,7 +275,7 @@ New Ithkuil 里，控制否定词缀对构形词的管辖关系，可准确说�
       <dt>welaʼi.</dt>
       <dd>S2-“human child”-ACT</dd>
     </dl>
-    <div class="glend"><q>The child doesnʼt sing.</q>[because (s)he canʼt, i.e., (s)he is mute].</div>
+    <div class="glend"><q>The child doesn’t sing.</q>[because (s)he can’t, i.e., (s)he is mute].</div>
     <div class="expln">孩子不能唱 [因他无法，比如他是哑巴]</div>
 </div>
 
@@ -288,7 +288,7 @@ New Ithkuil 里，控制否定词缀对构形词的管辖关系，可准确说�
       <dt>welaʼi.</dt>
       <dd>S2-“human child”-ACT</dd>
     </dl>
-    <div class="glend"><q>The child doesnʼt sing.</q><br>[even though (s)he can, i.e., (s)he chooses not to]</div>
+    <div class="glend"><q>The child doesn’t sing.</q><br>[even though (s)he can, i.e., (s)he chooses not to]</div>
     <div class="expln">孩子不会唱 [能唱但选择不唱]</div>
 </div>
 

@@ -235,7 +235,7 @@ Eliminated cases:
 * POSTULATIVE <abbr>PTL</abbr> merged into Provisional <abbr>PVS</abbr>;
 * ABESSIVE <abbr>ABE</abbr> replaced by <abbr>COM</abbr> case with a negation affix;
 * EXCEPTIVE <abbr>EXC</abbr> replaced by a new coordinative affix <abbr>CTR</abbr> meaning “except for; but (not)...”
-* SEMBLATIVE <abbr>SBL</abbr> case = “as if (it were) X”, Distinguished from the ASSIMILATIVE to disambiguate phrases such as treat her as/like a princess having two different implications: (1) “...because she is a princess (or like one)” [ASSIMILATIVE] or (2) “...even though she isnʼt a princess (or doesnʼt look/act/seem like one)” [new SEMBLATIVE case]. **Now Use <abbr>ESS</abbr> and <abbr>ASI</abbr> instead**.
+* SEMBLATIVE <abbr>SBL</abbr> case = “as if (it were) X”, Distinguished from the ASSIMILATIVE to disambiguate phrases such as treat her as/like a princess having two different implications: (1) “...because she is a princess (or like one)” [ASSIMILATIVE] or (2) “...even though she isn’t a princess (or doesn’t look/act/seem like one)” [new SEMBLATIVE case]. **Now Use <abbr>ESS</abbr> and <abbr>ASI</abbr> instead**.
 * The CONJUNCTIVE case has been eliminated. Use the COMITATIVE case + PARALLEL or COMPLEMENTARY valence instead.
 
 @tab AFFINITIVE

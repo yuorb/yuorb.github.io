@@ -365,7 +365,7 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <dl class="gloss">
   <dt>bei</dt>
 </dl>
-<div class="glend">His kids would be (would have been) ill. [i.e., if he had kids they would be ill, but he doesnʼt.]</div>
+<div class="glend">His kids would be (would have been) ill. [i.e., if he had kids they would be ill, but he doesn’t.]</div>
 <div class="expln">他的孩子本来会病了（他要是有孩子他们就会病，但他没有）<br>[违实式 <abbr>COU</abbr>]​：命题真值确定且前提为假；前提为假否则命题为真​</div>
 
 <dl class="gloss">
@@ -377,7 +377,7 @@ New Ithkuil 词类有<tooltip label="Formative">构形词</tooltip>、<tooltip l
 <dl class="gloss">
   <dt>bei</dt>
 </dl>
-<div class="glend">His kids might’ve been ill [if he had kids, but he doesnʼt, so we’ll never know].</div>
+<div class="glend">His kids might’ve been ill [if he had kids, but he doesn’t, so we’ll never know].</div>
 <div class="expln">他的孩子本来可能病了（他要是有孩子他们可能病了，不过他没孩子）<br>[假设式 <abbr>HYP</abbr>]：命题真值不确定且前提为假</div>
 
 </div>
