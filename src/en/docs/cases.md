@@ -15,7 +15,7 @@
 3. ABSOLUTIVE <abbr>ABS</abbr>: e
     * C.A.: <span class="glend">(to be) the PATIENT to which/whom X happens</span>
     * I.A.: <span class="glend">(to be) that which happens/is done to the PATIENT X</span>
-    * C.S.: <ins><span class="glend">(to be) a <abbr>ABS</abbr> semantic relationship where X is the INSTRUMENT/MEANS of something</span></ins>
+    * C.S.: <ins><span class="glend">(to be) a <abbr>ABS</abbr> semantic relationship where X is the the PATIENT to which something happens/is done</span></ins>
 4. AFFECTIVE <abbr>AFF</abbr>: i
     * C.A.: <span class="glend">(to be) the EXPERIENCER or undergoer of X (as an affective experience)</span>
     * I.A.: <span class="glend">(to be) that which the X undergoes as an affective experience</span>
