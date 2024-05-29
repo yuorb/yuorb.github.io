@@ -195,6 +195,7 @@ export default hopeTheme({
     tabs: true,
     vPre: true,
     vuePlayground: true,
+    spoiler: true,
   },
 
   components: {

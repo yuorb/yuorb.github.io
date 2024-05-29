@@ -13,21 +13,21 @@ export default defineUserConfig({
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   locales: {
     "/": {
-      lang: "zh-CN",
-      title: "NiGHT",
-      description: "Yuorb: New Ithkuil 语法汉译",
+    lang: "zh-CN",
+    title: "NiGHT",
+    description: "悦耳部: New Ithkuil 语法 S·T·I（意指、翻译、解释）",
     },
     "/en/": {
-      lang: "en-US",
-      title: "NiGHT",
-      description: "Yuorb: New Ithkuil Grammar Translation Into Chinese",
+    lang: "en-US",
+    title: "NiGHT",
+    description: "Yuorb: New Ithkuil Grammar S·T·I (Signification, Translation, Interpretation)",
     },
     "/ja/": {
-      lang: "ja-JP",
-      title: "NiGHT",
-      description: "ユオルブ：新イスクイル語文法漢訳",
+    lang: "ja-JP",
+    title: "NiGHT",
+    description: "ユオルブ：新イスクイル語文法 S・T・I (意味、翻訳、解釈)",
     },
-  },
+    },
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
@@ -36,5 +36,5 @@ export default defineUserConfig({
   ],
   theme,
   // Enable it with pwa
-  // shouldPrefetch: false,
+  shouldPrefetch: true,
 });

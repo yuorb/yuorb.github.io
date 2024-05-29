@@ -50,3 +50,6 @@ COMITATIVE
 coordinative
 Calendrical
 phonotactic
+circumfix
+Parentheme
+lexeme
