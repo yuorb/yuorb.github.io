@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const jaSidebar = sidebar({
-  "/en/": [
+  "/ja/": false /* [
     "",
     {
       text: "文法ドキュメント",
@@ -24,5 +24,5 @@ export const jaSidebar = sidebar({
         "beginner","numerals","loanwords","idioms","old"
       ],
     },
-  ],
+  ], */
 });

@@ -29,13 +29,13 @@ jobs:
       - name: 设置 Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: lts
+          node-version: 20
           cache: pnpm
 
 
       - name: 构建文档
-        # env:
-          # NODE_OPTIONS: --max_old_space_size=8192
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
         run: pnpm run docs:build
 
       # - name: 部署文档
