@@ -1,10 +1,10 @@
 ---
 home: true
 icon: home
-title: NiGHT
+title: Yuorb
 heroImage: /logo.svg
-heroText: NiGHT
-tagline: New Ithkuil 语法汉释
+heroText: Yuorb
+tagline: 悦耳部：提供 New Ithkuil 语法 S·T·I（意指、翻译、解释）服务
 actions:
   - text: 官方文档 💡
     link: /docs/

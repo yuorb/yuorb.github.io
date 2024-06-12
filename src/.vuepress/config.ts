@@ -14,17 +14,17 @@ export default defineUserConfig({
   locales: {
     "/": {
     lang: "zh-CN",
-    title: "NiGHT",
+    title: "Yuorb",
     description: "悦耳部: New Ithkuil 语法 S·T·I（意指、翻译、解释）",
     },
     "/en/": {
     lang: "en-US",
-    title: "NiGHT",
+    title: "Yuorb",
     description: "Yuorb: New Ithkuil Grammar S·T·I (Signification, Translation, Interpretation)",
     },
     "/ja/": {
     lang: "ja-JP",
-    title: "NiGHT",
+    title: "Yuorb",
     description: "ユオルブ：新イスクイル語文法 S・T・I (意味、翻訳、解釈)",
     },
     },

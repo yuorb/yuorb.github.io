@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Yuorb
 heroImage: /logo.svg
-heroText: NiGHT
+heroText: Yuorb
 tagline: New Ithkuil Grammar Community Revised Version
 actions:
   - text: Official Docs Revised 💡
