@@ -7,11 +7,11 @@ heroText: Yuorb
 tagline: New Ithkuil Grammar Community Revised Version
 actions:
   - text: Official Docs Revised 💡
-    link: /en/docs/
+    link: ./docs/
     type: primary
 
   - text: Tutorials
-    link: /tutorial/
+    link: /zh/tutorial/
 
   - text: Archives
     link: /past/

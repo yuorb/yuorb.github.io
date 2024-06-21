@@ -12,9 +12,9 @@
   },
   "devDependencies": {
     "@vue/repl": "^4.2.1",
-    "@vuepress/bundler-vite": "2.0.0-rc.13",
-    "@vuepress/plugin-docsearch": "2.0.0-rc.34",
-    "@vuepress/theme-default": "2.0.0-rc.35",
+    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.37",
+    "@vuepress/theme-default": "2.0.0-rc.37",
     "chart.js": "^4.4.3",
     "dashjs": "^4.7.4",
     "echarts": "^5.5.0",
@@ -26,15 +26,15 @@
     "plyr": "^3.7.8",
     "reveal.js": "^5.1.0",
     "stylus": "^0.63.0",
-    "vidstack": "^1.11.22",
-    "vue": "^3.4.27",
-    "vuepress": "2.0.0-rc.13",
-    "vuepress-plugin-md-enhance": "2.0.0-rc.48",
-    "vuepress-theme-hope": "2.0.0-rc.48"
+    "vidstack": "^1.11.24",
+    "vue": "^3.4.29",
+    "vuepress": "2.0.0-rc.14",
+    "vuepress-plugin-md-enhance": "2.0.0-rc.50",
+    "vuepress-theme-hope": "2.0.0-rc.50"
   },
   "dependencies": {
-    "@vuepress/plugin-pwa": "2.0.0-rc.34",
-    "@vuepress/plugin-register-components": "2.0.0-rc.34",
+    "@vuepress/plugin-pwa": "2.0.0-rc.37",
+    "@vuepress/plugin-register-components": "2.0.0-rc.37",
     "vite": "5.2.11"
   }
 }

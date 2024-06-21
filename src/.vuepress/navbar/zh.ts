@@ -1,9 +1,9 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-  { text: "首页", icon: "fas fa-house", link: "/" },
-  { text: "官方文档", icon: "fas fa-book-open", link: "/docs/" },
-  { text: "同人教学", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
+  { text: "首页", icon: "fas fa-house", link: "/zh/" },
+  { text: "官方文档", icon: "fas fa-book-open", link: "/zh/docs/" },
+  { text: "同人教学", icon: "fas fa-person-chalkboard", link: "/zh/tutorial/" },
   {
     text: "工具",
     icon: "fas fa-tools",
@@ -26,7 +26,7 @@ export const zhNavbar = navbar([
       {
         text: "数字转换工具",
         icon: "fas fa-hashtag",
-        link: "/tool/num",
+        link: "/zh/tool/num",
       },
       {
         text: "选色",

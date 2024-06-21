@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export const jaNavbar = navbar([
   { text: "ホーム", icon: "fas fa-house", link: "/en/" },
   { text: "公式ドキュメント", icon: "fas fa-book-open", link: "/en/docs/" },
-  { text: "同人チュートリアル", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
+  { text: "同人チュートリアル", icon: "fas fa-person-chalkboard", link: "/zh/tutorial/" },
   {
     text: "ツール",
     icon: "fas fa-tools",
@@ -26,7 +26,7 @@ export const jaNavbar = navbar([
       {
         text: "数変換",
         icon: "fas fa-hashtag",
-        link: "/tool/num",
+        link: "/ja/tool/num",
       },
       {
         text: "カラー選択",

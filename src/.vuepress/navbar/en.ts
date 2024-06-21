@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export const enNavbar = navbar([
   { text: "Home", icon: "fas fa-house", link: "/en/" },
   { text: "Docs", icon: "fas fa-book-open", link: "/en/docs/" },
-  { text: "Tutorial", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
+  { text: "Tutorial", icon: "fas fa-person-chalkboard", link: "/zh/tutorial/" },
   {
     text: "Tools",
     icon: "fas fa-tools",
@@ -26,7 +26,7 @@ export const enNavbar = navbar([
       {
         text: "Numeral Converter",
         icon: "fas fa-hashtag",
-        link: "/tool/num",
+        link: "/en/tool/num",
       },
       {
         text: "Color picker",
