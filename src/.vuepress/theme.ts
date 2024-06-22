@@ -23,7 +23,7 @@ export default hopeTheme({
   docsDir: "/src",
 
   locales: {
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 

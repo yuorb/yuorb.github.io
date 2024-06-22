@@ -12,7 +12,7 @@ export default defineUserConfig({
   base: "/",
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   locales: {
-    "/zh/": {
+    "/": {
     lang: "zh-CN",
     title: "Yuorb",
     description: "悦耳部: New Ithkuil 语法 S·T·I（意指、翻译、解释）",

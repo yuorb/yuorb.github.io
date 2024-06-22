@@ -11,7 +11,7 @@ actions:
     type: primary
 
   - text: Tutorials
-    link: /zh/tutorial/
+    link: /tutorial/
 
   - text: Archives
     link: /past/
