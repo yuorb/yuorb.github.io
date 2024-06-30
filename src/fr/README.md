@@ -29,22 +29,22 @@ features:
 
   - title: Serveur japonais de Discord
     icon: fab fa-discord
-    details: Un serveur d'Ithkuil pour les japonais
+    details: Un serveur d’Ithkuil pour les japonais
     link: https://discord.gg/8ACHfqNwwb
 
   - title: Reddit
     icon: fab fa-reddit-alien
-    details: Un forum d'Ithkuil
+    details: Un forum d’Ithkuil
     link: https://www.reddit.com/r/Ithkuil/new/
 
   - title: Telegram
     icon: fab fa-telegram
-    details: Un groupe de discussion d'Ithkuil
+    details: Un groupe de discussion d’Ithkuil
     link: https://t.me/ithkuil_cn
 
   - title: QQ
     icon: fas fa-user-group
-    details: Un groupe de discussion d'Ithkuil<br><a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('Numéro de groupe copié avec succès'); })()">Cliquez pour copier le numéro de groupe QQ</a>
+    details: Un groupe de discussion d’Ithkuil<br><a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('Numéro de groupe copié avec succès'); })()">Cliquez pour copier le numéro de groupe QQ</a>
 
   - title: Github
     icon: fab fa-github-alt

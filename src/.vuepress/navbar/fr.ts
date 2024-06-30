@@ -1,11 +1,11 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const frNavbar = navbar([
-  { text: "Home", icon: "fas fa-house", link: "/fr/" },
+  { text: "Maison", icon: "fas fa-house", link: "/fr/" },
   { text: "Docs", icon: "fas fa-book-open", link: "/fr/docs/" },
-  { text: "Tutorial", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
+  { text: "Tutoriel", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
   {
-    text: "Tools",
+    text: "Outils",
     icon: "fas fa-tools",
     children: [
       {

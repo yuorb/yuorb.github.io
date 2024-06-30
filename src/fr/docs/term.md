@@ -157,7 +157,7 @@ title: Glossaire
     * Référentiel à [personne] Obviative <abbr>Obv</abbr> Obviative Referential
     * Référentiel à [personne] Provisoire <abbr>PVS</abbr> Provisional Referential
 
-@tab:active catégories grammaticales
+@tab:active Catégories grammaticales
 
 Spécifications : Specifications
 
