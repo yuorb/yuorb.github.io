@@ -4,7 +4,7 @@ icon: home
 title: Yuorb
 heroImage: /logo.svg
 heroText: Yuorb
-tagline: New Ithkuil Grammar Community Revised Version
+tagline: New Ithkuil Grammar Community Revised Edition
 actions:
   - text: Official Docs Revised 💡
     link: ./docs/
@@ -76,7 +76,7 @@ color: var(--my-bg)
 
 ```component VPCard
 title: Lomírus
-desc: 暂缺
+desc: Temporarily vacant
 logo: https://avatars.githubusercontent.com/u/21173956?v=4
 link: https://github.com/lomirus
 background: rgba(127, 71, 221, 0.1)
@@ -103,8 +103,7 @@ The endonym used to refer to this language is <q>Malëuţřait</q>, which signif
 
 Shield: [CC BY-NC-SA 4.0][cc-by-nc-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ![][cc-by-nc-sa-image] ![][cc-by-nc-sa-shield] [CC BY-NC-SA 4.0][cc-by-nc-sa]
 

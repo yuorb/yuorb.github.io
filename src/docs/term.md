@@ -113,6 +113,7 @@ title: 术语表
 * 矩阵 matrix
 * 二合元音 diphthong
 * 双音节组合 disyllabic conjunct
+* 双元音组合 : bivocalic conjunct
 * 为语音组合法所禁止的 phonotactically impermissible
 * 不悦耳的 euphonically undesirable
 * 形态结构 morphological structure
@@ -182,7 +183,7 @@ title: 术语表
   * 复构 <abbr>M-</abbr> Multiplex
 * 似度 Similarities
   * 相似 <abbr>-S-</abbr> Similar
-  * 各异 <abbr>-D-</abbr> Different
+  * 各异 <abbr>-D-</abbr> Different/Dissimilar
   * 含混 <abbr>-F-</abbr> Fuzzy
 * 分性 Separabilities
   * 相离 <abbr>-S</abbr> Separate
@@ -336,7 +337,7 @@ title: 术语表
 * 喻意语境 <abbr>RPS</abbr> Representational Context
 * 融合语境 <abbr>AMG</abbr> Amalgamative Context
 
-格 Cases & 格式 Format
+格 Cases & 格式 Formats
 
 * 论元格 Transrelative Cases
   * 主事格 <abbr>THM</abbr> Thematic Case

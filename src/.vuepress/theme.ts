@@ -46,6 +46,22 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
+      footer: "Yuorb: Yuorb : L’organisation non officielle visant à fournir le service S·T·I (Signification, Traduction, ou Interprétation) pour Nouvel Ithkuil.",
+
+      displayFooter: true,
+
+      // page meta
+      metaLocales: {
+        editLink: "Edit this page on GitHub",
+      },
+    },
+    "/fr/": {
+      // navbar
+      navbar: enNavbar,
+
+      // sidebar
+      sidebar: enSidebar,
+
       footer: "Yuorb: The unofficial organization aiming to provide the S·T·I (Signification, Translation, Interpretation) service for New Ithkuil.",
 
       displayFooter: true,
@@ -73,11 +89,11 @@ export default hopeTheme({
     },
   },
 
-  /* encrypt: {
+  encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/fr/": ["1234"],
     },
-  }, */
+  },
 
   plugins: {
 

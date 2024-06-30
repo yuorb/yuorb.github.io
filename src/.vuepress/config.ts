@@ -22,6 +22,11 @@ export default defineUserConfig({
     title: "Yuorb",
     description: "Yuorb: New Ithkuil Grammar S·T·I (Signification, Translation, Interpretation)",
     },
+    "/fr/": {
+    lang: "fr-Fr",
+    title: "Yuorb",
+    description: "Yuorb: La S·T·I (Signification, Traduction, ou Interprétation) de la Grammaire du Nouvel Ithkuil",
+    },
     "/ja/": {
     lang: "ja-JP",
     title: "Yuorb",
