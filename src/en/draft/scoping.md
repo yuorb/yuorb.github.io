@@ -4,7 +4,7 @@ title: Scoping in New Ithkuil
 
 ::: danger
 
-DRAFT
+IT IS A DRAFT
 
 :::
 
@@ -179,8 +179,8 @@ flowchart TB
         aa["`Affixual Adjunct
         & Modular Adjunct
         & Bias`"]
-        aa-.->|governing morphemes within a formative,
-        depending on the specified scoping|cf
+        aa-.->|"`governing morphemes within a formative,
+        depending on the specified scoping`"|cf
     end
 ```
 
@@ -361,7 +361,7 @@ flowchart TB
     register("`Register (NNR only)`")
     register-->rc
     bias("`Sentence-Initial Bias (Stackable many times)`")
-    register-.->bias-.->|governs the whole sentence|v
+    register-.->bias-.->|"`governs the whole sentence`"|v
     v-->|CCN/CCP/CCV|rf[Referential]
     subgraph sp[Any Suppletive Clause]
         direction TB
@@ -519,7 +519,7 @@ flowchart TB
         direction TB
         cc1["`Parent Formative`"]
         cc2["`**Concat. Formative(s)**
-    OR **Any Concat. Phrase**`"]
+        OR **Any Concat. Phrase**`"]
         cc1-.->|CCN/CCA/CCS|cc2
         cc3["`Adjacent Concat. Formative (can be head)`"]
         cc1-.->|CCP|cc3

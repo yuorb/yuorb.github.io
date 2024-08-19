@@ -1,10 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { zhNavbar } from "./navbar/index.ts";
-import { zhSidebar } from "./sidebar/index.ts";
-import { enNavbar } from "./navbar/index.ts";
-import { enSidebar } from "./sidebar/index.ts";
-import { jaNavbar } from "./navbar/index.ts";
-import { jaSidebar } from "./sidebar/index.ts";
+import { zhNavbar,enNavbar,jaNavbar } from "./navbar/index.ts";
+import { zhSidebar,enSidebar,jaSidebar } from "./sidebar/index.ts";
 
 export default hopeTheme({
   hostname: "https://yuorb.github.io",
