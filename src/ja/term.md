@@ -178,17 +178,17 @@ title: 用語表
 <ruby>構配<rp>《</rp><rt>こうはい</rt><rp>》</rp></ruby> Configurations
 
 * <ruby>数性<rp>《</rp><rt>すうせい</rt><rp>》</rp></ruby> Plexities
-  * <ruby>単数<rp>《</rp><rt>たんすう</rt><rp>》</rp></ruby> <abbr>U-</abbr> Uniplex
-  * <ruby>双数<rp>《</rp><rt>そうすう</rt><rp>》</rp></ruby> <abbr>D-</abbr> Duplex
-  * <ruby>複数<rp>《</rp><rt>ふくすう</rt><rp>》</rp></ruby> <abbr>M-</abbr> Multiplex
+* <ruby>単数<rp>《</rp><rt>たんすう</rt><rp>》</rp></ruby> <abbr>U-</abbr> Uniplex
+* <ruby>双数<rp>《</rp><rt>そうすう</rt><rp>》</rp></ruby> <abbr>D-</abbr> Duplex
+* <ruby>複数<rp>《</rp><rt>ふくすう</rt><rp>》</rp></ruby> <abbr>M-</abbr> Multiplex
 * <ruby>類似性<rp>《</rp><rt>るいじせい</rt><rp>》</rp></ruby> Similarities
-  * <ruby>似類<rp>《</rp><rt>じるい</rt><rp>》</rp></ruby> <abbr>-S-</abbr> Similar
-  * <ruby>異類<rp>《</rp><rt>いるい</rt><rp>》</rp></ruby> <abbr>-D-</abbr> Different/Dissimilar
-  * <ruby>混類<rp>《</rp><rt>こんるい</rt><rp>》</rp></ruby> <abbr>-F-</abbr> Fuzzy
+* <ruby>似類<rp>《</rp><rt>じるい</rt><rp>》</rp></ruby> <abbr>-S-</abbr> Similar
+* <ruby>異類<rp>《</rp><rt>いるい</rt><rp>》</rp></ruby> <abbr>-D-</abbr> Different/Dissimilar
+* <ruby>混類<rp>《</rp><rt>こんるい</rt><rp>》</rp></ruby> <abbr>-F-</abbr> Fuzzy
 * <ruby>離合性<rp>《</rp><rt>りごうせい</rt><rp>》</rp></ruby> Separabilities
-  * <ruby>離性<rp>《</rp><rt>りせい</rt><rp>》</rp></ruby> <abbr>-S</abbr> Separate
-  * <ruby>連性<rp>《</rp><rt>れんせい</rt><rp>》</rp></ruby> <abbr>-C</abbr> Connected
-  * <ruby>合性<rp>《</rp><rt>ごうせい</rt><rp>》</rp></ruby> <abbr>-F</abbr> Fused
+* <ruby>離性<rp>《</rp><rt>りせい</rt><rp>》</rp></ruby> <abbr>-S</abbr> Separate
+* <ruby>連性<rp>《</rp><rt>れんせい</rt><rp>》</rp></ruby> <abbr>-C</abbr> Connected
+* <ruby>合性<rp>《</rp><rt>ごうせい</rt><rp>》</rp></ruby> <abbr>-F</abbr> Fused
 
 三种子范畴组合成：
 
