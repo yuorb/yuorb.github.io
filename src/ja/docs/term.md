@@ -192,26 +192,26 @@ title: 用語表
 
 三种子范畴组合成：
 
-* 单構配 <abbr>UPX</abbr> Uniplex Configuration
-* 複似離 <abbr>MSS</abbr> Multiplex-Similar-Separate Configuration
-* 複似違 <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
-* 複似合 <abbr>MSF</abbr> Multiplex-Similar-Fused Configuration
-* 複異離 <abbr>MDS</abbr> Multiplex-Dissimilar-Separate Configuration
-* 複異違 <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
-* 複異合 <abbr>MDF</abbr> Multiplex-Dissimilar-Fused Configuration
-* 複混離 <abbr>MFS</abbr> Multiplex-Fuzzy-Separate Configuration
-* 複混違 <abbr>MFC</abbr> Multiplex-Fuzzy-Connected Configuration
-* 複混合 <abbr>MFF</abbr> Multiplex-Fuzzy-Fused Configuration
-* 双構配 <abbr>DPX</abbr> Duplex Configuration
-* 双似離 <abbr>DSS</abbr> Duplex-Similar-Separate Configuration
-* 双似違 <abbr>DSC</abbr> Duplex-Similar-Connected Configuration
-* 双似合 <abbr>DSF</abbr> Duplex-Similar-Fused Configuration
-* 双異離 <abbr>DDS</abbr> Duplex-Dissimilar-Separate Configuration
-* 双異違 <abbr>DDC</abbr> Duplex-Dissimilar-Connected Configuration
-* 双異合 <abbr>DDF</abbr> Duplex-Dissimilar-Fused Configuration
-* 双混離 <abbr>DFS</abbr> Duplex-Fuzzy-Separate Configuration
-* 双混違 <abbr>DFC</abbr> Duplex-Fuzzy-Connected Configuration
-* 双混合 <abbr>DFF</abbr> Duplex-Fuzzy-Fused Configuration
+* <ruby>単数構配<ruby><rp>《</rp><rt>たんすうこうはい</rt><rp>》</rp></ruby> <abbr>UPX</abbr> Uniplex Configuration
+* <ruby>複似離配<ruby><rp>《</rp><rt>ふくじりはい</rt><rp>》</rp></ruby> <abbr>MSS</abbr> Multiplex-Similar-Separate Configuration
+* <ruby>複似連配<ruby><rp>《</rp><rt>ふくじれんはい</rt><rp>》</rp></ruby> <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
+* <ruby>複似合配<ruby><rp>《</rp><rt>ふくじごうはい</rt><rp>》</rp></ruby> <abbr>MSF</abbr> Multiplex-Similar-Fused Configuration
+* <ruby>複異離配<ruby><rp>《</rp><rt>ふくいりはい</rt><rp>》</rp></ruby> <abbr>MDS</abbr> Multiplex-Dissimilar-Separate Configuration
+* <ruby>複異連配<ruby><rp>《</rp><rt>ふくいれんはい</rt><rp>》</rp></ruby> <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
+* <ruby>複異合配<ruby><rp>《</rp><rt>ふくいごうはい</rt><rp>》</rp></ruby> <abbr>MDF</abbr> Multiplex-Dissimilar-Fused Configuration
+* <ruby>複混離配<ruby><rp>《</rp><rt>ふくこんりはい</rt><rp>》</rp></ruby> <abbr>MFS</abbr> Multiplex-Fuzzy-Separate Configuration
+* <ruby>複混連配<ruby><rp>《</rp><rt>ふくこんれんはい</rt><rp>》</rp></ruby> <abbr>MFC</abbr> Multiplex-Fuzzy-Connected Configuration
+* <ruby>複混合配<ruby><rp>《</rp><rt>ふくこんごうはい</rt><rp>》</rp></ruby> <abbr>MFF</abbr> Multiplex-Fuzzy-Fused Configuration
+* <ruby>双数構配<ruby><rp>《</rp><rt>そうすうこうはい</rt><rp>》</rp></ruby> <abbr>DPX</abbr> Duplex Configuration
+* <ruby>双似離配<ruby><rp>《</rp><rt>そうじりはい</rt><rp>》</rp></ruby> <abbr>DSS</abbr> Duplex-Similar-Separate Configuration
+* <ruby>双似連配<ruby><rp>《</rp><rt>そうじれんはい</rt><rp>》</rp></ruby> <abbr>DSC</abbr> Duplex-Similar-Connected Configuration
+* <ruby>双似合配<ruby><rp>《</rp><rt>そうじごうはい</rt><rp>》</rp></ruby> <abbr>DSF</abbr> Duplex-Similar-Fused Configuration
+* <ruby>双異離配<ruby><rp>《</rp><rt>そういりはい</rt><rp>》</rp></ruby> <abbr>DDS</abbr> Duplex-Dissimilar-Separate Configuration
+* <ruby>双異連配<ruby><rp>《</rp><rt>そういれんはい</rt><rp>》</rp></ruby> <abbr>DDC</abbr> Duplex-Dissimilar-Connected Configuration
+* <ruby>双異合配<ruby><rp>《</rp><rt>そういごうはい</rt><rp>》</rp></ruby> <abbr>DDF</abbr> Duplex-Dissimilar-Fused Configuration
+* <ruby>双混離配<ruby><rp>《</rp><rt>そうこんりはい</rt><rp>》</rp></ruby> <abbr>DFS</abbr> Duplex-Fuzzy-Separate Configuration
+* <ruby>双混連配<ruby><rp>《</rp><rt>そうこんれんはい</rt><rp>》</rp></ruby> <abbr>DFC</abbr> Duplex-Fuzzy-Connected Configuration
+* <ruby>双混合配<ruby><rp>《</rp><rt>そうこんごうはい</rt><rp>》</rp></ruby> <abbr>DFF</abbr> Duplex-Fuzzy-Fused Configuration
 
 系属 Affiliations
 
