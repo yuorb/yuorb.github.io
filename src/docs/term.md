@@ -195,7 +195,7 @@ title: 术语表
 * 单构型 <abbr>UPX</abbr> Uniplex Configuration
 * 复似离 <abbr>MSS</abbr> Multiplex-Similar-Separate Configuration
 * 复似连 <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
-* 复似合 <abbr>MSF</abbr> Multiplex-Similar-Fused
+* 复似合 <abbr>MSF</abbr> Multiplex-Similar-Fused Configuration
 * 复异离 <abbr>MDS</abbr> Multiplex-Dissimilar-Separate Configuration
 * 复异连 <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
 * 复异合 <abbr>MDF</abbr> Multiplex-Dissimilar-Fused Configuration
