@@ -337,83 +337,83 @@ title: 用語表
 * <ruby>比喩文脈<rt>ひゆぶんみゃく</rt></ruby> <abbr>RPS</abbr> Representational Context
 * <ruby>融合文脈<rt>ゆうごうぶんみゃく</rt></ruby> <abbr>AMG</abbr> Amalgamative Context
 
-格 Cases & 格式 Formats
+<ruby>格<rt>かく</rt></ruby> Cases & <ruby>格式<rt>かくしき</rt></ruby> Formats
 
-* 论元格 Transrelative Cases
-  * 主事格 <abbr>THM</abbr> Thematic Case
-  * 工具格 <abbr>INS</abbr> Instrumental Case
-  * 受事格 <abbr>ABS</abbr> Absolutive Case
-  * 感事格 <abbr>AFF</abbr> Affective Case
-  * 刺激格 <abbr>STM</abbr> Stimulative Case
-  * 使然格 <abbr>EFF</abbr> Effectuative Case
-  * 施事格 <abbr>ERG</abbr> Ergative Case
-  * 领事格 <abbr>DAT</abbr> Dative Case
-  * 自发格 <abbr>IND</abbr> Inducive Case
-* 邻置格 Appositive Cases
-  * 暂有格 <abbr>POS</abbr> Possessive Case
-  * 物主格 <abbr>PRP</abbr> Proprietive Case
-  * 生有格 <abbr>GEN</abbr> Genitive Case
-  * 体验格 <abbr>ATT</abbr> Attributive Case
-  * 作者格 <abbr>PDC</abbr> Productive Case
-  * 诠释格 <abbr>ITP</abbr> Interpretative Case
-  * 来源格 <abbr>OGN</abbr> Originative Case
-  * 相依格 <abbr>IDP</abbr> Interdependent Case
-  * 部分格 <abbr>PAR</abbr> Partitive Case
-* 关联格 Associative Cases
-  * 应用格 <abbr>APL</abbr> Applicative Case
-  * 意图格 <abbr>PUR</abbr> Purposive Case
-  * 蒙受格 <abbr>TRA</abbr> Transmissive Case
-  * 重视格 <abbr>DFR</abbr> Deferential Case
-  * 对立格 <abbr>CRS</abbr> Contrastive Case
-  * 代表格 <abbr>TSP</abbr> Transpositive Case
-  * 交换格 <abbr>CMM</abbr> Commutative Case
-  * 对比格 <abbr>CMP</abbr> Comparative Case
-  * 观念格 <abbr>CSD</abbr> Considerative Case
-* 状语格 Adverbial Cases
-  * 方式格 <abbr>FUN</abbr> Functive Case
-  * 转化格 <abbr>TFM</abbr> Transformative Case
-  * 分类格 <abbr>CLA</abbr> Classificative Case
-  * 结果格 <abbr>RSL</abbr> Resultative Case
-  * 消耗格 <abbr>CSM</abbr> Consumptive Case
-  * 让步格 <abbr>CON</abbr> Concessive Case
-  * 避免格 <abbr>AVR</abbr> Aversive Case
-  * 若非格 <abbr>CVS</abbr> Conversive Case
-  * 处境格 <abbr>SIT</abbr> Situative Case
-* 连属格 Relational Cases
-  * 关于格 <abbr>PRN</abbr> Pertinential Case
-  * 描述格 <abbr>DSP</abbr> Descriptive Case
-  * 相关格 <abbr>COR</abbr> Correlative Case
-  * 成分格 <abbr>CPS</abbr> Compositive Case
-  * 伴随格 <abbr>COM</abbr> Comitative Case
-  * 持用格 <abbr>UTL</abbr> Utilitative Case
-  * 基于格 <abbr>PRD</abbr> Predicative Case
-  * 关系格 <abbr>RLT</abbr> Relative Case
-* 系联格 Affinitive Cases
-  * 意能格 <abbr>ACT</abbr> Activative Case
-  * 如同格 <abbr>ASI</abbr> Assimilative Case
-  * 作为格 <abbr>ESS</abbr> Essive Case
-  * 目标格 <abbr>TRM</abbr> Terminative Case
-  * 每逢格 <abbr>SEL</abbr> Selective Case
-  * 根据格 <abbr>CFM</abbr> Conformative Case
-  * 依赖格 <abbr>DEP</abbr> Dependent Case
-  * 呼格 <abbr>VOC</abbr> Vocative Case
-* 时空格 Spatio-Temporal Cases
-  * 位格 <abbr>LOC</abbr> Locative Case
-  * 当场格 <abbr>ATD</abbr> Attendant Case
-  * 向格 <abbr>ALL</abbr> Allative Case
-  * 离格 <abbr>ABL</abbr> Ablative Case
-  * 定向格 <abbr>ORI</abbr> Orientative Case
-  * 相对格 <abbr>IRL</abbr> Interrelative Case
-  * 起止格 <abbr>INV</abbr> Intrative Case
-  * 路径格 <abbr>NAV</abbr> Navigative Case
-  * 时段格 <abbr>CNR</abbr> Concursive Case
-  * 比例格 <abbr>ASS</abbr> Assessive Case
-  * 时期格 <abbr>PER</abbr> Periodic Case
-  * 时长格 <abbr>PRO</abbr> Prolapsive Case
-  * 之前格 <abbr>PCV</abbr> Precursive Case
-  * 之后格 <abbr>PCR</abbr> Postcursive Case
-  * 经过格 <abbr>ELP</abbr> Elapsive Case
-  * 到时格 <abbr>PLM</abbr> Prolimitive Case
+* <ruby>相関格類<rt>そうかんかくるい</rt></ruby> Transrelative Cases
+  * <ruby>主題格<rt>しゅだいかく</rt></ruby> <abbr>THM</abbr> Thematic Case
+  * <ruby>道具格<rt>どうぐかく</rt></ruby> <abbr>INS</abbr> Instrumental Case
+  * <ruby>絶対格<rt>ぜったいかく</rt></ruby> <abbr>ABS</abbr> Absolutive Case
+  * <ruby>経験格<rt>けいけんかく</rt></ruby> <abbr>AFF</abbr> Affective Case
+  * <ruby>刺激格<rt>しげきかく</rt></ruby> <abbr>STM</abbr> Stimulative Case
+  * <ruby>起動格<rt>きどうかく</rt></ruby> <abbr>EFF</abbr> Effectuative Case
+  * <ruby>能格<rt>のうかく</rt></ruby> <abbr>ERG</abbr> Ergative Case
+  * <ruby>与格<rt>よかく</rt></ruby> <abbr>DAT</abbr> Dative Case
+  * <ruby>帰自格<rt>きじかく</rt></ruby> <abbr>IND</abbr> Inducive Case
+* <ruby>同格類<rt>どうかくるい</rt></ruby> Appositive Cases
+  * <ruby>触有格<rt>しょくゆうかく</rt></ruby> <abbr>POS</abbr> Possessive Case
+  * <ruby>契有格<rt>けいゆうかく</rt></ruby> <abbr>PRP</abbr> Proprietive Case
+  * <ruby>生格<rt>せいかく</rt></ruby> <abbr>GEN</abbr> Genitive Case
+  * <ruby>帰属格<rt>きぞくかく</rt></ruby> <abbr>ATT</abbr> Attributive Case
+  * <ruby>作者格<rt>さくしゃかく</rt></ruby> <abbr>PDC</abbr> Productive Case
+  * <ruby>主観格<rt>しゅかんかく</rt></ruby> <abbr>ITP</abbr> Interpretative Case
+  * <ruby>起源格<rt>きげんかく</rt></ruby> <abbr>OGN</abbr> Originative Case
+  * <ruby>相補格<rt>そうほかく</rt></ruby> <abbr>IDP</abbr> Interdependent Case
+  * <ruby>中身格<rt>なかみかく</rt></ruby> <abbr>PAR</abbr> Partitive Case
+* <ruby>連想格類<rt>れんそうかくるい</rt></ruby> Associative Cases
+  * <ruby>応用格<rt>おうようかく</rt></ruby> <abbr>APL</abbr> Applicative Case
+  * <ruby>用途格<rt>ようとかく</rt></ruby> <abbr>PUR</abbr> Purposive Case
+  * <ruby>与益格<rt>よえきかく</rt></ruby> <abbr>TRA</abbr> Transmissive Case
+  * <ruby>尊重格<rt>そんちょうかく</rt></ruby> <abbr>DFR</abbr> Deferential Case
+  * <ruby>対照格<rt>たいしょうかく</rt></ruby> <abbr>CRS</abbr> Contrastive Case
+  * <ruby>代表格<rt>だいひょうかく</rt></ruby> <abbr>TSP</abbr> Transpositive Case
+  * <ruby>交換格<rt>こうかんかく</rt></ruby> <abbr>CMM</abbr> Commutative Case
+  * <ruby>対比格<rt>たいひかく</rt></ruby> <abbr>CMP</abbr> Comparative Case
+  * <ruby>依拠格<rt>いきょかく</rt></ruby> <abbr>CSD</abbr> Considerative Case
+* <ruby>副詞格類<rt>かく</rt></ruby> Adverbial Cases
+  * <ruby>方式格<rt>ほうしきかく</rt></ruby> <abbr>FUN</abbr> Functive Case
+  * <ruby>終局格<rt>しゅうきょくかく</rt></ruby> <abbr>TFM</abbr> Transformative Case
+  * <ruby>分類格<rt>ぶんるいかく</rt></ruby> <abbr>CLA</abbr> Classificative Case
+  * <ruby>結果格<rt>けっかかく</rt></ruby> <abbr>RSL</abbr> Resultative Case
+  * <ruby>消費格<rt>しょうひかく</rt></ruby> <abbr>CSM</abbr> Consumptive Case
+  * <ruby>逆接格<rt>ぎゃくせつかく</rt></ruby> <abbr>CON</abbr> Concessive Case
+  * <ruby>忌避格<rt>きひかく</rt></ruby> <abbr>AVR</abbr> Aversive Case
+  * <ruby>例外格<rt>れいがいかく</rt></ruby> <abbr>CVS</abbr> Conversive Case
+  * <ruby>背景格<rt>はいけいかく</rt></ruby> <abbr>SIT</abbr> Situative Case
+* <ruby>関係格類<rt>かんけいかくるい</rt></ruby> Relational Cases
+  * <ruby>議題格<rt>ぎだいかく</rt></ruby> <abbr>PRN</abbr> Pertinential Case
+  * <ruby>説明格<rt>せつめいかく</rt></ruby> <abbr>DSP</abbr> Descriptive Case
+  * <ruby>相関格<rt>そうかんかく</rt></ruby> <abbr>COR</abbr> Correlative Case
+  * <ruby>成分格<rt>せいぶんかく</rt></ruby> <abbr>CPS</abbr> Compositive Case
+  * <ruby>付随格<rt>ふずいかく</rt></ruby> <abbr>COM</abbr> Comitative Case
+  * <ruby>使用格<rt>しようかく</rt></ruby> <abbr>UTL</abbr> Utilitative Case
+  * <ruby>基礎格<rt>きそかく</rt></ruby> <abbr>PRD</abbr> Predicative Case
+  * <ruby>関係格<rt>かんけいかく</rt></ruby> <abbr>RLT</abbr> Relative Case
+* <ruby>親和格類<rt>しんわかくるい</rt></ruby> Affinitive Cases
+  * <ruby>欲求格<rt>よくきゅうかく</rt></ruby> <abbr>ACT</abbr> Activative Case
+  * <ruby>似様格<rt>じようかく</rt></ruby> <abbr>ASI</abbr> Assimilative Case
+  * <ruby>様格<rt>ようかく</rt></ruby> <abbr>ESS</abbr> Essive Case
+  * <ruby>目的格<rt>もくてきかく</rt></ruby> <abbr>TRM</abbr> Terminative Case
+  * <ruby>周期格<rt>しゅうきかく</rt></ruby> <abbr>SEL</abbr> Selective Case
+  * <ruby>準拠格<rt>じゅんきょかく</rt></ruby> <abbr>CFM</abbr> Conformative Case
+  * <ruby>次第格<rt>しだいかく</rt></ruby> <abbr>DEP</abbr> Dependent Case
+  * <ruby>呼格<rt>こかく</rt></ruby> <abbr>VOC</abbr> Vocative Case
+* <ruby>時空格類<rt>じくうかくるい</rt></ruby> Spatio-Temporal Cases
+  * <ruby>処格<rt>しょかく</rt></ruby> <abbr>LOC</abbr> Locative Case
+  * <ruby>参格<rt>さんかく</rt></ruby> <abbr>ATD</abbr> Attendant Case
+  * <ruby>向格<rt>こうかく</rt></ruby> <abbr>ALL</abbr> Allative Case
+  * <ruby>離格<rt>りかく</rt></ruby> <abbr>ABL</abbr> Ablative Case
+  * <ruby>正対格<rt>せいたいかく</rt></ruby> <abbr>ORI</abbr> Orientative Case
+  * <ruby>相対格<rt>そうたいかく</rt></ruby> <abbr>IRL</abbr> Interrelative Case
+  * <ruby>端点格<rt>たんてんかく</rt></ruby> <abbr>INV</abbr> Intrative Case
+  * <ruby>軌道格<rt>きどうかく</rt></ruby> <abbr>NAV</abbr> Navigative Case
+  * <ruby>時分格<rt>じぶんかく</rt></ruby> <abbr>CNR</abbr> Concursive Case
+  * <ruby>比例格<rt>ひれいかく</rt></ruby> <abbr>ASS</abbr> Assessive Case
+  * <ruby>時期格<rt>じきかく</rt></ruby> <abbr>PER</abbr> Periodic Case
+  * <ruby>時長格<rt>じちょうかく</rt></ruby> <abbr>PRO</abbr> Prolapsive Case
+  * <ruby>先行格<rt>せんこうかく</rt></ruby> <abbr>PCV</abbr> Precursive Case
+  * <ruby>後続格<rt>こうぞくかく</rt></ruby> <abbr>PCR</abbr> Postcursive Case
+  * <ruby>経過格<rt>けいかかく</rt></ruby> <abbr>ELP</abbr> Elapsive Case
+  * <ruby>到達格<rt>とうたつかく</rt></ruby> <abbr>PLM</abbr> Prolimitive Case
 
 格辖 Case-Scope
 
