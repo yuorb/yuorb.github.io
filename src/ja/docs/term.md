@@ -158,127 +158,127 @@ title: 用語表
 
 @tab:active 语法范畴
 
-<ruby>詳述<rp>《</rp><rt>しょうじゅつ</rt><rp>》</rp></ruby> Specifications
+<ruby>詳述<rt>しょうじゅつ</rt></ruby> Specifications
 
-* <ruby>基本詳述<rp>《</rp><rt>きほんしょうじゅつ</rt><rp>》</rp></ruby> <abbr>BSC</abbr> Basic Specification
-* <ruby>内容詳述<rp>《</rp><rt>ないようしょうじゅつ</rt><rp>》</rp></ruby> <abbr>CTE</abbr> Contential Specification
-* <ruby>構成詳述<rp>《</rp><rt>こうせいしょうじゅつ</rt><rp>》</rp></ruby> <abbr>CSV</abbr> Constitutive Specification
-* <ruby>対象詳述<rp>《</rp><rt>たいしょうしょうじゅつ</rt><rp>》</rp></ruby> <abbr>OBJ</abbr> Objective Specification
+* <ruby>基本詳述<rt>きほんしょうじゅつ</rt></ruby> <abbr>BSC</abbr> Basic Specification
+* <ruby>内容詳述<rt>ないようしょうじゅつ</rt></ruby> <abbr>CTE</abbr> Contential Specification
+* <ruby>構成詳述<rt>こうせいしょうじゅつ</rt></ruby> <abbr>CSV</abbr> Constitutive Specification
+* <ruby>対象詳述<rt>たいしょうしょうじゅつ</rt></ruby> <abbr>OBJ</abbr> Objective Specification
 
-<ruby>機能<rp>《</rp><rt>きのう</rt><rp>》</rp></ruby> Functions
+<ruby>機能<rt>きのう</rt></ruby> Functions
 
-* <ruby>静態機能<rp>《</rp><rt>せいたいきのう</rt><rp>》</rp></ruby> <abbr>STA</abbr> Static/Stative Function
-* <ruby>動態機能<rp>《</rp><rt>どうたいきのう</rt><rp>》</rp></ruby> <abbr>DYN</abbr> Dynamic Function
+* <ruby>静態機能<rt>せいたいきのう</rt></ruby> <abbr>STA</abbr> Static/Stative Function
+* <ruby>動態機能<rt>どうたいきのう</rt></ruby> <abbr>DYN</abbr> Dynamic Function
 
-<ruby>版<rp>《</rp><rt>ばん</rt><rp>》</rp></ruby> Versions
+<ruby>版<rt>ばん</rt></ruby> Versions
 
-* <ruby>過程版<rp>《</rp><rt>かていばん</rt><rp>》</rp></ruby> <abbr>PRC</abbr> Processual Version
-* <ruby>完成版<rp>《</rp><rt>かんせいばん</rt><rp>》</rp></ruby> <abbr>CPT</abbr> Completive Version
+* <ruby>過程版<rt>かていばん</rt></ruby> <abbr>PRC</abbr> Processual Version
+* <ruby>完成版<rt>かんせいばん</rt></ruby> <abbr>CPT</abbr> Completive Version
 
-<ruby>構配<rp>《</rp><rt>こうはい</rt><rp>》</rp></ruby> Configurations
+<ruby>構配<rt>こうはい</rt></ruby> Configurations
 
-* <ruby>数性<rp>《</rp><rt>すうせい</rt><rp>》</rp></ruby> Plexities
-* <ruby>単数<rp>《</rp><rt>たんすう</rt><rp>》</rp></ruby> <abbr>U-</abbr> Uniplex
-* <ruby>双数<rp>《</rp><rt>そうすう</rt><rp>》</rp></ruby> <abbr>D-</abbr> Duplex
-* <ruby>複数<rp>《</rp><rt>ふくすう</rt><rp>》</rp></ruby> <abbr>M-</abbr> Multiplex
-* <ruby>類似性<rp>《</rp><rt>るいじせい</rt><rp>》</rp></ruby> Similarities
-* <ruby>似類<rp>《</rp><rt>じるい</rt><rp>》</rp></ruby> <abbr>-S-</abbr> Similar
-* <ruby>異類<rp>《</rp><rt>いるい</rt><rp>》</rp></ruby> <abbr>-D-</abbr> Different/Dissimilar
-* <ruby>混類<rp>《</rp><rt>こんるい</rt><rp>》</rp></ruby> <abbr>-F-</abbr> Fuzzy
-* <ruby>離合性<rp>《</rp><rt>りごうせい</rt><rp>》</rp></ruby> Separabilities
-* <ruby>離性<rp>《</rp><rt>りせい</rt><rp>》</rp></ruby> <abbr>-S</abbr> Separate
-* <ruby>連性<rp>《</rp><rt>れんせい</rt><rp>》</rp></ruby> <abbr>-C</abbr> Connected
-* <ruby>合性<rp>《</rp><rt>ごうせい</rt><rp>》</rp></ruby> <abbr>-F</abbr> Fused
+* <ruby>数性<rt>すうせい</rt></ruby> Plexities
+* <ruby>単数<rt>たんすう</rt></ruby> <abbr>U-</abbr> Uniplex
+* <ruby>双数<rt>そうすう</rt></ruby> <abbr>D-</abbr> Duplex
+* <ruby>複数<rt>ふくすう</rt></ruby> <abbr>M-</abbr> Multiplex
+* <ruby>類似性<rt>るいじせい</rt></ruby> Similarities
+* <ruby>似類<rt>じるい</rt></ruby> <abbr>-S-</abbr> Similar
+* <ruby>異類<rt>いるい</rt></ruby> <abbr>-D-</abbr> Different/Dissimilar
+* <ruby>混類<rt>こんるい</rt></ruby> <abbr>-F-</abbr> Fuzzy
+* <ruby>離合性<rt>りごうせい</rt></ruby> Separabilities
+* <ruby>離性<rt>りせい</rt></ruby> <abbr>-S</abbr> Separate
+* <ruby>連性<rt>れんせい</rt></ruby> <abbr>-C</abbr> Connected
+* <ruby>合性<rt>ごうせい</rt></ruby> <abbr>-F</abbr> Fused
 
-三种子范畴组合成：
+<ruby>構配<rt>こうはい</rt></ruby>の全組み合わせ及び略称は以下の通り：
 
-* <ruby>単数構配<ruby><rp>《</rp><rt>たんすうこうはい</rt><rp>》</rp></ruby> <abbr>UPX</abbr> Uniplex Configuration
-* <ruby>複似離配<ruby><rp>《</rp><rt>ふくじりはい</rt><rp>》</rp></ruby> <abbr>MSS</abbr> Multiplex-Similar-Separate Configuration
-* <ruby>複似連配<ruby><rp>《</rp><rt>ふくじれんはい</rt><rp>》</rp></ruby> <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
-* <ruby>複似合配<ruby><rp>《</rp><rt>ふくじごうはい</rt><rp>》</rp></ruby> <abbr>MSF</abbr> Multiplex-Similar-Fused Configuration
-* <ruby>複異離配<ruby><rp>《</rp><rt>ふくいりはい</rt><rp>》</rp></ruby> <abbr>MDS</abbr> Multiplex-Dissimilar-Separate Configuration
-* <ruby>複異連配<ruby><rp>《</rp><rt>ふくいれんはい</rt><rp>》</rp></ruby> <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
-* <ruby>複異合配<ruby><rp>《</rp><rt>ふくいごうはい</rt><rp>》</rp></ruby> <abbr>MDF</abbr> Multiplex-Dissimilar-Fused Configuration
-* <ruby>複混離配<ruby><rp>《</rp><rt>ふくこんりはい</rt><rp>》</rp></ruby> <abbr>MFS</abbr> Multiplex-Fuzzy-Separate Configuration
-* <ruby>複混連配<ruby><rp>《</rp><rt>ふくこんれんはい</rt><rp>》</rp></ruby> <abbr>MFC</abbr> Multiplex-Fuzzy-Connected Configuration
-* <ruby>複混合配<ruby><rp>《</rp><rt>ふくこんごうはい</rt><rp>》</rp></ruby> <abbr>MFF</abbr> Multiplex-Fuzzy-Fused Configuration
-* <ruby>双数構配<ruby><rp>《</rp><rt>そうすうこうはい</rt><rp>》</rp></ruby> <abbr>DPX</abbr> Duplex Configuration
-* <ruby>双似離配<ruby><rp>《</rp><rt>そうじりはい</rt><rp>》</rp></ruby> <abbr>DSS</abbr> Duplex-Similar-Separate Configuration
-* <ruby>双似連配<ruby><rp>《</rp><rt>そうじれんはい</rt><rp>》</rp></ruby> <abbr>DSC</abbr> Duplex-Similar-Connected Configuration
-* <ruby>双似合配<ruby><rp>《</rp><rt>そうじごうはい</rt><rp>》</rp></ruby> <abbr>DSF</abbr> Duplex-Similar-Fused Configuration
-* <ruby>双異離配<ruby><rp>《</rp><rt>そういりはい</rt><rp>》</rp></ruby> <abbr>DDS</abbr> Duplex-Dissimilar-Separate Configuration
-* <ruby>双異連配<ruby><rp>《</rp><rt>そういれんはい</rt><rp>》</rp></ruby> <abbr>DDC</abbr> Duplex-Dissimilar-Connected Configuration
-* <ruby>双異合配<ruby><rp>《</rp><rt>そういごうはい</rt><rp>》</rp></ruby> <abbr>DDF</abbr> Duplex-Dissimilar-Fused Configuration
-* <ruby>双混離配<ruby><rp>《</rp><rt>そうこんりはい</rt><rp>》</rp></ruby> <abbr>DFS</abbr> Duplex-Fuzzy-Separate Configuration
-* <ruby>双混連配<ruby><rp>《</rp><rt>そうこんれんはい</rt><rp>》</rp></ruby> <abbr>DFC</abbr> Duplex-Fuzzy-Connected Configuration
-* <ruby>双混合配<ruby><rp>《</rp><rt>そうこんごうはい</rt><rp>》</rp></ruby> <abbr>DFF</abbr> Duplex-Fuzzy-Fused Configuration
+* <ruby>単数構配<rt>たんすうこうはい</rt></ruby> <abbr>UPX</abbr> Uniplex Configuration
+* <ruby>複似離配<rt>ふくじりはい</rt></ruby> <abbr>MSS</abbr> Multiplex-Similar-Separate Configuration
+* <ruby>複似連配<rt>ふくじれんはい</rt></ruby> <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
+* <ruby>複似合配<rt>ふくじごうはい</rt></ruby> <abbr>MSF</abbr> Multiplex-Similar-Fused Configuration
+* <ruby>複異離配<rt>ふくいりはい</rt></ruby> <abbr>MDS</abbr> Multiplex-Dissimilar-Separate Configuration
+* <ruby>複異連配<rt>ふくいれんはい</rt></ruby> <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
+* <ruby>複異合配<rt>ふくいごうはい</rt></ruby> <abbr>MDF</abbr> Multiplex-Dissimilar-Fused Configuration
+* <ruby>複混離配<rt>ふくこんりはい</rt></ruby> <abbr>MFS</abbr> Multiplex-Fuzzy-Separate Configuration
+* <ruby>複混連配<rt>ふくこんれんはい</rt></ruby> <abbr>MFC</abbr> Multiplex-Fuzzy-Connected Configuration
+* <ruby>複混合配<rt>ふくこんごうはい</rt></ruby> <abbr>MFF</abbr> Multiplex-Fuzzy-Fused Configuration
+* <ruby>双数構配<rt>そうすうこうはい</rt></ruby> <abbr>DPX</abbr> Duplex Configuration
+* <ruby>双似離配<rt>そうじりはい</rt></ruby> <abbr>DSS</abbr> Duplex-Similar-Separate Configuration
+* <ruby>双似連配<rt>そうじれんはい</rt></ruby> <abbr>DSC</abbr> Duplex-Similar-Connected Configuration
+* <ruby>双似合配<rt>そうじごうはい</rt></ruby> <abbr>DSF</abbr> Duplex-Similar-Fused Configuration
+* <ruby>双異離配<rt>そういりはい</rt></ruby> <abbr>DDS</abbr> Duplex-Dissimilar-Separate Configuration
+* <ruby>双異連配<rt>そういれんはい</rt></ruby> <abbr>DDC</abbr> Duplex-Dissimilar-Connected Configuration
+* <ruby>双異合配<rt>そういごうはい</rt></ruby> <abbr>DDF</abbr> Duplex-Dissimilar-Fused Configuration
+* <ruby>双混離配<rt>そうこんりはい</rt></ruby> <abbr>DFS</abbr> Duplex-Fuzzy-Separate Configuration
+* <ruby>双混連配<rt>そうこんれんはい</rt></ruby> <abbr>DFC</abbr> Duplex-Fuzzy-Connected Configuration
+* <ruby>双混合配<rt>そうこんごうはい</rt></ruby> <abbr>DFF</abbr> Duplex-Fuzzy-Fused Configuration
 
-系属 Affiliations
+<ruby>所属<rt>しょぞく</rt></ruby> Affiliations
 
-* 自然属 <abbr>CSL</abbr> Consolidative Affiliation
-* 一致属 <abbr>ASO</abbr> Associative Affiliation
-* 协同属 <abbr>COA</abbr> Coalescent Affiliation
-* 分化属 <abbr>VAR</abbr> Variative Affiliation
+* <ruby>自然所属<rt>しぜんしょぞく</rt></ruby> <abbr>CSL</abbr> Consolidative Affiliation
+* <ruby>一致所属<rt>いっちしょぞく</rt></ruby> <abbr>ASO</abbr> Associative Affiliation
+* <ruby>特異所属<rt>とくいしょぞく</rt></ruby> <abbr>COA</abbr> Coalescent Affiliation
+* <ruby>共同所属<rt>きょうどうしょぞく</rt></ruby> <abbr>VAR</abbr> Variative Affiliation
 
-限域 Extensions
+<ruby>限域<rt>げんいき</rt></ruby> Extensions
 
-* 全限域 <abbr>DEL</abbr> Delimitive Extension
-* 近限域 <abbr>PRX</abbr> Proximal Extension
-* 起始域 <abbr>ICP</abbr> Inceptive Extension
-* 终止域 <abbr>ATV</abbr> Attenuative Extension
-* 渐长域 <abbr>GRA</abbr> Graduative Extension
-* 渐消域 <abbr>DPL</abbr> Depletive Extension
+* <ruby>全限域<rt>ぜんげんいき</rt></ruby> <abbr>DEL</abbr> Delimitive Extension
+* <ruby>近限域<rt>きんげんいき</rt></ruby> <abbr>PRX</abbr> Proximal Extension
+* <ruby>起始域<rt>きしいき</rt></ruby> <abbr>ICP</abbr> Inceptive Extension
+* <ruby>終止域<rt>しゅうしいき</rt></ruby> <abbr>ATV</abbr> Attenuative Extension
+* <ruby>漸長域<rt>ぜんちょういき</rt></ruby> <abbr>GRA</abbr> Graduative Extension
+* <ruby>漸消域<rt>ぜんしょういき</rt></ruby> <abbr>DPL</abbr> Depletive Extension
 
-视界 Perspectives
+<ruby>観点<rt>かんてん</rt></ruby> Perspectives
 
-* 个例界 <abbr>M</abbr> Monadic Perspective
-* 类聚界 <abbr>G</abbr> Agglomerative Perspective
-* 宇宙界 <abbr>N</abbr> Nomic Perspective
-* 无形界 <abbr>A</abbr> Abstract Perspective
+* <ruby>単称観点<rt>たんしょうかんてん</rt></ruby> <abbr>M</abbr> Monadic Perspective
+* <ruby>多項観点<rt>たこうかんてん</rt></ruby> <abbr>G</abbr> Agglomerative Perspective
+* <ruby>総称観点<rt>そうしょうかんてん</rt></ruby> <abbr>N</abbr> Nomic Perspective
+* <ruby>抽象観点<rt>ちゅうしょうかんてん</rt></ruby> <abbr>A</abbr> Abstract Perspective
 
-本质 Essences
+<ruby>本質<rt>ほんしつ</rt></ruby>（<ruby>虚実性<rt>きょじつせい</rt></ruby>） Essences
 
-* 正常本质 <abbr>NRM</abbr> Normal Essence
-* 假想本质 <abbr>RPV</abbr> Representative Essence
+* <ruby>正常本質<rt>せいじょうほんしつ</rt></ruby>（<ruby>実<rt>じつ</rt></ruby>） <abbr>NRM</abbr> Normal Essence
+* <ruby>仮想本質<rt>かそうほんしつ</rt></ruby>（<ruby>虚<rt>きょ</rt></ruby>） <abbr>RPV</abbr> Representative Essence
 
-时体 Aspects
+<ruby>時体<rt>じたい</rt></ruby> Aspects
 
-* 回顾体 <abbr>RTR</abbr> Retrospective Aspect
-* 展望体 <abbr>PRS</abbr> Prospective Aspect
-* 习惯体 <abbr>HAB</abbr> Habitual Aspect
-* 进行体 <abbr>PRG</abbr> Progressive Aspect
-* 将近体 <abbr>IMM</abbr> Imminent Aspect
-* 刚才体 <abbr>PCS</abbr> Precessive Aspect
-* 规律体 <abbr>REG</abbr> Regulative Aspect
-* 已然体 <abbr>SMM</abbr> Summative Aspect
-* 预期体 <abbr>ATP</abbr> Anticipatory Aspect
-* 接续体 <abbr>RSM</abbr> Resumptive Aspect
-* 停止体 <abbr>CSS</abbr> Cessative Aspect
-* 暂停体 <abbr>PAU</abbr> Pausal Aspect
-* 重返体 <abbr>RGR</abbr> Regressive Aspect
-* 专一体 <abbr>PCL</abbr> Preclusive Aspect
-* 继续体 <abbr>CNT</abbr> Continuative Aspect
-* 持续体 <abbr>ICS</abbr> Incessative Aspect
-* 曾经体 <abbr>EXP</abbr> Experiential Aspect
-* 中断体 <abbr>IRP</abbr> Interruptive Aspect
-* 首发体 <abbr>PMP</abbr> Preemptive Aspect
-* 最终体 <abbr>CLM</abbr> Climactic Aspect
-* 久延体 <abbr>DLT</abbr> Dilatory Aspect
-* 暂时体 <abbr>TMP</abbr> Temporary Aspect
-* 耗时体 <abbr>XPD</abbr> Expenditive Aspect
-* 及时体 <abbr>LIM</abbr> Limitative Aspect
-* 匆忙体 <abbr>EPD</abbr> Expeditive Aspect
-* 延长体 <abbr>PTC</abbr> Protractive Aspect
-* 预备体 <abbr>PPR</abbr> Preparatory Aspect
-* 显发体 <abbr>DCL</abbr> Disclusive Aspect
-* 结果体 <abbr>CCL</abbr> Conclusive Aspect
-* 结局体 <abbr>CUL</abbr> Culminative Aspect
-* 某刻体 <abbr>IMD</abbr> Intermediative Aspect
-* 减退体 <abbr>TRD</abbr> Tardative Aspect
-* 过渡体 <abbr>TNS</abbr> Transitional Aspect
-* 回施体 <abbr>ITC</abbr> Intercommutative Aspect
-* 去往体 <abbr>MTV</abbr> Motive Aspect
-* 依序体 <abbr>SQN</abbr> Sequential Aspect
+* <ruby>回顧体<rt>かいこたい</rt></ruby> <abbr>RTR</abbr> Retrospective Aspect
+* <ruby>展望体<rt>てんぼうたい</rt></ruby> <abbr>PRS</abbr> Prospective Aspect
+* <ruby>習慣体<rt>しゅうかんたい</rt></ruby> <abbr>HAB</abbr> Habitual Aspect
+* <ruby>進行体<rt>しんこうたい</rt></ruby> <abbr>PRG</abbr> Progressive Aspect
+* <ruby>寸前体<rt>すんぜんたい</rt></ruby> <abbr>IMM</abbr> Imminent Aspect
+* <ruby>直近体<rt>ちょっきんたい</rt></ruby> <abbr>PCS</abbr> Precessive Aspect
+* <ruby>規律体<rt>きりつたい</rt></ruby> <abbr>REG</abbr> Regulative Aspect
+* <ruby>已然体<rt>いぜんたい</rt></ruby> <abbr>SMM</abbr> Summative Aspect
+* <ruby>予期体<rt>よきたい</rt></ruby> <abbr>ATP</abbr> Anticipatory Aspect
+* <ruby>再開体<rt>さいかいたい</rt></ruby> <abbr>RSM</abbr> Resumptive Aspect
+* <ruby>停止体<rt>ていしたい</rt></ruby> <abbr>CSS</abbr> Cessative Aspect
+* <ruby>暫定体<rt>ざんていたい</rt></ruby> <abbr>PAU</abbr> Pausal Aspect
+* <ruby>回帰体<rt>かいきたい</rt></ruby> <abbr>RGR</abbr> Regressive Aspect
+* <ruby>一途体<rt>いちずたい</rt></ruby> <abbr>PCL</abbr> Preclusive Aspect
+* <ruby>継続体<rt>けいぞくたい</rt></ruby> <abbr>CNT</abbr> Continuative Aspect
+* <ruby>持続体<rt>じぞくたい</rt></ruby> <abbr>ICS</abbr> Incessative Aspect
+* <ruby>経験体<rt>けいけんたい</rt></ruby> <abbr>EXP</abbr> Experiential Aspect
+* <ruby>中断体<rt>ちゅうだんたい</rt></ruby> <abbr>IRP</abbr> Interruptive Aspect
+* <ruby>遂願体<rt>すいがんたい</rt></ruby> <abbr>PMP</abbr> Preemptive Aspect
+* <ruby>最終体<rt>さいしゅうたい</rt></ruby> <abbr>CLM</abbr> Climactic Aspect
+* <ruby>長久体<rt>ちょうきゅうたい</rt></ruby> <abbr>DLT</abbr> Dilatory Aspect
+* <ruby>臨時体<rt>りんじたい</rt></ruby> <abbr>TMP</abbr> Temporary Aspect
+* <ruby>蹉跎体<rt>さだたい</rt></ruby> <abbr>XPD</abbr> Expenditive Aspect
+* <ruby>適時体<rt>てきじたい</rt></ruby> <abbr>LIM</abbr> Limitative Aspect
+* <ruby>惣亡体<rt>そうぼうたい</rt></ruby> <abbr>EPD</abbr> Expeditive Aspect
+* <ruby>延長体<rt>えんちょうたい</rt></ruby> <abbr>PTC</abbr> Protractive Aspect
+* <ruby>予備体<rt>よびたい</rt></ruby> <abbr>PPR</abbr> Preparatory Aspect
+* <ruby>判明体<rt>はんめいたい</rt></ruby> <abbr>DCL</abbr> Disclusive Aspect
+* <ruby>結果体<rt>けっかたい</rt></ruby> <abbr>CCL</abbr> Conclusive Aspect
+* <ruby>結末体<rt>けつまつたい</rt></ruby> <abbr>CUL</abbr> Culminative Aspect
+* <ruby>中途体<rt>ちゅうとたい</rt></ruby> <abbr>IMD</abbr> Intermediative Aspect
+* <ruby>減衰体<rt>げんすいたい</rt></ruby> <abbr>TRD</abbr> Tardative Aspect
+* <ruby>移行体<rt>いこうたい</rt></ruby> <abbr>TNS</abbr> Transitional Aspect
+* <ruby>遣取体<rt>けんしゅたい</rt></ruby> <abbr>ITC</abbr> Intercommutative Aspect
+* <ruby>離脱体<rt>りだつたい</rt></ruby> <abbr>MTV</abbr> Motive Aspect
+* <ruby>順次体<rt>じゅんじたい</rt></ruby> <abbr>SQN</abbr> Sequential Aspect
 
 效果 Effects
 
