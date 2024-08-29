@@ -280,62 +280,62 @@ title: 用語表
 * <ruby>離脱体<rt>りだつたい</rt></ruby> <abbr>MTV</abbr> Motive Aspect
 * <ruby>順次体<rt>じゅんじたい</rt></ruby> <abbr>SQN</abbr> Sequential Aspect
 
-效果 Effects
+<ruby>効果<rt>こうか</rt></ruby> Effects
 
-* 利我效 <abbr>1:BEN</abbr> Beneficial to Speaker Effect
-* 利尔效 <abbr>2:BEN</abbr> Beneficial to Addressee Effect
-* 利他效 <abbr>3:BEN</abbr> Beneficial to Third Party Effect
-* 利己效 <abbr>SLF:BEN</abbr> Beneficial to Self Effect
-* 未知效 <abbr>UNK</abbr> Unknown Benefit Effect
-* 害己效 <abbr>SLF:DET</abbr> Detrimental to Self Effect
-* 害他效 <abbr>3:DET</abbr> Detrimental to Third Party Effect
-* 害尔效 <abbr>2:DET</abbr> Detrimental to Addressee Effect
-* 害我效 <abbr>1:DET</abbr> Detrimental to Speaker Effect
+* <ruby>一利<rt>いちり</rt></ruby> <abbr>1:BEN</abbr> Beneficial to Speaker Effect
+* <ruby>二利<rt>にり</rt></ruby> <abbr>2:BEN</abbr> Beneficial to Addressee Effect
+* <ruby>三利<rt>さんり</rt></ruby> <abbr>3:BEN</abbr> Beneficial to Third Party Effect
+* <ruby>己利<rt>こり</rt></ruby> <abbr>SLF:BEN</abbr> Beneficial to Self Effect
+* <ruby>未知<rt>みち</rt></ruby> <abbr>UNK</abbr> Unknown Benefit Effect
+* <ruby>己害<rt>こがい</rt></ruby> <abbr>SLF:DET</abbr> Detrimental to Self Effect
+* <ruby>三害<rt>さんがい</rt></ruby> <abbr>3:DET</abbr> Detrimental to Third Party Effect
+* <ruby>二害<rt>にがい</rt></ruby> <abbr>2:DET</abbr> Detrimental to Addressee Effect
+* <ruby>一害<rt>いちがい</rt></ruby> <abbr>1:DET</abbr> Detrimental to Speaker Effect
 
-级别 Levels
+<ruby>級<rt>きゅう</rt></ruby> Levels
 
-每个都区分相对级别 Relative Level 和绝对级别 Absolute Level
+それぞれの<ruby>級<rt>きゅう</rt></ruby>には<ruby>絶対比較<rt>ぜったいひかく</rt></ruby> Relative Level と<ruby>相対比較<rt>そうたいひかく</rt></ruby> Absolute Level がある。
 
-* 最小级 <abbr>MIN</abbr> Minimal Level
-* 低等级 <abbr>SBE</abbr> Subequative Level
-* 最低级 <abbr>IFR</abbr> Inferior Level
-* 较低级 <abbr>DFT</abbr> Deficient Level
-* 相等级 <abbr>EQU</abbr> Equative Level
-* 较高级 <abbr>SUR</abbr> Surpassive Level
-* 最高级 <abbr>SPL</abbr> Superlative Level
-* 高等级 <abbr>SPQ</abbr> Superequative Level
-* 最大级 <abbr>MAX</abbr> Maximal Level
+* <ruby>最小級<rt>さいしょうきゅう</rt></ruby> <abbr>MIN</abbr> Minimal Level
+* <ruby>低等級<rt>ていとうきゅう</rt></ruby> <abbr>SBE</abbr> Subequative Level
+* <ruby>最低級<rt>さいていきゅう</rt></ruby> <abbr>IFR</abbr> Inferior Level
+* <ruby>比低級<rt>ひていきゅう</rt></ruby> <abbr>DFT</abbr> Deficient Level
+* <ruby>同等級<rt>どうとうきゅう</rt></ruby> <abbr>EQU</abbr> Equative Level
+* <ruby>比高級<rt>ひこうきゅう</rt></ruby> <abbr>SUR</abbr> Surpassive Level
+* <ruby>最高級<rt>さいこうきゅう</rt></ruby> <abbr>SPL</abbr> Superlative Level
+* <ruby>高等級<rt>こうとうきゅう</rt></ruby> <abbr>SPQ</abbr> Superequative Level
+* <ruby>最大級<rt>さいだいきゅう</rt></ruby> <abbr>MAX</abbr> Maximal Level
 
-相位 Phases
+<ruby>位相<rt>いそう</rt></ruby> Phases
 
-* 点瞬相 <abbr>PCT</abbr> Punctual Phase
-* 点复相 <abbr>ITR</abbr> Iterative Phase
-* 重复相 <abbr>REP</abbr> Repetitive Phase
-* 间歇相 <abbr>ITM</abbr> Intermittent Phase
-* 反复相 <abbr>RCT</abbr> Recurrent Phase
-* 频繁相 <abbr>FRE</abbr> Frequentative Phase
-* 断续相 <abbr>FRG</abbr> Fragmentative Phase
-* 摇摆相 <abbr>VAC</abbr> Vacillative Phase
-* 随机相 <abbr>FLC</abbr> Fluctuative Phase
+* <ruby>点瞬相<rt>てんしゅんそう</rt></ruby> <abbr>PCT</abbr> Punctual Phase
+* <ruby>点複相<rt>てんぷくそう</rt></ruby> <abbr>ITR</abbr> Iterative Phase
+* <ruby>重複相<rt>じゅうふくそう</rt></ruby> <abbr>REP</abbr> Repetitive Phase
+* <ruby>間欠相<rt>かんけつそう</rt></ruby> <abbr>ITM</abbr> Intermittent Phase
+* <ruby>反復相<rt>はんぷくそう</rt></ruby> <abbr>RCT</abbr> Recurrent Phase
+* <ruby>頻繁相<rt>ひんぱんそう</rt></ruby> <abbr>FRE</abbr> Frequentative Phase
+* <ruby>断続相<rt>だんぞくそう</rt></ruby> <abbr>FRG</abbr> Fragmentative Phase
+* <ruby>摇動相<rt>ようどうそう</rt></ruby> <abbr>VAC</abbr> Vacillative Phase
+* <ruby>乱摇相<rt>らんようそう</rt></ruby> <abbr>FLC</abbr> Fluctuative Phase
 
-配价 Valences
+<ruby>結合価<rt>けつごうか</rt></ruby> Valences
 
-* 独动价 <abbr>MNO</abbr> Monoactive Valence
-* 共动价 <abbr>PRL</abbr> Parallel Valence
-* 各动价 <abbr>CRO</abbr> Corollary Valence
-* 互动价 <abbr>RCP</abbr> Reciprocal Valence
-* 补动价 <abbr>CPL</abbr> Complementary Valence
-* 复动价 <abbr>DUP</abbr> Duplicative Valence
-* 示动价 <abbr>DEM</abbr> Demonstrative Valence
-* 接动价 <abbr>CNG</abbr> Contingent Valence
-* 参动价 <abbr>PTI</abbr> Participative Valence
+* <ruby>独価<rt>どくか</rt></ruby> <abbr>MNO</abbr> Monoactive Valence
+* <ruby>共価<rt>きょうか</rt></ruby> <abbr>PRL</abbr> Parallel Valence
+* <ruby>各価<rt>かくか</rt></ruby> <abbr>CRO</abbr> Corollary Valence
+* <ruby>互価<rt>ごか</rt></ruby> <abbr>RCP</abbr> Reciprocal Valence
+* <ruby>補価<rt>ほか</rt></ruby> <abbr>CPL</abbr> Complementary Valence
+* <ruby>複価<rt>ふくか</rt></ruby> <abbr>DUP</abbr> Duplicative Valence
+* <ruby>示価<rt>しか</rt></ruby> <abbr>DEM</abbr> Demonstrative Valence
+* <ruby>接価<rt>せつか</rt></ruby> <abbr>CNG</abbr> Contingent Valence
+* <ruby>参価<rt>さんか</rt></ruby> <abbr>PTI</abbr> Participative Valence
 
-语境 Contexts
+<ruby>文脈<rt>ぶんみゃく</rt></ruby> Contexts
 
-* 存在语境 <abbr>EXS</abbr> Existential Context
-* 意味语境 <abbr>FNC</abbr> Functional Context
-* 喻意语境 <abbr>RPS</abbr> Representational Context
-* 融合语境 <abbr>AMG</abbr> Amalgamative Context
+* <ruby>存在文脈<rt>そんざいぶんみゃく</rt></ruby> <abbr>EXS</abbr> Existential Context
+* <ruby>意味文脈<rt>いみぶんみゃく</rt></ruby> <abbr>FNC</abbr> Functional Context
+* <ruby>比喩文脈<rt>ひゆぶんみゃく</rt></ruby> <abbr>RPS</abbr> Representational Context
+* <ruby>融合文脈<rt>ゆうごうぶんみゃく</rt></ruby> <abbr>AMG</abbr> Amalgamative Context
 
 格 Cases & 格式 Formats
 
