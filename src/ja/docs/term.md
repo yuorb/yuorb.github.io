@@ -220,14 +220,14 @@ title: 用語表
 * <ruby>特異所属<rt>とくいしょぞく</rt></ruby> <abbr>COA</abbr> Coalescent Affiliation
 * <ruby>共同所属<rt>きょうどうしょぞく</rt></ruby> <abbr>VAR</abbr> Variative Affiliation
 
-<ruby>限域<rt>げんいき</rt></ruby> Extensions
+<ruby>外延<rt>がいえん</rt></ruby> Extensions
 
-* <ruby>全限域<rt>ぜんげんいき</rt></ruby> <abbr>DEL</abbr> Delimitive Extension
-* <ruby>近限域<rt>きんげんいき</rt></ruby> <abbr>PRX</abbr> Proximal Extension
-* <ruby>起始域<rt>きしいき</rt></ruby> <abbr>ICP</abbr> Inceptive Extension
-* <ruby>終止域<rt>しゅうしいき</rt></ruby> <abbr>ATV</abbr> Attenuative Extension
-* <ruby>漸長域<rt>ぜんちょういき</rt></ruby> <abbr>GRA</abbr> Graduative Extension
-* <ruby>漸消域<rt>ぜんしょういき</rt></ruby> <abbr>DPL</abbr> Depletive Extension
+* <ruby>全限外延<rt>ぜんげんがいえん</rt></ruby> <abbr>DEL</abbr> Delimitive Extension
+* <ruby>近限外延<rt>きんげんがいえん</rt></ruby> <abbr>PRX</abbr> Proximal Extension
+* <ruby>起始外延<rt>きしがいえん</rt></ruby> <abbr>ICP</abbr> Inceptive Extension
+* <ruby>終止外延<rt>しゅうしがいえん</rt></ruby> <abbr>ATV</abbr> Attenuative Extension
+* <ruby>漸増外延<rt>ぜんぞうがいえん</rt></ruby> <abbr>GRA</abbr> Graduative Extension
+* <ruby>漸減外延<rt>ぜんげんがいえん</rt></ruby> <abbr>DPL</abbr> Depletive Extension
 
 <ruby>観点<rt>かんてん</rt></ruby> Perspectives
 
@@ -369,7 +369,7 @@ title: 用語表
   * <ruby>交換格<rt>こうかんかく</rt></ruby> <abbr>CMM</abbr> Commutative Case
   * <ruby>対比格<rt>たいひかく</rt></ruby> <abbr>CMP</abbr> Comparative Case
   * <ruby>依拠格<rt>いきょかく</rt></ruby> <abbr>CSD</abbr> Considerative Case
-* <ruby>副詞格類<rt>かく</rt></ruby> Adverbial Cases
+* <ruby>副詞格類<rt>ふくしかくるい</rt></ruby> Adverbial Cases
   * <ruby>方式格<rt>ほうしきかく</rt></ruby> <abbr>FUN</abbr> Functive Case
   * <ruby>終局格<rt>しゅうきょくかく</rt></ruby> <abbr>TFM</abbr> Transformative Case
   * <ruby>分類格<rt>ぶんるいかく</rt></ruby> <abbr>CLA</abbr> Classificative Case
@@ -415,23 +415,23 @@ title: 用語表
   * <ruby>経過格<rt>けいかかく</rt></ruby> <abbr>ELP</abbr> Elapsive Case
   * <ruby>到達格<rt>とうたつかく</rt></ruby> <abbr>PLM</abbr> Prolimitive Case
 
-格辖 Case-Scope
+<ruby>格支配<rt>かくしはい</rt></ruby> Case-Scope
 
-* 自然辖 <abbr>CCN</abbr> Natural Case-Scope
-* 先行辖 <abbr>CCA</abbr> Antecedent Case-Scope
-* 从属辖 <abbr>CCS</abbr> Subaltern Case-Scope
-* 修饰辖 <abbr>CCS</abbr> Qualifier Case-Scope
-* 前行辖 <abbr>CCS</abbr> Precedent Case-Scope
-* 接连辖 <abbr>CCV</abbr> Successive Case-Scope
+* <ruby>自然支配<rt>しぜんしはい</rt></ruby> <abbr>CCN</abbr> Natural Case-Scope
+* <ruby>先行支配<rt>せんこうしはい</rt></ruby> <abbr>CCA</abbr> Antecedent Case-Scope
+* <ruby>従属支配<rt>じゅうぞくしはい</rt></ruby> <abbr>CCS</abbr> Subaltern Case-Scope
+* <ruby>修飾支配<rt>しゅうしょくしはい</rt></ruby> <abbr>CCS</abbr> Qualifier Case-Scope
+* <ruby>前行支配<rt>ぜんこうしはい</rt></ruby> <abbr>CCS</abbr> Precedent Case-Scope
+* <ruby>後続支配<rt>こうぞくしはい</rt></ruby> <abbr>CCV</abbr> Successive Case-Scope
 
-语式 Moods
+<ruby>叙法<rt>じょほう</rt></ruby> Moods
 
-* 事实式 <abbr>FAC</abbr> Factual Mood
-* 虚拟式 <abbr>SUB</abbr> Subjunctive Mood
-* 假定式 <abbr>ASM</abbr> Assumptive Mood
-* 推测式 <abbr>SPC</abbr> Speculative Mood
-* 违实式 <abbr>COU</abbr> Counterfactive Mood
-* 假设式 <abbr>HYP</abbr> Hypothetical Mood
+* <ruby>事実法<rt>じじつほう</rt></ruby> <abbr>FAC</abbr> Factual Mood
+* <ruby>接続法<rt>せつぞくほう</rt></ruby> <abbr>SUB</abbr> Subjunctive Mood
+* <ruby>仮定法<rt>かていほう</rt></ruby> <abbr>ASM</abbr> Assumptive Mood
+* <ruby>推測法<rt>すいそくほう</rt></ruby> <abbr>SPC</abbr> Speculative Mood
+* <ruby>违实法<rt>ほう</rt></ruby> <abbr>COU</abbr> Counterfactive Mood
+* <ruby>仮説法<rt>ほう</rt></ruby> <abbr>HYP</abbr> Hypothetical Mood
 
 言据 Validations
 
