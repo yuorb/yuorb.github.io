@@ -430,20 +430,20 @@ title: 用語表
 * <ruby>接続法<rt>せつぞくほう</rt></ruby> <abbr>SUB</abbr> Subjunctive Mood
 * <ruby>仮定法<rt>かていほう</rt></ruby> <abbr>ASM</abbr> Assumptive Mood
 * <ruby>推測法<rt>すいそくほう</rt></ruby> <abbr>SPC</abbr> Speculative Mood
-* <ruby>违实法<rt>ほう</rt></ruby> <abbr>COU</abbr> Counterfactive Mood
-* <ruby>仮説法<rt>ほう</rt></ruby> <abbr>HYP</abbr> Hypothetical Mood
+* <ruby>反事実法<rt>はんじじつほう</rt></ruby> <abbr>COU</abbr> Counterfactive Mood 
+* <ruby>仮説法<rt>かせつほう</rt></ruby> <abbr>HYP</abbr> Hypothetical Mood
 
-言据 Validations
+<ruby>根拠<rt>こんきょ</rt></ruby>（<ruby>証拠性<rt>しょうこせい</rt></ruby>） Validations
 
-* 观察据 <abbr>OBS</abbr> Observational Validation
-* 回忆据 <abbr>REC</abbr> Recollective Validation
-* 声称据 <abbr>PUP</abbr> Purportive Validation
-* 报告据 <abbr>RPR</abbr> Reportive Validation
-* 未定据 <abbr>USP</abbr> Unspecified Validation
-* 想象据 <abbr>IMA</abbr> Imaginary Validation
-* 公认据 <abbr>CVN</abbr> Conventional Validation
-* 直觉据 <abbr>ITU</abbr> Intuitive Validation
-* 推论据 <abbr>INF</abbr> Inferential Validation
+* <ruby>観察根拠<rt>かんさつこんきょ</rt></ruby> <abbr>OBS</abbr> Observational Validation
+* <ruby>回想根拠<rt>かいそうこんきょ</rt></ruby> <abbr>REC</abbr> Recollective Validation
+* <ruby>確証根拠<rt>かくしょうこんきょ</rt></ruby> <abbr>PUP</abbr> Purportive Validation
+* <ruby>報告根拠<rt>ほうこくこんきょ</rt></ruby> <abbr>RPR</abbr> Reportive Validation
+* <ruby>不詳根拠<rt>ふしょうこんきょ</rt></ruby> <abbr>USP</abbr> Unspecified Validation
+* <ruby>想像根拠<rt>そうぞうこんきょ</rt></ruby> <abbr>IMA</abbr> Imaginary Validation
+* <ruby>慣習根拠<rt>かんしゅうこんきょ</rt></ruby> <abbr>CVN</abbr> Conventional Validation
+* <ruby>直感根拠<rt>ちょっかんこんきょ</rt></ruby> <abbr>ITU</abbr> Intuitive Validation
+* <ruby>推論根拠<rt>すいろんこんきょ</rt></ruby> <abbr>INF</abbr> Inferential Validation
 
 语为 Illocutions
 
