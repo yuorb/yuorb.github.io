@@ -445,17 +445,17 @@ title: 用語表
 * <ruby>直感根拠<rt>ちょっかんこんきょ</rt></ruby> <abbr>ITU</abbr> Intuitive Validation
 * <ruby>推論根拠<rt>すいろんこんきょ</rt></ruby> <abbr>INF</abbr> Inferential Validation
 
-语为 Illocutions
+<ruby>語成<rt>ごせい</rt></ruby>（<ruby>発話内行為<rt>はつわないこうい</rt></ruby>） Illocutions
 
-* 表述语为 <abbr>ASR</abbr> Assertive Illocution
-* 意使语为 <abbr>DIR</abbr> Directive Illocution
-* 宣示语为 <abbr>DEC</abbr> Declarative Illocution
-* 询问语为 <abbr>IRG</abbr> Interrogative Illocution
-* 确认语为 <abbr>VRF</abbr> Verificative Illocution
-* 劝示语为 <abbr>ADM</abbr> Admonitive Illocution
-* 祈愿语为 <abbr>POT</abbr> Potentiative Illocution
-* 但愿语为 <abbr>HOR</abbr> Hortative Illocution
-* 假设语为 <abbr>CNJ</abbr> Conjectural Illocution
+* <ruby>表述語成<rt>ひょうじゅつごせい</rt></ruby> <abbr>ASR</abbr> Assertive Illocution
+* <ruby>指示語成<rt>しじごせい</rt></ruby> <abbr>DIR</abbr> Directive Illocution
+* <ruby>宣言語成<rt>せんげんごせい</rt></ruby> <abbr>DEC</abbr> Declarative Illocution
+* <ruby>疑問語成<rt>ぎもんごせい</rt></ruby> <abbr>IRG</abbr> Interrogative Illocution
+* <ruby>確認語成<rt>かくにんごせい</rt></ruby> <abbr>VRF</abbr> Verificative Illocution
+* <ruby>警告語成<rt>けいこくごせい</rt></ruby> <abbr>ADM</abbr> Admonitive Illocution
+* <ruby>願望語成<rt>がんぼうごせい</rt></ruby> <abbr>POT</abbr> Potentiative Illocution
+* <ruby>勧告語成<rt>かんこくごせい</rt></ruby> <abbr>HOR</abbr> Hortative Illocution
+* <ruby>想定語成<rt>そうていごせい</rt></ruby> <abbr>CNJ</abbr> Conjectural Illocution
 
 观感 Bias
 
