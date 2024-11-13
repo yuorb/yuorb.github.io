@@ -156,38 +156,16 @@ export default hopeTheme({
     align: true,
     attrs: true,
     chart: true,
-    codetabs: true,
     demo: true,
     echarts: true,
-    figure: true,
     flowchart: true,
     gfm: true,
-    imgLazyload: true,
-    imgSize: true,
     include: true,
-    katex: true,
     mark: true,
     mermaid: true,
     component: true,
     playground: {
       presets: ["ts", "vue"],
-    },
-    revealJs: {
-      plugins: ["highlight", "math", "search", "notes", "zoom"],
-      themes: [
-        "auto",
-        "beige",
-        "black",
-        "blood",
-        "league",
-        "moon",
-        "night",
-        "serif",
-        "simple",
-        "sky",
-        "solarized",
-        "white",
-      ],
     },
     stylize: [
       {
@@ -204,10 +182,42 @@ export default hopeTheme({
     ],
     sub: true,
     sup: true,
-    tabs: true,
     vPre: true,
     vuePlayground: true,
     spoiler: true,
+  },
+
+  markdownHint: {
+    alert: true,
+  },
+
+  markdownImage: {
+    figure: true,
+    lazyload: true,
+    mark: true,
+    size: true,
+  },
+
+  markdownMath: true,
+
+  markdownTab: true,
+
+  revealjs: {
+    plugins: ["highlight", "math", "search", "notes", "zoom"],
+    themes: [
+      "auto",
+      "beige",
+      "black",
+      "blood",
+      "league",
+      "moon",
+      "night",
+      "serif",
+      "simple",
+      "sky",
+      "solarized",
+      "white",
+    ],
   },
 
   components: {

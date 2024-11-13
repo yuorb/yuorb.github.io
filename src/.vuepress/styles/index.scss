@@ -1,4 +1,5 @@
 // place your custom styles here
+
 .xiaozhong {
 	p {
 		text-align: center;
@@ -498,12 +499,16 @@ strong {
 em {
 	// text-decoration: #fbae17 wavy underline 10% !important;
 	margin: 0em 0.2em;
-	color: var(--theme-color);
+	color: var(--vp-c-accent);
 	font-family: var(--cjkfonts);
 }
 
 em > strong {
-    text-decoration: var(--theme-color) wavy underline 10% !important;
+    text-decoration: var(--vp-c-accent) wavy underline 10% !important;
+}
+
+li > em, .hint-container > p > em {
+	color: #fbae17;
 }
 
 .t,
