@@ -16,7 +16,12 @@ export const frNavbar = navbar([
       {
         text: "Outil de formation de mots: Hwirbuvie-Ekţgyil",
         icon: "fas fa-pen-to-square",
-        link: "https://thexxos.github.io/ithkapp/",
+        link: "https://chromonym.github.io/ithkapp/",
+      },
+      {
+        text: "Kit Utilitaire d’Ithkuil",
+        icon: "fas fa-pen",
+        link: "https://v8.zsnout.com/ithkuil/kit",
       },
       {
         text: "Générateur de Script Ithkuil",

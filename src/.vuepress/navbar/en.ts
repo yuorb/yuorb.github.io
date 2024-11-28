@@ -16,7 +16,12 @@ export const enNavbar = navbar([
       {
         text: "Word formation tool: Hwirbuvie-Ekţgyil",
         icon: "fas fa-pen-to-square",
-        link: "https://thexxos.github.io/ithkapp/",
+        link: "https://chromonym.github.io/ithkapp/",
+      },
+      {
+        text: "Ithkuil Utility Kit",
+        icon: "fas fa-pen",
+        link: "https://v8.zsnout.com/ithkuil/kit",
       },
       {
         text: "Ithkuil Script Generator",

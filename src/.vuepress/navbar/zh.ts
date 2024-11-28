@@ -16,7 +16,12 @@ export const zhNavbar = navbar([
       {
         text: "构词器 Hwirbuvie-Ekţgyil",
         icon: "fas fa-pen-to-square",
-        link: "https://thexxos.github.io/ithkapp/",
+        link: "https://chromonym.github.io/ithkapp/",
+      },
+      {
+        text: "Ithkuil 实用工具包",
+        icon: "fas fa-pen",
+        link: "https://v8.zsnout.com/ithkuil/kit",
       },
       {
         text: "Ithkuil 文字生成器",
