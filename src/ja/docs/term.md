@@ -1,162 +1,158 @@
 ---
-title: 用語表
+title: 用語一覧
 ---
 
 ::: tabs
 
 @tab 基本概念
 
-* 语义角色 semantic role
-* 语用角色 pragmatic role
-* 语法（或句法）关系 grammatical (or syntactical) relations
-* 论元结构 argument structure
-* 位置槽 Positional Slot
+* <ruby>意味役割<rt>いみやくわり</rt></ruby> semantic role
+* <ruby>語用役割<rt>ごようやくわり</rt></ruby> pragmatic role
+* <ruby>文法<rt>ぶんぽう</rt></ruby>(あるいは<ruby>統語<rt>とうご</rt></ruby>)<ruby>関係<rt>かんけい</rt></ruby> grammatical (or syntactical) relations
+* <ruby>項構造<rt>こうこうぞう</rt></ruby> argument structure
+* <ruby>位置<rt>いち</rt>槽<rt>そう</rt></ruby> Positional Slot
 
-@tab 语音相关
+@tab 音声
 
-* 音素 phone
-* 音位 phoneme
-* 音高 pitch
-* 音调 accent
-* 重读 stress
-  * 重读的 stressed
-* 重读模式 stress pattern
-  * 次音节重读 penultimate stress
-  * 尾音节重读 ultimate stress
-  * 前音节重读 antepenultimate stress
-* 音节重读 syllabic stress
-* 声调 tone
-* 语音组合法 phonotactics
-* 音系 phonology
-* 辅音 + 元音形式 consonant-form and vowel-form
-* 声门塞音 glottal stop
-* 增音性元音 Epenthetic Vowel
-* 有声音 voiced
-* 無声音 voiceless
-* 通音 continuant
-* 舌尖 - 龈颤音 apico-alveolar trill
-* 元音间 intervocalic
-* 塞擦音 affricate
-* 爆发音 plosive
-* 擦音 fricative
-* 咝音 sibilant
-* 有咝通音 sibilant continuant
-* 延长 Gemination
-* 得以延长 to be geminated
-* 长辅音 geminated consonant
-* 词首位置 word-initial position
-* 词尾位置 word-final position
-* 变音符号 diacritic
-  * 扬音符 acute accent
-  * 扬抑符 circumflex accent
-  * 抑音符 grave accent
-* written juncture 书面音渡
+* <ruby>音価<rt>おんか</rt></ruby> phone
+* <ruby>音素<rt>おんそ</rt></ruby> phoneme
+* <ruby>音高<rt>おんこう</rt></ruby> pitch
+* <ruby>揚音<rt>ようおん</rt></ruby> accent
+* <ruby>強勢<rt>きょうせい</rt></ruby> stress
+  * <ruby>強勢的<rt>きょうせいてき</rt></ruby> stressed
+* <ruby>強勢型<rt>きょうせいがた</rt></ruby> stress pattern
+  * <ruby>第二尾音節強勢<rt>だいにびおんせつきょうせい</rt></ruby> penultimate stress
+  * <ruby>最尾音節強勢<rt>さいびおんせつきょうせい</rt></ruby> ultimate stress
+  * <ruby>第三尾音節強勢<rt>だいさんびおんせつきょうせい</rt></ruby> antepenultimate stress
+* <ruby>音節強勢<rt>おんせつきょうせい</rt></ruby> syllabic stress
+* <ruby>声調<rt>せいちょう</rt></ruby> tone
+* <ruby>音素配列論<rt>おんそはいれつろん</rt></ruby> phonotactics
+* <ruby>音韻論<rt>おんいんろん</rt></ruby> phonology
+* <ruby>子音形<rt>しいんけい</rt></ruby>と<ruby>母音形<rt>ぼいんけい</rt></ruby> consonant-form and vowel-form
+* <ruby>声門閉鎖音<rt>せいもんへいさおん</rt></ruby> glottal stop
+* <ruby>挿入母音<rt>そうにゅうぼいん</rt></ruby> Epenthetic Vowel
+* <ruby>有声<rt>ゆうせい</rt></ruby> voiced
+* <ruby>無声<rt>むせい</rt></ruby> voiceless
+* <ruby>通音<rt>つうおん</rt></ruby> continuant
+* <ruby>舌尖<rt>ぜっせん</rt></ruby> - <ruby>歯茎<rt>しけい</rt></ruby>ふるえ<ruby>音<rt>おん</rt></ruby> apico-alveolar trill
+* <ruby>母音間<rt>ぼいんかん</rt></ruby> intervocalic
+* <ruby>破擦音<rt>はさつおん</rt></ruby> affricate
+* <ruby>破裂音<rt>はれつおん</rt></ruby> plosive
+* <ruby>摩擦音<rt>まさつおん</rt></ruby> fricative
+* <ruby>歯擦音<rt>しさつおん</rt></ruby> sibilant
+* <ruby>歯擦通音<rt>しさつつうおん</rt></ruby> sibilant continuant
+* <ruby>重長音<rt>じゅうちょうおん</rt></ruby> Gemination
+* <ruby>重音化<rt>じゅうおんか</rt></ruby> to be geminated
+* <ruby>重子音<rt>じゅうしいん</rt></ruby> geminated consonant
+* <ruby>語頭位置<rt>ごとういち</rt></ruby> word-initial position
+* <ruby>語尾位置<rt>ごびいち</rt></ruby> word-final position
+* <ruby>補助記号<rt>ほじょきごう</rt></ruby> diacritic
+  * <ruby>揚音符<rt>ようおんぷ</rt></ruby> acute accent
+  * <ruby>揚抑符<rt>ようよくふ</rt></ruby> circumflex accent
+  * <ruby>抑音符<rt>よくおんぷ</rt></ruby> grave accent
+* <ruby>書面音渡<rt>しょめんおんど</rt></ruby> written juncture
 
-@tab 构词相关
+@tab 形成詞関連
 
-* 词素 morph
-* 词位 morpheme
-* 词根 root
-  * 载词根 Carrier Root
-  * 特化Cs-词根 Specialized Cs-Roots
-  * 特化指代词根 Specialized Referential Roots
-* 词干 Stems
-  *  Stem 1
-  * 词干二 Stem 2
-  * 词干三 Stem 3
-  * 词干零 Stem 0
-* 词缀 Affixes
-  * 程度 Degrees
-  * 梯度类型 Gradient-Type
-  * 词缀类型 Affix Type
-    * 甲型词缀 Type-1 Affix
-    * 乙型词缀 Type-2 Affix
-    * 丙型词缀 Type-3 Affix
-* 列位 Slot
-* 联接 Concatenation
-  * 联型 Concatenation Type
-  * 联对 Concatenated Pair
-  * 联链 Concatenation/Concatenated Chain
-  * 联态 Concatenation Status
-    * 无联型 No Concatenation
-    * 甲型联接 Type-1 Concatenation
-    * 乙型联接 Type-2 Concatenation
-* 未联的 unconcatenated
-* 联态的 concatenated
-* 联构词 concatenated formative
-  * 甲型联构词 Type-1 concatenated formative
-  * 乙型联构词 Type-2 concatenated formative
+* <ruby>形態<rt>けいたい</rt></ruby> morph
+* <ruby>形態素<rt>けいたいそ</rt></ruby> morpheme
+* <ruby>語根<rt>ごこん</rt></ruby> root
+  * <ruby>運搬語根<rt>うんぱんごこん</rt></ruby> Carrier Root
+  * <ruby>Cs<rt>ｼｰｴｽ</rt>特化語根<rt>とっかごこん</rt></ruby> Specialized Cs-Roots
+  * <ruby>参照詞特化語根<rt>さんしょうしとっかごこん</rt></ruby> Specialized Referential Roots
+* <ruby>語幹<rt>ごかん</rt></ruby> Stems
+  * <ruby>語幹<rt>ごかん</rt>１<rt>いち</rt></ruby> Stem 1
+  * <ruby>語幹<rt>ごかん</rt>２<rt>に</rt></ruby> Stem 2
+  * <ruby>語幹<rt>ごかん</rt>３<rt>さん</rt></ruby> Stem 3
+  * <ruby>語幹<rt>ごかん</rt>０<rt>ゼロ</rt></ruby> Stem 0
+* <ruby>接辞<rt>せつじ</rt></ruby> Affixes
+  * <ruby>度数<rt>どすう</rt></ruby> Degrees
+  * <ruby>勾配型<rt>こうばいがた</rt></ruby> Gradient-Type
+  * <ruby>接辞型<rt>せつじがた</rt></ruby> Affix Type
+    * <ruby>境遇型接辞<rt>きょうぐうがたせつじ</rt></ruby>（タイプ１） Type-1 Affix
+    * <ruby>派生型接辞<rt>はせいがたせつじ</rt></ruby>（タイプ２） Type-2 Affix
+    * <ruby>直前型接辞<rt>ちょくぜんがたせつじ</rt></ruby>（タイプ３） Type-3 Affix
+* <ruby>連結<rt>れんけつ</rt></ruby> Concatenation
+  * <ruby>連結型<rt>れんけつがた</rt></ruby> Concatenation Type
+  * <ruby>連対<rt>れんつい</rt></ruby> Concatenated Pair
+  * <ruby>連鎖<rt>れんさ</rt></ruby> Concatenation/Concatenated Chain
+  * <ruby>連結状態<rt>れんけつじょうたい</rt></ruby> Concatenation Status
+    * <ruby>連結<rt>れんけつ</rt>無<rt>な</rt></ruby>し No Concatenation
+    * <ruby>境遇型<rt>きょうぐうがた</rt>連結<rt>れんけつ</rt></ruby>（タイプ１） Type-1 Concatenation
+    * <ruby>派生型<rt>はせいがた</rt>連結<rt>れんけつ</rt></ruby>（タイプ２） Type-2 Concatenation
+  * <ruby>未連結<rt>みれんけつ</rt></ruby> unconcatenated
+  * <ruby>連結的<rt>れんけつてき</rt></ruby> concatenated
+  * <ruby>連結<rt>れんけつ</rt>形成詞<rt>けいせいし</rt></ruby> concatenated formative
+    * <ruby>境遇型<rt>きょうぐうがた</rt>連結<rt>れんけつ</rt>形成詞<rt>けいせいし</rt></ruby>（タイプ１） Type-1 concatenated formative
+    * <ruby>派生型<rt>はせいがた</rt>連結<rt>れんけつ</rt>形成詞<rt>けいせいし</rt></ruby>（タイプ２） Type-2 concatenated formative
+* <ruby>境遇的<rt>きょうぐうてき</rt></ruby> circumstantial
+* <ruby>派生的<rt>はせいてき</rt></ruby> derivational
+* <ruby>限定的<rt>げんていてき</rt></ruby> limited
+* <ruby>混成語<rt>こんせいご</rt></ruby> portmanteau
+* <ruby>範疇<rt>はんちゅう</rt></ruby> category
+* <ruby>形成<rt>けいせい</rt></ruby> formation
+* <ruby>複合接辞<rt>ふくごうせつじ</rt></ruby> affix-complex
+* <ruby>描述性<rt>びょうじゅつせい</rt></ruby> descriptive
+* <ruby>省割<rt>しょうかつ</rt></ruby> shortcut
+* <ruby>類型論<rt>るいけいろん</rt></ruby> typology
+* <ruby>膠着語<rt>こうちゃくご</rt></ruby> agglutinative language
+* <ruby>綜合語<rt>そうごうご</rt></ruby> synthetic language
+* <ruby>形態<rt>けいたい</rt>意味<rt>いみ</rt>語幹<rt>ごかん</rt></ruby> morpho-semantic stem
+* <ruby>屈折<rt>くっせつ</rt></ruby> inflection
+* <ruby>派生<rt>はせい</rt></ruby> derivation
+* <ruby>単語構成<rt>たんごこうせい</rt></ruby> word structure
+* <ruby>槽<rt>そう</rt></ruby> slot
+* <ruby>標準母音形配列<rt>ひょうじゅんぼいんけいはいれつ</rt></ruby> Standard Vowel-Form Sequence
+* <ruby>暗記<rt>あんき</rt></ruby> memorization
+* <ruby>表<rt>ひょう</rt></ruby> chart
+* <ruby>行列<rt>ぎょうれつ</rt></ruby> matrix
+* <ruby>二重母音<rt>にじゅうぼいん</rt></ruby> diphthong
+* <ruby>二音節接続<rt>におんせつせつぞく</rt></ruby> disyllabic conjunct
+* <ruby>二母音接続<rt>にぼいんせつぞく</rt></ruby> bivocalic conjunct
+* <ruby>音素配列的<rt>おんそはいれつてき</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby> phonotactically impermissible
+* <ruby>音便上<rt>おんびんじょう</rt>望<rt>のぞ</rt></ruby>ましくない euphonically undesirable
+* <ruby>形態構造<rt>けいたいこうぞう</rt></ruby> morphological structure
+* <ruby>転倒<rt>てんとう</rt></ruby> reversal
 
-* 语境性 circumstantial
-* 派生性 derivational
-* 限制性 limited
-* 多成分组合的、综合的 portmanteau
-* 范畴 category
-* 构造 formation
-* 复合型词缀 affix-complex
-* 描述性 descriptive
+@tab 品詞
 
-* 简替形式 shortcut
+1. <ruby>形成詞<rt>けいせいし</rt></ruby> Formatives
+   * <ruby>主型<rt>しゅがた</rt></ruby><ruby>形成詞<rt>けいせいし</rt></ruby> Parent Formative
+   * <ruby>独立<rt>どくりつ</rt></ruby><ruby>形成詞<rt>けいせいし</rt></ruby> Standalone Formative
+   * <ruby>連結<rt>れんけつ</rt></ruby><ruby>形成詞<rt>けいせいし</rt></ruby> Concatenated Formatives
 
-* 类型学 typology
-* 黏着语 agglutinative language
-* 综合语 synthetic language
-* 形义词干 morpho-semantic stem
-* 屈折变化 inflection
-* 词汇派生 derivation
-* 单词结构 word structure
-* 列位 slot
-* 词缀 affix
-* 标准元音形式序列 Standard Vowel-Form Sequence
-* 记忆 memorization
-* 表格 chart
-* 矩阵 matrix
-* 二合元音 diphthong
-* 双音节组合 disyllabic conjunct
-* 双元音组合 : bivocalic conjunct
-* 为语音组合法所禁止的 phonotactically impermissible
-* 不悦耳的 euphonically undesirable
-* 形态结构 morphological structure
-* 倒装 reversal
+2. <ruby>付属詞<rt>ふぞくし</rt></ruby> Adjuncts
+  * <ruby>接辞<rt>せつじ</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Affixual Adjuncts
+    * <ruby>単接<rt>たんせつ</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Single-Affix Adjunct
+    * <ruby>複接<rt>ふくせつ</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Multiple-Affix Adjunct
+  * <ruby>模従<rt>もじゅう</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Modular Adjuncts
+  * <ruby>言域<rt>げんいき</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Register Adjuncts
+  * <ruby>補充<rt>ほじゅう</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Suppletive Adjuncts
+    * <ruby>運搬<rt>うんぱん</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> <abbr>CAR</abbr> Carrier Adjunct
+    * <ruby>引用<rt>いんよう</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> <abbr>QUO</abbr> Quotative Adjunct
+    * <ruby>命名<rt>めいめい</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> <abbr>NAM</abbr> Naming Adjunct
+    * <ruby>成句<rt>せいく</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> <abbr>PHR</abbr> Phrasal Adjunct
+  * <ruby>感嘆<rt>かんたん</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Bias Adjuncts
+  * <ruby>文析<rt>ぶんせき</rt></ruby><ruby>付属詞<rt>ふぞくし</rt></ruby> Parsing Adjuncts
 
-@tab 词类
+3. <ruby>参照詞<rt>さんしょうし</rt></ruby> Referentials
+  * <ruby>単称<rt>たんしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby> Single-Referent Referential
+  * <ruby>双称<rt>そうしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby> Dual-Referent Referential
+  * <ruby>畳格<rt>じょうかく</rt></ruby>つき<ruby>結合<rt>けつごう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby> Combination Referential with Case-Stacking
+  * <ruby>称類<rt>しょうるい</rt></ruby>
+    * <ruby>単一称<rt>たんいつしょう</rt></ruby>（<ruby>単一称<rt>たんいつしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>1m</abbr> Monadic Speaker Referential
+    * <ruby>単二称<rt>たんにしょう</rt></ruby>（<ruby>単二称<rt>たんにしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>2m</abbr> Monadic Addressee Referential
+    * <ruby>複二称<rt>ふくにしょう</rt></ruby>（<ruby>複二称<rt>ふくにしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>2p</abbr> Polyadic Addressee Referential
+    * <ruby>単三有称<rt>たんさんゆうしょう</rt></ruby>（<ruby>単三<rt>たんさん</rt></ruby><ruby>有生称<rt>ゆうせいしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>ma</abbr> Monadic Animate 3rd Party Referential
+    * <ruby>複三有称<rt>ふくさんゆうしょう</rt></ruby>（<ruby>複三<rt>ふくさん</rt></ruby><ruby>有生称<rt>ゆうせいしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>pa</abbr> Polyadic Animate 3rd Party Referential
+    * <ruby>単三無称<rt>たんさんむしょう</rt></ruby>（<ruby>単三<rt>たんさん</rt></ruby><ruby>無生称<rt>むせいしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>mi</abbr> Monadic Inanimate 3rd Party Referential
+    * <ruby>複三無称<rt>ふくさんむしょう</rt></ruby>（<ruby>複三<rt>ふくさん</rt></ruby><ruby>無生称<rt>むせいしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>pi</abbr> Polyadic Inanimate 3rd Party Referential
+    * <ruby>混三称<rt>こんさんしょう</rt></ruby>（<ruby>混三<rt>こんさん</rt></ruby><ruby>有無生称<rt>うむせいしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>Mx</abbr> Mixed Animate/ Inanimate 3rd Party Referential
+    * <ruby>反復称<rt>はんぷくしょう</rt></ruby>（<ruby>反復称<rt>はんぷくしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>Rdp</abbr> Reduplicative Referential
+    * <ruby>疎遠称<rt>そえんしょう</rt></ruby>（<ruby>疎遠称<rt>そえんしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>Obv</abbr> Obviative Referential
+    * <ruby>暫定称<rt>ざんていしょう</rt></ruby>（<ruby>暫定称<rt>ざんていしょう</rt></ruby><ruby>参照詞<rt>さんしょうし</rt></ruby>） <abbr>PVS</abbr> Provisional Referential
 
-1. 构形词 Formatives
-   * 主构词 Parent Formative
-   * 独构词 Standalone Formative
-   * 联构词 Concatenated Formatives
-2. 小词 Adjuncts
-  * 词缀小词 Affixual Adjuncts
-    * 单缀小词 Single-Affix Adjunct
-    * 复缀小词 Multiple-Affix Adjunct
-  * 模小词 Modular Adjuncts
-  * 言域小词 Register Adjuncts
-  * 补小词 Suppletive Adjuncts
-    * 载小词 <abbr>CAR</abbr> Carrier Adjunct
-    * 引小词 <abbr>QUO</abbr> Quotative Adjunct
-    * 名小词 <abbr>NAM</abbr> Naming Adjunct
-    * 短语小词 <abbr>PHR</abbr> Phrasal Adjunct
-  * 观感小词 Bias Adjuncts
-  * 语析小词 Parsing Adjuncts
-
-3. 指代词 Referentials
-  * 单指代词 Single-Referent Referential
-  * 双指代词 Dual-Referent Referential
-  * 带格叠加的组合指代词 Combination Referential with Case-Stacking
-  * 指代范畴
-    * 一称个指 <abbr>1m</abbr> Monadic Speaker Referential
-    * 二称个指 <abbr>2m</abbr> Monadic Addressee Referential
-    * 二称众指 <abbr>2p</abbr> Polyadic Addressee Referential
-    * 三称有生个指 <abbr>ma</abbr> Monadic Animate 3rd Party Referential
-    * 三称有生众指 <abbr>pa</abbr> Polyadic Animate 3rd Party Referential
-    * 三称无生个指 <abbr>mi</abbr> Monadic Inanimate 3rd Party Referential
-    * 三称无生众指 <abbr>pi</abbr> Polyadic Inanimate 3rd Party Referential
-    * 三称或生众指 <abbr>Mx</abbr> Mixed Animate/ Inanimate 3rd Party Referential
-    * 回指 <abbr>Rdp</abbr> Reduplicative Referential
-    * 远指 <abbr>Obv</abbr> Obviative Referential
-    * 暂指 <abbr>PVS</abbr> Provisional Referential
-
-@tab:active 语法范畴
+@tab:active 文法
 
 <ruby>詳述<rt>しょうじゅつ</rt></ruby> Specifications
 
@@ -339,7 +335,7 @@ title: 用語表
 
 <ruby>格<rt>かく</rt></ruby> Cases & <ruby>格式<rt>かくしき</rt></ruby> Formats
 
-* <ruby>相関格類<rt>そうかんかくるい</rt></ruby> Transrelative Cases
+* <ruby>主役格類<rt>しゅやくかくるい</rt></ruby> Transrelative Cases
   * <ruby>主題格<rt>しゅだいかく</rt></ruby> <abbr>THM</abbr> Thematic Case
   * <ruby>道具格<rt>どうぐかく</rt></ruby> <abbr>INS</abbr> Instrumental Case
   * <ruby>絶対格<rt>ぜったいかく</rt></ruby> <abbr>ABS</abbr> Absolutive Case
@@ -381,7 +377,7 @@ title: 用語表
   * <ruby>背景格<rt>はいけいかく</rt></ruby> <abbr>SIT</abbr> Situative Case
 * <ruby>関係格類<rt>かんけいかくるい</rt></ruby> Relational Cases
   * <ruby>議題格<rt>ぎだいかく</rt></ruby> <abbr>PRN</abbr> Pertinential Case
-  * <ruby>説明格<rt>せつめいかく</rt></ruby> <abbr>DSP</abbr> Descriptive Case
+  * <ruby>描述格<rt>びょうじゅつかく</rt></ruby> <abbr>DSP</abbr> Descriptive Case
   * <ruby>相関格<rt>そうかんかく</rt></ruby> <abbr>COR</abbr> Correlative Case
   * <ruby>成分格<rt>せいぶんかく</rt></ruby> <abbr>CPS</abbr> Compositive Case
   * <ruby>付随格<rt>ふずいかく</rt></ruby> <abbr>COM</abbr> Comitative Case
@@ -459,7 +455,7 @@ title: 用語表
 
 <ruby>感嘆<rt>かんたん</rt></ruby>  Bias
 
-* <ruby>幸運感嘆<rt>こううんかんたん</rt></ruby> <abbr>ACC</abbr> Accidental Bias
+* <ruby>僥倖感嘆<rt>ぎょうこうかんたん</rt></ruby> <abbr>ACC</abbr> Accidental Bias
 * <ruby>典型感嘆<rt>てんけいかんたん</rt></ruby> <abbr>ACH</abbr> Archetypal Bias
 * <ruby>承認感嘆<rt>しょうにんかんたん</rt></ruby> <abbr>ADS</abbr> Admissive Bias
 * <ruby>発表感嘆<rt>はっぴょうかんたん</rt></ruby> <abbr>ANN</abbr> Annunciative Bias
@@ -489,59 +485,60 @@ title: 用語表
 * <ruby>婉曲感嘆<rt>えんきょくかんたん</rt></ruby> <abbr>EUP</abbr> Euphemistic Bias
 * <ruby>焦燥感嘆<rt>しょうそうかんたん</rt></ruby> <abbr>EXA</abbr> Exasperative Bias
 * <ruby>緊迫感嘆<rt>きんぱくかんたん</rt></ruby> <abbr>EXG</abbr> Exigent Bias
-* <ruby>顺受感嘆<rt>かんたん</rt></ruby> <abbr>FOR</abbr> Fortuitous Bias
-* <ruby>着迷感嘆<rt>かんたん</rt></ruby> <abbr>FSC</abbr> Fascinative Bias
-* <ruby>满意感嘆<rt>かんたん</rt></ruby> <abbr>GRT</abbr> Gratificative Bias
-* <ruby>愠怒感嘆<rt>かんたん</rt></ruby> <abbr>IDG</abbr> Indignative Bias
-* <ruby>迷恋感嘆<rt>かんたん</rt></ruby> <abbr>IFT</abbr> Infatuative Bias
-* <ruby>当然感嘆<rt>かんたん</rt></ruby> <abbr>IPL</abbr> Implicative Bias
-* <ruby>催促感嘆<rt>かんたん</rt></ruby> <abbr>IPT</abbr> Impatient Bias
-* <ruby>讽刺感嘆<rt>かんたん</rt></ruby> <abbr>IRO</abbr> Ironic Bias
-* <ruby>乏味感嘆<rt>かんたん</rt></ruby> <abbr>ISP</abbr> Insipid Bias
-* <ruby>不满感嘆<rt>かんたん</rt></ruby> <abbr>IVD</abbr> Invidious Bias
-* <ruby>强制感嘆<rt>かんたん</rt></ruby> <abbr>MND</abbr> Mandatory Bias
-* <ruby>明示感嘆<rt>かんたん</rt></ruby> <abbr>MNF</abbr> Manifestive Bias
-* <ruby>夸张感嘆<rt>かんたん</rt></ruby> <abbr>OPT</abbr> Optimal Bias
-* <ruby>悲观感嘆<rt>かんたん</rt></ruby> <abbr>PES</abbr> Pessimistic Bias
-* <ruby>奇异感嘆<rt>かんたん</rt></ruby> <abbr>PPT</abbr> Propitious Bias
-* <ruby>困惘感嘆<rt>かんたん</rt></ruby> <abbr>PPX</abbr> Perplexive Bias
-* <ruby>提议感嘆<rt>かんたん</rt></ruby> <abbr>PPV</abbr> Propositive Bias
-* <ruby>平淡感嘆<rt>かんたん</rt></ruby> <abbr>PSC</abbr> Prosaic Bias
-* <ruby>推定感嘆<rt>かんたん</rt></ruby> <abbr>PSM</abbr> Presumptive Bias
-* <ruby>意外感嘆<rt>かんたん</rt></ruby> <abbr>RAC</abbr> Reactive Bias
-* <ruby>表观感嘆<rt>かんたん</rt></ruby> <abbr>RFL</abbr> Reflective Bias
-* <ruby>弃绝感嘆<rt>かんたん</rt></ruby> <abbr>RSG</abbr> Resignative Bias
-* <ruby>厌恶感嘆<rt>かんたん</rt></ruby> <abbr>RPU</abbr> Repulsive Bias
-* <ruby>发现感嘆<rt>かんたん</rt></ruby> <abbr>RVL</abbr> Revelative Bias
-* <ruby>满足感嘆<rt>かんたん</rt></ruby> <abbr>SAT</abbr> Satiative Bias
-* <ruby>建议感嘆<rt>かんたん</rt></ruby> <abbr>SGS</abbr> Suggestive Bias
-* <ruby>质疑感嘆<rt>かんたん</rt></ruby> <abbr>SKP</abbr> Skeptical Bias
-* <ruby>请催感嘆<rt>かんたん</rt></ruby> <abbr>SOL</abbr> Solicitative Bias
-* <ruby>恍然感嘆<rt>かんたん</rt></ruby> <abbr>STU</abbr> Stupefactive Bias
-* <ruby>惊恐感嘆<rt>かんたん</rt></ruby> <abbr>TRP</abbr> Trepidative Bias
-* <ruby>恼火感嘆<rt>かんたん</rt></ruby> <abbr>VEX</abbr> Vexative Bias
+* <ruby>終良感嘆<rt>しゅうりょうかんたん</rt></ruby> <abbr>FOR</abbr> Fortuitous Bias
+* <ruby>夢中感嘆<rt>むちゅうかんたん</rt></ruby> <abbr>FSC</abbr> Fascinative Bias
+* <ruby>満悦感嘆<rt>まんえつかんたん</rt></ruby> <abbr>GRT</abbr> Gratificative Bias
+* <ruby>怒気感嘆<rt>どきかんたん</rt></ruby> <abbr>IDG</abbr> Indignative Bias
+* <ruby>心酔感嘆<rt>しんすいかんたん</rt></ruby> <abbr>IFT</abbr> Infatuative Bias
+* <ruby>当然感嘆<rt>とうぜんかんたん</rt></ruby> <abbr>IPL</abbr> Implicative Bias
+* <ruby>催促感嘆<rt>さいそくかんたん</rt></ruby> <abbr>IPT</abbr> Impatient Bias
+* <ruby>風刺感嘆<rt>ふうしかんたん</rt></ruby> <abbr>IRO</abbr> Ironic Bias
+* <ruby>無味感嘆<rt>むみかんたん</rt></ruby> <abbr>ISP</abbr> Insipid Bias
+* <ruby>不満感嘆<rt>ふまんかんたん</rt></ruby> <abbr>IVD</abbr> Invidious Bias
+* <ruby>強要感嘆<rt>きょうようかんたん</rt></ruby> <abbr>MND</abbr> Mandatory Bias
+* <ruby>表出感嘆<rt>ひょうしゅつかんたん</rt></ruby> <abbr>MNF</abbr> Manifestive Bias
+* <ruby>誇張感嘆<rt>こちょうかんたん</rt></ruby> <abbr>OPT</abbr> Optimal Bias
+* <ruby>悲観感嘆<rt>ひかんかんたん</rt></ruby> <abbr>PES</abbr> Pessimistic Bias
+* <ruby>奇異感嘆<rt>きいかんたん</rt></ruby> <abbr>PPT</abbr> Propitious Bias
+* <ruby>驚惑感嘆<rt>きょうわくかんたん</rt></ruby> <abbr>PPX</abbr> Perplexive Bias
+* <ruby>提議感嘆<rt>ていぎかんたん</rt></ruby> <abbr>PPV</abbr> Propositive Bias
+* <ruby>平凡感嘆<rt>へいぼんかんたん</rt></ruby> <abbr>PSC</abbr> Prosaic Bias
+* <ruby>推定感嘆<rt>すいていかんたん</rt></ruby> <abbr>PSM</abbr> Presumptive Bias
+* <ruby>反応感嘆<rt>はんのうかんたん</rt></ruby> <abbr>RAC</abbr> Reactive Bias
+* <ruby>視座感嘆<rt>しざかんたん</rt></ruby> <abbr>RFL</abbr> Reflective Bias
+* <ruby>絶望感嘆<rt>ぜつぼうかんたん</rt></ruby> <abbr>RSG</abbr> Resignative Bias
+* <ruby>嫌悪感嘆<rt>けんおかんたん</rt></ruby> <abbr>RPU</abbr> Repulsive Bias
+* <ruby>道理感嘆<rt>どうりかんたん</rt></ruby> <abbr>RVL</abbr> Revelative Bias
+* <ruby>満足感嘆<rt>まんぞくかんたん</rt></ruby> <abbr>SAT</abbr> Satiative Bias
+* <ruby>提案感嘆<rt>ていあんかんたん</rt></ruby> <abbr>SGS</abbr> Suggestive Bias
+* <ruby>不信感嘆<rt>ふしんかんたん</rt></ruby> <abbr>SKP</abbr> Skeptical Bias
+* <ruby>懇願感嘆<rt>こんがんかんたん</rt></ruby> <abbr>SOL</abbr> Solicitative Bias
+* <ruby>恍惚感嘆<rt>こうこつかんたん</rt></ruby> <abbr>STU</abbr> Stupefactive Bias
+* <ruby>恐怖感嘆<rt>きょうふかんたん</rt></ruby> <abbr>TRP</abbr> Trepidative Bias
+* <ruby>苛立感嘆<rt>かりつかんたん</rt></ruby> <abbr>VEX</abbr> Vexative Bias
 
-关系 Relations
+<ruby>従属関係<rt>じゅうぞくかんけい</rt></ruby> Relations
 
-* 无框 Unframed Relation
-* 有框 Framed Relation
+* <ruby>非従属枠関係<rt>ひじゅうぞくわくかんけい</rt></ruby> Unframed Relation
+* <ruby>従属枠関係<rt>じゅうぞくわくかんけい</rt></ruby> Framed Relation
 
-格框 Case-Frame
+<ruby>格枠<rt>かくわく</rt></ruby> Case-Frame
 
-正格辅词缀 Case-Accessor Affix
+<ruby>格握接辞<rt>かくあくせつじ</rt></ruby> Case-Accessor Affix 
 
-反格辅词缀 Inverse Case-Accessor Affix
+<ruby>反格握接辞<rt>はんかくあくせつじ</rt></ruby> Inverse Case-Accessor Affix
 
-格叠加词缀 Case-Stacking Affix
+<ruby>畳格接辞<rt>じゅうかくせつじ</rt></ruby> Case-Stacking Affix
 
-言域 Registers
+<ruby>言域<rt>げんいき</rt></ruby> Registers
 
-* 叙事域 <abbr>NRR</abbr> Narrative Register
-* 直言域 <abbr>DSV</abbr> Discursive Register
-* 附注域 <abbr>PNT</abbr> Parenthetical Register
-* 详述域 <abbr>SPF</abbr> Specificative Register
-* 举例域 <abbr>EXM</abbr> Exemplificative Register
-* 思索域 <abbr>COG</abbr> Cogitant Register
-* 载止域 <abbr>END</abbr> Carrier-End Register
+* <ruby>叙事域<rt>じょじいき</rt></ruby> <abbr>NRR</abbr> Narrative Register
+* <ruby>発言域<rt>はつげんいき</rt></ruby> <abbr>DSV</abbr> Discursive Register
+* <ruby>脚注域<rt>きゃくちゅういき</rt></ruby> <abbr>PNT</abbr> Parenthetical Register
+* <ruby>固名域<rt>こめいいき</rt></ruby> <abbr>SPF</abbr> Specificative Register
+* <ruby>例示域<rt>れいじいき</rt></ruby> <abbr>EXM</abbr> Exemplificative Register
+* <ruby>黙考域<rt>もくこういき</rt></ruby> <abbr>COG</abbr> Cogitant Register
+* <ruby>搬了域<rt>はんりょういき</rt></ruby> <abbr>END</abbr> Carrier-End Register
 
 :::
+
