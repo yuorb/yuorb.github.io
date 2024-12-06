@@ -1,6 +1,6 @@
 ::: tabs
 
-@tab 论元格
+@tab 格
 
 <div class="indent">
 
