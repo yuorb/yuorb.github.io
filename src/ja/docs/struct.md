@@ -5,151 +5,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab II
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab IV
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab VI
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -161,151 +161,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab:active <mark>II</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab <mark>III</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab <mark>IV</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab VI
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -317,151 +317,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab:active <mark>II</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab <mark>IV</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab <mark>VI</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -473,151 +473,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab II
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab IV
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab:active <mark>VI</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -629,151 +629,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab:active <mark>II</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab IV
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab VI
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -785,151 +785,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab II
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab:active <mark>IV</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab VI
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -941,151 +941,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab II
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab IV
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab VI
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab:active <mark>IX</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -1097,151 +1097,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab II
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab IV
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab V
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab VI
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab VII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab:active <mark>VIII</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::
@@ -1253,151 +1253,151 @@
 @tab I
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>Cc</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>联态指示语素</dd>
+    <dt>Category</dt>
+    <dd>Concatenation status indicator</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式，包括声门塞音或以 -h- 起首的形式</dd>
+    <dt>Form</dt>
+    <dd>consonantal form consisting of either a glottal stop or a form beginning with -h-.</dd>
 </dl>
 
 @tab II
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vv</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>版本 + 词干</dd>
+    <dt>Category</dt>
+    <dd>Version + Stem</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab III
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Cr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>主词根</dd>
+    <dt>Category</dt>
+    <dd>Main Root</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音形式</dd>
+    <dt>Form</dt>
+    <dd>cons. form</dd>
 </dl>
 
 @tab IV
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vr</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>功能 + 详述 + 语境</dd>
+    <dt>Category</dt>
+    <dd>Function + Specification + Context</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音词缀</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab:active <mark>V</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>CsVx</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干但不于 <code>Ca</code>；为标准列位 VII <code>VxCs</code> 形式的倒装</dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affix(es) apply to stem but not to <code>Ca</code>; Form is -<code>CsVx</code>- (i.e., reversed from standard Slot VII <code>VxCs</code> form)</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>辅音 + 元音</dd>
+    <dt>Form</dt>
+    <dd>consonant + vowel</dd>
 </dl>
 
 @tab VI
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>构型 + 限域 + 系属 + 视界 + 本质</dd>
+    <dt>Category</dt>
+    <dd>Configuration + Extension + Affiliation + Perspective + Essence</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>若已填列位 V 则 <code>Ca</code> 需延长</dd>
+    <dt>Form</dt>
+    <dd>if Slot V is filled, <code>Ca</code> is geminated</dd>
 </dl>
 
 @tab <mark>VII</mark>
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VxCs</code> ... )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-     <dd><code>VxCs</code> 词缀（丛）应用于词干 + <code>Ca</code></dd>
+    <dt>Category</dt>
+     <dd><code>VxCs</code> affixes apply to stem + <code>Ca</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音 + 辅音</dd>
+    <dt>Form</dt>
+    <dd>vowel + consonant</dd>
 </dl>
 
 @tab VIII
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd>( <code>VnCn</code> )</dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>配价 <b>或</b> 时体 <b>或</b> 相位 <b>或</b> 级别 <b>或</b> 效果<br> 五者择一 + 语式/格辖</dd>
+    <dt>Category</dt>
+    <dd>Valence <b>OR</b> Aspect <b>OR</b> Phase <b>OR</b> Level <b>OR</b> Effect<br> Choose one of the five + Mood/Case-Scope</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>模列位包含元音形式 + 辅音形式</dd>
+    <dt>Form</dt>
+    <dd>Modular Slot containing a vowel-form + consonant-form</dd>
 </dl>
 
 @tab IX
 
 <dl>
-    <dt>术语</dt>
+    <dt>Term</dt>
     <dd><code>Vc</code> / <code>Vf</code> / <code>Vk</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>格 <b>或</b> 格式 <b>或</b> 语为 + 言据<br>由列位 X 的音节重读所决定</dd>
+    <dt>Category</dt>
+    <dd>Case <b>OR</b> Format <b>OR</b> Illocution + Validation<br>as determined by Slot X syllabic stress</dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>元音形式</dd>
+    <dt>Form</dt>
+    <dd>vocalic affix</dd>
 </dl>
 
 @tab X
 
 <dl>
-    <dt>术语</dt>
-    <dd><code>[重读]</code></dd>
+    <dt>Term</dt>
+    <dd><code>[STRESS]</code></dd>
 </dl>
 <dl>
-    <dt>范畴</dt>
-    <dd>次音节重读 = 无框关系 +<code>Vc</code><br>尾音节重读 = 无框关系 +<code>Vk</code><br>前音节重读 = 有框关系 +<code>Vc</code></dd>
+    <dt>Category</dt>
+    <dd>penultimate stress = UNFRAMED Relation +<code>Vc</code><br>ultimate stress = UNFRAMED Relation +<code>Vk</code><br>antepenultimate stress = FRAMED Relation +<code>Vc</code></dd>
 </dl>
 <dl>
-    <dt>形式</dt>
-    <dd>超音段形式</dd>
+    <dt>Form</dt>
+    <dd>Suprasegmental form</dd>
 </dl>
 
 :::

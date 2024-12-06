@@ -2,4 +2,6 @@
 title: 早見表
 ---
 
-待处理，参阅[维基学院](https://zh.wikiversity.org/wiki/Ithkuil/%E5%B0%8F%E6%8A%84)
+To be processed, please refer to [zsakowitz’ New Ithkuil Single Page Cheat Sheet](https://docs.google.com/presentation/d/1A1VWCSgwTOUJOJ7SHyglcUznFlkwI3zdOBy57aeGJ3A/edit?usp=sharing) instead.
+
+This enables the inclusion of a list aimed at referencing the most recent Cheat sheets created by others.

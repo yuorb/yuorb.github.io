@@ -1,23 +1,23 @@
 ::: tabs
 
-@tab 正格辅词缀
+@tab Case-Accessor
 
 <div class="table-12">
 
 <table>
 <thead>
   <tr>
-    <th rowspan="2">格</th>
-    <th colspan="2">甲型</th>
-    <th colspan="2">乙型</th>
-    <th colspan="2">丙型</th>
+    <th rowspan="2">Cases</th>
+    <th colspan="2">Type-1</th>
+    <th colspan="2">Type-2</th>
+    <th colspan="2">Type-3</th>
   </tr>
   <tr>
-    <th><code>Vx</code><br>= 系列号</th>
+    <th><code>Vx</code><br>= Series No.</th>
     <th><code>Cs</code><br>=</th>
-    <th><code>Vx</code><br>= 系列号</th>
+    <th><code>Vx</code><br>= Series No.</th>
     <th><code>Cs</code><br>=</th>
-    <th><code>Vx</code><br>= 系列号</th>
+    <th><code>Vx</code><br>= Series No.</th>
     <th><code>Cs</code><br>=</th>
   </tr>
 </thead>
@@ -81,23 +81,23 @@
 
 </div>
 
-@tab 反格辅词缀
+@tab Inverse Case-Accessor Affix
 
 <div class="table-12">
 <table>
 <thead>
   <tr>
-    <th rowspan="2">格</th>
-    <th colspan="2">甲型</th>
-    <th colspan="2">乙型</th>
-    <th colspan="2">丙型</th>
+    <th rowspan="2">Cases</th>
+    <th colspan="2">Type-1</th>
+    <th colspan="2">Type-2</th>
+    <th colspan="2">Type-3</th>
   </tr>
   <tr>
-    <th><code>Vx</code><br>= 系列号</th>
+    <th><code>Vx</code><br>= Series No.</th>
     <th><code>Cs</code><br>=</th>
-    <th><code>Vx</code><br>= 系列号</th>
+    <th><code>Vx</code><br>= Series No.</th>
     <th><code>Cs</code><br>=</th>
-    <th><code>Vx</code><br>= 系列号</th>
+    <th><code>Vx</code><br>= Series No.</th>
     <th><code>Cs</code><br>=</th>
   </tr>
 </thead>
@@ -160,15 +160,15 @@
 </table>
 </div>
 
-@tab 格叠加词缀
+@tab Case-Stacking Affix
 
 <div class="table-3">
 
 <table>
 <thead>
   <tr>
-    <th>格</th>
-    <th><code>Vx</code><br>= 系列号</th>
+    <th>Cases</th>
+    <th><code>Vx</code><br>= Series No.</th>
     <th><code>Cs</code><br>=</th>
   </tr>
 </thead>
