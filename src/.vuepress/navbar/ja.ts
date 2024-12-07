@@ -2,8 +2,8 @@ import { navbar } from "vuepress-theme-hope";
 
 export const jaNavbar = navbar([
   { text: "ホーム", icon: "fas fa-house", link: "/ja/" },
-  { text: "公式ドキュメント", icon: "fas fa-book-open", link: "/ja/docs/" },
-  { text: "チュートリアル", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
+  { text: "新イスクイル文法書", icon: "fas fa-book-open", link: "/ja/docs/" },
+  { text: "チュートリアル", icon: "fas fa-person-chalkboard", link: "/ja/tutorial/" },
   {
     text: "ツール",
     icon: "fas fa-tools",
