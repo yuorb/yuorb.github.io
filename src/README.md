@@ -95,9 +95,9 @@ color: var(--my-bg)
 
 本组织的全称是 Hlesaḑcä-Yuorba :Han:，即「以汉语释译」。
 
-Malëuţřaitaẓa: 学习 New Ithkuil 的地方。
+Maţřëullaitaẓa: 学习 New Ithkuil 的地方。
 
-Malëuţřait 是该语言的内名，意思是「本语言交流系统」。
+Maţřëullait 是该语言的内名，意思是「本语言交流系统」。
 
 :::
 

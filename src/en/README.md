@@ -93,9 +93,9 @@ color: var(--my-bg)
 
 The given analysis represents the Stem 0 of √-RB- combined with Abstract Perspective, indicating “SIGNIFICATION, TRANSLATION, INTERPRETATION”; essentially encompassing the purpose of this organization.
 
-Malëuţřaitaẓa: a place where one learns to say New Ithkuil
+Maţřëullaitaẓa: a place where one learns to say New Ithkuil
 
-The endonym used to refer to this language is <q>Malëuţřait</q>, which signifies “this feedback-driven, self-sustaining, and autopoietic system that is based on linguistic communication, whose dynamic complexity generates and manifests synergistic and emergent effects and properties.”
+The endonym used to refer to this language is <q>Maţřëullait</q>, which signifies “this feedback-driven, self-sustaining, and autopoietic system that is based on linguistic communication, whose dynamic complexity generates and manifests synergistic and emergent effects and properties.”
 
 :::
 

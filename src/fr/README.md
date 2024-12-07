@@ -93,9 +93,9 @@ color: var(--my-bg)
 
 L’analyse présentée représente le Thème 0 de √-RB- combinée à la Perspective Abstraite, indiquant « SIGNIFICATION, TRADUCTION, INTERPRÉTATION », ce qui englobe essentiellement l’objectif de cette organisation.
 
-Malëuţřaitaẓa: « un lieu où l’on apprend à dire Nouvel Ithkuil »
+Maţřëullaitaẓa: « un lieu où l’on apprend à dire Nouvel Ithkuil »
 
-L’endonyme utilisé pour désigner cette langue est <q>Malëuţřait</q>, qui signifie « ce système autopoïétique, auto-entretenu et basé sur la communication linguistique, dont la complexité dynamique génère et manifeste des effets et des propriétés synergiques et émergents »
+L’endonyme utilisé pour désigner cette langue est <q>Maţřëullait</q>, qui signifie « ce système autopoïétique, auto-entretenu et basé sur la communication linguistique, dont la complexité dynamique génère et manifeste des effets et des propriétés synergiques et émergents »
 
 :::
 
