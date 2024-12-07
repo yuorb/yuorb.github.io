@@ -4,7 +4,7 @@ export const jaSidebar = sidebar({
   "/ja/": [
     "",
     {
-      text: "文法ドキュメント",
+      text: "新イスクイル文法書",
       prefix: "docs/",
       link: "docs/readme.md",
       children: [
