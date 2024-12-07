@@ -1,9 +1,9 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const jaNavbar = navbar([
-  { text: "ホーム", icon: "fas fa-house", link: "/en/" },
-  { text: "公式ドキュメント", icon: "fas fa-book-open", link: "/en/docs/" },
-  { text: "同人チュートリアル", icon: "fas fa-person-chalkboard", link: "/tutorial/" },
+  { text: "ホーム", icon: "fas fa-house", link: "/ja/" },
+  { text: "新イスクイル文法書", icon: "fas fa-book-open", link: "/ja/docs/" },
+  { text: "チュートリアル", icon: "fas fa-person-chalkboard", link: "/ja/tutorial/" },
   {
     text: "ツール",
     icon: "fas fa-tools",
@@ -24,7 +24,7 @@ export const jaNavbar = navbar([
         link: "https://v8.zsnout.com/ithkuil/kit",
       },
       {
-        text: "イスクイル文字生成",
+        text: "イスクイル文字生成器",
         icon: "fas fa-signature",
         link: "https://v8.zsnout.com/ithkuil/script",
       },
@@ -34,7 +34,7 @@ export const jaNavbar = navbar([
         link: "/ja/tool/num",
       },
       {
-        text: "カラー選択",
+        text: "色選択",
         icon: "fas fa-palette",
         link: "https://ithkuil.place/4/colors/",
       }
