@@ -58,15 +58,15 @@ Si wažfëithói.
 Hopefully, things are well with you.
 希望你还好。
 
-Li wažfëitha.
+Li wažfëithá.
 Iʼm doing fine. (literally: Iʼm in acceptable health.)
 我健康状况还好。
 
-Li ëitha.
+Li ëithëilá.
 Iʼm fine.
 我还好。
 
-Ažfa.
+Ažfalá.
 Iʼm healthy.
 无恙。/ 很健康。
 
@@ -155,7 +155,7 @@ I feel welcome.
 
 ## 介绍·称呼
 
-Wadná lëi hla Maik.
+Wadnielá hla Maik.
 Iʼm Mike.
 我名字是麦克。我有名字，麦克。
 
@@ -171,7 +171,7 @@ Sëi wadnéu hla Maik?
 Are you Mike?
 你叫作麦克？
 
-Mmaxinļ adniloësa.
+Mmaxinļ adniliesa.
 What’s your name?
 你的名字是什么？
 

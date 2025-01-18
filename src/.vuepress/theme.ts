@@ -11,8 +11,6 @@ export default hopeTheme({
     url: "https://www.zhihu.com/people/ryanlo713",
   },
 
-  iconAssets: ["fontawesome-with-brands", "fontawesome", "iconify"],
-
   logo: "/logo.svg",
 
   repo: "yuorb/yuorb.github.io",
@@ -94,6 +92,10 @@ export default hopeTheme({
 
   plugins: {
 
+    icon: {
+      assets: ["fontawesome-with-brands", "fontawesome", "iconify"],
+    },
+
     docsearch: {
       appId: "Q8IC2K1VXW",
       apiKey: "f254e5608a1e396f9bde071de83c5284",
@@ -155,7 +157,6 @@ export default hopeTheme({
     components: {
       // 你想使用的组件
       components: [
-        "highlighter",
         "Badge",
         "BiliBili",
         "CodePen",
@@ -179,10 +180,7 @@ export default hopeTheme({
         icon: "/assets/icon/apple-icon-152.png",
         statusBarColor: "black",
       },
-      msTile: {
-        image: "/assets/icon/ms-icon-144.png",
-        color: "#ffffff",
-      },
+      update: "hint",
       manifest: {
         "icons": [
           {
@@ -795,7 +793,7 @@ export default hopeTheme({
     imgSize: true,
     align: true,
     attrs: true,
-    chart: true,
+    chartjs: true,
     demo: true,
     echarts: true,
     flowchart: true,
