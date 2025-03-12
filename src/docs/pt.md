@@ -385,7 +385,7 @@ title: 语音组合法
     <td>❌</td>
     <td> </td>
     <td> </td>
-    <td> </td>
+    <td>❌</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -403,7 +403,7 @@ title: 语音组合法
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>27</td>
+    <td>26</td>
   </tr>
   <tr>
     <th>4</th>
@@ -601,9 +601,9 @@ title: 语音组合法
     <td>❌</td>
     <td>❌</td>
     <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td></td>
+    <td>❌</td>
+    <td>❌</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -613,7 +613,7 @@ title: 语音组合法
     <td> </td>
     <td> </td>
     <td>❌</td>
-    <td>23</td>
+    <td>21</td>
   </tr>
   <tr>
     <th>10</th>
@@ -1278,7 +1278,7 @@ title: 语音组合法
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>682</td>
+    <td>679</td>
   </tr>
 </tbody>
 </table>

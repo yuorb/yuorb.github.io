@@ -393,7 +393,7 @@ Permissible and Impermissible Bi-Consonantal Conjuncts That Can Also Be `Cr` Roo
     <td>❌</td>
     <td> </td>
     <td> </td>
-    <td> </td>
+    <td>❌</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -411,7 +411,7 @@ Permissible and Impermissible Bi-Consonantal Conjuncts That Can Also Be `Cr` Roo
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>27</td>
+    <td>26</td>
   </tr>
   <tr>
     <th>4</th>
@@ -610,8 +610,8 @@ Permissible and Impermissible Bi-Consonantal Conjuncts That Can Also Be `Cr` Roo
     <td>❌</td>
     <td> </td>
     <td> </td>
-    <td> </td>
-    <td> </td>
+    <td>❌</td>
+    <td>❌</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -621,7 +621,7 @@ Permissible and Impermissible Bi-Consonantal Conjuncts That Can Also Be `Cr` Roo
     <td> </td>
     <td> </td>
     <td>❌</td>
-    <td>23</td>
+    <td>21</td>
   </tr>
   <tr>
     <th>10</th>
@@ -1286,7 +1286,7 @@ Permissible and Impermissible Bi-Consonantal Conjuncts That Can Also Be `Cr` Roo
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>682</td>
+    <td>679</td>
   </tr>
 </tbody>
 </table>
