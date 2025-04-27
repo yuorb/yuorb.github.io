@@ -41,7 +41,7 @@ title: 数词应用
   <dl class="gloss">
     <dt>wansorsëʼi</dt>
     <dd>S1​-“set​/group of seven entities”​-TNX​/7₁​-COM</dd>
-    <dd>带97</dd>
+    <dd>带77</dd>
   </dl>
   <dl class="gloss">
     <dt>(gzalui)</dt>
@@ -53,8 +53,8 @@ title: 数词应用
     <dd>S1​-“set​/group of six entities”​-TNX​/6₁</dd>
     <dd>66</dd>
   </dl>
-  <div class="glend">26,97,66 或 26,9766</div>
-  <div class="expln">廿六 万 [带]九<sub>十</sub>七（百）六<sub>十</sub>六</div>
+  <div class="glend">26,77,66 或 26,7766</div>
+  <div class="expln">廿六 万 [带]七<sub>十</sub>七（百）六<sub>十</sub>六</div>
   <dl class="gloss">
     <dt>wallärsa</dt>
     <dd>S1​-“set​/group of one”​-TNX​/2₁</dd>
