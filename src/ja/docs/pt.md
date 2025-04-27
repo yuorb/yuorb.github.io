@@ -226,8 +226,16 @@ Intervocalic consonant forms (i.e., immediately preceded and followed by a vowel
 
 ## 7. Juncture rules between adjacent words {#Sec7}
 
-1. If any of the prohibited consonant forms described in [Sec. 2](#Sec2) occurs across two adjacent words (i.e., the word-final consonant(s) of one word being juxtaposed to the word-initial consonant(s) of a second word)then the words must be separated either by a pause in speech, by inserting a(n epenthetic) vowel at the end of the first word, or modifying the structure of the second word (e.g., by reformatting the Slot structure of a Simple Formative to utilize the Complex Formative structure).
+1. If any of the prohibited consonant forms described in [Sec. 2](#Sec2) occurs across two adjacent words (i.e., the word-final consonant(s) of one word being juxtaposed to the word-initial consonant(s) of a second word) then the words must be separated either by a pause in speech, by inserting a(n epenthetic) vowel at the end of the first word, or modifying the structure of the second word (e.g., by reformatting the Slot structure of a Simple Formative to utilize the Complex Formative structure).
 2. If a word begins or ends with a geminated consonant, the immediately adjacent word cannot end/begin with the same consonant; the triple string of the same consonant must be broken up either by a pause in speech between the two words, by inserting a(n epenthetic) vowel at the end of the first word, or by modifying the structure of the second word (e.g., by reformatting the Slot structure of a Simple Formative to utilize the Complex Formative structure).
+
+::: warning Supplement from old documentation
+
+External juncture rules: When a word ending in a consonant-form (i.e., either a single consonant or a multiple consonant conjunct) is followed in the same breath-group by another word beginning with a consonant-form, it is usually necessary to append a vowel either to the end of the first word or the beginning of the second word, so as to avoid confusion as to which word the word-final and/or word-initial consonants belong to. This is accomplished by ensuring that appropriate word-initial and/or word-final vocalic Slots (e.g., Slot II, Slot IX) are filled.
+
+Note: As for Register Adjunct, since external juncture rules do not apply to foreign names/words, insert a pause after uttering the name/words prior to the <abbr>CAR</abbr> adjunct hü or the <abbr>SPF</abbr> final adjunct hiu, or pronounce the last word of the proper name/phrase with low tone.
+
+:::
 
 ## 8. Permissible Bi-Consonantal Conjuncts Which Can Be Roots or Affixes {#Sec8}
 

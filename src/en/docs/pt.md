@@ -233,7 +233,7 @@ Intervocalic consonant forms (i.e., immediately preceded and followed by a vowel
 
 External juncture rules: When a word ending in a consonant-form (i.e., either a single consonant or a multiple consonant conjunct) is followed in the same breath-group by another word beginning with a consonant-form, it is usually necessary to append a vowel either to the end of the first word or the beginning of the second word, so as to avoid confusion as to which word the word-final and/or word-initial consonants belong to. This is accomplished by ensuring that appropriate word-initial and/or word-final vocalic Slots (e.g., Slot II, Slot IX) are filled.
 
-Note: As for Register Adjunct, since external juncture rules do not apply to foreign names/words, insert a pause after uttering the name/words prior to the CAR adjunct hü or the SPF final adjunct hiu, or pronounce the last word of the proper name/phrase with low tone.
+Note: As for Register Adjunct, since external juncture rules do not apply to foreign names/words, insert a pause after uttering the name/words prior to the <abbr>CAR</abbr> adjunct hü or the <abbr>SPF</abbr> final adjunct hiu, or pronounce the last word of the proper name/phrase with low tone.
 
 :::
 
