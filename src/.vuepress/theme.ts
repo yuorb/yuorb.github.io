@@ -98,7 +98,7 @@ export default hopeTheme({
 
     docsearch: {
       appId: "Q8IC2K1VXW",
-      apiKey: "f254e5608a1e396f9bde071de83c5284",
+      apiKey: "adaf16519219256af2b995137041610e",
       indexName: "yuorbio",
       locales: {
         "/": {
@@ -142,6 +142,129 @@ export default hopeTheme({
             },
           },
         },
+        "/en/": {
+          placeholder: "Search Documentation",
+          translations: {
+            button: {
+              buttonText: "Search Documentation",
+              buttonAriaLabel: "Search Documentation",
+            },
+            modal: {
+              searchBox: {
+                resetButtonTitle: "Reset",
+                resetButtonAriaLabel: "Reset",
+                cancelButtonText: "Cancel",
+                cancelButtonAriaLabel: "Cancel",
+              },
+              startScreen: {
+                recentSearchesTitle: "Recent Searches",
+                noRecentSearchesText: "No Recent Searches",
+                saveRecentSearchButtonTitle: "Save Recent Search",
+                removeRecentSearchButtonTitle: "Remove Recent Search",
+                favoriteSearchesTitle: "Favorite Searches",
+                removeFavoriteSearchButtonTitle: "Remove Favorite Search",
+              },
+              errorScreen: {
+                titleText: "Unable to obtain results",
+                helpText: "You may need to check your network connection",
+              },
+              footer: {
+                selectText: "Select",
+                navigateText: "Navigate",
+                closeText: "Close",
+                searchByText: "Search Provider",
+              },
+              noResultsScreen: {
+                noResultsText: "No ResultsText",
+                suggestedQueryText: "You can try to query",
+                reportMissingResultsText: "This query is missing results",
+                reportMissingResultsLinkText: "Click for feedback",
+              },
+            },
+          },
+        },
+        "/ja/": {
+          placeholder: "ドキュメントを検索",
+          translations: {
+            button: {
+              buttonText: "ドキュメントを検索",
+              buttonAriaLabel: "ドキュメントを検索",
+            },
+            modal: {
+              searchBox: {
+                resetButtonTitle: "リセット",
+                resetButtonAriaLabel: "リセット",
+                cancelButtonText: "キャンセル",
+                cancelButtonAriaLabel: "キャンセル",
+              },
+              startScreen: {
+                recentSearchesTitle: "最近の検索",
+                noRecentSearchesText: "最近の検索はありません",
+                saveRecentSearchButtonTitle: "最近の検索を保存",
+                removeRecentSearchButtonTitle: "最近の検索を削除",
+                favoriteSearchesTitle: "お気に入りの検索",
+                removeFavoriteSearchButtonTitle: "お気に入りの検索を削除",
+              },
+              errorScreen: {
+                titleText: "結果を取得できませんでした",
+                helpText: "ネットワーク接続を確認する必要があるかもしれません",
+              },
+              footer: {
+                selectText: "選択",
+                navigateText: "ナビゲート",
+                closeText: "閉じる",
+                searchByText: "検索プロバイダー",
+              },
+              noResultsScreen: {
+                noResultsText: "結果がありません",
+                suggestedQueryText: "クエリを試すことができます",
+                reportMissingResultsText: "このクエリは結果が欠けています",
+                reportMissingResultsLinkText: "フィードバックをクリック",
+              },
+            },
+          },
+        },
+        "/fr/": {
+          placeholder: "Rechercher de la documentation",
+          translations: {
+            button: {
+              buttonText: "Rechercher de la documentation",
+              buttonAriaLabel: "Rechercher de la documentation",
+            },
+            modal: {
+              searchBox: {
+                resetButtonTitle: "Réinitialiser",
+                resetButtonAriaLabel: "Réinitialiser",
+                cancelButtonText: "Annuler",
+                cancelButtonAriaLabel: "Annuler",
+              },
+              startScreen: {
+                recentSearchesTitle: "Recherches récentes",
+                noRecentSearchesText: "Aucune recherche récente",
+                saveRecentSearchButtonTitle: "Enregistrer la recherche récente",
+                removeRecentSearchButtonTitle: "Supprimer la recherche récente",
+                favoriteSearchesTitle: "Recherches favorites",
+                removeFavoriteSearchButtonTitle: "Supprimer la recherche favorite",
+              },
+              errorScreen: {
+                titleText: "Impossible d'obtenir des résultats",
+                helpText: "Vous devez peut-être vérifier votre connexion réseau",
+              },
+              footer: {
+                selectText: "Sélectionner",
+                navigateText: "Naviguer",
+                closeText: "Fermer",
+                searchByText: "Fournisseur de recherche",
+              },
+              noResultsScreen: {
+                noResultsText: "Aucun résultat",
+                suggestedQueryText: "Vous pouvez essayer de rechercher",
+                reportMissingResultsText: "Cette requête est sans résultat",
+                reportMissingResultsLinkText: "Cliquez pour laisser un retour",
+              },
+            },
+          },
+        },
       },
     },
 
@@ -165,7 +288,6 @@ export default hopeTheme({
         "SiteInfo",
         "StackBlitz",
         "VidStack",
-        "XiGua",
         "VPCard",
       ],
     },
