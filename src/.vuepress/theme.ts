@@ -98,7 +98,7 @@ export default hopeTheme({
 
     docsearch: {
       appId: "Q8IC2K1VXW",
-      apiKey: "f254e5608a1e396f9bde071de83c5284",
+      apiKey: "adaf16519219256af2b995137041610e",
       indexName: "yuorbio",
       locales: {
         "/": {
