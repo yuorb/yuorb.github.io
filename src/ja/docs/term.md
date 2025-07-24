@@ -263,7 +263,7 @@ title: 用語一覧
 * <ruby>臨時体<rt>りんじたい</rt></ruby> <abbr>TMP</abbr> Temporary Aspect
 * <ruby>蹉跎体<rt>さだたい</rt></ruby> <abbr>XPD</abbr> Expenditive Aspect
 * <ruby>適時体<rt>てきじたい</rt></ruby> <abbr>LIM</abbr> Limitative Aspect
-* <ruby>惣亡体<rt>そうぼうたい</rt></ruby> <abbr>EPD</abbr> Expeditive Aspect
+* <ruby>慌忙体<rt>こうぼうたい</rt></ruby> <abbr>EPD</abbr> Expeditive Aspect
 * <ruby>延長体<rt>えんちょうたい</rt></ruby> <abbr>PTC</abbr> Protractive Aspect
 * <ruby>予備体<rt>よびたい</rt></ruby> <abbr>PPR</abbr> Preparatory Aspect
 * <ruby>判明体<rt>はんめいたい</rt></ruby> <abbr>DCL</abbr> Disclusive Aspect
