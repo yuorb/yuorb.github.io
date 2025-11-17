@@ -190,31 +190,31 @@ title: 用語一覧
 
 * <ruby>単数構配<rt>たんすうこうはい</rt></ruby> <abbr>UPX</abbr> Uniplex Configuration
 * <ruby>複似離配<rt>ふくじりはい</rt></ruby> <abbr>MSS</abbr> Multiplex-Similar-Separate Configuration
-* <ruby>複似連配<rt>ふくじれんはい</rt></ruby> <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
+* <ruby>複似連配<rt>ふくじれんぱい</rt></ruby> <abbr>MSC</abbr> Multiplex-Similar-Connected Configuration
 * <ruby>複似合配<rt>ふくじごうはい</rt></ruby> <abbr>MSF</abbr> Multiplex-Similar-Fused Configuration
 * <ruby>複異離配<rt>ふくいりはい</rt></ruby> <abbr>MDS</abbr> Multiplex-Dissimilar-Separate Configuration
-* <ruby>複異連配<rt>ふくいれんはい</rt></ruby> <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
+* <ruby>複異連配<rt>ふくいれんぱい</rt></ruby> <abbr>MDC</abbr> Multiplex-Dissimilar-Connected Configuration
 * <ruby>複異合配<rt>ふくいごうはい</rt></ruby> <abbr>MDF</abbr> Multiplex-Dissimilar-Fused Configuration
 * <ruby>複混離配<rt>ふくこんりはい</rt></ruby> <abbr>MFS</abbr> Multiplex-Fuzzy-Separate Configuration
-* <ruby>複混連配<rt>ふくこんれんはい</rt></ruby> <abbr>MFC</abbr> Multiplex-Fuzzy-Connected Configuration
+* <ruby>複混連配<rt>ふくこんれんぱい</rt></ruby> <abbr>MFC</abbr> Multiplex-Fuzzy-Connected Configuration
 * <ruby>複混合配<rt>ふくこんごうはい</rt></ruby> <abbr>MFF</abbr> Multiplex-Fuzzy-Fused Configuration
 * <ruby>双数構配<rt>そうすうこうはい</rt></ruby> <abbr>DPX</abbr> Duplex Configuration
 * <ruby>双似離配<rt>そうじりはい</rt></ruby> <abbr>DSS</abbr> Duplex-Similar-Separate Configuration
-* <ruby>双似連配<rt>そうじれんはい</rt></ruby> <abbr>DSC</abbr> Duplex-Similar-Connected Configuration
+* <ruby>双似連配<rt>そうじれんぱい</rt></ruby> <abbr>DSC</abbr> Duplex-Similar-Connected Configuration
 * <ruby>双似合配<rt>そうじごうはい</rt></ruby> <abbr>DSF</abbr> Duplex-Similar-Fused Configuration
 * <ruby>双異離配<rt>そういりはい</rt></ruby> <abbr>DDS</abbr> Duplex-Dissimilar-Separate Configuration
-* <ruby>双異連配<rt>そういれんはい</rt></ruby> <abbr>DDC</abbr> Duplex-Dissimilar-Connected Configuration
+* <ruby>双異連配<rt>そういれんぱい</rt></ruby> <abbr>DDC</abbr> Duplex-Dissimilar-Connected Configuration
 * <ruby>双異合配<rt>そういごうはい</rt></ruby> <abbr>DDF</abbr> Duplex-Dissimilar-Fused Configuration
 * <ruby>双混離配<rt>そうこんりはい</rt></ruby> <abbr>DFS</abbr> Duplex-Fuzzy-Separate Configuration
-* <ruby>双混連配<rt>そうこんれんはい</rt></ruby> <abbr>DFC</abbr> Duplex-Fuzzy-Connected Configuration
+* <ruby>双混連配<rt>そうこんれんぱい</rt></ruby> <abbr>DFC</abbr> Duplex-Fuzzy-Connected Configuration
 * <ruby>双混合配<rt>そうこんごうはい</rt></ruby> <abbr>DFF</abbr> Duplex-Fuzzy-Fused Configuration
 
 <ruby>所属<rt>しょぞく</rt></ruby> Affiliations
 
 * <ruby>自然所属<rt>しぜんしょぞく</rt></ruby> <abbr>CSL</abbr> Consolidative Affiliation
 * <ruby>一致所属<rt>いっちしょぞく</rt></ruby> <abbr>ASO</abbr> Associative Affiliation
-* <ruby>特異所属<rt>とくいしょぞく</rt></ruby> <abbr>COA</abbr> Coalescent Affiliation
-* <ruby>共同所属<rt>きょうどうしょぞく</rt></ruby> <abbr>VAR</abbr> Variative Affiliation
+* <ruby>協同所属<rt>きょうどうしょぞく</rt></ruby> <abbr>COA</abbr> Coalescent Affiliation
+* <ruby>特異所属<rt>とくいしょぞく</rt></ruby> <abbr>VAR</abbr> Variative Affiliation
 
 <ruby>外延<rt>がいえん</rt></ruby> Extensions
 
@@ -263,7 +263,7 @@ title: 用語一覧
 * <ruby>臨時体<rt>りんじたい</rt></ruby> <abbr>TMP</abbr> Temporary Aspect
 * <ruby>蹉跎体<rt>さだたい</rt></ruby> <abbr>XPD</abbr> Expenditive Aspect
 * <ruby>適時体<rt>てきじたい</rt></ruby> <abbr>LIM</abbr> Limitative Aspect
-* <ruby>惣亡体<rt>そうぼうたい</rt></ruby> <abbr>EPD</abbr> Expeditive Aspect
+* <ruby>慌忙体<rt>こうぼうたい</rt></ruby> <abbr>EPD</abbr> Expeditive Aspect
 * <ruby>延長体<rt>えんちょうたい</rt></ruby> <abbr>PTC</abbr> Protractive Aspect
 * <ruby>予備体<rt>よびたい</rt></ruby> <abbr>PPR</abbr> Preparatory Aspect
 * <ruby>判明体<rt>はんめいたい</rt></ruby> <abbr>DCL</abbr> Disclusive Aspect
