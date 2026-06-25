@@ -293,8 +293,7 @@ Daftar kombinasi Konfigurasi
 
 <q>Level</q> Levels
 
-* <q>Level Relatif</q> Relative Level
-* <q>Level Mutlak</q> Absolute Level
+<q>Level Relatif</q> Relative Level <q>Level Mutlak</q> Absolute Level
 
 * <q>Level Minimal</q> <abbr>MIN</abbr> Minimal Level
 * <q>Level Subekuatif</q> <abbr>SBE</abbr> Subequative Level
