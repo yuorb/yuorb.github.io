@@ -93,8 +93,6 @@ color: var(--my-bg)
 
 Analisis yang diberikan mewakili Batang 0 dari √-RB- yang dikombinasikan dengan Perspektif Abstrak, yang menunjukkan “SIGNIFIKANSI, TERJEMAHAN, INTERPRETASI”; pada dasarnya mencakup tujuan organisasi ini.
 
-Maţřëullaitaẓa: a place where one learns to say New Ithkuil
-
 Maţřëullaitaẓa: tempat di mana seseorang mempelajari bahasa Ithkuil Baru
 
 Endonim yang digunakan untuk menyebut bahasa ini adalah <q>Maţřëullait</q>, yang berarti “sistem yang digerakkan oleh umpan balik, mandiri, dan autopoietik yang didasarkan pada komunikasi linguistik, yang kompleksitas dinamisnya menghasilkan dan mewujudkan efek dan sifat sinergis dan muncul.”
