@@ -29,7 +29,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -59,7 +59,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -70,7 +70,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -134,7 +134,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -185,7 +185,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab <mark>III</mark>
@@ -215,7 +215,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -226,7 +226,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -290,7 +290,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -341,7 +341,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -371,7 +371,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -382,7 +382,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -446,7 +446,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -497,7 +497,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -527,7 +527,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -538,7 +538,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -602,7 +602,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -653,7 +653,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -683,7 +683,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -694,7 +694,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -758,7 +758,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -809,7 +809,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -839,7 +839,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -850,7 +850,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -914,7 +914,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -965,7 +965,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -995,7 +995,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -1006,7 +1006,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -1070,7 +1070,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -1121,7 +1121,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -1151,7 +1151,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab V
@@ -1162,7 +1162,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -1226,7 +1226,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
@@ -1277,7 +1277,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab III
@@ -1307,7 +1307,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab:active <mark>V</mark>
@@ -1318,7 +1318,7 @@
 </dl>
 <dl>
     <dt>Kategori</dt>
-     <dd>Afiks <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
+     <dd>Imbuhan <code>VxCs</code> berlaku untuk batang tetapi tidak untuk <code>Ca</code>; Bentuknya adalah -<code>CsVx</code>- (yaitu, terbalik dari bentuk standar Slot VII <code>VxCs</code>)</dd>
 </dl>
 <dl>
     <dt>Bentuk</dt>
@@ -1382,7 +1382,7 @@
 </dl>
 <dl>
     <dt>Bentuk</dt>
-    <dd>afiks vokal</dd>
+    <dd>imbuhan vokal</dd>
 </dl>
 
 @tab X
