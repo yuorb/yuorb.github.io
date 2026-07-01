@@ -84,8 +84,8 @@ List taken from src/ja/docs/term.md
     * <q>Tidak ada Penggabungan</q> No Concatenation
     * <q>Penggabungan Tipe 1</q> Type-1 Concatenation
     * <q>Penggabungan Tipe 2</q> Type-2 Concatenation
-  * <q>tidak digabungkan</q> unconcatenated
-  * <q>digabungkan</q> concatenated
+  * <q>tidak tergabung</q> unconcatenated
+  * <q>tergabung</q> concatenated
   * <q>formatif tergabung</q> concatenated formative
     * <q>formatif tergabung Tipe 1</q> Type-1 concatenated formative
     * <q>formatif tergabung Tipe 2</q> Type-2 concatenated formative
@@ -136,7 +136,7 @@ List taken from src/ja/docs/term.md
     * <q>Adjung Kutipan</q> <abbr>QUO</abbr> Quotative Adjunct
     * <q>Adjung Penama</q> <abbr>NAM</abbr> Naming Adjunct
     * <q>Adjung Frasa</q> <abbr>PHR</abbr> Phrasal Adjunct
-  * <q>Adjung Bias</q> Bias Adjuncts
+  * <q>Adjung Seruan</q> Bias Adjuncts
   * <q>Adjung Pengurai</q> Parsing Adjuncts
 
 3. <q>Referensial</q> Referentials
