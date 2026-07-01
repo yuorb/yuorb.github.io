@@ -1,0 +1,28 @@
+Berbagai permisalan yang secara eksplisit diambil dari bahasa Inggris atau padanan dalam bahasa Inggris dari berbagai kategori morfologis yang ada dalam dokumentasi asli tidak akan diterjemahkan. Namun, teks berbahasa Inggris tersebut akan diberi tanda kutip yang kemudian diikuti oleh terjemahan berbahasa Indonesia yang diletakkan di dalam tanda kurung, serta pencetakan tebal akan dipindahkan ke teks berbahasa Indonesia.
+
+Pengecualian berlaku untuk: (1) teks berbahasa Inggris tersebut diulang di bagian lain, yang mana teks tersebut tidak akan diutak-atik dan tidak diberi terjemahan berbahasa Indonesia, (2) teks yang dimaksudkan untuk dibahas atau dianalisis, (3) teks yang secara gramatikal sengaja dibuat salah untuk dibahas atau dianalisis, (4) kutipan dari dokumen leksikon dan imbuhan, yang mana definisi berbahasa Inggris tidak akan diutak-atik, tetapi akan diikuti definisi berbahasa Indonesia yang tidak diberi tanda kurung.
+
+Preferensi glos yang akan terus digunakan adalah
+
+<dl class="gloss">
+    <dt>[teks bahasa Ithkuil Baru]</dt>
+    <dd>[root]</dd>
+    <dd>[glos lengkap dengan akar yang diterjemahkan]</dd>
+</dl>
+<div class="glend"><q>[terjemahan asli bahasa Inggris dengan keterangan tambahan dipindahkan dan diterjemahkan ke terjemahan bahasa Indonesia]</q></div>
+<div class="expln">[terjemahan bahasa Indonesia]</div>
+
+Pengecualian berlaku jika akar telah disebutkan sebelumnya seperti contoh kucing dan bentuk bola.
+
+- Hasbi2816, 14 May 2026
+
+The reason why the gloss is
+[root]
+[Translated root gloss]
+Is because the root documentation (i.e., the lexicon) are English, so that the reader can find the root and compare the definition.
+
+I won't elide some text like “…translating such English terms…” then translating the terms because I want to be as parallel as possible with the original documentation.
+
+Some errors and typos will also be corrected.
+
+- Hasbi2816, 30 June 2026
