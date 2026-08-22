@@ -294,6 +294,11 @@ export default hopeTheme({
 
     // uncomment these if you want a pwa
     pwa: {
+      // 🎯 唯一正確的官方優化寫法（單位皆為 KB）：
+      // 限制普通檔案最大快取為 2MB (2048 KB)
+      maxSize: 2048,
+      // 限制圖片與 SVG 最大快取為 1MB (1024 KB)，成功將 3MB 的巨型語意圖表排除在預載快取外！
+      maxImageSize: 1024,
       favicon: "/favicon.ico",
       cacheHTML: false,
       cacheImage: false,
@@ -303,6 +308,7 @@ export default hopeTheme({
         statusBarColor: "black",
       },
       update: "hint",
+
       manifest: {
         "icons": [
           {

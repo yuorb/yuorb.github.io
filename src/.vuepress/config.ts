@@ -8,7 +8,14 @@ import theme from "./theme";
 const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
-  bundler: viteBundler(),
+  // 🎯 已在此處融入自訂選項，強制 Vite 使用 esbuild 壓縮 CSS，繞過 LightningCSS 的偽元素 Bug
+  bundler: viteBundler({
+    viteOptions: {
+      build: {
+        cssMinify: 'esbuild'
+      }
+    }
+  }),
   base: "/",
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   locales: {
