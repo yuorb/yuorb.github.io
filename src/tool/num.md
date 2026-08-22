@@ -5,6 +5,12 @@ sidebar: false
 
 ---
 
+<NumConverter />
+
+<template v-if="false">
+
+```html
+=== Vanilla JS 原始代码备份 ===
 <input type="text" id="数字" pattern="^[0-9]+$" placeholder="纯数字" required @input="验证()">
 
 <select id="类型" @input="验证()">
@@ -481,3 +487,5 @@ label, legend, fieldset {
 }
 
 </style>
+```
+</template>

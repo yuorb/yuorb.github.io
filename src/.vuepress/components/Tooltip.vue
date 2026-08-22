@@ -1,312 +1,192 @@
 <template>
-    <component
-        :is="isAbbreviation ? 'abbr' : 'span'"
-        :data-label="labelText"
-        :aria-label="labelText"
-        role="tooltip"
-        :class="[
-            hasPosition,
-            hasSize,
-            {
-                'vue-custom-tooltip': isActive && labelText,
-                'is-sticky': isSticky,
-                'has-multiline': isMultiline,
-                'is-underlined': isUnderlined || isAbbreviation,
-            },
-        ]"
-        :style="[
-            dynamicStyles,
-            { cursor: isAbbreviation ? 'help' : 'pointer' },
-        ]"
-    >
-        <slot name="default"></slot>
-        <span class="on-print">（{{labelText}}）</span>
-    </component>
+  <component
+    :is="abbreviation ? 'abbr' : 'span'"
+    :data-label="label"
+    :class="[
+      position,
+      size,
+      {
+        'vue-custom-tooltip': active && label,
+        'is-sticky': sticky,
+        'has-multiline': multiline,
+        'is-underlined': underlined || abbreviation,
+      },
+    ]"
+    :style="{ cursor: abbreviation ? 'help' : 'pointer' }"
+  >
+    <slot></slot>
+    <span v-if="label" class="on-print">（{{ label }}）</span>
+  </component>
 </template>
 
-<script>
-export default {
-    name: "VueCustomTooltip",
-    props: {
-        label: String,
-        active: {
-            type: Boolean,
-            default: true,
-        },
-        sticky: Boolean, // Always showing
-        multiline: Boolean, // Multiple lines
-        underlined: Boolean,
-        abbreviation: Boolean,
-        position: {
-            type: String,
-            default: "is-top",
-            validator(value) {
-                return (
-                    ["is-top", "is-bottom", "is-left", "is-right"].indexOf(
-                        value
-                    ) > -1
-                );
-            },
-        },
-        size: {
-            type: String,
-            default: "is-medium",
-            validator(value) {
-                return (
-                    ["is-small", "is-medium", "is-large"].indexOf(value) > -1
-                );
-            },
-        },
-    },
-    data() {
-        return {
-            labelText: this.label || null,
-            isActive: this.active || true,
-            isSticky: this.sticky || false,
-            isMultiline: this.multiline || false,
-            isUnderlined: this.underlined || false,
-            isAbbreviation: this.abbreviation || false,
-            hasPosition: this.position || "is-top",
-            hasSize: this.size || "is-medium",
-        };
-    },
-    computed: {
-        dynamicStyles() {
-            return {
-                "--vue-custom-tooltip-color":
-                    this.$vueCustomTooltip &&
-                    this.$vueCustomTooltip.hasOwnProperty("color")
-                        ? this.$vueCustomTooltip.color
-                        : null,
-                "--vue-custom-tooltip-background":
-                    this.$vueCustomTooltip &&
-                    this.$vueCustomTooltip.hasOwnProperty("background")
-                        ? this.$vueCustomTooltip.background
-                        : null,
-                "--vue-custom-tooltip-border-radius":
-                    this.$vueCustomTooltip &&
-                    this.$vueCustomTooltip.hasOwnProperty("borderRadius")
-                        ? this.$vueCustomTooltip.borderRadius
-                        : null,
-                "--vue-custom-tooltip-font-weight":
-                    this.$vueCustomTooltip &&
-                    this.$vueCustomTooltip.hasOwnProperty("fontWeight")
-                        ? this.$vueCustomTooltip.fontWeight
-                        : null,
-            };
-        },
-    },
-    watch: {
-        label: {
-            handler(value) {
-                this.labelText = value;
-            },
-            immediate: true,
-        },
-        active: {
-            handler(value) {
-                this.isActive = value;
-            },
-            immediate: true,
-        },
-        sticky: {
-            handler(value) {
-                this.isSticky = value;
-            },
-            immediate: true,
-        },
-        multiline: {
-            handler(value) {
-                this.isMultiline = value;
-            },
-            immediate: true,
-        },
-        underlined: {
-            handler(value) {
-                this.isUnderlined = value;
-            },
-            immediate: true,
-        },
-        abbreviation: {
-            handler(value) {
-                this.isAbbreviation = value;
-            },
-            immediate: true,
-        },
-        position: {
-            handler(value) {
-                this.hasPosition = value;
-            },
-            immediate: true,
-        },
-        size: {
-            handler(value) {
-                this.hasSize = value;
-            },
-            immediate: true,
-        },
-    },
-};
+<script setup>
+defineProps({
+  label: { type: String, default: '' },
+  active: { type: Boolean, default: true },
+  sticky: { type: Boolean, default: false },
+  multiline: { type: Boolean, default: false },
+  underlined: { type: Boolean, default: false },
+  abbreviation: { type: Boolean, default: false },
+  position: {
+    type: String,
+    default: 'is-top',
+    validator: (v) => ['is-top', 'is-bottom', 'is-left', 'is-right'].includes(v)
+  },
+  size: {
+    type: String,
+    default: 'is-medium',
+    validator: (v) => ['is-small', 'is-medium', 'is-large'].includes(v)
+  }
+});
 </script>
 
-<style>
-/* Set defaults */
+<style scoped>
+/* -------------------------------------------------------------------------- */
+/* 🎯 主题变量与容器（无箭头现代卡片风格）                                        */
+/* -------------------------------------------------------------------------- */
 .vue-custom-tooltip {
-    --vue-custom-tooltip-color: #fff;
-    --vue-custom-tooltip-border-radius: 100px;
-    --vue-custom-tooltip-font-weight: 400;
+  --tooltip-bg: var(--ic-bg-container, #ffffff);
+  --tooltip-color: var(--ic-text, #2c3e50);
+  --tooltip-border-color: var(--ic-border, #e2e8f0);
+  --tooltip-radius: 8px;
+  --tooltip-shadow: var(--ic-shadow, 0 4px 16px rgba(0, 0, 0, 0.12));
+
+  position: relative;
+  display: inline-block;
+  text-decoration-line: none !important;
 }
-</style>
 
-<style lang="stylus">
-$tooltip-color = var(--vue-custom-tooltip-color, #fff) // default color
-$tooltip-background = var(--vue-custom-tooltip-background, #000) // default background color
-$tooltip-radius = var(--vue-custom-tooltip-border-radius, 100px) // default border radius
-$weight-normal = var(--vue-custom-tooltip-font-weight, 400) // default font weight
-$speed = 86ms
-$easing = ease-out
+.vue-custom-tooltip.is-underlined {
+  border-bottom: 1.5px dashed var(--vp-c-accent);
+  padding-bottom: 1px;
+}
 
-tooltip-arrow($direction, $color)
-    if ($direction == 'is-top')
-        border-top 5px solid #000 // default for IE
-        border-top 5px solid $color
-        border-right 5px solid transparent
-        border-left 5px solid transparent
-        bottom calc(100% + 2px)
-    else if ($direction == 'is-bottom')
-        border-right 5px solid transparent
-        border-bottom 5px solid #000 // default for IE
-        border-bottom 5px solid $color
-        border-left 5px solid transparent
-        top calc(100% + 2px)
-    else if ($direction == 'is-right')
-        border-top 5px solid transparent
-        border-right 5px solid #000 // default for IE
-        border-right 5px solid $color
-        border-bottom 5px solid transparent
-        left calc(100% + 2px)
-    else if ($direction == 'is-left')
-        border-top 5px solid transparent
-        border-bottom 5px solid transparent
-        border-left 5px solid #000 // default for IE
-        border-left 5px solid $color
-        right calc(100% + 2px)
+/* -------------------------------------------------------------------------- */
+/* 🎯 气泡主体（伪元素 ::after，已移除箭头 ::before）                            */
+/* -------------------------------------------------------------------------- */
+.vue-custom-tooltip::after {
+  position: absolute;
+  content: attr(data-label);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
 
-tooltip($direction)
-    &.{$direction}
-        &:before, &:after
-            if ($direction == 'is-top')
-                top auto
-                right auto
-                bottom calc(100% + 5px + 2px)
-                left 50%
-                transform translateX(-50%)
-            else if ($direction == 'is-bottom')
-                top calc(100% + 5px + 2px)
-                right auto
-                bottom auto
-                left 50%
-                transform translateX(-50%)
-            else if ($direction == 'is-right')
-                top 50%
-                right auto
-                bottom auto
-                left calc(100% + 5px + 2px)
-                transform translateY(-50%)
-            else if ($direction == 'is-left')
-                top 50%
-                right calc(100% + 5px + 2px)
-                bottom auto
-                left auto
-                transform translateY(-50%)
+  color: var(--tooltip-color);
+  background-color: var(--tooltip-bg);
+  border: 1px solid var(--tooltip-border-color);
+  border-radius: var(--tooltip-radius);
+  box-shadow: var(--tooltip-shadow);
 
-        &:before
-            tooltip-arrow($direction, $tooltip-background)
+  /* 防溢出核心 */
+  width: auto;
+  max-width: min(320px, calc(100vw - 32px)) !important;
+  box-sizing: border-box;
+  word-break: break-word;
 
-        &.has-multiline
-            &.is-small:after
-                width 140px
+  padding: 0.45rem 0.8rem;
+  font-size: 0.8rem !important;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: normal !important;
+  text-transform: none;
+  z-index: 10000;
+  white-space: nowrap;
 
-            &.is-medium:after
-                width 250px
-                padding 0.6rem 1.25rem 0.65rem
+  transition:
+    opacity 150ms ease,
+    visibility 150ms ease,
+    transform 150ms ease;
+}
 
-            &.is-large:after
-                width 480px
-                padding 0.6rem 1rem 0.65rem
+/* 暗色模式自适应 */
+:deep(.dark) .vue-custom-tooltip {
+  --tooltip-border-color: rgba(255, 255, 255, 0.15);
+  --tooltip-shadow: 0 6px 20px rgba(0, 0, 0, 0.55);
+}
 
-// Base
-.vue-custom-tooltip
-    tooltip('is-top')
-    tooltip('is-right')
-    tooltip('is-bottom')
-    tooltip('is-left')
-    position relative
-    display inline-block
-    text-decoration-line none !important
+/* -------------------------------------------------------------------------- */
+/* 🎯 Hover / Sticky 触发显示                                                  */
+/* -------------------------------------------------------------------------- */
+.vue-custom-tooltip:not([data-label='']):hover::after,
+.vue-custom-tooltip:not([data-label='']).is-sticky::after {
+  opacity: 1;
+  visibility: visible;
+}
 
-    &.is-underlined
-        border-bottom 1px dotted #000 // default for IE
-        border-bottom 1px dotted $tooltip-background
-        line-height 1.2
+/* -------------------------------------------------------------------------- */
+/* 🎯 四向定位与微距悬浮动画 (Floating Elevation)                              */
+/* -------------------------------------------------------------------------- */
 
-    &:before, &:after
-        position absolute
-        content ''
-        opacity 0
-        visibility hidden
-        pointer-events none
-        transition opacity $speed $easing, visibility $speed $easing
+/* 1. 上 (is-top) */
+.vue-custom-tooltip.is-top::after {
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+}
+.vue-custom-tooltip.is-top:hover::after,
+.vue-custom-tooltip.is-top.is-sticky::after {
+  transform: translateX(-50%) translateY(0);
+}
 
-    &:before
-        z-index 889
+/* 2. 下 (is-bottom) */
+.vue-custom-tooltip.is-bottom::after {
+  top: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%) translateY(-4px);
+}
+.vue-custom-tooltip.is-bottom:hover::after,
+.vue-custom-tooltip.is-bottom.is-sticky::after {
+  transform: translateX(-50%) translateY(0);
+}
 
-    &:after
-        content attr(data-label)
-        color #fff // default for IE
-        color $tooltip-color
-        background #000 // default for IE
-        background $tooltip-background
-        width auto
-        max-width 100vw
-        padding 0.35rem 0.75rem 0.45rem
-        border-radius 100px // default for IE
-        border-radius $tooltip-radius
-        font-size 0.85rem !important
-        font-weight 400 // default for IE
-        font-weight $weight-normal
-        line-height 1.3
-        letter-spacing normal !important
-        text-transform none
-        box-shadow 0px 1px 2px 1px rgba(0, 1, 0, 0.2)
-        z-index 888
-        white-space nowrap
+/* 3. 左 (is-left) */
+.vue-custom-tooltip.is-left::after {
+  right: calc(100% + 6px);
+  top: 50%;
+  transform: translateY(-50%) translateX(4px);
+}
+.vue-custom-tooltip.is-left:hover::after,
+.vue-custom-tooltip.is-left.is-sticky::after {
+  transform: translateY(-50%) translateX(0);
+}
 
-    &:not([data-label='']):hover:before, &:not([data-label='']):hover:after
-        opacity 1
-        visibility visible
+/* 4. 右 (is-right) */
+.vue-custom-tooltip.is-right::after {
+  left: calc(100% + 6px);
+  top: 50%;
+  transform: translateY(-50%) translateX(-4px);
+}
+.vue-custom-tooltip.is-right:hover::after,
+.vue-custom-tooltip.is-right.is-sticky::after {
+  transform: translateY(-50%) translateX(0);
+}
 
-    // If parent is disabled
-    :disabled &
-        pointer-events none
+/* -------------------------------------------------------------------------- */
+/* 🎯 多行文本与打印控制                                                       */
+/* -------------------------------------------------------------------------- */
+.vue-custom-tooltip.has-multiline::after {
+  display: block;
+  text-align: left;
+  line-height: 1.45;
+  white-space: pre-wrap;
+}
 
-    &:not([data-label='']).is-sticky
-        &:before, &:after
-            opacity 1
-            visibility visible
+.vue-custom-tooltip.has-multiline.is-small::after { width: 160px; }
+.vue-custom-tooltip.has-multiline.is-medium::after { width: 240px; }
+.vue-custom-tooltip.has-multiline.is-large::after {
+  width: 320px;
+  max-width: min(320px, calc(100vw - 32px)) !important;
+}
 
-    &.has-multiline
-        &:after
-            display block
-            padding 0.5rem 0.75rem 0.65rem
-            text-align center
-            line-height 1.4
-            white-space pre-wrap
+.on-print {
+  display: none;
+}
 
-.on-print
-    display none
-
-@media print
-    .on-print
-        display inline
+@media print {
+  .on-print {
+    display: inline;
+    font-size: 0.85em;
+    color: var(--ic-text-subtle, #666666);
+  }
+}
 </style>

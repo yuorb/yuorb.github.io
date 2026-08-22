@@ -8,7 +8,8 @@
     "docs:build": "vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:update-package": "pnpm dlx vp-update",
+    "docs:preview": "pnpm dlx serve src/.vuepress/dist"
   },
   "dependencies": {
     "@types/katex": "0.16.8",
@@ -24,6 +25,7 @@
     "@vuepress/plugin-revealjs": "2.0.0-rc.131",
     "@vuepress/shiki-twoslash": "2.0.0-rc.131",
     "@vueuse/core": "14.3.0",
+    "@zsnout/ithkuil": "^0.1.122",
     "flowchart.ts": "3.0.1",
     "katex": "0.17.0",
     "mermaid": "11.16.0",
@@ -41,11 +43,5 @@
     "chart.js": "^4.5.1",
     "echarts": "^6.0.0"
   },
-  "packageManager": "pnpm@11.22.0+sha512.1ff870c4c6133dfd88fb2afc46dd13d47f09c9794b438c6fdb47ca98caf3bc16381ee0be93a091b8e3824cf01f889f46d7d9e20910fb0be1ab0fb5baa80dd621",
-  "pnpm": {
-      "allowBuilds": [
-         "esbuild",
-        "@parcel/watcher"
-      ]
-  }
+  "packageManager": "pnpm@11.22.0+sha512.1ff870c4c6133dfd88fb2afc46dd13d47f09c9794b438c6fdb47ca98caf3bc16381ee0be93a091b8e3824cf01f889f46d7d9e20910fb0be1ab0fb5baa80dd621"
 }

@@ -1,0 +1,222 @@
+// docs/.vuepress/i18n.js
+
+export const I18N_DICTIONARY = {
+  // 1. 通用/基础词条
+  common: {
+    '/': {
+      copied: '已复制！',
+      copy: '复制',
+    },
+    '/en/': {
+      copied: 'Copied!',
+      copy: 'Copy',
+    },
+    '/fr/': {
+      copied: 'Copié!',
+      copy: 'Copier',
+    },
+    '/ja/': {
+      copied: '完了！',
+      copy: 'コピー',
+    },
+  },
+
+  // 2. IthkuilWord 组件专用字典
+  word: {
+    '/': {
+      copied: '已复制 Gloss！',
+      clickToCopy: '点击单字即可复制',
+      shortGloss: '简短注解 (SHORT GLOSS)',
+      fullGloss: '完整语意 (EXPLANATION)',
+    },
+    '/en/': {
+      copied: 'Gloss Copied!',
+      clickToCopy: 'Click word to copy',
+      shortGloss: 'SHORT GLOSS',
+      fullGloss: 'EXPLANATION',
+    },
+    '/fr/': {
+      copied: 'Glose copié!',
+      clickToCopy: 'Cliquez pour copier',
+      shortGloss: 'GLOSE COURTE',
+      fullGloss: 'EXPLANATION',
+    },
+    '/ja/': {
+      copied: 'Gloss をコピーしました！',
+      clickToCopy: 'クリックでコピー',
+      shortGloss: '略式グロス (SHORT GLOSS)',
+      fullGloss: '完全な意味 (EXPLANATION)',
+    },
+  },
+
+  // 3. IthkuilSandbox 组件专用字典
+  sandbox: {
+    '/': {
+      placeholder: '输入 Ithkuil 词汇 (如: itrutļalžá 或 wetace)...',
+      scriptTitle: 'Ithkuil 原生书写文字 (Block Script)',
+      generateScriptBtn: '绘制 Block Script 矢量图',
+      deconstructTitle: '词条形态学即时解构',
+      shortGloss: '简短注解 (Short Gloss)',
+      fullGloss: '完整语意 (Full Explanation)',
+      viewAST: '检视 AST 抽象语法树原始数据 (JSON)',
+      welcomeTip: '请在上方输入任意 New Ithkuil 词汇，系统将即时进行拆解。',
+      invalidError: '不合法的 Ithkuil 词汇结构',
+      copySvg: '复制 SVG',
+      downloadSvg: '下载 SVG',
+      copied: '已复制！',
+      copySvgHint: '复制完整 SVG 源码',
+      downloadSvgHint: '下载为 .svg 矢量文件',
+    },
+    '/en/': {
+      placeholder: 'Enter Ithkuil word (e.g. itrutļalžá or wetace)...',
+      scriptTitle: 'Native Block Script Rendering',
+      generateScriptBtn: 'Render Block Script SVG',
+      deconstructTitle: 'Morphological Parsing',
+      shortGloss: 'Short Gloss',
+      fullGloss: 'Full Explanation',
+      viewAST: 'View AST Raw Data (JSON)',
+      welcomeTip: 'Enter any New Ithkuil word above to parse instantly.',
+      invalidError: 'Invalid Ithkuil word structure',
+      copySvg: 'Copy SVG',
+      downloadSvg: 'Download SVG',
+      copied: 'Copied!',
+      copySvgHint: 'Copy full SVG code',
+      downloadSvgHint: 'Download as .svg file',
+    },
+    '/fr/': {
+      placeholder: 'Entrez un mot Ithkuil (ex: itrutļalžá ou wetace)...',
+      scriptTitle: 'Écriture native en bloc (Block Script)',
+      generateScriptBtn: 'Générer le rendu SVG',
+      deconstructTitle: 'Analyse Morphologique',
+      shortGloss: 'Glose Courte',
+      fullGloss: 'Explication Complète',
+      viewAST: 'Afficher les données brutes AST (JSON)',
+      welcomeTip: 'Saisissez un mot Nouvel Ithkuil ci-dessus pour l’analyser.',
+      invalidError: 'Structure de mot Ithkuil invalide',
+      copySvg: 'Copier SVG',
+      downloadSvg: 'Télécharger',
+      copied: 'Copié!',
+      copySvgHint: 'Copier le code SVG',
+      downloadSvgHint: 'Télécharger le fichier .svg',
+    },
+    '/ja/': {
+      placeholder: 'Ithkuil 語彙を入力 (例: itrutļalžá または wetace)...',
+      scriptTitle: 'Ithkuil 固有ブロック文字 (Block Script)',
+      generateScriptBtn: 'Block Script SVG を生成',
+      deconstructTitle: '形態論的リアルタイム解析',
+      shortGloss: '略式グロス (Short Gloss)',
+      fullGloss: '完全な意味 (Full Explanation)',
+      viewAST: 'AST 構文解析データ表示 (JSON)',
+      welcomeTip: '上の入力欄に New Ithkuil 語彙を入力すると即座に解析されます。',
+      invalidError: '無効な Ithkuil 語彙構造',
+      copySvg: 'SVGをコピー',
+      downloadSvg: 'SVGを保存',
+      copied: '完了！',
+      copySvgHint: 'SVGソースコードをコピー',
+      downloadSvgHint: 'SVGファイルとしてダウンロード',
+    },
+  },
+  // 4. NumConverter 数字转换器模块
+  numconverter: {
+    '/': {
+      inputLabel: '输入纯数字',
+      placeholder: '只接受数字',
+      typeLabel: '数词类型',
+      polarityLabel: '极性',
+      simplifyLabel: '形态',
+      omitLabel: '省略规则',
+      resultTitle: '转换步骤与分析',
+      msgEmpty: '你要输入数字哦 ( ⓛ ω ⓛ *)',
+      msgInvalid: '输入的不是纯数字哦 (・ω・)ノ',
+      types: { s0: '名数: S0', s1: '基数: S1', s2: '维数: S2', s3: '序数: S3' },
+      polarity: { pos: '正数', neg: '负数' },
+      simplify: { short: '简替', full: '原形' },
+      omit: { default: '默认', skip100: '省略百', keep100: '不省略百' },
+      steps: {
+        simplified: '数字代词根表记法',
+        chunked: 'ITHKUIL 数字分节',
+        basePrep: 'ITHKUIL 底数替换准备',
+        baseSub: 'ITHKUIL 底数替换',
+        expSub: 'ITHKUIL 指数数替换 / 最终态',
+        posNum: '基于位置而非大小的名数表记'
+      },
+      clickToCopy: '点击复制',
+      copied: '已复制！(๑•̀ㅂ•́)و'
+    },
+    '/en/': {
+      inputLabel: 'Input Number',
+      placeholder: 'Digits only',
+      typeLabel: 'Type',
+      polarityLabel: 'Polarity',
+      simplifyLabel: 'Form',
+      omitLabel: 'Omission',
+      resultTitle: 'Conversion Pipeline',
+      msgEmpty: 'Please enter a number! ( ⓛ ω ⓛ *)',
+      msgInvalid: 'Oops, digits only please! (・ω・)ノ',
+      types: { s0: 'Nominal: S0', s1: 'Cardinal: S1', s2: 'Dimensional: S2', s3: 'Ordinal: S3' },
+      polarity: { pos: 'Positive', neg: 'Negative' },
+      simplify: { short: 'Shortcut', full: 'Full Form' },
+      omit: { default: 'Default', skip100: 'Omit 100', keep100: 'Keep 100' },
+      steps: {
+        simplified: 'Number-as-root notation',
+        chunked: 'ITHKUIL number grouping',
+        basePrep: 'ITHKUIL radix replacement preparation',
+        baseSub: 'ITHKUIL radix replacement',
+        expSub: 'ITHKUIL exponent replacement / Final Form',
+        posNum: 'Positional nominal notation'
+      },
+      clickToCopy: 'Click to copy',
+      copied: 'Copied! (๑•̀ㅂ•́)و'
+    },
+    '/ja/': {
+      inputLabel: '数字入力',
+      placeholder: '数字のみ',
+      typeLabel: '数詞タイプ',
+      polarityLabel: '極性',
+      simplifyLabel: '形態',
+      omitLabel: '省略ルール',
+      resultTitle: '変換結果と分析',
+      msgEmpty: '数字を入力してね ( ⓛ ω ⓛ *)',
+      msgInvalid: '数字だけ入力してね (・ω・)ノ',
+      types: { s0: '名目数詞: S0', s1: '基数詞: S1', s2: '次元数詞: S2', s3: '序数詞: S3' },
+      polarity: { pos: '正数', neg: '負数' },
+      simplify: { short: 'ショートカットあり', full: 'ショートカットなし' },
+      omit: { default: 'デフォルト', skip100: '百を省略', keep100: '省略せず' },
+      steps: {
+        simplified: '数字代名詞根表記',
+        chunked: 'ITHKUIL 数字セグメント',
+        basePrep: 'ITHKUIL 底数置換準備',
+        baseSub: 'ITHKUIL 底数置換',
+        expSub: 'ITHKUIL 指数置換 / 最終形',
+        posNum: '位置ベースの名目数詞表記'
+      },
+      clickToCopy: 'クリックでコピー',
+      copied: 'コピーしたよ！(๑•̀ㅂ•́)و'
+    },
+    '/fr/': {
+      inputLabel: 'Entrer un nombre',
+      placeholder: 'Chiffres uniquement',
+      typeLabel: 'Type de nombre',
+      polarityLabel: 'Polarité',
+      simplifyLabel: 'Forme',
+      omitLabel: 'Règle d’omission',
+      resultTitle: 'Analyse de conversion',
+      msgEmpty: 'N’oublie pas d’entrer un nombre ! ( ⓛ ω ⓛ *)',
+      msgInvalid: 'Oups, uniquement des chiffres stp ! (・ω・)ノ',
+      types: { s0: 'Nominal : S0', s1: 'Cardinal : S1', s2: 'Dimensionnel : S2', s3: 'Ordinal : S3' },
+      polarity: { pos: 'Positif', neg: 'Négatif' },
+      simplify: { short: 'Forme courte', full: 'Forme complète' },
+      omit: { default: 'Par défaut', skip100: 'Omettre cent', keep100: 'Garder cent' },
+      steps: {
+        simplified: 'Notation par racine numérale',
+        chunked: 'Groupement numéral ITHKUIL',
+        basePrep: 'Préparation à la substitution de base',
+        baseSub: 'Substitution de base ITHKUIL',
+        expSub: 'Substitution d’exposant / Forme finale',
+        posNum: 'Notation nominale positionnelle'
+      },
+      clickToCopy: 'Cliquer pour copier',
+      copied: 'Copié ! (๑•̀ㅂ•́)و'
+    }
+  }
+};

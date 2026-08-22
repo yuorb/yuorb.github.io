@@ -1,706 +1,321 @@
-// place your custom styles here
-
-.xiaozhong {
-	p {
-		text-align: center;
-	}
-
-	ul {
-		margin: auto;
-		width: 30%;
-	}
-}
-
-
-.table-1 {
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 3%;
-			}
-
-			&:nth-of-type(2) {
-				width: 6%;
-			}
-
-			&:nth-of-type(3) {
-				width: 6%;
-			}
-
-			&:nth-of-type(4) {
-				width: 10%;
-			}
-
-			&:nth-of-type(5) {
-				width: 6%;
-			}
-
-			&:nth-of-type(6) {
-				width: 6%;
-			}
-
-			&:nth-of-type(7) {
-				width: 6%;
-			}
-
-			&:nth-of-type(8) {
-				width: 6%;
-			}
-
-			&:nth-of-type(9) {
-				width: 6%;
-			}
-
-			&:nth-of-type(10) {
-				width: 6%;
-			}
-
-			&:nth-of-type(11) {
-				width: 6%;
-			}
-
-			&:nth-of-type(12) {
-				width: 6%;
-			}
-
-			&:nth-of-type(13) {
-				width: 6%;
-			}
-		}
-	}
-}
-
-.table-2 {
-	width: 80% !important;
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 5%;
-			}
-
-			&:nth-of-type(2) {
-				width: 5%;
-			}
-
-			&:nth-of-type(3) {
-				width: 5%;
-			}
-
-			&:nth-of-type(4) {
-				width: 5%;
-			}
-		}
-	}
-}
-
-.table-3 {
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 10%;
-			}
-
-			&:nth-of-type(2) {
-				width: 10%;
-			}
-
-			&:nth-of-type(3) {
-				width: 10%;
-			}
-
-			&:nth-of-type(4) {
-				width: 10%;
-			}
-
-			&:nth-of-type(5) {
-				width: 10%;
-			}
-		}
-
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-4 {
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 3%;
-			}
-
-			&:nth-of-type(2) {
-				width: 6%;
-			}
-
-			&:nth-of-type(3) {
-				width: 18%;
-			}
-
-			&:nth-of-type(4) {
-				width: 16%;
-			}
-		}
-
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-5 {
-	margin: auto;
-	width: 80% !important;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 20%;
-			}
-
-			&:nth-of-type(2) {
-				width: 30%;
-			}
-
-			&:nth-of-type(3) {
-				width: 30%;
-			}
-		}
-	}
-}
-
-.table-6 {
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 25%;
-			}
-
-			&:nth-of-type(2) {
-				width: 25%;
-			}
-
-			&:nth-of-type(3) {
-				width: 25%;
-			}
-		}
-
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-7 {
-	margin: auto;
-
-	table {
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-8 {
-	margin: auto;
-
-	table {
-		th.head {
-			&:first-of-type {
-				width: 3%;
-			}
-
-			&:nth-of-type(2) {
-				width: 10%;
-			}
-
-			&:nth-of-type(3) {
-				width: 15%;
-			}
-
-			&:nth-of-type(4) {
-				width: 10%;
-			}
-
-		}
-
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-9 {
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 10%;
-			}
-
-			&:nth-of-type(2) {
-				width: 15%;
-			}
-
-			&:nth-of-type(3) {
-				width: 15%;
-			}
-
-			&:nth-of-type(4) {
-				width: 15%;
-			}
-
-			&:nth-of-type(5) {
-				width: 40%;
-			}
-
-		}
-
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-10 {
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: 50%;
-			}
-
-			&:nth-of-type(2) {
-				width: 50%;
-			}
-
-		}
-
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-11 {
-	margin: auto;
-	width: 80% !important;
-
-	table {
-		td {
-			text-align: center;
-		}
-	}
-}
-
-.table-12 {
-	margin: auto;
-
-	table {
-		th {
-			&:first-of-type {
-				width: auto;
-			}
-
-			&:nth-of-type(2) {
-				width: 10%;
-			}
-
-			&:nth-of-type(4) {
-				width: 10%;
-			}
-
-			&:nth-of-type(6) {
-				width: 10%;
-			}
-
-			&:nth-of-type(4) {
-				width: 10%;
-			}
-
-			&:nth-of-type(6) {
-				width: 10%;
-			}
-
-			&:nth-of-type(7) {
-				width: 10%;
-			}
-
-		}
-
-		td {
-			text-align: center;
-
-		}
-	}
-}
-
-
-.container {
-	display: flex;
-}
-
-.col {
-	flex: 1;
-}
-
-@import url('//yuorb.github.io/assets/fonts/iosevka-term-slab-unhinted.css');
-@import url('//yuorb.github.io/assets/fonts/iosevka-etoile-unhinted.css');
-
-
-/*.gloss {
-    font-family: "Iosevka Term Slab Web";
-	transition: background var(--color-transition), color var(--color-transition);
-	margin: 0;
-    padding: 0.2rem 0.4rem;
-    border-radius: 5px;
-    background: rgba(127, 127, 127, 0.12);
-    font-size: 0.85em;
-    overflow-wrap: break-word;
-}*/
-
-@import 'https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.2.0/style.css';
-
-// @import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Noto+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import url('https://fonts.font.im/css2?family=Noto+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
-@import url("https://fonts.lpsub.com/css/sarasa-gothic-sc.css");
-
-// @import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Ysabeau:ital,wght@0,1;0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,1;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
-@import url('https://fonts.font.im/css2?family=Ysabeau:ital,wght@0,1;0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,1;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@0,1;0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,1;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap');
-
-// @import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.font.im/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-// @import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
-@import url('https://fonts.font.im/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
-
-// @import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.font.im/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-// @import url('https://google-fonts.mirrors.sjtug.sjtu.edu.cn/css2?family=Noto+Sans+SC:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.font.im/css2?family=Noto+Sans+SC:wght@100;200;300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;200;300;400;500;600;700;800;900&display=swap');
-
+// ==========================================
+// 1. Sass 模块与配置导入
+// ==========================================
+@use 'sass:map';
+@use 'sass:list';
+@use 'palette' as *;
+
+// ==========================================
+// 2. 字体网络引入 (集中管理)
+// ==========================================
+// @import url('//yuorb.github.io/assets/fonts/iosevka-term-slab-unhinted.css');
+// @import url('//yuorb.github.io/assets/fonts/iosevka-etoile-unhinted.css');
+// @import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.2.0/style.css');
+// @import url('https://fonts.lpsub.com/css/sarasa-gothic-sc.css');
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@0,1..1000;1,1..1000&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+// ==========================================
+// 3. 原生 CSS 变量映射
+// ==========================================
 :root {
-	--examfont: 'Ysabeau', 'Andika', 'EB Garamond', 'Arsenal', "Minion 3", 'Noto Serif', "LXGW WenKai TC", serif;
-	--basefonts: 'Andika', var(--examfont), var(--font-family);
-	--cjkfonts: "Iosevka Etoile Web", "Sarasa Gothic CL", "Sarasa Gothic SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Noto Sans SC", STHeiti, "Microsoft YaHei", SimSun;
+  /* 字体族定义 */
+  --examfont: 'Ysabeau', 'Andika', 'EB Garamond', 'Arsenal', "Minion 3", 'Noto Serif', "LXGW WenKai TC", serif;
+  --basefonts: 'Andika', var(--examfont), var(--font-family);
+  --cjkfonts: "Iosevka Etoile Web", "Sarasa Gothic CL", "Sarasa Gothic SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Noto Sans SC", STHeiti, "Microsoft YaHei", SimSun;
+  --font-family-heading: #{$font-family-heading};
+  --font-family: #{$font-family};
+  --font-family-mono: #{$font-family-mono};
+
+  /* 主题与品牌色 */
+  --theme-color: #{$theme-color};
+  --vp-c-accent: #{$vp-c-accent};
+  --vp-c-accent-bg: #{$vp-c-accent-bg};
+  --vp-c-accent-hover: #{$vp-c-accent-hover};
+  --vp-c-accent-soft: #{$vp-c-accent-soft};
+
+  /* 状态与语义对比色 (Light) */
+  --del-color: #{map.get($del-color, light)};
+  --ins-color: #{map.get($ins-color, light)};
+  --warning-color: #{map.get($warning-color, light)};
+
+  /* 组件通用抽象变量 (Light) */
+  --ic-bg-container: var(--vp-c-bg, #ffffff);
+  --ic-bg-card: var(--vp-c-bg-soft, #f6f6f7);
+  --ic-border: var(--vp-c-divider, #e2e8f0);
+  --ic-text: var(--vp-c-text-1, #2c3e50);
+  --ic-text-subtle: var(--vp-c-text-2, #888888);
+  --ic-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
 }
 
-dl.gloss {
-	display: inline-block;
-	margin: 0 0.5em 0 0;
+html[data-theme="dark"],
+:root[data-theme="dark"],
+html.dark {
+  /* 状态与语义对比色 (Dark) */
+  --del-color: #{map.get($del-color, dark)};
+  --ins-color: #{map.get($ins-color, dark)};
+  --warning-color: #{map.get($warning-color, dark)};
 
-	dt {
-		font-weight: bold;
-		font-family: var(--basefonts);
-		font-size: larger;
-	}
-
-	dd {
-		margin-left: 0 !important;
-		font-size: smaller;
-		font-family: var(--font-family-mono);
-		font-feature-settings: "halt";
-	}
+  /* 组件通用抽象变量 (Dark) */
+  --ic-bg-container: var(--vp-c-bg, #1a1a2e);
+  --ic-bg-card: var(--vp-c-bg-soft, rgba(255, 255, 255, 0.04));
+  --ic-border: var(--vp-c-divider, rgba(255, 255, 255, 0.12));
+  --ic-text: var(--vp-c-text-1, #cdd6f4);
+  --ic-text-subtle: var(--vp-c-text-2, #a6adc8);
+  --ic-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 
-.glend {
-	font-family: var(--examfont);
-
-	q {
-		margin-left: 0em;
-		margin-right: 0em;
-	}
+// ==========================================
+// 4. 全局基础与排版样式 (保留作用域，确保全局精准生效)
+// ==========================================
+body {
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
 }
 
-.expln {
-	margin-bottom: .75em;
-	font-family: var(--basefonts);
+h1, h2, h3, h4, h5, h6 {
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 75;
 }
 
-.indent {
-	.expln {
-		font-size: larger;
-	}
-}
+h1, h2 { font-weight: 900 !important; }
+h3, h4 { font-weight: 700 !important; }
 
-code {
-	font-family: var(--basefonts), var(--font-family-mono);
-	font-variant-caps: small-caps;
-	font-feature-settings: "smcp";
-	font-size: inherit;
-	font-weight: inherit;
-	margin-left: 0.1em;
-	margin-right: 0.1em;
-	padding: 0 8px;
-}
-
-q {
-	font-style: italic;
-	margin-left: 0.2em;
-	margin-right: 0.2em;
-	font-family: var(--examfont);
-}
-
-abbr {
-	font-family: var(--basefonts);
-	color: #ffffff;
-	font-weight: inherit;
-	background: #fbae17;
-	padding: 0 8px;
-	border-radius: 12px;
-	margin: 2px;
-}
-
-.parnt {
-	display: inline;
-	color: rgba(128, 128, 128, 1);
-	vertical-align: baseline !important;
-
-	&::before {
-		content: '（';
-	}
-
-	&::after {
-		content: '）';
-	}
-}
-
-/* .reveal .slides {
-	text-align: start !important;
-}
-*/
-
-strong {
-	font-weight: 900 !important;
-	// text-decoration: var(--theme-color) underline 15% !important;
-}
+strong, .t, mark { font-weight: 900 !important; }
 
 em {
-	// text-decoration: #fbae17 wavy underline 10% !important;
-	margin: 0em 0.2em;
-	color: var(--vp-c-accent);
-	font-family: var(--cjkfonts);
-}
+  margin: 0 0.2em;
+  color: var(--vp-c-accent);
+  font-family: var(--cjkfonts);
 
-em > strong {
+  & > strong {
     text-decoration: var(--vp-c-accent) wavy underline 10% !important;
+  }
 }
 
 li > em, .hint-container > p > em {
-	color: #fbae17;
+  color: var(--warning-color);
 }
 
-.t,
-mark {
-	font-weight: 900 !important;
+:not(pre) > code {
+  font-family: var(--basefonts), var(--font-family-mono);
+  font-variant-caps: small-caps;
+  font-feature-settings: "smcp";
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0 0.1em;
+  padding: 0 8px;
 }
 
-/* .reveal[data-theme=auto] {
-    --r-main-font: var(--font-family)!important;
-    --r-heading-font: var(--font-family-heading)!important;
-} */
-
-.vp-tab-nav {
-	font-family: var(--font-family) !important;
+pre code {
+  font-variant-caps: normal;
+  font-feature-settings: normal;
+  font-family: var(--font-family-mono), monospace;
 }
 
-.reveal {
-	--r-main-font: var(--font-family) !important;
-	--r-heading-font: var(--font-family-heading) !important;
+q, i { font-family: var(--examfont); }
+q { font-style: italic; margin: 0 0.2em; }
 
-	.slides {
-		text-align: start !important;
-	}
-}
-
-.vue-custom-tooltip {
-	--vue-custom-tooltip-background: var(--theme-color);
-	background: var(--theme-color);
-	color: white;
-	padding: 2px 8px;
-	border-radius: 12px;
-	margin: 0px 2px;
-
-	.parnt {
-		color: rgba(255, 255, 255, 0.5);
-	}
-}
-
-.indent,
-.listo,
-.tablo {
-	margin: auto;
-	width: 90%;
-}
-
-.listo {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: flex-start;
-}
-
-.tablo {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-evenly;
-	flex-wrap: wrap;
-	text-align: center;
-}
-
-h1,
-h2 {
-	font-weight: 900 !important;
-}
-
-h3,
-h4 {
-	font-weight: 800 !important;
-}
-
-h3,
-h4 {
-	font-weight: 700 !important;
-}
-
-.abc {
-
-	ol,
-	ul {
-		list-style: lower-alpha;
-	}
+abbr {
+  font-family: var(--basefonts);
+  color: #ffffff;
+  font-weight: inherit;
+  background: var(--warning-color);
+  padding: 0 8px;
+  border-radius: 12px;
+  margin: 2px;
 }
 
 del {
-	text-decoration: line-through;
-	background-color: var(--del-color);
-	color: var(--black);
-	padding: 2px;
-    border-radius: 5px;
+  text-decoration: line-through;
+  background-color: var(--del-color);
+  color: var(--ic-text);
+  padding: 2px;
+  border-radius: 5px;
 }
 
 ins {
-	text-decoration: none;
-	background-color: var(--ins-color);
-	color: var(--black);
-	padding: 2px;
-    border-radius: 5px;
+  text-decoration: none;
+  background-color: var(--ins-color);
+  color: var(--ic-text);
+  padding: 2px;
+  border-radius: 5px;
 }
 
+.note { color: var(--warning-color); }
 
-i {
-	font-family: var(--examfont);
+// ==========================================
+// 5. 业务专用与辅助 Class
+// ==========================================
+.xiaozhong {
+  p { text-align: center; }
+  ul { margin: auto; width: 30%; }
 }
 
-.mannaka {
-	margin: auto;
-	display: grid;
-	text-align: center;
-}
+.container { display: flex; }
+.col { flex: 1; }
 
-.center {
-	text-align: center !important;
-}
+dl.gloss {
+  display: inline-block;
+  margin: 0 0.5em 0 0;
 
-.inverted {
-	filter: invert(100%);
-}
-
-.shige {
-	margin: auto;
-	width: 80%;
-	display: flex;
-	justify-content: space-between;
-}
-
-.lr {
-	display: flex;
-	justify-content: space-between;
-	margin-bottom: .75em;
-}
-
-.left {
-	text-align: left;
-	font-family: var(--basefonts);
-}
-
-.right {
-	text-align: right;
-	font-family: var(--basefonts);
-}
-
-.gray {
-	color: lightgray;
-}
-
-.blue {
-	color: blue;
-}
-
-pre {
-	code {
-		font-variant-caps: normal !important;
-		font-feature-settings: normal !important;
-		font-family: var(--font-family-mono), monospace!important;
-	}
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
-
-body {
-	font-optical-sizing: auto;
-	font-style: normal;
-	font-variation-settings:
-    "wdth" 100;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	font-optical-sizing: auto;
-	font-style: normal;
-	font-variation-settings:
-    "wdth" 75;
+  dt {
+    font-weight: bold;
+    font-family: var(--basefonts);
+    font-size: larger;
+  }
+  dd {
+    margin-left: 0 !important;
+    font-size: smaller;
+    font-family: var(--font-family-mono);
+    font-feature-settings: "halt";
+  }
 }
 
 .glend {
-    margin-bottom: .75em;
+  font-family: var(--examfont);
+  margin-bottom: .75em;
+  q { margin: 0; }
 }
 
-.note {
-	color: var(--orange);
+.expln {
+  margin-bottom: .75em;
+  font-family: var(--basefonts);
 }
 
-caption {
-    margin-bottom: 10px;
+.indent {
+  .expln { font-size: larger; }
+}
+
+.parnt {
+  display: inline;
+  color: var(--ic-text-subtle);
+  vertical-align: baseline !important;
+  &::before { content: '（'; }
+  &::after { content: '）'; }
+}
+
+.vp-tab-nav { font-family: var(--font-family) !important; }
+
+.reveal {
+  --r-main-font: var(--font-family) !important;
+  --r-heading-font: var(--font-family-heading) !important;
+  .slides { text-align: start !important; }
+}
+
+.vue-custom-tooltip {
+  --vue-custom-tooltip-background: var(--theme-color);
+  background: var(--theme-color);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin: 0 2px;
+  .parnt { color: rgba(255, 255, 255, 0.5); }
+}
+
+.indent, .listo, .tablo {
+  margin: auto;
+  width: 90%;
+}
+
+.listo {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.tablo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.abc {
+  ol, ul { list-style: lower-alpha; }
+}
+
+.mannaka { margin: auto; display: grid; text-align: center; }
+.center { text-align: center !important; }
+.inverted { filter: invert(100%); }
+
+.shige {
+  margin: auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lr {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: .75em;
+}
+
+.left { text-align: left; font-family: var(--basefonts); }
+.right { text-align: right; font-family: var(--basefonts); }
+.gray { color: lightgray; }
+.blue { color: blue; }
+caption { margin-bottom: 10px; }
+
+// ==========================================
+// 6. 表格布局与列宽 Classes (重构版)
+// ==========================================
+
+// 1) 提取所有 table-x 的通用基础样式
+[class^="table-"] {
+  margin: auto;
+
+  table td {
+    text-align: center;
+  }
+}
+
+// 提取特定的百分比宽度类
+.table-2, .table-5, .table-11 {
+  width: 80% !important;
+}
+
+// 2) 定义列宽参数列表 map
+$table-column-widths: (
+  table-1:  (3%, 6%, 6%, 10%, 6%, 6%, 6%, 6%, 6%, 6%, 6%, 6%, 6%),
+  table-2:  (5%, 5%, 5%, 5%),
+  table-3:  (10%, 10%, 10%, 10%, 10%),
+  table-4:  (3%, 6%, 18%, 16%),
+  table-5:  (20%, 30%, 30%),
+  table-6:  (25%, 25%, 25%),
+  table-8:  (3%, 10%, 15%, 10%),
+  table-9:  (10%, 15%, 15%, 15%, 40%),
+  table-10: (50%, 50%),
+  table-12: (auto, 10%, null, 10%, null, 10%, 10%)
+);
+
+// 3) 动态循环输出列宽
+@each $class, $widths in $table-column-widths {
+  .#{$class} table {
+    th {
+      @for $i from 1 through list.length($widths) {
+        $w: list.nth($widths, $i);
+        @if $w != null {
+          &:nth-of-type(#{$i}) {
+            width: $w;
+          }
+        }
+      }
+    }
+  }
 }
