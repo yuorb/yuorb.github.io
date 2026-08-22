@@ -1,0 +1,1 @@
+var e=`/assets/spacetimelight-tNsR-L93.svg`,t=`/assets/spacetimedark-D3rfwK7_.svg`;export{e as n,t};
