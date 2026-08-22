@@ -192,10 +192,10 @@ Difference From Ithkuil 2011:
     * C.A.: <span class="glend">(to be) that which X is about or to which X pertains/is in regard; <ins>that which is a referent to X</ins></span>
     * I.A.: <span class="glend">(to be) that which pertains to X or which is about or in regard to X; <ins>that which X is a referent to</ins></span>
     * C.S.: <ins><span class="glend">(to be) a <abbr>PRN</abbr> semantic relationship where X is a referent to something</span></ins>
-38. DESCRIPTIVE <abbr>DSC</abbr>: ä[^1]
+38. DESCRIPTIVE <abbr>DSP</abbr>: ä[^1]
     * C.A.: <span class="glend">(to be) <del>that which is characterized or describable by/as X</del> <ins>that which characterizes or functions as a description for X</ins></span>
     * I.A.: <span class="glend">(to be) <del>that which characterizes or functions as a description for X</del> <ins>that which is characterized or describable by/as X</ins></span>
-    * C.S.: <ins><span class="glend">(to be) a <abbr>DSC</abbr> semantic relationship where X functions as a description for something</span></ins>
+    * C.S.: <ins><span class="glend">(to be) a <abbr>DSP</abbr> semantic relationship where X functions as a description for something</span></ins>
 39. CORRELATIVE <abbr>COR</abbr>: e
     * C.A.: <span class="glend">(to be) that which X is associated/relative to or in relation to</span>
     * I.A.: <span class="glend">(to be) that which is associated with or relative to X</span>
@@ -225,8 +225,8 @@ Difference From Ithkuil 2011:
 
 Differences From Ithkuil 2011:
 
-* DESCRIPTIVE <abbr>DSC</abbr> case = adjectival case: “X-ish; like X; having the quality/characteristics of X”
-* The use of the CORRELATIVE “characterized by X” moved to <abbr>DSC</abbr> case; “spatially relative to” moved to <abbr>IRL</abbr> case; Conductive <abbr>CNV</abbr> merged into <abbr>COR</abbr>.
+* DESCRIPTIVE <abbr>DSP</abbr> case = adjectival case: “X-ish; like X; having the quality/characteristics of X”
+* The use of the CORRELATIVE “characterized by X” moved to <abbr>DSP</abbr> case; “spatially relative to” moved to <abbr>IRL</abbr> case; Conductive <abbr>CNV</abbr> merged into <abbr>COR</abbr>.
 * The use of the COMPOSITIVE, when used with verbs (e.g., *She cooks __using tomatoes__*), is eliminated. Instead, this usage can be accomplished via either the INSTRUMENTAL, the UTILITATIVE, or the CONSUMPTIVE depending on the context.
 * RELATIVE <abbr>RLT</abbr> case: “...which/that X”, “...which/that is/does X” [creates the equivalent to a simple relative clause]
 

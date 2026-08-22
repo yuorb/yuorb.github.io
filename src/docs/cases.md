@@ -223,18 +223,18 @@
     <span class="expln">X 所涉及的人·事·物</span>
     * <span class="glend">that which pertains to X or which is about or in regard to X</span>
     <span class="expln">涉及 X 的人·事·物</span>
-38. 描述格 <abbr>DSC</abbr>：ä
+38. 描述格 <abbr>DSP</abbr>：ä
     * <span class="glend">that which is characterized or describable by/as X</span>
     <span class="expln">以 X 为特征或能以 X 描述的人·事·物</span>
     * <span class="glend">that which characterizes or functions as a description for X</span>
     <span class="expln">说明 X 的特征或作用的人·事·物</span>
-    * <abbr>DSC</abbr> 格 = 作形容词的格 (adjectival case)
+    * <abbr>DSP</abbr> 格 = 作形容词的格 (adjectival case)
 39. 相关格 <abbr>COR</abbr>：e
     * <span class="glend">that which X is associated/relative to or in relation to</span>
     <span class="expln">X 所相关联的人·事·物</span>
     * <span class="glend">that which is associated with or relative to X</span>
     <span class="expln">与 X 相关联的人·事·物</span>
-    * 与Ithkuil 2011相比, 功能变化: “characterized by X” 移到 DSC 描述格; “spatially relative to” 移到 IRL 相对格; Conductive CNV合并入COR;
+    * 与Ithkuil 2011相比, 功能变化: “characterized by X” 移到 DSP 描述格; “spatially relative to” 移到 IRL 相对格; Conductive CNV合并入COR;
 40. 成分格 <abbr>CPS</abbr>：i
     * <span class="glend">that of which X is made/composed or consists of</span>
     <span class="expln">X 的成分/构成物</span>

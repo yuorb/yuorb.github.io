@@ -1,12 +1,10 @@
-
 name: 部署文档
 
 on:
   push:
     branches:
-      # 确保这是你正在使用的分支名称
       - main
-  workflow_dispatch: # enable manual
+  workflow_dispatch: # 支援手動觸發
 
 jobs:
   deploy-gh-pages:
@@ -16,22 +14,25 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # 如果你文档需要 Git 子模块，取消注释下一行
-          # submodules: true
 
-      - name: 安装 pnpm
-        uses: pnpm/action-setup@v2
+      # 🎯 升級至支援 pnpm v11 的全新整合式 Action 步驟，並自動管理快取
+      - name: 安装 pnpm & 设置 Node.js
+        uses: pnpm/action-setup@v3
         with:
-          version: 10
-          run_install: true
+          version: 11
+          run_install: false # 關閉內建預設安裝，改在下方手動放行構建
 
-
-      - name: 设置 Node.js
+      - name: 设置 Node.js 環境
         uses: actions/setup-node@v4
         with:
           node-version: 24
           cache: pnpm
 
+      # 🎯 解決 pnpm v11 腳本攔截的核心命令！
+      - name: 允許核心二進位檔腳本並安裝依賴
+        run: |
+          pnpm config set ignore-scripts false
+          pnpm install
 
       - name: 构建文档
         env:
@@ -41,17 +42,5 @@ jobs:
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          # 这是文档部署到的分支名称
           branch: gh-pages
           folder: src/.vuepress/dist
-
-      # - name: Deploy to GitHub Pages
-      #   uses: crazy-max/ghaction-github-pages@v4
-      #   with:
-      #     # deploy to gh-pages branch
-      #     target_branch: gh-pages
-      #     # deploy the default output dir of VuePress
-      #     build_dir: src/.vuepress/dist
-      #   env:
-      #     # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
-      #     GITHUB_TOKEN: ${{ secrets.YUORB }}
