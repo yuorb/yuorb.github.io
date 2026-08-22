@@ -4,9 +4,9 @@
       <input
         v-model="inputWord"
         type="text"
-        :placeholder="i18n.placeholder"
+        :placeholder="t('placeholder')"
         class="sandbox-input"
-        @input="handleParse"
+        @input="onInput"
       />
     </div>
 
@@ -16,7 +16,7 @@
       <!-- 🎯 点选触发式 Block Script SVG 绘制区 -->
       <div class="script-card">
         <div class="card-header">
-          <span class="card-label">🖋️ {{ i18n.scriptTitle }}</span>
+          <span class="card-label">🖋️ {{ t('scriptTitle') }}</span>
 
           <div class="header-actions">
             <button
@@ -24,16 +24,16 @@
               class="generate-btn"
               @click="handleGenerateScript"
             >
-              ⚡ {{ i18n.generateScriptBtn }}
+              ⚡ {{ t('generateScriptBtn') }}
             </button>
 
             <!-- 生成 SVG 后显示的快捷导出按钮组 -->
             <template v-else>
-              <button class="action-btn" :title="i18n.copySvgHint" @click="copySvgCode">
-                📋 {{ isSvgCopied ? i18n.copied : i18n.copySvg }}
+              <button class="action-btn" :title="t('copySvgHint')" @click="copySvgCode">
+                📋 {{ isSvgCopied ? t('copied') : t('copySvg') }}
               </button>
-              <button class="action-btn download-btn" :title="i18n.downloadSvgHint" @click="downloadSvg">
-                ⬇️ {{ i18n.downloadSvg }}
+              <button class="action-btn download-btn" :title="t('downloadSvgHint')" @click="downloadSvg">
+                ⬇️ {{ t('downloadSvg') }}
               </button>
             </template>
           </div>
@@ -43,24 +43,24 @@
         <div v-show="isScriptGenerated" ref="svgContainer" class="svg-render-area"></div>
       </div>
 
-      <div class="board-header">📊 {{ i18n.deconstructTitle }}</div>
+      <div class="board-header">📊 {{ t('deconstructTitle') }}</div>
 
       <div class="grid">
         <div class="card">
-          <div class="label">{{ i18n.shortGloss }}</div>
+          <div class="label">{{ t('shortGloss') }}</div>
           <div class="value code-font">{{ glossShort }}</div>
         </div>
 
         <div class="card">
-          <div class="label">{{ i18n.fullGloss }}</div>
+          <div class="label">{{ t('fullGloss') }}</div>
           <div class="value full-text">{{ glossFull }}</div>
         </div>
       </div>
 
       <details class="raw-data">
-        <summary>🔍 {{ i18n.viewAST }}</summary>
+        <summary>🔍 {{ t('viewAST') }}</summary>
         <div class="language-json extra-class">
-          <pre class="shiki"><code>{{ JSON.stringify(parsedData, null, 2) }}</code></pre>
+          <pre class="shiki"><code>{{ formattedAST }}</code></pre>
         </div>
       </details>
     </div>
@@ -70,19 +70,26 @@
     </div>
 
     <div v-else class="welcome-tip">
-      💡 {{ i18n.welcomeTip }}
+      💡 {{ t('welcomeTip') }}
     </div>
   </div>
 </template>
 
 <script setup>
-import { ref, nextTick } from 'vue';
+import { ref, computed, nextTick, onUnmounted } from 'vue';
 import { parseWord } from '@zsnout/ithkuil/parse';
 import { glossWord } from '@zsnout/ithkuil/gloss';
 import { textToScript, CharacterRow, Anchor, fitViewBox } from '@zsnout/ithkuil/script';
 import { useI18n } from '../composables/useI18n.js';
 
 const { i18n } = useI18n('sandbox');
+
+// 🎯 安全响应式 i18n 取值函数，防止对象取值与 Ref 混淆
+const t = (key) => {
+  if (!i18n) return key;
+  const source = i18n.value || i18n;
+  return source[key] || key;
+};
 
 const inputWord = ref('');
 const parsedData = ref(null);
@@ -95,22 +102,40 @@ const isScriptGenerated = ref(false);
 const isSvgCopied = ref(false);
 const svgContainer = ref(null);
 
+// 🎯 防御大文本 JSON 序列化性能浪费
+const formattedAST = computed(() => {
+  if (!parsedData.value) return '';
+  return JSON.stringify(parsedData.value, null, 2);
+});
+
+// 🎯 输入防抖逻辑
+let parseDebounceTimer = null;
+const onInput = () => {
+  if (parseDebounceTimer) clearTimeout(parseDebounceTimer);
+  parseDebounceTimer = setTimeout(() => {
+    handleParse();
+  }, 150); // 150ms 黄金防抖时延
+};
+
 // 🎯 生成具有可访问性 (a11y) 的原生 SVG
-const handleGenerateScript = () => {
+const handleGenerateScript = async () => {
   if (typeof window === 'undefined') return;
 
   const target = inputWord.value.trim();
   if (!target) return;
 
-  nextTick(() => {
-    if (!svgContainer.value) return;
-    svgContainer.value.innerHTML = '';
+  // 保证容器节点被显示并挂载到 DOM
+  isScriptGenerated.value = true;
+  await nextTick();
 
+  if (!svgContainer.value) return;
+  svgContainer.value.innerHTML = '';
+
+  try {
     const res = textToScript(target);
     if (res.ok) {
       const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
 
-      // 🎯 a11y 优化：注入动态 <title> 标签并挂载 aria 属性
       const titleId = `ithkuil-script-title-${Math.random().toString(36).substring(2, 9)}`;
       const titleEl = document.createElementNS('http://www.w3.org/2000/svg', 'title');
       titleEl.setAttribute('id', titleId);
@@ -126,15 +151,15 @@ const handleGenerateScript = () => {
       svg.appendChild(anchored);
       svgContainer.value.appendChild(svg);
       fitViewBox(svg);
-
-      isScriptGenerated.value = true;
     } else {
       isScriptGenerated.value = false;
     }
-  });
+  } catch (err) {
+    console.error('Failed to render Ithkuil script SVG:', err);
+    isScriptGenerated.value = false;
+  }
 };
 
-// 获取标准站外通用的 SVG 字符串（带 Namespace 补全）
 const getFormattedSvgString = () => {
   if (!svgContainer.value) return '';
   const svgEl = svgContainer.value.querySelector('svg');
@@ -145,18 +170,19 @@ const getFormattedSvgString = () => {
   return new XMLSerializer().serializeToString(clone);
 };
 
-// 🎯 复制 SVG 源码（包含 ClipBoard API 防错兜底）
 let copyTimer = null;
 const copySvgCode = async () => {
   const svgString = getFormattedSvgString();
   if (!svgString) return;
 
   try {
-    if (navigator?.clipboard) {
+    if (navigator?.clipboard?.writeText) {
       await navigator.clipboard.writeText(svgString);
     } else {
       const textarea = document.createElement('textarea');
       textarea.value = svgString;
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
       document.body.appendChild(textarea);
       textarea.select();
       document.execCommand('copy');
@@ -173,12 +199,10 @@ const copySvgCode = async () => {
   }
 };
 
-// 🎯 下载 SVG 文件（带文件名洗涤防错）
 const downloadSvg = () => {
   const svgString = getFormattedSvgString();
   if (!svgString) return;
 
-  // 清理文件名中的非法字符，超长词截断防止操作系统拒绝保存
   const rawWord = inputWord.value.trim() || 'ithkuil-word';
   const safeFilename = rawWord.replace(/[/\\?%*:|"<>]/g, '-').slice(0, 32);
 
@@ -191,9 +215,10 @@ const downloadSvg = () => {
   document.body.appendChild(link);
   link.click();
 
-  // 边界保护：释放内存 Blob 引用
   document.body.removeChild(link);
-  setTimeout(() => URL.revokeObjectURL(url), 100);
+
+  // 🎯 延长 Blob URL 释放时间至 10 秒，防御低配置设备或慢速网络下载中断
+  setTimeout(() => URL.revokeObjectURL(url), 10000);
 };
 
 const handleParse = () => {
@@ -220,14 +245,20 @@ const handleParse = () => {
     } else {
       parsedData.value = null;
       hasError.value = true;
-      errorMessage.value = `${i18n.value.invalidError} (Unparseable)`;
+      errorMessage.value = `${t('invalidError')} (Unparseable)`;
     }
   } catch (error) {
     parsedData.value = null;
     hasError.value = true;
-    errorMessage.value = `${i18n.value.invalidError}: ${error.message}`;
+    errorMessage.value = `${t('invalidError')}: ${error.message}`;
   }
 };
+
+// 🎯 组件卸载时释放定时器
+onUnmounted(() => {
+  if (parseDebounceTimer) clearTimeout(parseDebounceTimer);
+  if (copyTimer) clearTimeout(copyTimer);
+});
 </script>
 
 <style scoped>

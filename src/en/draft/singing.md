@@ -1,3 +1,7 @@
+---
+title: Fundamental Principles of Singing and Phonetics
+---
+
 Fundamental Principles of Singing and Phonetics
 * Every musical note possesses its temporal span.
 * Typically, a single note is assigned to each syllable.

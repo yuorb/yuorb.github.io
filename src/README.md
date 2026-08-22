@@ -44,7 +44,7 @@ features:
 
   - title: QQ 群
     icon: fas fa-user-group
-    details: Ithkuil 研究社团<br><a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('复制群号成功'); })()">点击复制QQ群号</a>
+    details: Ithkuil 研究社团<br><a href="#" data-copy="865538600">点击复制QQ群号</a>
 
   - title: Github
     icon: fab fa-github-alt
@@ -89,15 +89,15 @@ color: var(--my-bg)
 
 ::: center
 
-# *Yuorb*
+# *<IthkuilWord word="Yuorb" />*
 
 该形式分析为 √-RB- 的词干零加上无形界，表示「含义、翻译、解释」；基本涵盖了本组织的目的。
 
-本组织的全称是 Hlesaḑcä-Yuorba :Han:，即「以汉语释译」。
+本组织的全称是 <IthkuilWord word="Hlesaḑcä" />-<IthkuilWord word="Yuorba" /> :Han:，即「以汉语释译」。
 
-Maţřëullaitaẓa: 学习 New Ithkuil 的地方。
+<IthkuilWord word="Maţřëullaitaẓa" />: 学习 New Ithkuil 的地方。
 
-Maţřëullait 是该语言的内名，意思是「本语言交流系统」。
+<IthkuilWord word="Maţřëullait" /> 是该语言的内名，意思是「本语言交流系统」。
 
 :::
 

@@ -6,25 +6,6 @@
 @use 'palette' as *;
 
 // ==========================================
-// 2. 字体网络引入 (集中管理)
-// ==========================================
-// @import url('//yuorb.github.io/assets/fonts/iosevka-term-slab-unhinted.css');
-// @import url('//yuorb.github.io/assets/fonts/iosevka-etoile-unhinted.css');
-// @import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.2.0/style.css');
-// @import url('https://fonts.lpsub.com/css/sarasa-gothic-sc.css');
-// @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@0,1..1000;1,1..1000&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Texturina:ital,opsz,wght@0,12..72,100..900;1,12..72,100..900&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
-// ==========================================
 // 3. 原生 CSS 变量映射
 // ==========================================
 :root {
@@ -47,6 +28,7 @@
   --del-color: #{map.get($del-color, light)};
   --ins-color: #{map.get($ins-color, light)};
   --warning-color: #{map.get($warning-color, light)};
+  --warning-text-color: #000000; /* 无障碍高对比文字 */
 
   /* 组件通用抽象变量 (Light) */
   --ic-bg-container: var(--vp-c-bg, #ffffff);
@@ -55,6 +37,10 @@
   --ic-text: var(--vp-c-text-1, #2c3e50);
   --ic-text-subtle: var(--vp-c-text-2, #888888);
   --ic-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+
+  /* 辅助调色板（暗黑模式感知） */
+  --text-blue: #2563eb;
+  --text-gray: #6b7280;
 }
 
 html[data-theme="dark"],
@@ -64,6 +50,7 @@ html.dark {
   --del-color: #{map.get($del-color, dark)};
   --ins-color: #{map.get($ins-color, dark)};
   --warning-color: #{map.get($warning-color, dark)};
+  --warning-text-color: #ffffff;
 
   /* 组件通用抽象变量 (Dark) */
   --ic-bg-container: var(--vp-c-bg, #1a1a2e);
@@ -72,10 +59,13 @@ html.dark {
   --ic-text: var(--vp-c-text-1, #cdd6f4);
   --ic-text-subtle: var(--vp-c-text-2, #a6adc8);
   --ic-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+
+  --text-blue: #60a5fa;
+  --text-gray: #9ca3af;
 }
 
 // ==========================================
-// 4. 全局基础与排版样式 (保留作用域，确保全局精准生效)
+// 4. 全局基础与排版样式
 // ==========================================
 body {
   font-optical-sizing: auto;
@@ -89,10 +79,10 @@ h1, h2, h3, h4, h5, h6 {
   font-variation-settings: "wdth" 75;
 }
 
-h1, h2 { font-weight: 900 !important; }
-h3, h4 { font-weight: 700 !important; }
+h1, h2 { font-weight: 900; }
+h3, h4 { font-weight: 700; }
 
-strong, .t, mark { font-weight: 900 !important; }
+strong, .t, mark { font-weight: 900; }
 
 em {
   margin: 0 0.2em;
@@ -100,7 +90,8 @@ em {
   font-family: var(--cjkfonts);
 
   & > strong {
-    text-decoration: var(--vp-c-accent) wavy underline 10% !important;
+    text-decoration: underline wavy var(--vp-c-accent);
+    text-underline-offset: 0.2em;
   }
 }
 
@@ -112,10 +103,15 @@ li > em, .hint-container > p > em {
   font-family: var(--basefonts), var(--font-family-mono);
   font-variant-caps: small-caps;
   font-feature-settings: "smcp";
-  font-size: inherit;
+  font-size: 0.88em;             /* 适当等比例微调字体，契合正文高度 */
   font-weight: inherit;
-  margin: 0 0.1em;
-  padding: 0 8px;
+  margin: 0 0.15em;
+  padding: 0.1em 0.35em;         /* 垂直与水平的紧凑衬垫 */
+  border-radius: 4px;
+  line-height: normal;           /* 防止继承父级大行高 */
+  vertical-align: 0.05em;        /* 微调基线，垂直精准居中 */
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
 }
 
 pre code {
@@ -129,28 +125,36 @@ q { font-style: italic; margin: 0 0.2em; }
 
 abbr {
   font-family: var(--basefonts);
-  color: #ffffff;
+  color: var(--warning-text-color, #ffffff);
   font-weight: inherit;
   background: var(--warning-color);
-  padding: 0 8px;
-  border-radius: 12px;
-  margin: 2px;
+  padding: 0 0.4em;           /* 紧凑内边距，根据字号自适应 */
+  border-radius: 0.8em;        /* 完美贴合的圆角比例 */
+  margin: 0 0.15em;            /* 微小外边距避免挤压两侧字符 */
+  display: inline-block;
+  line-height: 1.25;           /* 限制胶囊高度，不撑开上下行距 */
+  vertical-align: baseline;
+}
+
+del, ins {
+  color: var(--ic-text);
+  padding: 0.05em 0.25em;      /* 极致紧凑的文字高亮衬垫 */
+  border-radius: 3px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+
+  /* 解决多行折行时源码换行导致的行尾背景多余空白 */
+  white-space: pre-line;
 }
 
 del {
   text-decoration: line-through;
   background-color: var(--del-color);
-  color: var(--ic-text);
-  padding: 2px;
-  border-radius: 5px;
 }
 
 ins {
   text-decoration: none;
   background-color: var(--ins-color);
-  color: var(--ic-text);
-  padding: 2px;
-  border-radius: 5px;
 }
 
 .note { color: var(--warning-color); }
@@ -251,7 +255,11 @@ dl.gloss {
 
 .mannaka { margin: auto; display: grid; text-align: center; }
 .center { text-align: center !important; }
-.inverted { filter: invert(100%); }
+
+/* 图像暗黑适配 */
+.inverted {
+  filter: invert(100%) hue-rotate(180deg);
+}
 
 .shige {
   margin: auto;
@@ -268,15 +276,14 @@ dl.gloss {
 
 .left { text-align: left; font-family: var(--basefonts); }
 .right { text-align: right; font-family: var(--basefonts); }
-.gray { color: lightgray; }
-.blue { color: blue; }
+.gray { color: var(--text-gray); }
+.blue { color: var(--text-blue); }
 caption { margin-bottom: 10px; }
 
 // ==========================================
-// 6. 表格布局与列宽 Classes (重构版)
+// 6. 表格布局与列宽 Classes (自动编译修复)
 // ==========================================
 
-// 1) 提取所有 table-x 的通用基础样式
 [class^="table-"] {
   margin: auto;
 
@@ -285,12 +292,10 @@ caption { margin-bottom: 10px; }
   }
 }
 
-// 提取特定的百分比宽度类
 .table-2, .table-5, .table-11 {
   width: 80% !important;
 }
 
-// 2) 定义列宽参数列表 map
 $table-column-widths: (
   table-1:  (3%, 6%, 6%, 10%, 6%, 6%, 6%, 6%, 6%, 6%, 6%, 6%, 6%),
   table-2:  (5%, 5%, 5%, 5%),
@@ -304,11 +309,24 @@ $table-column-widths: (
   table-12: (auto, 10%, null, 10%, null, 10%, 10%)
 );
 
+/* 自动遍历生成表格列宽样式，防 null 编译崩溃 */
+@each $class-name, $widths in $table-column-widths {
+  .#{$class-name} {
+    @for $i from 1 through list.length($widths) {
+      $w: list.nth($widths, $i);
+      @if $w != null {
+        table th:nth-child(#{$i}),
+        table td:nth-child(#{$i}) {
+          width: $w;
+        }
+      }
+    }
+  }
+}
+
 // ==========================================
 // 7. 导航栏与下拉菜单修补
 // ==========================================
-
-/* 修复行高与居中偏离问题 & 替换首项文本为“中文” */
 .vp-dropdown .vp-dropdown-item:first-child .auto-link {
   color: transparent !important;
   font-size: 0 !important;
@@ -322,9 +340,71 @@ $table-column-widths: (
     line-height: 1.7rem;
     color: var(--vp-c-text) !important;
     vertical-align: top;
+    transition: color 0.15s ease;
+  }
+
+  &:hover::before {
+    color: var(--vp-c-accent-hover, var(--vp-c-accent)) !important;
   }
 
   &.route-link-active::before {
     color: var(--vp-c-accent) !important;
+  }
+}
+
+/* ==========================================
+ * 8. 复制提示框 (Toast) 主题感知样式
+ * ========================================== */
+
+ a[data-copy] {
+  cursor: pointer;
+}
+
+.custom-copy-toast {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(1rem);
+  z-index: 9999;
+  padding: 0.5rem 1.25rem;
+
+  /* 完全继承既有主题变量，自动切换日夜模式 */
+  background: var(--ic-bg-container);
+  color: var(--ic-text);
+  border: 1px solid var(--ic-border);
+  box-shadow: var(--ic-shadow);
+
+  font-family: var(--font-family);
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 2rem;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease, transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+
+  &.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* 修复标题 (h1 ~ h6) 内部使用组件时的布局与锚点符号 (¶) 错位问题 */
+h1, h2, h3, h4, h5, h6 {
+  /* 当标题带有居中样式时，确保内部元素水平紧凑并排 */
+  &.center,
+  .center & {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.25em;
+  }
+
+  /* 保证锚点 (¶) 与 IthkuilWord 在同一行垂直对齐 */
+  a.header-anchor {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.25em;
   }
 }

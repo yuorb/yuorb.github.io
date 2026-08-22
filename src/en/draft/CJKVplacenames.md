@@ -1,3 +1,7 @@
+---
+title: CJKV Place Names
+---
+
 # Province-level divisions of China
 
 It should be noted that all transcriptions provided below are based on Standard Mandarin; however, certain rules may also be applicable to other Sinitic languages.
