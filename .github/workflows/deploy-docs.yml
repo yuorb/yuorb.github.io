@@ -15,11 +15,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 🎯 升级至 v4 以全面适配 Node 24 运行时环境
+      # 🎯 移除 version 属性，自动读取 package.json 中的 packageManager
       - name: 安装 pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: 11
 
       - name: 设置 Node.js 环境
         uses: actions/setup-node@v4
