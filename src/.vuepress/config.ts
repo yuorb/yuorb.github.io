@@ -32,6 +32,11 @@ export default defineUserConfig({
     title: "Yuorb",
     description: "ユオルブ：新イスクイル語文法 S・T・I (意味、翻訳、解釈)",
     },
+    "/id/": {
+    lang: "id-ID",
+    title: "Yuorb",
+    description: "Yuorb: Tata Bahasa Ithkuil Baru S·T·I (Signifikansi, Terjemahan, Interpretasi)",
+    },
     },
   plugins: [
     registerComponentsPlugin({

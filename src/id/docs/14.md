@@ -1,0 +1,13 @@
+---
+title: 14 Leksikon dan Imbuhan
+---
+
+Silakan lihat [basis data terkomputerisasi](https://github.com/ryanlo713/lexicon-json) atau [kamus daring](/enthrirhc).
+
+Mohon klik tombol "Fetch Lexicon from GitHub Repo" untuk bersiap sebelum menggunakan kamus daring untuk pertama kalinya.
+
+## Asli
+
+<PDF url="../assets/newithkuil_lexicon.pdf" />
+
+<PDF url="../assets/newithkuil_affixes.pdf" />

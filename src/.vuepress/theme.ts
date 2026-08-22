@@ -82,6 +82,22 @@ export default hopeTheme({
         editLink: "Edit this page on GitHub",
       },
     },
+    "/id/": {
+      // navbar
+      navbar: idNavbar,
+
+      // sidebar
+      sidebar: idSidebar,
+
+      footer: "Yuorb: Organisasi tidak resmi yang bertujuan menyediakan layanan S·T·I (Signifikansi, Terjemahan, Interpretasi) untuk bahasa Ithkuil Baru",
+
+      displayFooter: true,
+
+      // page meta
+      metaLocales: {
+        editLink: "Edit this page on GitHub",
+      },
+    },
   },
 
   encrypt: {
@@ -220,6 +236,47 @@ export default hopeTheme({
                 suggestedQueryText: "クエリを試すことができます",
                 reportMissingResultsText: "このクエリは結果が欠けています",
                 reportMissingResultsLinkText: "フィードバックをクリック",
+              },
+            },
+          },
+        },
+        "/id/": {
+          placeholder: "Cari Dokumentasi",
+          translations: {
+            button: {
+              buttonText: "Cari Dokumentasi",
+              buttonAriaLabel: "Cari Dokumentasi",
+            },
+            modal: {
+              searchBox: {
+                resetButtonTitle: "Atur Ulang",
+                resetButtonAriaLabel: "Atur Ulang",
+                cancelButtonText: "Batalkan",
+                cancelButtonAriaLabel: "Batalkan",
+              },
+              startScreen: {
+                recentSearchesTitle: "Pencarian Terbaru",
+                noRecentSearchesText: "Tidak ada Pencarian Terbaru",
+                saveRecentSearchButtonTitle: "Simpan Pencarian Terbaru",
+                removeRecentSearchButtonTitle: "Hapus Pencarian Terbaru",
+                favoriteSearchesTitle: "Pencarian Favorit",
+                removeFavoriteSearchButtonTitle: "Hapus Pencarian Favorit",
+              },
+              errorScreen: {
+                titleText: "Hasil tidak ditemukan",
+                helpText: "Anda mungkin perlu memeriksa koneksi jaringan Anda",
+              },
+              footer: {
+                selectText: "Pilih",
+                navigateText: "Navigasi",
+                closeText: "Tutup",
+                searchByText: "Cari Penyedia",
+              },
+              noResultsScreen: {
+                noResultsText: "Tidak menemukan",
+                suggestedQueryText: "Anda dapat mencoba melakukan kueri",
+                reportMissingResultsText: "Kueri ini tidak memiliki hasil",
+                reportMissingResultsLinkText: "Klik untuk memberikan masukan",
               },
             },
           },
