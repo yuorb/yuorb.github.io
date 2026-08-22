@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
+    "build:dict": "tsx scripts/build-dict.ts",
     "docs:build": "vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src",
@@ -29,6 +30,7 @@
     "flowchart.ts": "3.0.1",
     "katex": "0.17.0",
     "mermaid": "11.16.0",
+    "opencc-js": "^1.4.1",
     "reveal.js": "6.0.1",
     "sass-embedded": "1.100.0",
     "sass-loader": "17.0.0",
@@ -41,7 +43,8 @@
   "devDependencies": {
     "baseline-browser-mapping": "^2.10.0",
     "chart.js": "^4.5.1",
-    "echarts": "^6.0.0"
+    "echarts": "^6.0.0",
+    "tsx": "^4.23.12"
   },
   "packageManager": "pnpm@11.22.0+sha512.1ff870c4c6133dfd88fb2afc46dd13d47f09c9794b438c6fdb47ca98caf3bc16381ee0be93a091b8e3824cf01f889f46d7d9e20910fb0be1ab0fb5baa80dd621"
 }

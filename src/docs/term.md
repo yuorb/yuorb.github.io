@@ -16,6 +16,8 @@ title: 术语表
 
 * 音素 phone
 * 音位 phoneme
+  * 辅音 consonant
+  * 元音 vowel
 * 音高 pitch
 * 音调 accent
 * 重读 stress

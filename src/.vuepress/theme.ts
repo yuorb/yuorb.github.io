@@ -110,10 +110,9 @@ export default hopeTheme({
             },
             modal: {
               searchBox: {
-                resetButtonTitle: "清除查询条件",
-                resetButtonAriaLabel: "清除查询条件",
-                cancelButtonText: "取消",
-                cancelButtonAriaLabel: "取消",
+                clearButtonTitle: "清除查询条件",
+                clearButtonAriaLabel: "清除查询条件",
+                closeButtonAriaLabel: "取消",
               },
               startScreen: {
                 recentSearchesTitle: "搜索历史",
@@ -131,7 +130,7 @@ export default hopeTheme({
                 selectText: "选择",
                 navigateText: "切换",
                 closeText: "关闭",
-                searchByText: "搜索提供者",
+                poweredByText: "搜索提供者",
               },
               noResultsScreen: {
                 noResultsText: "无法找到相关结果",
@@ -151,10 +150,9 @@ export default hopeTheme({
             },
             modal: {
               searchBox: {
-                resetButtonTitle: "Reset",
-                resetButtonAriaLabel: "Reset",
-                cancelButtonText: "Cancel",
-                cancelButtonAriaLabel: "Cancel",
+                clearButtonTitle: "Reset",
+                clearButtonAriaLabel: "Reset",
+                closeButtonAriaLabel: "Cancel",
               },
               startScreen: {
                 recentSearchesTitle: "Recent Searches",
@@ -172,7 +170,7 @@ export default hopeTheme({
                 selectText: "Select",
                 navigateText: "Navigate",
                 closeText: "Close",
-                searchByText: "Search Provider",
+                poweredByText: "Search Provider",
               },
               noResultsScreen: {
                 noResultsText: "No ResultsText",
@@ -192,10 +190,9 @@ export default hopeTheme({
             },
             modal: {
               searchBox: {
-                resetButtonTitle: "リセット",
-                resetButtonAriaLabel: "リセット",
-                cancelButtonText: "キャンセル",
-                cancelButtonAriaLabel: "キャンセル",
+                clearButtonTitle: "リセット",
+                clearButtonAriaLabel: "リセット",
+                closeButtonAriaLabel: "キャンセル",
               },
               startScreen: {
                 recentSearchesTitle: "最近の検索",
@@ -213,7 +210,7 @@ export default hopeTheme({
                 selectText: "選択",
                 navigateText: "ナビゲート",
                 closeText: "閉じる",
-                searchByText: "検索プロバイダー",
+                poweredByText: "検索プロバイダー",
               },
               noResultsScreen: {
                 noResultsText: "結果がありません",
@@ -233,10 +230,9 @@ export default hopeTheme({
             },
             modal: {
               searchBox: {
-                resetButtonTitle: "Réinitialiser",
-                resetButtonAriaLabel: "Réinitialiser",
-                cancelButtonText: "Annuler",
-                cancelButtonAriaLabel: "Annuler",
+                clearButtonTitle: "Réinitialiser",
+                clearButtonAriaLabel: "Réinitialiser",
+                closeButtonAriaLabel: "Annuler",
               },
               startScreen: {
                 recentSearchesTitle: "Recherches récentes",
@@ -254,7 +250,7 @@ export default hopeTheme({
                 selectText: "Sélectionner",
                 navigateText: "Naviguer",
                 closeText: "Fermer",
-                searchByText: "Fournisseur de recherche",
+                poweredByText: "Fournisseur de recherche",
               },
               noResultsScreen: {
                 noResultsText: "Aucun résultat",
@@ -973,5 +969,11 @@ export default hopeTheme({
         "white",
       ],
     }
+  },
+
+  navbarLayout: {
+    start: ["Brand"],
+    center: ["Links"],
+    end: ["VariantSwitch", "Language", "Repo", "Outlook", "Search"], //
   },
 });

@@ -15,21 +15,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      # 🎯 升級至支援 pnpm v11 的全新整合式 Action 步驟，並自動管理快取
-      - name: 安装 pnpm & 设置 Node.js
-        uses: pnpm/action-setup@v3
+      # 🎯 升级至 v4 以全面适配 Node 24 运行时环境
+      - name: 安装 pnpm
+        uses: pnpm/action-setup@v4
         with:
           version: 11
-          run_install: false # 關閉內建預設安裝，改在下方手動放行構建
 
-      - name: 设置 Node.js 環境
+      - name: 设置 Node.js 环境
         uses: actions/setup-node@v4
         with:
           node-version: 24
           cache: pnpm
 
-      # 🎯 解決 pnpm v11 腳本攔截的核心命令！
-      - name: 允許核心二進位檔腳本並安裝依賴
+      # 🎯 放行构建脚本并安装依赖
+      - name: 允许核心二进制档脚本并安装依赖
         run: |
           pnpm config set ignore-scripts false
           pnpm install

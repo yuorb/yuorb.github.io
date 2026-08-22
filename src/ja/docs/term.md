@@ -16,6 +16,8 @@ title: 用語一覧
 
 * <ruby>音価<rt>おんか</rt></ruby> phone
 * <ruby>音素<rt>おんそ</rt></ruby> phoneme
+  * <ruby>子音<rt>しいん</rt></ruby> consonant
+  * <ruby>母音形<rt>ぼいん</rt></ruby> vowel
 * <ruby>音高<rt>おんこう</rt></ruby> pitch
 * <ruby>揚音<rt>ようおん</rt></ruby> accent
 * <ruby>強勢<rt>きょうせい</rt></ruby> stress
@@ -426,7 +428,7 @@ title: 用語一覧
 * <ruby>接続法<rt>せつぞくほう</rt></ruby> <abbr>SUB</abbr> Subjunctive Mood
 * <ruby>仮定法<rt>かていほう</rt></ruby> <abbr>ASM</abbr> Assumptive Mood
 * <ruby>推測法<rt>すいそくほう</rt></ruby> <abbr>SPC</abbr> Speculative Mood
-* <ruby>反事実法<rt>はんじじつほう</rt></ruby> <abbr>COU</abbr> Counterfactive Mood 
+* <ruby>反事実法<rt>はんじじつほう</rt></ruby> <abbr>COU</abbr> Counterfactive Mood
 * <ruby>仮説法<rt>かせつほう</rt></ruby> <abbr>HYP</abbr> Hypothetical Mood
 
 <ruby>根拠<rt>こんきょ</rt></ruby>（<ruby>証拠性<rt>しょうこせい</rt></ruby>） Validations
@@ -524,7 +526,7 @@ title: 用語一覧
 
 <ruby>格枠<rt>かくわく</rt></ruby> Case-Frame
 
-<ruby>格握接辞<rt>かくあくせつじ</rt></ruby> Case-Accessor Affix 
+<ruby>格握接辞<rt>かくあくせつじ</rt></ruby> Case-Accessor Affix
 
 <ruby>反格握接辞<rt>はんかくあくせつじ</rt></ruby> Inverse Case-Accessor Affix
 
