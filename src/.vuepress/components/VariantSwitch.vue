@@ -166,7 +166,8 @@ onUnmounted(() => {
   border: none;
   font-size: 0.88rem;
   font-weight: 500;
-  color: var(--theme-color-text, #2c3e50);
+  /* 使用 VuePress Theme Hope 的文本与文字颜色的标准变量 */
+  color: var(--vp-c-text, #2c3e50);
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -178,10 +179,11 @@ onUnmounted(() => {
   position: absolute;
   top: 100%;
   left: 0;
-  background: var(--bg-color-float, #fff);
-  border: 1px solid var(--border-color, #eee);
+  /* 更换为 Theme Hope 的卡片/浮层专用暗黑变量，若未识别则自动切到暗色 #1e1e20 */
+  background: var(--vp-c-bg-elv, #1e1e20);
+  border: 1px solid var(--vp-c-divider, #eee);
   border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  box-shadow: var(--vp-shadow-3, 0 4px 12px rgba(0, 0, 0, 0.12));
   list-style: none;
   padding: 6px 0;
   margin-top: 8px;
@@ -193,7 +195,8 @@ onUnmounted(() => {
   display: block;
   padding: 6px 16px;
   font-size: 0.85rem;
-  color: var(--theme-color-text, #2c3e50);
+  /* 读取当前主题文本颜色 */
+  color: var(--vp-c-text, #2c3e50);
   cursor: pointer;
   text-decoration: none;
   white-space: nowrap;
@@ -201,7 +204,8 @@ onUnmounted(() => {
 
 .dropdown-item .nav-link:hover,
 .dropdown-item .nav-link.active {
-  color: var(--theme-color, #3eaf7c);
-  background-color: var(--theme-color-hover-bg, rgba(0, 0, 0, 0.05));
+  /* 高亮使用主题 Accent 强调色 */
+  color: var(--vp-c-accent, #3eaf7c);
+  background-color: var(--vp-c-bg-soft, rgba(0, 0, 0, 0.05));
 }
 </style>

@@ -304,27 +304,27 @@ $table-column-widths: (
   table-12: (auto, 10%, null, 10%, null, 10%, 10%)
 );
 
-/* 修复行高与居中偏离问题 */
+// ==========================================
+// 7. 导航栏与下拉菜单修补
+// ==========================================
+
+/* 修复行高与居中偏离问题 & 替换首项文本为“中文” */
 .vp-dropdown .vp-dropdown-item:first-child .auto-link {
-  /* 隐藏原生文本节点 */
   color: transparent !important;
   font-size: 0 !important;
-
-  /* 维持与 Theme Hope 原生一致的行高与容器渲染 */
   line-height: 1.7rem;
   display: block;
-}
 
-.vp-dropdown .vp-dropdown-item:first-child .auto-link::before {
-  content: "中文";
-  display: inline-block;
-  font-size: 0.875rem; /* 恢复原生字号 */
-  line-height: 1.7rem; /* 强制对齐原生行高 */
-  color: var(--vp-c-text);
-  vertical-align: top;
-}
+  &::before {
+    content: "中文";
+    display: inline-block;
+    font-size: 0.875rem;
+    line-height: 1.7rem;
+    color: var(--vp-c-text) !important;
+    vertical-align: top;
+  }
 
-/* 激活状态下保持主题高亮色 */
-.vp-dropdown .vp-dropdown-item:first-child .auto-link.route-link-active::before {
-  color: var(--vp-c-accent, #299764);
+  &.route-link-active::before {
+    color: var(--vp-c-accent) !important;
+  }
 }

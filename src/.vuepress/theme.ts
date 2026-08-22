@@ -303,8 +303,7 @@ export default hopeTheme({
         icon: "/assets/icon/apple-icon-152.png",
         statusBarColor: "black",
       },
-      update: "hint",
-
+      update: "force",
       manifest: {
         "icons": [
           {
