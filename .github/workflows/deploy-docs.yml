@@ -4,32 +4,30 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch: # 支援手動觸發
+  workflow_dispatch: # 支持手动触发
+
+# 🎯 必须指定写权限，避免部署卡在权限不足的问题上
+permissions:
+  contents: write
 
 jobs:
   deploy-gh-pages:
+    # 🎯 避免多次并发部署导致冲突
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
-      # 🎯 移除 version 属性，自动读取 package.json 中的 packageManager
-      - name: 安装 pnpm
-        uses: pnpm/action-setup@v4
-
-      - name: 设置 Node.js 环境
-        uses: actions/setup-node@v4
+      # 🎯 一站式完成 pnpm 11+ 与 Node.js 24 部署并自动安装依赖
+      - name: Setup pnpm & Node.js
+        uses: pnpm/setup@v2
         with:
-          node-version: 24
-          cache: pnpm
-
-      # 🎯 放行构建脚本并安装依赖
-      - name: 允许核心二进制档脚本并安装依赖
-        run: |
-          pnpm config set ignore-scripts false
-          pnpm install
+          version: 11
+          runtime: node@24
+          cache: true
 
       - name: 构建文档
         env:
