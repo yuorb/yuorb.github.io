@@ -1,0 +1,1 @@
+import{o as e}from"./runtime-core.esm-bundler-DhtjVP8H.js";import{b as t}from"./client-BJ-j4T2x.js";import{t as n}from"./app-CsGZ_wJI.js";function r(r=`common`){let i=t();return{i18n:e(()=>{let e=n[r]||n.common;return e[i.value||`/`]||e[`/`]}),routeLocale:i}}export{r as t};
