@@ -44,7 +44,7 @@ features:
 
   - title: QQ
     icon: fas fa-user-group
-    details: Un groupe de discussion d’Ithkuil<br><a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('Numéro de groupe copié avec succès'); })()">Cliquez pour copier le numéro de groupe QQ</a>
+    details: Un groupe de discussion d’Ithkuil<br><a href="#" data-copy="865538600">Cliquez pour copier le numéro de groupe QQ</a>
 
   - title: Github
     icon: fab fa-github-alt

@@ -44,7 +44,7 @@ features:
 
   - title: QQ
     icon: fas fa-user-group
-    details: イスクイルのグループ<br><a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('Group number copied successfully'); })()">Click to copy the QQ group number</a>
+    details: イスクイルのグループ<br><a href="#" data-copy="865538600">Click to copy the QQ group number</a>
 
   - title: Github
     icon: fab fa-github-alt

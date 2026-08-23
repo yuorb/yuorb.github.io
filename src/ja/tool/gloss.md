@@ -1,6 +1,6 @@
 ---
 title: オンライン Ithkuil 語彙解析サンドボックス
-icon: main
+icon: fas fa-cubes
 category:
   - ツール
 tag:

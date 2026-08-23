@@ -1,15 +1,30 @@
 import { defineClientConfig } from "vuepress/client";
 import VariantSwitch from "./components/VariantSwitch.vue";
 import { convertText, type BCP47Lang } from "./utils/opencc";
+import { copyToClipboard } from "./utils/clipboard";
+import { I18N_DICTIONARY } from "./i18n";
 
-// 渲染现代轻量 Toast
+type DictModule = keyof typeof I18N_DICTIONARY;
+
+function getI18nText(moduleName: DictModule, key: string): string {
+  if (typeof window === "undefined") return key;
+
+  const pathname = window.location.pathname;
+  const matchedLocale = ["/en/", "/fr/", "/ja/"].find((prefix) => pathname.startsWith(prefix)) || "/";
+
+  // @ts-ignore
+  const moduleDict = I18N_DICTIONARY[moduleName] || I18N_DICTIONARY["common"];
+  // @ts-ignore
+  const localeDict = moduleDict[matchedLocale] || moduleDict["/"];
+
+  return localeDict?.[key] || key;
+}
+
 async function showToast(msg: string) {
   if (typeof window === "undefined") return;
 
-  // 读取当前选中的语言变体
   const savedLang = (localStorage.getItem("site_lang_bcp47") as BCP47Lang) || "zh-Hans";
 
-  // 如果非简体，动态转换 Toast 文本
   let finalMsg = msg;
   if (savedLang !== "zh-Hans") {
     try {
@@ -19,22 +34,18 @@ async function showToast(msg: string) {
     }
   }
 
-  // 清除旧 Toast
   const oldToast = document.querySelector(".custom-copy-toast");
   if (oldToast) oldToast.remove();
 
-  // 创建新 Toast
   const toast = document.createElement("div");
   toast.className = "custom-copy-toast";
   toast.innerText = finalMsg;
   document.body.appendChild(toast);
 
-  // 触发渐入动画
   requestAnimationFrame(() => {
     toast.classList.add("show");
   });
 
-  // 2 秒后自动消失
   setTimeout(() => {
     toast.classList.remove("show");
     setTimeout(() => toast.remove(), 200);
@@ -48,7 +59,7 @@ export default defineClientConfig({
     if (typeof window === "undefined") return;
 
     // 全局事件委托
-    document.addEventListener("click", (e) => {
+    document.addEventListener("click", async (e) => {
       const target = (e.target as HTMLElement)?.closest("[data-copy]") as HTMLElement;
       if (!target) return;
 
@@ -56,24 +67,12 @@ export default defineClientConfig({
       const textToCopy = target.dataset.copy;
       if (!textToCopy) return;
 
-      if (navigator.clipboard) {
-        navigator.clipboard
-          .writeText(textToCopy)
-          .then(() => showToast("复制群号成功"))
-          .catch(() => fallbackCopy(textToCopy));
-      } else {
-        fallbackCopy(textToCopy);
+      const success = await copyToClipboard(textToCopy);
+      if (success) {
+        // 优先读取元素上指定的 data-copy-toast 提示词，若无则使用 common.copied
+        const toastMessage = target.dataset.copyToast || getI18nText("common", "copied");
+        showToast(toastMessage);
       }
     });
   },
 });
-
-function fallbackCopy(text: string) {
-  const textarea = document.createElement("textarea");
-  textarea.value = text;
-  document.body.appendChild(textarea);
-  textarea.select();
-  document.execCommand("copy");
-  document.body.removeChild(textarea);
-  showToast("复制群号成功");
-}

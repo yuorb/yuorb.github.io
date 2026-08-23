@@ -1,6 +1,6 @@
 ---
 title: Bac à sable d'analyse morphologique Ithkuil
-icon: main
+icon: fas fa-cubes
 category:
   - Outils
 tag:

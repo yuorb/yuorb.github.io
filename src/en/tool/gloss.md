@@ -1,6 +1,6 @@
 ---
 title: Online Ithkuil Word Glossing Sandbox
-icon: main
+icon: fas fa-cubes
 category:
   - Tools
 tag:

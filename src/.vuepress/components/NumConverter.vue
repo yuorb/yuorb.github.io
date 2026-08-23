@@ -53,7 +53,7 @@
     <h3 class="result-title">{{ t('resultTitle') }}</h3>
 
     <div class="status-msg" v-if="!numInput">{{ t('msgEmpty') }}</div>
-    <div class="status-msg error" v-else-if="!isValidNum">{{ t('msgInvalid') }}</div>
+    <div class="status-msg error" v-else-if="!isValidNum">{{ validationError }}</div>
 
     <ol class="pipeline" v-else>
       <li class="step-card">
@@ -62,11 +62,11 @@
           <span class="step-label">{{ t('steps.simplified') }}</span>
           <code
             class="step-value clickable"
-            @click="copyText(outputResult.simplified, 'step1')"
+            :data-copy="outputResult.simplified"
+            :data-copy-toast="t('copied')"
             :title="t('clickToCopy')"
           >
             {{ outputResult.simplified }}
-            <span class="copy-badge" v-if="copiedStep === 'step1'">{{ t('copied') }}</span>
           </code>
         </div>
       </li>
@@ -77,11 +77,11 @@
           <span class="step-label">{{ t('steps.chunked') }}</span>
           <code
             class="step-value clickable"
-            @click="copyText(outputResult.chunked, 'step2')"
+            :data-copy="outputResult.chunked"
+            :data-copy-toast="t('copied')"
             :title="t('clickToCopy')"
           >
             {{ outputResult.chunked }}
-            <span class="copy-badge" v-if="copiedStep === 'step2'">{{ t('copied') }}</span>
           </code>
         </div>
       </li>
@@ -92,11 +92,11 @@
           <span class="step-label">{{ t('steps.basePrep') }}</span>
           <code
             class="step-value clickable"
-            @click="copyText(outputResult.basePrep, 'step3')"
+            :data-copy="outputResult.basePrep"
+            :data-copy-toast="t('copied')"
             :title="t('clickToCopy')"
           >
             {{ outputResult.basePrep }}
-            <span class="copy-badge" v-if="copiedStep === 'step3'">{{ t('copied') }}</span>
           </code>
         </div>
       </li>
@@ -107,11 +107,11 @@
           <span class="step-label">{{ t('steps.baseSub') }}</span>
           <code
             class="step-value clickable"
-            @click="copyText(outputResult.baseSub, 'step4')"
+            :data-copy="outputResult.baseSub"
+            :data-copy-toast="t('copied')"
             :title="t('clickToCopy')"
           >
             {{ outputResult.baseSub }}
-            <span class="copy-badge" v-if="copiedStep === 'step4'">{{ t('copied') }}</span>
           </code>
         </div>
       </li>
@@ -122,11 +122,11 @@
           <span class="step-label">{{ t('steps.expSub') }}</span>
           <code
             class="step-value clickable"
-            @click="copyText(outputResult.expSub, 'step5')"
+            :data-copy="outputResult.expSub"
+            :data-copy-toast="t('copied')"
             :title="t('clickToCopy')"
           >
             {{ outputResult.expSub }}
-            <span class="copy-badge" v-if="copiedStep === 'step5'">{{ t('copied') }}</span>
           </code>
         </div>
       </li>
@@ -137,11 +137,11 @@
           <span class="step-label">{{ t('steps.posNum') }}</span>
           <code
             class="step-value clickable"
-            @click="copyText(outputResult.posNum, 'step6')"
+            :data-copy="outputResult.posNum"
+            :data-copy-toast="t('copied')"
             :title="t('clickToCopy')"
           >
             {{ outputResult.posNum }}
-            <span class="copy-badge" v-if="copiedStep === 'step6'">{{ t('copied') }}</span>
           </code>
         </div>
       </li>
@@ -171,50 +171,28 @@ const t = (path) => {
 }
 
 // 2. 响应式状态与防爆阈值控制
-const MAX_DIGITS = 64 // 1. 限制输入上限防御
+const MAX_DIGITS = 64
 const numInput = ref('1234')
 const type = ref('0')
 const polarity = ref('0')
 const simplify = ref('0')
 const omit = ref('0')
 
-const isValidNum = computed(() => {
-  const trimmed = numInput.value.trim()
-  return /^[0-9]+$/.test(trimmed) && trimmed.length <= MAX_DIGITS
+// 校验逻辑拆分：区分非数字格式与超长错误
+const trimmedInput = computed(() => numInput.value.trim())
+const isNumeric = computed(() => /^[0-9]+$/.test(trimmedInput.value))
+const isWithinLimit = computed(() => trimmedInput.value.length <= MAX_DIGITS)
+
+const isValidNum = computed(() => isNumeric.value && isWithinLimit.value)
+
+const validationError = computed(() => {
+  if (!isNumeric.value) return t('msgInvalid')
+  if (!isWithinLimit.value) return t('msgTooLong')
+  return ''
 })
 
 const outputResult = ref({})
-const copiedStep = ref('')
-let timer = null
 let debounceTimer = null
-
-// SSR 防护与剪贴板处理
-const copyText = async (text, stepKey) => {
-  if (!text || typeof window === 'undefined') return
-
-  try {
-    if (navigator?.clipboard?.writeText) {
-      await navigator.clipboard.writeText(text)
-    } else {
-      const textarea = document.createElement('textarea')
-      textarea.value = text
-      textarea.style.position = 'fixed'
-      textarea.style.opacity = '0'
-      document.body.appendChild(textarea)
-      textarea.select()
-      document.execCommand('copy')
-      document.body.removeChild(textarea)
-    }
-
-    copiedStep.value = stepKey
-    clearTimeout(timer)
-    timer = setTimeout(() => {
-      copiedStep.value = ''
-    }, 1808)
-  } catch (err) {
-    console.error('Failed to copy: ', err)
-  }
-}
 
 // 3. Ithkuil 对照表与核心算法
 const 个数 = ["%#vr&", "%#ll&", "%#ks&", "%#z&", "%#pš&", "%#st&", "%#cp&", "%#ns&", "%#čk&", "%#lẓ&"]
@@ -251,6 +229,20 @@ function 简替(数字, 极性) {
   return result
 }
 
+// Ithkuil 专用的 4 位分节逻辑（如 12,3456,7890）
+function 分节(数字串) {
+  let result = ''
+  let count = 0
+  for (let i = 数字串.length - 1; i >= 0; i--) {
+    result = 数字串.charAt(i) + result
+    count++
+    if (count % 4 === 0 && i !== 0) {
+      result = ',' + result
+    }
+  }
+  return result
+}
+
 function 千数转换(text) {
   if (text.length === 4) {
     let a = text.slice(0, 2), b = text.slice(2, 4)
@@ -271,41 +263,33 @@ function 千数转换(text) {
   return ""
 }
 
-// 2. 使用 BigInt 优化数制分节逻辑（代替纯字符串切片与分节）
-function BigInt分节替换(inputStr, type) {
-  const trimmed = 删前置零(inputStr)
-  if (trimmed === '0') return ''
+// 基于万位（4位逗号分节）字符串进行逐块单位替换
+function 分节替换(input, type) {
+  const splitnum = ('' + input).split(',')
+  const n = splitnum.length - 1
+  let result = ''
+  const 单位表 = 替换表(n)
 
-  try {
-    let num = BigInt(trimmed)
-    const chunks = []
-
-    // 按 10000 取模切分，天然防御零值填充错位
-    while (num > 0n) {
-      chunks.push(Number(num % 10000n))
-      num = num / 10000n
-    }
-
-    const n = chunks.length - 1
-    const 单位表 = 替换表(n)
-    let result = ''
-
+  if (type === 0) {
     for (let i = n; i >= 0; i--) {
-      const chunkVal = chunks[i]
-      if (chunkVal === 0) continue
-
-      const cleanChunk = chunkVal.toString()
-      const unit = 单位表[i] || ''
-
-      if (type === 0) result += cleanChunk + unit
-      else if (type === 1) result += "%#" + cleanChunk + "&ëʼi" + unit
-      else if (type === 2) result += 千数转换(cleanChunk) + unit
+      if (splitnum[i] === '0000') continue
+      result = 删前置零(splitnum[i]) + 单位表[n - i] + result
     }
-
-    return result.replace(/ëʼi/g, "a")
-  } catch (err) {
-    return ''
+  } else if (type === 1) {
+    for (let i = n; i >= 0; i--) {
+      if (splitnum[i] === '0000') continue
+      result = "%#" + 删前置零(splitnum[i]) + "&ëʼi" + 单位表[n - i] + result
+    }
+    result = result.replace(/ëʼi/g, "a")
+  } else if (type === 2) {
+    for (let i = n; i >= 0; i--) {
+      if (splitnum[i] === '0000') continue
+      result = 千数转换(删前置零(splitnum[i])) + 单位表[n - i] + result
+    }
+    result = result.replace(/ëʼi/g, "a")
   }
+
+  return result
 }
 
 function 词干(text, type) {
@@ -346,9 +330,8 @@ function 位置名数替换(文本, 个数) {
   return 替换后的文本.trim()
 }
 
-// 3. 正则安全化：分步替换，降低正则回溯压力
 function 格和音渡处理(text) {
-  if (text.length > 1024) return text // 防御超长文本正则引发堆栈溢出
+  if (text.length > 1024) return text
 
   let a = text.replace(/(w)?(\S)vr(al)?ars/g, '$1$2j$3')
   a = a.replace(/\((w)?(\S)gz(al)?ui\) (?:w)?\Svr(?:al)?üň/g, '$1$2gz$3ui')
@@ -363,7 +346,7 @@ function 格和音渡处理(text) {
   if (result.includes('ëʼi')) {
     result = result.replace('ëʼi', 'a')
   }
-  return result.replace(/üň w(\S{1,3})ui/g, (match, p1) => `üň ${p1}alui`)
+  return result.replace(/üň w(\S{1,3})ui/g, (_, p1) => `üň ${p1}alui`)
 }
 
 function 省略处理(text, type) {
@@ -388,18 +371,15 @@ function computePipeline() {
 
   rawNum = 删前置零(rawNum)
 
-  // 使用 BigInt 计算分节格式
-  let 分节数 = ''
-  try {
-    分节数 = BigInt(rawNum).toLocaleString('en-US') // 优雅输出分节，支持大数
-  } catch {
-    分节数 = rawNum
-  }
-  if (p === "1") 分节数 = "-" + 分节数
+  // 按 Ithkuil 规范（每 4 位）格式化分节
+  const 绝对值分节数 = 分节(rawNum)
+  let 分节数 = 绝对值分节数
+  if (p === "1") 分节数 = "-" + 绝对值分节数
 
-  const 简化分替串 = 简替形(词干(BigInt分节替换(rawNum, 0), t), s)
-  const 简化表分替串 = 简替形(词干(BigInt分节替换(rawNum, 1), t), s)
-  const 简化千位转数 = 格和音渡处理(简替形(词干(BigInt分节替换(rawNum, 2), t), s))
+  // 依赖带逗号的绝对值分节字符串进行底数与指数推算
+  const 简化分替串 = 简替形(词干(分节替换(绝对值分节数, 0), t), s)
+  const 简化表分替串 = 简替形(词干(分节替换(绝对值分节数, 1), t), s)
+  const 简化千位转数 = 格和音渡处理(简替形(词干(分节替换(绝对值分节数, 2), t), s))
 
   let 表记分数替串 = "", 千位转数 = "", 位置名数串 = ""
 
@@ -427,16 +407,15 @@ function computePipeline() {
   }
 }
 
-// 4. 防抖 (Debounce) 处理输入 & 异步解耦，切断 CPU 密集型运算阻塞渲染
+// 4. 防抖 (Debounce) 处理输入
 watch([numInput, type, polarity, simplify, omit], () => {
   if (debounceTimer) clearTimeout(debounceTimer)
   debounceTimer = setTimeout(() => {
     computePipeline()
-  }, 150) // 150ms 输入防抖
+  }, 150)
 }, { immediate: true })
 
 onUnmounted(() => {
-  if (timer) clearTimeout(timer)
   if (debounceTimer) clearTimeout(debounceTimer)
 })
 </script>
@@ -444,34 +423,12 @@ onUnmounted(() => {
 <style scoped lang="scss">
 .step-value.clickable {
   cursor: pointer;
-  position: relative;
   transition: background-color 0.2s, border-color 0.2s;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
 
   &:hover {
     background-color: var(--vp-c-accent-soft);
     outline: 1px dashed var(--vp-c-accent);
   }
-}
-
-.copy-badge {
-  font-family: var(--font-family);
-  font-size: 0.75rem;
-  color: var(--vp-c-accent);
-  background-color: var(--ic-bg-container);
-  padding: 2px 6px;
-  border-radius: 4px;
-  border: 1px solid var(--vp-c-accent);
-  margin-left: 8px;
-  white-space: nowrap;
-  animation: fadeIn 0.2s ease-in-out;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-2px); }
-  to { opacity: 1; transform: translateY(0); }
 }
 
 .ithkuil-converter {
@@ -540,7 +497,7 @@ select option {
   color: var(--ic-text-subtle);
 
   &.error {
-    color: var(--del-color);
+    color: var(--vp-c-accent);
   }
 }
 

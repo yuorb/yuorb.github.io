@@ -1,6 +1,6 @@
 ---
 title: 在线 Ithkuil 词条解析沙盒
-icon: main
+icon: fas fa-cubes
 category:
   - 工具
 tag:

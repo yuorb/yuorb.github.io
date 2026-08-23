@@ -2,31 +2,23 @@
   <span
     class="ithkuil-word-container"
     data-no-convert
+    :data-copy="copyContent"
+    :data-copy-toast="i18n.copied"
     @mouseenter="showTooltip"
     @mouseleave="hideTooltip"
-    @click="copyGloss"
     :tabindex="interactive ? '0' : undefined"
-    @keydown.enter="copyGloss"
-    @keydown.space.prevent="copyGloss"
     :role="interactive ? 'button' : undefined"
     :aria-label="word"
   >
-    <!-- 正文中的單字 -->
+    <!-- 正文中的单字 -->
     <span class="ithkuil-inline-text">
       <slot>{{ word }}</slot>
     </span>
 
-    <!-- 列印時顯示的簡短註解 -->
+    <!-- 打印时显示的简短注解 -->
     <span class="on-print" v-if="glossInfo?.short">({{ glossInfo.short }})</span>
 
-    <!-- 點擊複製成功的輕量微提示 -->
-    <Transition name="toast">
-      <span v-if="showToast" class="copied-toast" role="status" aria-live="polite">
-        ✓ {{ i18n.copied }}
-      </span>
-    </Transition>
-
-    <!-- 純展示 Tooltip 卡片 -->
+    <!-- 纯展示 Tooltip 卡片 -->
     <Transition name="pop">
       <div v-if="isVisible && glossInfo" class="ithkuil-tooltip-card" role="tooltip">
         <div class="card-header">
@@ -44,7 +36,7 @@
           <div class="section-value full-text">{{ glossInfo.full }}</div>
         </div>
 
-        <!-- 底部指向箭頭 -->
+        <!-- 底部指向箭头 -->
         <div class="tooltip-arrow"></div>
       </div>
     </Transition>
@@ -52,7 +44,7 @@
 </template>
 
 <script setup>
-import { ref, watch, onUnmounted } from 'vue';
+import { ref, watch, computed } from 'vue';
 import { parseWord } from '@zsnout/ithkuil/parse';
 import { glossWord } from '@zsnout/ithkuil/gloss';
 import { useI18n } from '../composables/useI18n.js';
@@ -67,7 +59,6 @@ const { i18n } = useI18n('word');
 const isVisible = ref(false);
 const glossInfo = ref(null);
 const isParsed = ref(false);
-const showToast = ref(false);
 
 const parse = () => {
   if (isParsed.value) return;
@@ -84,7 +75,6 @@ const parse = () => {
   }
 };
 
-// 🎯 防御性监听：在挂载/组件渲染时立即异步或同步解析好，避免移入时阻塞
 watch(
   () => props.word,
   () => {
@@ -94,7 +84,6 @@ watch(
   { immediate: true }
 );
 
-// ⚡ 移入即刻显示（0 延迟，绝不执行复杂逻辑）
 const showTooltip = () => {
   if (!props.interactive) return;
   isVisible.value = true;
@@ -104,48 +93,15 @@ const hideTooltip = () => {
   isVisible.value = false;
 };
 
-let copyTimer = null;
-
-const copyToClipboard = async (text) => {
-  if (navigator?.clipboard?.writeText) {
-    await navigator.clipboard.writeText(text);
-    return true;
-  }
-  try {
-    const textarea = document.createElement('textarea');
-    textarea.value = text;
-    textarea.style.position = 'fixed';
-    textarea.style.opacity = '0';
-    document.body.appendChild(textarea);
-    textarea.select();
-    const success = document.execCommand('copy');
-    document.body.removeChild(textarea);
-    return success;
-  } catch {
-    return false;
-  }
-};
-
-const copyGloss = async () => {
-  if (!glossInfo.value) return;
-
-  const success = await copyToClipboard(`${props.word}: ${glossInfo.value.short}`);
-  if (success) {
-    showToast.value = true;
-    if (copyTimer) clearTimeout(copyTimer);
-    copyTimer = setTimeout(() => {
-      showToast.value = false;
-    }, 1500);
-  }
-};
-
-onUnmounted(() => {
-  if (copyTimer) clearTimeout(copyTimer);
+// 动态计算绑定给 data-copy 的文本
+const copyContent = computed(() => {
+  if (!glossInfo.value) return '';
+  return `${props.word}: ${glossInfo.value.short}`;
 });
 </script>
 
 <style scoped>
-/* 1. 根容器：隔绝外部文本格式继承与换行错位 */
+/* 1. 根容器 */
 .ithkuil-word-container {
   position: relative;
   display: inline-flex;
@@ -181,7 +137,7 @@ onUnmounted(() => {
   opacity: 0.8;
 }
 
-/* 3. 悬浮提示卡片：彻底隔绝居中、斜体、粗体等全局样式污染 */
+/* 3. 悬浮提示卡片 */
 .ithkuil-tooltip-card {
   position: absolute;
   bottom: calc(100% + 12px);
@@ -203,7 +159,6 @@ onUnmounted(() => {
   pointer-events: none !important;
   user-select: none;
 
-  /* 重置卡片内继承样式 */
   text-align: left;
   font-style: normal;
   font-weight: normal;
@@ -305,26 +260,7 @@ html.dark .tooltip-arrow {
   border-top: 5px solid var(--ic-bg-container);
 }
 
-/* 5. 复制提示 Toast */
-.copied-toast {
-  position: absolute;
-  top: -24px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--ins-color, #10b981);
-  color: #ffffff;
-  font-size: 0.7rem;
-  font-weight: bold;
-  padding: 0.15rem 0.5rem;
-  border-radius: 4px;
-  white-space: nowrap;
-  pointer-events: none;
-  box-shadow: var(--ic-shadow);
-  z-index: 10001;
-  font-style: normal;
-}
-
-/* 6. 过渡动画 */
+/* 5. 过渡动画 */
 .pop-enter-active,
 .pop-leave-active {
   transition: opacity 0.12s ease-out;
@@ -335,25 +271,13 @@ html.dark .tooltip-arrow {
   opacity: 0;
 }
 
-.toast-enter-active,
-.toast-leave-active {
-  transition: all 0.2s cubic-bezier(0.18, 0.89, 0.32, 1.28);
-}
-
-.toast-enter-from,
-.toast-leave-to {
-  opacity: 0;
-  transform: translate(-50%, 6px);
-}
-
-/* 7. 打印样式适配 */
+/* 6. 打印样式适配 */
 .on-print {
   display: none;
 }
 
 @media print {
   .ithkuil-tooltip-card,
-  .copied-toast,
   .click-hint {
     display: none !important;
   }
