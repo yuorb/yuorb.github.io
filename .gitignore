@@ -3,5 +3,11 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
-
+# src/.vuepress/public/archive/
+scripts/
 *.kate-swp
+src/en/mirror
+src/en/assets
+archive_compare.patch
+check_links.log
+build.log
