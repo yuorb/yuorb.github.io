@@ -17,6 +17,13 @@ export default defineUserConfig({
     }
   }),
   base: "/",
+  // 🎯 临时排除历史存档 mirror（其内部损坏的 HTML/缺失资源导致构建失败，另案修复）
+  pagePatterns: [
+    "**/*.md",
+    "!.vuepress",
+    "!node_modules",
+    "!**/mirror/**",
+  ],
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
 
