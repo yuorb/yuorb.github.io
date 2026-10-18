@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import { hopeTheme } from "vuepress-theme-hope";
-import { zhNavbar, enNavbar, jaNavbar } from "./navbar/index.ts";
-import { zhSidebar, enSidebar, jaSidebar } from "./sidebar/index.ts";
+import { zhNavbar, enNavbar, jaNavbar, esNavbar } from "./navbar/index.ts";
+import { zhSidebar, enSidebar, jaSidebar, esSidebar } from "./sidebar/index.ts";
 
 export default hopeTheme({
   hostname: "https://yuorb.github.io",
@@ -80,6 +80,22 @@ export default hopeTheme({
       // page meta
       metaLocales: {
         editLink: "Edit this page on GitHub",
+      },
+    },
+    "/es/": {
+      // navbar
+      navbar: esNavbar,
+
+      // sidebar
+      sidebar: esSidebar,
+
+      footer: "Yuorb: La organización no oficial que ofrece el servicio S·T·I (Significación, Traducción, Interpretación) para el Nuevo Ithkuil.",
+
+      displayFooter: true,
+
+      // page meta
+      metaLocales: {
+        editLink: "Edita esta página en GitHub",
       },
     },
   },

@@ -59,6 +59,11 @@ export default defineUserConfig({
       title: "Yuorb",
       description: "ユオルブ：新イスクイル語文法 S・T・I (意味、翻訳、解釈)",
     },
+    "/es/": {
+      lang: "es-ES",
+      title: "Yuorb",
+      description: "Yuorb: La S·T·I (Significación, Traducción, Interpretación) de la Gramática del Nuevo Ithkuil",
+    },
   },
   plugins: [
     registerComponentsPlugin({

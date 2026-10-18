@@ -19,6 +19,10 @@ export const I18N_DICTIONARY = {
       copied: '完了！',
       copy: 'コピー',
     },
+    '/es/': {
+      copied: '¡Copiado!',
+      copy: 'Copiar',
+    },
   },
 
   // 2. IthkuilWord 组件专用字典
@@ -46,6 +50,12 @@ export const I18N_DICTIONARY = {
       clickToCopy: 'クリックでコピー',
       shortGloss: '略式グロス (SHORT GLOSS)',
       fullGloss: '完全な意味 (EXPLANATION)',
+    },
+    '/es/': {
+      copied: '¡Glosa copiada!',
+      clickToCopy: 'Haz clic en la palabra para copiar',
+      shortGloss: 'GLOSA CORTA',
+      fullGloss: 'EXPLICACIÓN',
     },
   },
 
@@ -114,6 +124,22 @@ export const I18N_DICTIONARY = {
       copied: '完了！',
       copySvgHint: 'SVGソースコードをコピー',
       downloadSvgHint: 'SVGファイルとしてダウンロード',
+    },
+    '/es/': {
+      placeholder: 'Introduce una palabra de Ithkuil',
+      scriptTitle: 'Representación nativa en escritura de bloque',
+      generateScriptBtn: 'Generar SVG',
+      deconstructTitle: 'Análisis morfológico',
+      shortGloss: 'Glosa corta',
+      fullGloss: 'Explicación completa',
+      viewAST: 'Ver datos brutos del AST (JSON)',
+      welcomeTip: 'Introduce cualquier palabra del Nuevo Ithkuil arriba para analizarla al instante.',
+      invalidError: 'Estructura de palabra de Ithkuil no válida',
+      copySvg: 'Copiar SVG',
+      downloadSvg: 'Descargar SVG',
+      copied: '¡Copiado!',
+      copySvgHint: 'Copiar el código SVG completo',
+      downloadSvgHint: 'Descargar como archivo .svg',
     },
   },
   // 4. NumConverter 数字转换器模块
@@ -221,6 +247,32 @@ export const I18N_DICTIONARY = {
       },
       clickToCopy: 'Cliquer pour copier',
       copied: 'Copié ! (๑•̀ㅂ•́)و'
+    },
+    '/es/': {
+      inputLabel: 'Introduce un número',
+      placeholder: 'Solo dígitos',
+      typeLabel: 'Tipo',
+      polarityLabel: 'Polaridad',
+      simplifyLabel: 'Forma',
+      omitLabel: 'Omisión',
+      resultTitle: 'Proceso de conversión',
+      msgEmpty: '¡Introduce un número! ( ⓛ ω ⓛ *)',
+      msgInvalid: '¡Vaya! Introduce solo dígitos por favor (・ω・)ノ',
+      msgTooLong: '¡Demasiado largo! Por favor, mantén un máximo de 64 dígitos (・ω・)ノ',
+      types: { s0: 'Nominal: S0', s1: 'Cardinal: S1', s2: 'Dimensional: S2', s3: 'Ordinal: S3' },
+      polarity: { pos: 'Positivo', neg: 'Negativo' },
+      simplify: { short: 'Forma abreviada', full: 'Forma completa' },
+      omit: { default: 'Por defecto', skip100: 'Omitir 100', keep100: 'Conservar 100' },
+      steps: {
+        simplified: 'Notación de la raíz numérica',
+        chunked: 'Agrupación de numerales ITHKUIL',
+        basePrep: 'Preparación de la sustitución de la base ITHKUIL',
+        baseSub: 'Sustitución de la base ITHKUIL',
+        expSub: 'Sustitución del exponente / Forma final',
+        posNum: 'Notación nominal posicional'
+      },
+      clickToCopy: 'Haz clic para copiar',
+      copied: '¡Copiado! (๑•̀ㅂ•́)و'
     }
   }
 };

@@ -10,7 +10,7 @@ function getI18nText(moduleName: DictModule, key: string): string {
   if (typeof window === "undefined") return key;
 
   const pathname = window.location.pathname;
-  const matchedLocale = ["/en/", "/fr/", "/ja/"].find((prefix) => pathname.startsWith(prefix)) || "/";
+  const matchedLocale = ["/en/", "/fr/", "/ja/", "/es/"].find((prefix) => pathname.startsWith(prefix)) || "/";
 
   // @ts-ignore
   const moduleDict = I18N_DICTIONARY[moduleName] || I18N_DICTIONARY["common"];
