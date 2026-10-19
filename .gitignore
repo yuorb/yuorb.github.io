@@ -5,6 +5,8 @@ src/.vuepress/.temp/
 src/.vuepress/dist/
 # src/.vuepress/public/archive/
 scripts/
+# 共享门禁为本地接入（scripts/ 已在忽略列表），锁文件同样不入库
+shared.lock.json
 *.kate-swp
 src/en/mirror
 src/en/assets
