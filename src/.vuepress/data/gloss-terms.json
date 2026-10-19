@@ -1,0 +1,23 @@
+{
+  "_comment": "Gloss 缩写术语词典（种子版，可由 docs/cases.md、affixes.md 脚本扩充）。key=术语码，value 按 locale 提供释义，缺失时回退 en。",
+  "UPX": { "en": "Uniplex — UNI configuration (single)", "zh": "单元 — UNI 配置（唯一）" },
+  "MPLX": { "en": "Multiplex — UNI configuration (multiple)", "zh": "多重 — UNI 配置（多个）" },
+  "DCT": { "en": "Designative — VALIDATION", "zh": "指称 — 验证态" },
+  "FML": { "en": "Formal — FUNCTION", "zh": "形式 — 功能" },
+  "CFG": { "en": "Configurative — FUNCTION", "zh": "配置 — 功能" },
+  "ASM": { "en": "Assumptive — ASPECT", "zh": "假定 — 时体" },
+  "ASO": { "en": "Associative — AFFILIATION", "zh": "联想 — 关联" },
+  "RTR": { "en": "Retrospective — STATE", "zh": "回溯 — 状态" },
+  "PRX": { "en": "Proximal — STATE", "zh": "近指 — 状态" },
+  "FCL": { "en": "Facilitative — VALIDATION", "zh": "促进 — 验证态" },
+  "CSV": { "en": "Conservative — VALIDATION", "zh": "保守 — 验证态" },
+  "OBL": { "en": "Oblique — CASE", "zh": "斜格 — 格" },
+  "THM": { "en": "Thematic — CASE", "zh": "主题格 — 格" },
+  "INS": { "en": "Instrumental — CASE", "zh": "工具格 — 格" },
+  "ABS": { "en": "Absolutive — CASE", "zh": "绝对格 — 格" },
+  "AFF": { "en": "Affective — CASE", "zh": "情感格 — 格" },
+  "CTT": { "en": "Contactive — CASE", "zh": "接触格 — 格" },
+  "CSM": { "en": "Classificative — CASE", "zh": "分类格 — 格" },
+  "NEG": { "en": "Negative — POLARITY", "zh": "否定 — 极性" },
+  "CND": { "en": "Conditional — MOOD", "zh": "条件 — 语气" }
+}
