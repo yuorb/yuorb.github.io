@@ -7,6 +7,8 @@ src/.vuepress/dist/
 scripts/
 # 共享门禁为本地接入（scripts/ 已在忽略列表），锁文件同样不入库
 shared.lock.json
+# agent 规则由父仓（NiGHT/AGENTS.md）管辖，不进公开站点仓
+.cline/
 *.kate-swp
 src/en/mirror
 src/en/assets
