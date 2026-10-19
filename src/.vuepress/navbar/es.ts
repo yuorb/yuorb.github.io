@@ -8,7 +8,7 @@ export const esNavbar = navbar([
     text: "Herramientas",
     icon: "fas fa-tools",
     children: [
-      { text: "Diccionario: Enţrirç", icon: "fas fa-book", link: "/enthrirhc/" },
+      { text: "Diccionario: Enţrirç", icon: "fas fa-book", link: "https://yuorb.github.io/enthrirhc/" },
       { text: "Herramienta de formación de palabras: Hwirbuvie-Ekţgyil", icon: "fas fa-pen-to-square", link: "https://chromonym.github.io/ithkapp/" },
       { text: "Kit de utilidades de Ithkuil", icon: "fas fa-pen", link: "https://v8.zsnout.com/ithkuil/kit" },
       { text: "Generador de escritura de Ithkuil", icon: "fas fa-signature", link: "https://v8.zsnout.com/ithkuil/script" },

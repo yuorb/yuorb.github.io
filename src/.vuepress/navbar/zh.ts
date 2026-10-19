@@ -8,7 +8,7 @@ export const zhNavbar = navbar([
     text: "工具",
     icon: "fas fa-tools",
     children: [
-      { text: "词典 Enţrirç", icon: "fas fa-book", link: "/enthrirhc/" },
+      { text: "词典 Enţrirç", icon: "fas fa-book", link: "https://yuorb.github.io/enthrirhc/" },
       { text: "构词器 Hwirbuvie-Ekţgyil", icon: "fas fa-pen-to-square", link: "https://chromonym.github.io/ithkapp/" },
       { text: "Ithkuil 实用工具包", icon: "fas fa-pen", link: "https://v8.zsnout.com/ithkuil/kit" },
       { text: "Ithkuil 文字生成器", icon: "fas fa-signature", link: "https://v8.zsnout.com/ithkuil/script" },

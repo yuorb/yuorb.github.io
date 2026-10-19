@@ -327,30 +327,10 @@ $table-column-widths: (
 // ==========================================
 // 7. 导航栏与下拉菜单修补
 // ==========================================
-.vp-dropdown .vp-dropdown-item:first-child .auto-link {
-  color: transparent !important;
-  font-size: 0 !important;
-  line-height: 1.7rem;
-  display: block;
-
-  &::before {
-    content: "中文";
-    display: inline-block;
-    font-size: 0.875rem;
-    line-height: 1.7rem;
-    color: var(--vp-c-text) !important;
-    vertical-align: top;
-    transition: color 0.15s ease;
-  }
-
-  &:hover::before {
-    color: var(--vp-c-accent-hover, var(--vp-c-accent)) !important;
-  }
-
-  &.route-link-active::before {
-    color: var(--vp-c-accent) !important;
-  }
-}
+// 🎯 已移除旧的 ::before { content: "中文" } hack：
+//   它把所有 .vp-dropdown 第一个链接项的真实文字隐形并替换为"中文"，
+//   导致各语言工具菜单的词典入口全部错显。词典现在指向独立部署的
+//   https://yuorb.github.io/enthrirhc/（绝对 URL，避免 SPA 路由拦截）。
 
 /* ==========================================
  * 8. 复制提示框 (Toast) 主题感知样式
