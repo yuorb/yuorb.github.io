@@ -1,0 +1,765 @@
+{
+  "chapter": "02",
+  "locale": "en",
+  "sourceFile": "src/en/docs/02.md",
+  "generatedAt": "2026-10-23T11:13:32.114Z",
+  "blocks": [
+    {
+      "pid": "p-fby7pf93pw",
+      "src": "## 2.0 Morpho-Phonology {#Sec2}",
+      "tgt": "## 2.0 Morpho-Phonology {#Sec2}",
+      "state": "source"
+    },
+    {
+      "pid": "p-09bzrqc02w",
+      "src": "Morpho-phonology refers to how a language uses its phonemes (meaningful sounds) and phonological features (e.g., syllabic stress, gemination, tone, etc.) to generate patterns for word-formation and for morphological categories (e.g., singular versus plural, verb tense, etc.) to be applied to words.",
+      "tgt": "Morpho-phonology refers to how a language uses its phonemes (meaningful sounds) and phonological features (e.g., syllabic stress, gemination, tone, etc.) to generate patterns for word-formation and for morphological categories (e.g., singular versus plural, verb tense, etc.) to be applied to words.",
+      "state": "source"
+    },
+    {
+      "pid": "p-jrad0j3f1b",
+      "src": "::: info Parts of Speech",
+      "tgt": "::: info Parts of Speech",
+      "state": "source"
+    },
+    {
+      "pid": "p-p1b7tdj0th",
+      "src": "There are three types of words in New Ithkuil: **formatives**, **adjuncts**, and **referentials**. Formatives constitute a class of words which generally correspond to both nouns and verbs in natural human languages. (In [Sec. 2.4.2](02#Sec2_4_2) below, we will see why it makes sense to combine nouns and verbs into a single word-type in New Ithkuil grammar.) Adjuncts are “helper” words which operate in association with formatives to provide further semantic information about the adjoining formative. Referentials are a type of word that operates similarly to pronouns in natural human languages, although we will see that they are more dynamic and expansive in their usage than the usual range of pronouns in other languages.",
+      "tgt": "There are three types of words in New Ithkuil: **formatives**, **adjuncts**, and **referentials**. Formatives constitute a class of words which generally correspond to both nouns and verbs in natural human languages. (In [Sec. 2.4.2](02#Sec2_4_2) below, we will see why it makes sense to combine nouns and verbs into a single word-type in New Ithkuil grammar.) Adjuncts are “helper” words which operate in association with formatives to provide further semantic information about the adjoining formative. Referentials are a type of word that operates similarly to pronouns in natural human languages, although we will see that they are more dynamic and expansive in their usage than the usual range of pronouns in other languages.",
+      "state": "source"
+    },
+    {
+      "pid": "p-433vmhahtc",
+      "src": ":::",
+      "tgt": ":::",
+      "state": "source"
+    },
+    {
+      "pid": "p-srvetdm553",
+      "src": "::: info Grammatical Typology",
+      "tgt": "::: info Grammatical Typology",
+      "state": "source"
+    },
+    {
+      "pid": "p-e3pnfvh70q",
+      "src": "New Ithkuil is primarily an agglutinative language and secondarily a synthetic language. This means that the manner in which morpho-semantic stems, inflections and derivations are formed, and how those elements combine meaningfully into words, is primarily via the joining of one or more affixes (including prefixes, suffixes, and infixes) to a semantic root, where the affixes themselves are highly synthetic (i.e., combining numerous morphological categories together into a single phonological form). Essentially, this means that New Ithkuil words are formed by joining multiple affixes to a core stem, where each affix can pack multiple elements of meaning within it.",
+      "tgt": "New Ithkuil is primarily an agglutinative language and secondarily a synthetic language. This means that the manner in which morpho-semantic stems, inflections and derivations are formed, and how those elements combine meaningfully into words, is primarily via the joining of one or more affixes (including prefixes, suffixes, and infixes) to a semantic root, where the affixes themselves are highly synthetic (i.e., combining numerous morphological categories together into a single phonological form). Essentially, this means that New Ithkuil words are formed by joining multiple affixes to a core stem, where each affix can pack multiple elements of meaning within it.",
+      "state": "source"
+    },
+    {
+      "pid": "p-bjc1zqd4yv",
+      "src": ":::",
+      "tgt": ":::",
+      "state": "source"
+    },
+    {
+      "pid": "p-spjgjnjqzb",
+      "src": "## 2.1 The Standard Vowel-Form Sequence {#Sec2_1}",
+      "tgt": "## 2.1 The Standard Vowel-Form Sequence {#Sec2_1}",
+      "state": "source"
+    },
+    {
+      "pid": "p-k2eypfjshs",
+      "src": "As we examine how New Ithkuil words are structured, we will see that word-structure operates via a series of sequential “slots”, where each slot is filled with an affix. We will then see that many of the component affixes used to fill these slots contain frequently-recurring patterns of nine vowels, or are a matrix of multiple values where one axis of the matrix carries nine vowel-forms. Consequently, the language employs a standard generalized pattern of nine vocalic forms in multiple series, which can then be utilized to populate each of these various Slots. This standard generalized pattern of vowels facilitates memorization of the myriad number of affixes by persons who wish to attempt actually learning the language.\n\nThe chart below displays the various patterns of this “Standard Vowel-Form Sequence”. Readers will find it useful to refer back to this chart when examining many of the different morphological slots used in New Ithkuil word-formation. Despite the number of vowel-forms, the sequence structure is fairly systematic if one analyzes it closely.",
+      "tgt": "As we examine how New Ithkuil words are structured, we will see that word-structure operates via a series of sequential “slots”, where each slot is filled with an affix. We will then see that many of the component affixes used to fill these slots contain frequently-recurring patterns of nine vowels, or are a matrix of multiple values where one axis of the matrix carries nine vowel-forms. Consequently, the language employs a standard generalized pattern of nine vocalic forms in multiple series, which can then be utilized to populate each of these various Slots. This standard generalized pattern of vowels facilitates memorization of the myriad number of affixes by persons who wish to attempt actually learning the language.\n\nThe chart below displays the various patterns of this “Standard Vowel-Form Sequence”. Readers will find it useful to refer back to this chart when examining many of the different morphological slots used in New Ithkuil word-formation. Despite the number of vowel-forms, the sequence structure is fairly systematic if one analyzes it closely.",
+      "state": "source"
+    },
+    {
+      "pid": "p-2f0mftehxk",
+      "src": "<div class=\"table-3\">",
+      "tgt": "<div class=\"table-3\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-dqsd18cgtn",
+      "src": "    <div class=\"table-legend\"><span class=\"table-legend__item\"><i class=\"v-form v-chip\">◌</i> Alt forms</span></div>",
+      "tgt": "    <div class=\"table-legend\"><span class=\"table-legend__item\"><i class=\"v-form v-chip\">◌</i> Alt forms</span></div>",
+      "state": "source"
+    },
+    {
+      "pid": "p-j554t8sq0b",
+      "src": "    <table>\n        <caption>The Standard Vowel-Form Sequence</caption>",
+      "tgt": "    <table>\n        <caption>The Standard Vowel-Form Sequence</caption>",
+      "state": "source"
+    },
+    {
+      "pid": "p-jjpxhfeq64",
+      "src": "        <thead>",
+      "tgt": "        <thead>",
+      "state": "source"
+    },
+    {
+      "pid": "p-mthqc1mkn7",
+      "src": "            <tr>\n                <th>Form</th>\n                <th>Series 1</th>\n                <th>Series 2</th>\n                <th>Series 3&#42;</th>\n                <th>Series 4</th>\n            </tr>\n        </thead>",
+      "tgt": "            <tr>\n                <th>Form</th>\n                <th>Series 1</th>\n                <th>Series 2</th>\n                <th>Series 3&#42;</th>\n                <th>Series 4</th>\n            </tr>\n        </thead>",
+      "state": "source"
+    },
+    {
+      "pid": "p-nz11ds4xbp",
+      "src": "        <tbody>",
+      "tgt": "        <tbody>",
+      "state": "source"
+    },
+    {
+      "pid": "p-34he5b7yt9",
+      "src": "            <tr>\n                <th>1</th>\n                <td><i class=\"v-form\">a</i></td>\n                <td><i class=\"v-form\">ai</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ia</i><span class=\"v-sep\">/</span><i class=\"v-form\">uä</i></span></td>\n                <td><i class=\"v-form\">ao</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>1</th>\n                <td><i class=\"v-form\">a</i></td>\n                <td><i class=\"v-form\">ai</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ia</i><span class=\"v-sep\">/</span><i class=\"v-form\">uä</i></span></td>\n                <td><i class=\"v-form\">ao</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-f1bjfrjs74",
+      "src": "            <tr>\n                <th>2</th>\n                <td><i class=\"v-form\">ä</i></td>\n                <td><i class=\"v-form\">au</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ie</i><span class=\"v-sep\">/</span><i class=\"v-form\">uë</i></span></td>\n                <td><i class=\"v-form\">aö</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>2</th>\n                <td><i class=\"v-form\">ä</i></td>\n                <td><i class=\"v-form\">au</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ie</i><span class=\"v-sep\">/</span><i class=\"v-form\">uë</i></span></td>\n                <td><i class=\"v-form\">aö</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-gdy40q3ar0",
+      "src": "            <tr>\n                <th>3</th>\n                <td><i class=\"v-form\">e</i></td>\n                <td><i class=\"v-form\">ei</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">io</i><span class=\"v-sep\">/</span><i class=\"v-form\">üä</i></span></td>\n                <td><i class=\"v-form\">eo</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>3</th>\n                <td><i class=\"v-form\">e</i></td>\n                <td><i class=\"v-form\">ei</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">io</i><span class=\"v-sep\">/</span><i class=\"v-form\">üä</i></span></td>\n                <td><i class=\"v-form\">eo</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-hfvqjed9wx",
+      "src": "            <tr>\n                <th>4</th>\n                <td><i class=\"v-form\">i</i></td>\n                <td><i class=\"v-form\">eu</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">iö</i><span class=\"v-sep\">/</span><i class=\"v-form\">üë</i></span></td>\n                <td><i class=\"v-form\">eö</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>4</th>\n                <td><i class=\"v-form\">i</i></td>\n                <td><i class=\"v-form\">eu</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">iö</i><span class=\"v-sep\">/</span><i class=\"v-form\">üë</i></span></td>\n                <td><i class=\"v-form\">eö</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-w0mwkc4srr",
+      "src": "            <tr>\n                <th>5</th>\n                <td><i class=\"v-form\">ëi</i></td>\n                <td><i class=\"v-form\">ëu</i></td>\n                <td><i class=\"v-form\">eë</i></td>\n                <td><i class=\"v-form\">oë</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>5</th>\n                <td><i class=\"v-form\">ëi</i></td>\n                <td><i class=\"v-form\">ëu</i></td>\n                <td><i class=\"v-form\">eë</i></td>\n                <td><i class=\"v-form\">oë</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-b88gy0q354",
+      "src": "            <tr>\n                <th>6</th>\n                <td><i class=\"v-form\">ö</i></td>\n                <td><i class=\"v-form\">ou</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">uö</i><span class=\"v-sep\">/</span><i class=\"v-form\">öë</i></span></td>\n                <td><i class=\"v-form\">öe</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>6</th>\n                <td><i class=\"v-form\">ö</i></td>\n                <td><i class=\"v-form\">ou</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">uö</i><span class=\"v-sep\">/</span><i class=\"v-form\">öë</i></span></td>\n                <td><i class=\"v-form\">öe</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-c1pj1qqaht",
+      "src": "            <tr>\n                <th>7</th>\n                <td><i class=\"v-form\">o</i></td>\n                <td><i class=\"v-form\">oi</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">uo</i><span class=\"v-sep\">/</span><i class=\"v-form\">öä</i></span></td>\n                <td><i class=\"v-form\">oe</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>7</th>\n                <td><i class=\"v-form\">o</i></td>\n                <td><i class=\"v-form\">oi</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">uo</i><span class=\"v-sep\">/</span><i class=\"v-form\">öä</i></span></td>\n                <td><i class=\"v-form\">oe</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-p4qzsm9qpv",
+      "src": "            <tr>\n                <th>8</th>\n                <td><i class=\"v-form\">ü</i></td>\n                <td><i class=\"v-form\">iu</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ue</i><span class=\"v-sep\">/</span><i class=\"v-form\">ië</i></span></td>\n                <td><i class=\"v-form\">öa</i></td>\n            </tr>",
+      "tgt": "            <tr>\n                <th>8</th>\n                <td><i class=\"v-form\">ü</i></td>\n                <td><i class=\"v-form\">iu</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ue</i><span class=\"v-sep\">/</span><i class=\"v-form\">ië</i></span></td>\n                <td><i class=\"v-form\">öa</i></td>\n            </tr>",
+      "state": "source"
+    },
+    {
+      "pid": "p-qyvwz4ncbx",
+      "src": "            <tr>\n                <th>9</th>\n                <td><i class=\"v-form\">u</i></td>\n                <td><i class=\"v-form\">ui</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ua</i><span class=\"v-sep\">/</span><i class=\"v-form\">iä</i></span></td>\n                <td><i class=\"v-form\">oa</i></td>\n            </tr>\n        </tbody>\n    </table>\n</div>",
+      "tgt": "            <tr>\n                <th>9</th>\n                <td><i class=\"v-form\">u</i></td>\n                <td><i class=\"v-form\">ui</i></td>\n                <td><span class=\"v-alt\"><i class=\"v-form\">ua</i><span class=\"v-sep\">/</span><i class=\"v-form\">iä</i></span></td>\n                <td><i class=\"v-form\">oa</i></td>\n            </tr>\n        </tbody>\n    </table>\n</div>",
+      "state": "source"
+    },
+    {
+      "pid": "p-nydzcwhwm0",
+      "src": "\\* When preceded by **y**-, Series 3 forms beginning with -**i** use their alternate forms instead (e.g., **yuä**, not **yia**), while Series 3 forms beginning with -**u** use their alternate forms if preceded by **w**- (e.g., **wiä**, not **wua**).",
+      "tgt": "\\* When preceded by **y**-, Series 3 forms beginning with -**i** use their alternate forms instead (e.g., **yuä**, not **yia**), while Series 3 forms beginning with -**u** use their alternate forms if preceded by **w**- (e.g., **wiä**, not **wua**).",
+      "state": "source"
+    },
+    {
+      "pid": "p-sxync2hhhz",
+      "src": "## 2.2 Rules for Inserting a Glottal-Stop Into a Vowel-Form {#Sec2_2}",
+      "tgt": "## 2.2 Rules for Inserting a Glottal-Stop Into a Vowel-Form {#Sec2_2}",
+      "state": "source"
+    },
+    {
+      "pid": "p-y4qrfr9z9f",
+      "src": "As we examine word-formation, we will see that some of the morpho-phonological slots which constitute the structure of a formative in the language call for the infixing of a glottal-stop into a vowel-form V. To do so, follow the rules below:",
+      "tgt": "As we examine word-formation, we will see that some of the morpho-phonological slots which constitute the structure of a formative in the language call for the infixing of a glottal-stop into a vowel-form V. To do so, follow the rules below:",
+      "state": "source"
+    },
+    {
+      "pid": "p-wngwks6dzx",
+      "src": "1. If **V** is a single vowel or diphthong, the glottal-stop is placed after **V**, e.g., -**a** becomes -**a’**, -**ai** becomes -**ai’**.",
+      "tgt": "1. If **V** is a single vowel or diphthong, the glottal-stop is placed after **V**, e.g., -**a** becomes -**a’**, -**ai** becomes -**ai’**.",
+      "state": "source"
+    },
+    {
+      "pid": "p-g11we70ap0",
+      "src": "2. If **V** is a disyllabic conjunct, place the infix between the two syllables of **V**, e.g., -**ua** becomes -**u’a**.",
+      "tgt": "2. If **V** is a disyllabic conjunct, place the infix between the two syllables of **V**, e.g., -**ua** becomes -**u’a**.",
+      "state": "source"
+    },
+    {
+      "pid": "p-4z76qw1k8p",
+      "src": "3. When applying Rule 1 above, if the infix results in a phonotactically impermissible or euphonically undesirable conjunct, or results in a glottal-stop being in word-final position, then an epenthetic vowel must be added as follows:",
+      "tgt": "3. When applying Rule 1 above, if the infix results in a phonotactically impermissible or euphonically undesirable conjunct, or results in a glottal-stop being in word-final position, then an epenthetic vowel must be added as follows:",
+      "state": "source"
+    },
+    {
+      "pid": "p-dmjapg79s2",
+      "src": "    * If **V** is a single vowel, reduplicate this vowel following the glottal-stop; e.g., -**a** becomes -**a’a**.",
+      "tgt": "    * If **V** is a single vowel, reduplicate this vowel following the glottal-stop; e.g., -**a** becomes -**a’a**.",
+      "state": "source"
+    },
+    {
+      "pid": "p-6h5nn8a8qr",
+      "src": "    * If **V** is a diphthong, then place the glottal-stop between the two vowels of the diphthong (as an exception to Rule 1 above); e.g., -**ai** becomes -**a’i** instead of the usual -**ai’**.",
+      "tgt": "    * If **V** is a diphthong, then place the glottal-stop between the two vowels of the diphthong (as an exception to Rule 1 above); e.g., -**ai** becomes -**a’i** instead of the usual -**ai’**.",
+      "state": "source"
+    },
+    {
+      "pid": "p-x4yccm718a",
+      "src": "4. The [Special Note in Sec. 4.6](04#Sec4_6) will explain how, in certain circumstances, a glottal stop in the Slot IX `Vc` affix can be shifted to a different Slot of the word entirely, in order to shorten the number of syllables in the word.",
+      "tgt": "4. The [Special Note in Sec. 4.6](04#Sec4_6) will explain how, in certain circumstances, a glottal stop in the Slot IX `Vc` affix can be shifted to a different Slot of the word entirely, in order to shorten the number of syllables in the word.",
+      "state": "source"
+    },
+    {
+      "pid": "p-acanyv2h0f",
+      "src": "## 2.3 The Structure of Formatives {#Sec2_3}",
+      "tgt": "## 2.3 The Structure of Formatives {#Sec2_3}",
+      "state": "source"
+    },
+    {
+      "pid": "p-px901xm67x",
+      "src": "The morphological structure of a formative can be shown by the following formula:",
+      "tgt": "The morphological structure of a formative can be shown by the following formula:",
+      "state": "source"
+    },
+    {
+      "pid": "p-qhca4e2v0c",
+      "src": "::: center\n\n<code>(Cc + Vv) + Cr + Vr + ( CsVx ... ) + Ca + ( VxCs ... ) + ( VnCn ) + Vc / Vk + [STRESS]</code>",
+      "tgt": "::: center\n\n<code>(Cc + Vv) + Cr + Vr + ( CsVx ... ) + Ca + ( VxCs ... ) + ( VnCn ) + Vc / Vk + [STRESS]</code>",
+      "state": "source"
+    },
+    {
+      "pid": "p-d716b5wfzd",
+      "src": ":::",
+      "tgt": ":::",
+      "state": "source"
+    },
+    {
+      "pid": "p-66fk2fm8xb",
+      "src": "Where, with the exception of `Cr` and [STRESS], each term refers to an affix composed of either a consonant-form (shown in the formula as **C**), a vowel-form (shown as **V**), or a combination thereof (e.g., <code>CsVx</code> or <code>VnCn</code>). The term `Cr` refers to the word-root itself, a consonantal-form comprised of from one to five consonants. As shown by the various sets of parentheses, several of the terms in the formula are optional, so that some formatives consist of a minimal five terms: <code>Cr + Vr + Ca + Vc / Vk + [STRESS]</code>. These various morphological elements must appear in a given sequential order, and thus may be analyzed as filling ten morphological “slots”. These Slots are labeled sequentially as Slot I through Slot X, as shown in the following chart.\n\n<!-- @include: _fragments/struct/01.md -->",
+      "tgt": "Where, with the exception of `Cr` and [STRESS], each term refers to an affix composed of either a consonant-form (shown in the formula as **C**), a vowel-form (shown as **V**), or a combination thereof (e.g., <code>CsVx</code> or <code>VnCn</code>). The term `Cr` refers to the word-root itself, a consonantal-form comprised of from one to five consonants. As shown by the various sets of parentheses, several of the terms in the formula are optional, so that some formatives consist of a minimal five terms: <code>Cr + Vr + Ca + Vc / Vk + [STRESS]</code>. These various morphological elements must appear in a given sequential order, and thus may be analyzed as filling ten morphological “slots”. These Slots are labeled sequentially as Slot I through Slot X, as shown in the following chart.\n\n<!-- @include: _fragments/struct/01.md -->",
+      "state": "source"
+    },
+    {
+      "pid": "p-wysma36cw6",
+      "src": "The specific morphological structures and semantic function of each of these slots will be discussed individually in dedicated sections of this document. Below is offered a preliminary overview of each slot.",
+      "tgt": "The specific morphological structures and semantic function of each of these slots will be discussed individually in dedicated sections of this document. Below is offered a preliminary overview of each slot.",
+      "state": "source"
+    },
+    {
+      "pid": "p-2jz9sgmk0c",
+      "src": "::: tabs",
+      "tgt": "::: tabs",
+      "state": "source"
+    },
+    {
+      "pid": "p-7497n0xtwy",
+      "src": "@tab I\n\n`Cc`\n\nThis slot is filled either by a glottal stop **’**-, **h**-, or a biconsonantal form beginning with **h**- (e.g., **hw**-, **hr**-, **hm**-, etc.). It indicates whether or not the formative is a standalone (unconcatenated) formative, a Type-1 concatenated formative, or a Type-2 concatenated formative. Concatenation of formatives is discussed in [Sec. 10.1](10#Sec10_1). It also indicates whether Slot II below contains “shortcut” information for Slots IV and VI (so that Slots IV and VI can be elided, thus shortening the word).\n\n@tab II\n\n`Vv`\n\nContains one of 32 different vowel-forms indicating the Stem and Version of the formative. There are four stems associated with each word-root; stems are discussed in [Sec. 2.4.3.](02#Sec2_4_3). There are two Versions for each formative, PROCESSUAL and COMPLETIVE, which are discussed in [Sec. 3.7](03#Sec3_7). Additionally, this slot may contain “shortcut” information for Slots IV and VI (so that Slots IV and VI can be elided, thus shortening the word). This slot also functions in certain circumstances as a “shortcut” means for conveying one of three pre-selected Slot VII affixes.\n\n@tab III\n\n`Cr`\n\nThis is a consonant-form comprising from one to five consonants, indicating the semantic root of the formative, discussed in [Sec. 2.4](02#Sec2_4).\n\n@tab IV\n\n`Vr`\n\nContains one of 32 vowel-forms indicating the Function, Specification and Context of the Formative. There are two Functions: STATIVE and DYNAMIC, discussed in [Sec. 3.8](03#Sec3_8). There are four Specifications: BASIC, CONTENTIAL, CONSTITUTIVE, and OBJECTIVE, discussed in [Sec. 2.4.4](02#Sec2_4_4). There are four Contexts: EXISTENTIAL, FUNCTIONAL, REPRESENTATIONAL, and AMALGAMATIVE, discussed in [Sec. 3.9](03#Sec3_9).\n\n@tab V\n\n(`CsVx` ... )\n\nContains one or more descriptive affixes of the form consonant-form + vowel-form that apply to the word-stem itself (as opposed to the word as a whole). Each affix comes in three types: circumstantial, derivational, or limited. There are well over 400 such affixes available, described in [Chapter 7](07).\n\n@tab VI\n\n`Ca`\n\nA mandatory consonantal portmanteau affix indicating the following five categories: Configuration, Affiliation, Extension, Perspective and Essence. These categories are all discussed in [Chapter 3](03). The formation of the <code>Ca</code> affix-complex itself is discussed in [Sec. 3.6](03#Sec3_6).\n\n@tab VII\n\n`VxCs`\n\nContains one or more descriptive affixes of the form vowel-form + consonant-form that apply to the combination of word-stem and its Slot VI <abbr>Ca</abbr> categories (as opposed to only the word-stem). Except for the reversal of consonant-form and vowel-form, these are the same affixes used in Slot V.\n\n@tab VIII\n\n`VnCn`\n\nAn affix comprising a vowel-form + consonant-form which conveys Mood or Case-Scope, plus either Aspect, Phase, Level, or Effect. The explanation of all these categories is the subject of [Chapter 5](05).\n\n@tab IX\n\n`Vc` / `Vf` / `Vk`\n\nA vowel-form affix which, depending on the stress pattern shown in Slot X, conveys either the Case of the formative, the Format of the formative, or a combination of two categories: Illocution + Validation. Case is discussed in [Chapter 4](04); Format in [Sec. 10.1](10#Sec10_1), and Illocution and Validation in [Chapter 6](06).\n\n@tab X\n\n`[STRESS]`\n\nThe syllabic stress pattern of the word determines which kind of affix is shown in preceding Slot IX. This is discussed in [Sec. 6.2.1](06#Sec6_2_1).",
+      "tgt": "@tab I\n\n`Cc`\n\nThis slot is filled either by a glottal stop **’**-, **h**-, or a biconsonantal form beginning with **h**- (e.g., **hw**-, **hr**-, **hm**-, etc.). It indicates whether or not the formative is a standalone (unconcatenated) formative, a Type-1 concatenated formative, or a Type-2 concatenated formative. Concatenation of formatives is discussed in [Sec. 10.1](10#Sec10_1). It also indicates whether Slot II below contains “shortcut” information for Slots IV and VI (so that Slots IV and VI can be elided, thus shortening the word).\n\n@tab II\n\n`Vv`\n\nContains one of 32 different vowel-forms indicating the Stem and Version of the formative. There are four stems associated with each word-root; stems are discussed in [Sec. 2.4.3.](02#Sec2_4_3). There are two Versions for each formative, PROCESSUAL and COMPLETIVE, which are discussed in [Sec. 3.7](03#Sec3_7). Additionally, this slot may contain “shortcut” information for Slots IV and VI (so that Slots IV and VI can be elided, thus shortening the word). This slot also functions in certain circumstances as a “shortcut” means for conveying one of three pre-selected Slot VII affixes.\n\n@tab III\n\n`Cr`\n\nThis is a consonant-form comprising from one to five consonants, indicating the semantic root of the formative, discussed in [Sec. 2.4](02#Sec2_4).\n\n@tab IV\n\n`Vr`\n\nContains one of 32 vowel-forms indicating the Function, Specification and Context of the Formative. There are two Functions: STATIVE and DYNAMIC, discussed in [Sec. 3.8](03#Sec3_8). There are four Specifications: BASIC, CONTENTIAL, CONSTITUTIVE, and OBJECTIVE, discussed in [Sec. 2.4.4](02#Sec2_4_4). There are four Contexts: EXISTENTIAL, FUNCTIONAL, REPRESENTATIONAL, and AMALGAMATIVE, discussed in [Sec. 3.9](03#Sec3_9).\n\n@tab V\n\n(`CsVx` ... )\n\nContains one or more descriptive affixes of the form consonant-form + vowel-form that apply to the word-stem itself (as opposed to the word as a whole). Each affix comes in three types: circumstantial, derivational, or limited. There are well over 400 such affixes available, described in [Chapter 7](07).\n\n@tab VI\n\n`Ca`\n\nA mandatory consonantal portmanteau affix indicating the following five categories: Configuration, Affiliation, Extension, Perspective and Essence. These categories are all discussed in [Chapter 3](03). The formation of the <code>Ca</code> affix-complex itself is discussed in [Sec. 3.6](03#Sec3_6).\n\n@tab VII\n\n`VxCs`\n\nContains one or more descriptive affixes of the form vowel-form + consonant-form that apply to the combination of word-stem and its Slot VI <abbr>Ca</abbr> categories (as opposed to only the word-stem). Except for the reversal of consonant-form and vowel-form, these are the same affixes used in Slot V.\n\n@tab VIII\n\n`VnCn`\n\nAn affix comprising a vowel-form + consonant-form which conveys Mood or Case-Scope, plus either Aspect, Phase, Level, or Effect. The explanation of all these categories is the subject of [Chapter 5](05).\n\n@tab IX\n\n`Vc` / `Vf` / `Vk`\n\nA vowel-form affix which, depending on the stress pattern shown in Slot X, conveys either the Case of the formative, the Format of the formative, or a combination of two categories: Illocution + Validation. Case is discussed in [Chapter 4](04); Format in [Sec. 10.1](10#Sec10_1), and Illocution and Validation in [Chapter 6](06).\n\n@tab X\n\n`[STRESS]`\n\nThe syllabic stress pattern of the word determines which kind of affix is shown in preceding Slot IX. This is discussed in [Sec. 6.2.1](06#Sec6_2_1).",
+      "state": "source"
+    },
+    {
+      "pid": "p-hvmgh5gwp2",
+      "src": ":::",
+      "tgt": ":::",
+      "state": "source"
+    },
+    {
+      "pid": "p-55xq2q8byy",
+      "src": "### Scoping Hierarchy of Morphemes Within a Formative",
+      "tgt": "### Scoping Hierarchy of Morphemes Within a Formative",
+      "state": "source"
+    },
+    {
+      "pid": "p-vhk44h2gny",
+      "src": "The Slot structure of formatives more or less reflects the hierarchy of morphemes within a formative, i.e., the order in which each morpheme’s semantic information has scope over the preceding morphology as the word sequentially unfolds in speech or writing. This scoping order is shown below:\n\n<FormativeScope locale=\"en\" />",
+      "tgt": "The Slot structure of formatives more or less reflects the hierarchy of morphemes within a formative, i.e., the order in which each morpheme’s semantic information has scope over the preceding morphology as the word sequentially unfolds in speech or writing. This scoping order is shown below:\n\n<FormativeScope locale=\"en\" />",
+      "state": "source"
+    },
+    {
+      "pid": "p-fqq1ectjya",
+      "src": "Before analyzing the details of each individual Slot of the above morphological formula, it is important to first understand how the root and stem of each formative operates. This is detailed in the next section below.",
+      "tgt": "Before analyzing the details of each individual Slot of the above morphological formula, it is important to first understand how the root and stem of each formative operates. This is detailed in the next section below.",
+      "state": "source"
+    },
+    {
+      "pid": "p-tnw5gdeqf0",
+      "src": "## 2.4 Root and Stem Formation {#Sec2_4}",
+      "tgt": "## 2.4 Root and Stem Formation {#Sec2_4}",
+      "state": "source"
+    },
+    {
+      "pid": "p-d6nrmeytvt",
+      "src": "All words in <ins>New</ins> Ithkuil which translate into English as nouns or verbs are based on a stem, which in turn derives from a semantically abstract root. This process is explained in the sections below.\n\n<!-- @include: _fragments/struct/02.md -->",
+      "tgt": "All words in <ins>New</ins> Ithkuil which translate into English as nouns or verbs are based on a stem, which in turn derives from a semantically abstract root. This process is explained in the sections below.\n\n<!-- @include: _fragments/struct/02.md -->",
+      "state": "source"
+    },
+    {
+      "pid": "p-nkpp6bghma",
+      "src": "### 2.4.1 The Root {#Sec2_4_1}",
+      "tgt": "### 2.4.1 The Root {#Sec2_4_1}",
+      "state": "source"
+    },
+    {
+      "pid": "p-kkc7s6ybvr",
+      "src": "The root forms the semantic basis from which actual noun/verb stems are derived. The root consists of a consonantal form, `Cr`, which occupies Slot III in the above morphological formula. It comprises one to five consonants (e.g., -**k**-, -**st**-, -**ntr**-, -**pstw**-, -**rmzgl**-). The phonotactic constraints (see [Sec. 1.5](01#Sec1_5)) of the language allow for over 33,000 possible roots.\n\nThe root is the basic semantic unit. For example, the root -**DN**- is a root whose semantic referent is ‘NAME/DESIGNATION/LABEL’. Functional word-stems (or simply stems) are generated from the root via instantiation of the `Vv`- vocalic affix in Slot II, as described in Sec. 2.4.3 below. However, before we can discuss Stems, it is necessary to first understand the notion of the “formative”, so that readers will understand why all stems in the language function equally as both nouns and verbs, and have both nominal and verbal meanings.",
+      "tgt": "The root forms the semantic basis from which actual noun/verb stems are derived. The root consists of a consonantal form, `Cr`, which occupies Slot III in the above morphological formula. It comprises one to five consonants (e.g., -**k**-, -**st**-, -**ntr**-, -**pstw**-, -**rmzgl**-). The phonotactic constraints (see [Sec. 1.5](01#Sec1_5)) of the language allow for over 33,000 possible roots.\n\nThe root is the basic semantic unit. For example, the root -**DN**- is a root whose semantic referent is ‘NAME/DESIGNATION/LABEL’. Functional word-stems (or simply stems) are generated from the root via instantiation of the `Vv`- vocalic affix in Slot II, as described in Sec. 2.4.3 below. However, before we can discuss Stems, it is necessary to first understand the notion of the “formative”, so that readers will understand why all stems in the language function equally as both nouns and verbs, and have both nominal and verbal meanings.",
+      "state": "source"
+    },
+    {
+      "pid": "p-zmbw2fqdpj",
+      "src": "### 2.4.2 The Notion of the “Formative” {#Sec2_4_2}",
+      "tgt": "### 2.4.2 The Notion of the “Formative” {#Sec2_4_2}",
+      "state": "source"
+    },
+    {
+      "pid": "p-0ezv02fskm",
+      "src": "The grammatical parts of speech known in other languages as nouns and verbs are combined in New Ithkuil into a single part of speech termed the formative. All formatives, without exception, can function as both nouns or verbs, and the distinction as to whether a formative is to be interpreted as a noun or a verb is made by analyzing its morpho-phonological structure and morpho-syntactic relationship to the rest of the sentence. Consequently, there are no formatives that refer only to nouns or only to verbs as in Western languages. So, for example, the first stem of the root -**DN**- mentioned above means both ‘a name’ and ‘to name’ with neither meaning being seen as more intrinsic nor fundamental nor derived from the other. Such hierarchies of nominal over verbal meaning (or vice-versa) arise only when translating to English or other Western languages, where such nominal versus verbal lexical constraints are inherent.\n\nThe reason why nouns and verbs can function as morphological derivatives of a single part of speech is because New Ithkuil morpho-semantics do not see nouns and verbs as being cognitively distinct from one another, but rather as complementary manifestations of an idea existing in a common underlying semantic continuum whose components are space and time. As in physics, the holistic continuum containing these two components can be thought of as spacetime. It is in this continuum of spacetime that New Ithkuil instantiates semantic ideas into lexical roots, giving rise to the part of speech termed the formative. The speaker then chooses to either *spatially “reify”* this formative into an object or entity (i.e., a noun) or to *temporally “activize”* it into an act, event, or state (i.e., a verb). This complementary process can be diagrammed as follows:\n\n![](./i/spacetime.svg#light)\n\n![](./i/spacetime.svg#dark) {.inverted}",
+      "tgt": "The grammatical parts of speech known in other languages as nouns and verbs are combined in New Ithkuil into a single part of speech termed the formative. All formatives, without exception, can function as both nouns or verbs, and the distinction as to whether a formative is to be interpreted as a noun or a verb is made by analyzing its morpho-phonological structure and morpho-syntactic relationship to the rest of the sentence. Consequently, there are no formatives that refer only to nouns or only to verbs as in Western languages. So, for example, the first stem of the root -**DN**- mentioned above means both ‘a name’ and ‘to name’ with neither meaning being seen as more intrinsic nor fundamental nor derived from the other. Such hierarchies of nominal over verbal meaning (or vice-versa) arise only when translating to English or other Western languages, where such nominal versus verbal lexical constraints are inherent.\n\nThe reason why nouns and verbs can function as morphological derivatives of a single part of speech is because New Ithkuil morpho-semantics do not see nouns and verbs as being cognitively distinct from one another, but rather as complementary manifestations of an idea existing in a common underlying semantic continuum whose components are space and time. As in physics, the holistic continuum containing these two components can be thought of as spacetime. It is in this continuum of spacetime that New Ithkuil instantiates semantic ideas into lexical roots, giving rise to the part of speech termed the formative. The speaker then chooses to either *spatially “reify”* this formative into an object or entity (i.e., a noun) or to *temporally “activize”* it into an act, event, or state (i.e., a verb). This complementary process can be diagrammed as follows:\n\n![](./i/spacetime.svg#light)\n\n![](./i/spacetime.svg#dark) {.inverted}",
+      "state": "source"
+    },
+    {
+      "pid": "p-mbexm9x47d",
+      "src": "### 2.4.3 Stems {#Sec2_4_3}",
+      "tgt": "### 2.4.3 Stems {#Sec2_4_3}",
+      "state": "source"
+    },
+    {
+      "pid": "p-7b47zq5wsg",
+      "src": "Each root has three stems, shown by the vowel-form `Vv` in Slot II of the morphological formula in [Sec. 2.3](#Sec2_3) above. It is at the level of stem that roots become actual words with instantiated meaning. For example, the first stem of our root -**DN**- would be -**adn**-, meaning “(to be) a name [plus the entity named]; [for something/someone] to be named/called something”. The second stem of this root would be -**edn**-, meaning “(to be) a designation or reference [plus the entity so designated]; [for an entity] to (be) refer(ed) to as”, and the third stem of the root would be -**udn**-, meaning “(to be) a label [plus the entity so labeled]; [for an entity] to (be) label(ed) as”.\n\nIn addition to these three stems shown by the Slot II vowel-forms -**a**-, -**e**-, and -**u**-, there is a fourth form shown by the Slot II vowel-form -**o**-, known as “Stem Zero”. This stem-form is specialized and refers to the “stemless” overall conceptual meaning of the raw root, irrespective of a particular stem, the particular meaning being pragmatically determined based on the root itself. So, for root -**DN**-, the Stem Zero form -**odn**- would essentially be an amalgamation of the three stem meanings, thus “(to be) what something is (to be) called/referred to as or labelled [plus the entity called/labeled/referred to as such]”. This allows for a speaker to use stems to create a deliberate semantic ambiguity when they do not wish to make a distinction between, say, an adult human and a human child.",
+      "tgt": "Each root has three stems, shown by the vowel-form `Vv` in Slot II of the morphological formula in [Sec. 2.3](#Sec2_3) above. It is at the level of stem that roots become actual words with instantiated meaning. For example, the first stem of our root -**DN**- would be -**adn**-, meaning “(to be) a name [plus the entity named]; [for something/someone] to be named/called something”. The second stem of this root would be -**edn**-, meaning “(to be) a designation or reference [plus the entity so designated]; [for an entity] to (be) refer(ed) to as”, and the third stem of the root would be -**udn**-, meaning “(to be) a label [plus the entity so labeled]; [for an entity] to (be) label(ed) as”.\n\nIn addition to these three stems shown by the Slot II vowel-forms -**a**-, -**e**-, and -**u**-, there is a fourth form shown by the Slot II vowel-form -**o**-, known as “Stem Zero”. This stem-form is specialized and refers to the “stemless” overall conceptual meaning of the raw root, irrespective of a particular stem, the particular meaning being pragmatically determined based on the root itself. So, for root -**DN**-, the Stem Zero form -**odn**- would essentially be an amalgamation of the three stem meanings, thus “(to be) what something is (to be) called/referred to as or labelled [plus the entity called/labeled/referred to as such]”. This allows for a speaker to use stems to create a deliberate semantic ambiguity when they do not wish to make a distinction between, say, an adult human and a human child.",
+      "state": "source"
+    },
+    {
+      "pid": "p-6tzfd8m8hn",
+      "src": "### 2.4.4 Specification {#Sec2_4_4}",
+      "tgt": "### 2.4.4 Specification {#Sec2_4_4}",
+      "state": "source"
+    },
+    {
+      "pid": "p-64n48vdv8c",
+      "src": "To further distinguish the basic semantic idea of a word, there is an additional morphological category termed **Specification**. Each of the three stems, as well as the fourth “Stem Zero” form, has four Specifications. These Specifications serve to indicate how the stem is to be interpreted semantically within the context of the rest of the sentence. This is best explained by describing the purpose of each Specification individually below, along with examples. The four Specifications are BASIC, CONTENTIAL, CONSTITUTIVE, and OBJECTIVE.",
+      "tgt": "To further distinguish the basic semantic idea of a word, there is an additional morphological category termed **Specification**. Each of the three stems, as well as the fourth “Stem Zero” form, has four Specifications. These Specifications serve to indicate how the stem is to be interpreted semantically within the context of the rest of the sentence. This is best explained by describing the purpose of each Specification individually below, along with examples. The four Specifications are BASIC, CONTENTIAL, CONSTITUTIVE, and OBJECTIVE.",
+      "state": "source"
+    },
+    {
+      "pid": "p-catthfyfxs",
+      "src": "::: tabs",
+      "tgt": "::: tabs",
+      "state": "source"
+    },
+    {
+      "pid": "p-1tgbk6d896",
+      "src": "@tab BSC",
+      "tgt": "@tab BSC",
+      "state": "source"
+    },
+    {
+      "pid": "p-fqcbj10vn3",
+      "src": "<dl>\n    <dt>BASIC</dt>\n    <dd>A holistic instantiation of a stem, prior to the application of one of the other three Specifications,",
+      "tgt": "<dl>\n    <dt>BASIC</dt>\n    <dd>A holistic instantiation of a stem, prior to the application of one of the other three Specifications,",
+      "state": "source"
+    },
+    {
+      "pid": "p-fyb3sszts1",
+      "src": "        essentially encompassing the meanings of the <abbr>CTE</abbr> and <abbr>CSV</abbr> specifications below. For roots representing naturally\n        “activized”, “time-unstable”, dynamic, or psychologically verb-like notions, the BASIC nominal formative would\n        mean “an instance/occurrence of X”, while the BASIC verbal formative would mean “(an instance/occurrence of)\n        X(-ing) happens”. For stems representing naturally “reified”, “time-stable”, stative, or psychologically\n        noun-like notions, the BASIC nominal formative would mean “an X (being present)” or for “non-count” entities,\n        “an (unspecified/certain) amount/volume of X”, whereas the BASIC verbal formative would carry a STATIVE\n        interpretation meaning “(an) X be present” / “[there] be (an) X”; the expansion of this meaning verbally would\n        be accomplished using other Specifications.</dd>\n</dl>",
+      "tgt": "        essentially encompassing the meanings of the <abbr>CTE</abbr> and <abbr>CSV</abbr> specifications below. For roots representing naturally\n        “activized”, “time-unstable”, dynamic, or psychologically verb-like notions, the BASIC nominal formative would\n        mean “an instance/occurrence of X”, while the BASIC verbal formative would mean “(an instance/occurrence of)\n        X(-ing) happens”. For stems representing naturally “reified”, “time-stable”, stative, or psychologically\n        noun-like notions, the BASIC nominal formative would mean “an X (being present)” or for “non-count” entities,\n        “an (unspecified/certain) amount/volume of X”, whereas the BASIC verbal formative would carry a STATIVE\n        interpretation meaning “(an) X be present” / “[there] be (an) X”; the expansion of this meaning verbally would\n        be accomplished using other Specifications.</dd>\n</dl>",
+      "state": "source"
+    },
+    {
+      "pid": "p-stvah6kdsk",
+      "src": "@tab CTE",
+      "tgt": "@tab CTE",
+      "state": "source"
+    },
+    {
+      "pid": "p-7s8n74ygg6",
+      "src": "<dl>\n    <dt>CONTENTIAL</dt>\n    <dd>This specification complements the <abbr>CSV</abbr> specification below. The physical or non-physical “content” or essence or",
+      "tgt": "<dl>\n    <dt>CONTENTIAL</dt>\n    <dd>This specification complements the <abbr>CSV</abbr> specification below. The physical or non-physical “content” or essence or",
+      "state": "source"
+    },
+    {
+      "pid": "p-rb8s8jep00",
+      "src": "        purposeful function or idealized/abstract/platonic form thereof, as opposed to its mere physical form/shape,\n        e.g., <em>the content of a piece of art</em> [what it represents or is an image/statue of]; <em>the water within\n            a river</em> [regardless of its channel or course]; <em>the communicative content of a message</em>\n        [regardless of the means/medium by which it is conveyed]; <em>something (made of/in) iron</em> [its form/shape\n        as opposed to merely being an example of the substance]; <em>a room as a functional/habitable space, established\n            by its socially communicated purpose or discernible by its design, furnishings, decor, etc.</em></dd>\n</dl>",
+      "tgt": "        purposeful function or idealized/abstract/platonic form thereof, as opposed to its mere physical form/shape,\n        e.g., <em>the content of a piece of art</em> [what it represents or is an image/statue of]; <em>the water within\n            a river</em> [regardless of its channel or course]; <em>the communicative content of a message</em>\n        [regardless of the means/medium by which it is conveyed]; <em>something (made of/in) iron</em> [its form/shape\n        as opposed to merely being an example of the substance]; <em>a room as a functional/habitable space, established\n            by its socially communicated purpose or discernible by its design, furnishings, decor, etc.</em></dd>\n</dl>",
+      "state": "source"
+    },
+    {
+      "pid": "p-z1q3rpfr5c",
+      "src": "@tab CSV",
+      "tgt": "@tab CSV",
+      "state": "source"
+    },
+    {
+      "pid": "p-vzsv34f98q",
+      "src": "<dl>\n    <dt>CONSTITUTIVE</dt>\n    <dd>This Specification indicates the form (physical or non-physical) in which an entity/state/act actually expresses",
+      "tgt": "<dl>\n    <dt>CONSTITUTIVE</dt>\n    <dd>This Specification indicates the form (physical or non-physical) in which an entity/state/act actually expresses",
+      "state": "source"
+    },
+    {
+      "pid": "p-p079hmtc40",
+      "src": "        itself, is shaped, or is realized, as opposed to its functional/purposeful content, i.e., \"what constitutes X\",\n        e.g., <em>a work of art</em> [as constituted by it being a painted canvas, sculpted marble, etc., irrespective\n        of what the image is or what/who the statue is of]; <em>the course of a river</em>; <em>the form/medium\n            (written, spoken, recorded, etc.) of a message</em> [irrespective of what it communicates], <em>something\n            iron</em> (focus on it being of a particular material/substance regardless of its form/shape), <em>a room as\n            a contained volume of space established by conjoined walls and ceiling</em> [regardless of its purpose,\n        dimensions, layout, design, furnishings, or decor].</dd>\n</dl>",
+      "tgt": "        itself, is shaped, or is realized, as opposed to its functional/purposeful content, i.e., \"what constitutes X\",\n        e.g., <em>a work of art</em> [as constituted by it being a painted canvas, sculpted marble, etc., irrespective\n        of what the image is or what/who the statue is of]; <em>the course of a river</em>; <em>the form/medium\n            (written, spoken, recorded, etc.) of a message</em> [irrespective of what it communicates], <em>something\n            iron</em> (focus on it being of a particular material/substance regardless of its form/shape), <em>a room as\n            a contained volume of space established by conjoined walls and ceiling</em> [regardless of its purpose,\n        dimensions, layout, design, furnishings, or decor].</dd>\n</dl>",
+      "state": "source"
+    },
+    {
+      "pid": "p-mgd7khd3gr",
+      "src": "@tab OBJ",
+      "tgt": "@tab OBJ",
+      "state": "source"
+    },
+    {
+      "pid": "p-189ada3pqz",
+      "src": "<dl>\n    <dt>OBJECTIVE</dt>\n    <dd>This Specification indicates whichever of the following is most salient to the semantics of the particular stem:",
+      "tgt": "<dl>\n    <dt>OBJECTIVE</dt>\n    <dd>This Specification indicates whichever of the following is most salient to the semantics of the particular stem:",
+      "state": "source"
+    },
+    {
+      "pid": "p-hcw81v267s",
+      "src": "        (1) the tangible tool/instrument/means by which a state act/state/event occurs, or if inapplicable, then (2) the\n        third-party object/entity associated with the interaction between two parties (e.g., the object being given in a\n        dative interaction), or if inapplicable then (3) the resulting tangible object/product/situation, or if\n        inapplicable, then (4) the semantic patient or experiencer of the state/act/event. E.g., <em>the musical\n            instrument being played during a live musical performance</em>, <em>the book containing a story being read,\n            an object being given to someone</em>, <em>what an artist creates (i.e., a work of art)</em>, <em>the\n            entity/person/institution that forms the object/source of one’s belief</em>, <em>the resulting measurement\n            from an act of measuring</em>.</dd>\n</dl>",
+      "tgt": "        (1) the tangible tool/instrument/means by which a state act/state/event occurs, or if inapplicable, then (2) the\n        third-party object/entity associated with the interaction between two parties (e.g., the object being given in a\n        dative interaction), or if inapplicable then (3) the resulting tangible object/product/situation, or if\n        inapplicable, then (4) the semantic patient or experiencer of the state/act/event. E.g., <em>the musical\n            instrument being played during a live musical performance</em>, <em>the book containing a story being read,\n            an object being given to someone</em>, <em>what an artist creates (i.e., a work of art)</em>, <em>the\n            entity/person/institution that forms the object/source of one’s belief</em>, <em>the resulting measurement\n            from an act of measuring</em>.</dd>\n</dl>",
+      "state": "source"
+    },
+    {
+      "pid": "p-5evnbpme2w",
+      "src": ":::",
+      "tgt": ":::",
+      "state": "source"
+    },
+    {
+      "pid": "p-nnbrf2kjv7",
+      "src": "The category of Specification is shown by the vocalic affix `Vr` in Slot IV of the formative (as shown in [Sec. 2.3](#Sec2_3) above). The default affixes for the four Specifications are <abbr>BSC</abbr> = -**a**-, <abbr>CTE</abbr> = -**ä**-, <abbr>CSV</abbr> = -**e**-, and <abbr>OBJ</abbr> = -**i**-.\n\nThus, to illustrate how Specification operates with the three stems of a root, we can break down the meanings of the three stems for our example root -**DN**- for each of the four Specifications, as follows:",
+      "tgt": "The category of Specification is shown by the vocalic affix `Vr` in Slot IV of the formative (as shown in [Sec. 2.3](#Sec2_3) above). The default affixes for the four Specifications are <abbr>BSC</abbr> = -**a**-, <abbr>CTE</abbr> = -**ä**-, <abbr>CSV</abbr> = -**e**-, and <abbr>OBJ</abbr> = -**i**-.\n\nThus, to illustrate how Specification operates with the three stems of a root, we can break down the meanings of the three stems for our example root -**DN**- for each of the four Specifications, as follows:",
+      "state": "source"
+    },
+    {
+      "pid": "p-ydy2p9hxar",
+      "src": "::: tabs",
+      "tgt": "::: tabs",
+      "state": "source"
+    },
+    {
+      "pid": "p-rz3w6mkwqv",
+      "src": "@tab -DN-\n\n<RootParadigm root=\"-DN-\" label=\"NAME / DESIGNATION / LABEL\" orig=\"NAME / DESIGNATION / LABEL\">\n\n<Stem n=\"1\">\n    <Specification abbr=\"BSC\" form=\"-adna-\">",
+      "tgt": "@tab -DN-\n\n<RootParadigm root=\"-DN-\" label=\"NAME / DESIGNATION / LABEL\" orig=\"NAME / DESIGNATION / LABEL\">\n\n<Stem n=\"1\">\n    <Specification abbr=\"BSC\" form=\"-adna-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-jr91agbpfe",
+      "src": "        (to be) a name [plus the entity named]; to be named/called something\n    </Specification>\n    <Specification abbr=\"CTE\" form=\"-adnä-\">",
+      "tgt": "        (to be) a name [plus the entity named]; to be named/called something\n    </Specification>\n    <Specification abbr=\"CTE\" form=\"-adnä-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-qjm2fzh95h",
+      "src": "        (to be) an entity having a name\n    </Specification>\n    <Specification abbr=\"CSV\" form=\"-adne-\">",
+      "tgt": "        (to be) an entity having a name\n    </Specification>\n    <Specification abbr=\"CSV\" form=\"-adne-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-r13dfbkvd9",
+      "src": "        (to have) a name; to bear a name\n    </Specification>\n    <Specification abbr=\"OBJ\" form=\"-adni-\">",
+      "tgt": "        (to have) a name; to bear a name\n    </Specification>\n    <Specification abbr=\"OBJ\" form=\"-adni-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-ddj4g4gcr3",
+      "src": "        (to be) the name that an entity has\n    </Specification>\n</Stem>\n\n<Stem n=\"2\">\n    <Specification abbr=\"BSC\" form=\"-edna-\">",
+      "tgt": "        (to be) the name that an entity has\n    </Specification>\n</Stem>\n\n<Stem n=\"2\">\n    <Specification abbr=\"BSC\" form=\"-edna-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-eaz6dseacp",
+      "src": "        (to be) a designation or reference [plus the entity so designated]; to refer to as\n    </Specification>\n    <Specification abbr=\"CTE\" form=\"-ednä-\">",
+      "tgt": "        (to be) a designation or reference [plus the entity so designated]; to refer to as\n    </Specification>\n    <Specification abbr=\"CTE\" form=\"-ednä-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-srqj7vmd93",
+      "src": "        (to be) an entity having a designation or reference\n    </Specification>\n    <Specification abbr=\"CSV\" form=\"-edne-\">",
+      "tgt": "        (to be) an entity having a designation or reference\n    </Specification>\n    <Specification abbr=\"CSV\" form=\"-edne-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-5kvkb5fwq1",
+      "src": "        (to have) a designation or reference; to bear a designation or reference\n    </Specification>\n    <Specification abbr=\"OBJ\" form=\"-edni-\">",
+      "tgt": "        (to have) a designation or reference; to bear a designation or reference\n    </Specification>\n    <Specification abbr=\"OBJ\" form=\"-edni-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-fwwgjrf6cs",
+      "src": "        (to be) the designation or reference that an entity has\n    </Specification>\n</Stem>\n\n<Stem n=\"3\">\n    <Specification abbr=\"BSC\" form=\"-udna-\">",
+      "tgt": "        (to be) the designation or reference that an entity has\n    </Specification>\n</Stem>\n\n<Stem n=\"3\">\n    <Specification abbr=\"BSC\" form=\"-udna-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-tgw51x4cs1",
+      "src": "        (to be) a label [plus the entity so labeled]; to label as\n    </Specification>\n    <Specification abbr=\"CTE\" form=\"-udnä-\">",
+      "tgt": "        (to be) a label [plus the entity so labeled]; to label as\n    </Specification>\n    <Specification abbr=\"CTE\" form=\"-udnä-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-mt294nwa0y",
+      "src": "        (to be) an entity having a label\n    </Specification>\n    <Specification abbr=\"CSV\" form=\"-udne-\">",
+      "tgt": "        (to be) an entity having a label\n    </Specification>\n    <Specification abbr=\"CSV\" form=\"-udne-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-jzrnkrhkz7",
+      "src": "        (to have) a label; to bear a label\n    </Specification>\n    <Specification abbr=\"OBJ\" form=\"-udni-\">",
+      "tgt": "        (to have) a label; to bear a label\n    </Specification>\n    <Specification abbr=\"OBJ\" form=\"-udni-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-awha9w1p87",
+      "src": "        (to be) the label that an entity has\n    </Specification>\n</Stem>\n\n<p>The “Stem Zero” forms would be -<strong>odna</strong>-, -<strong>odnä</strong>-, -<strong>odne</strong>-, and -<strong>odni</strong>-.</p>\n\n</RootParadigm>",
+      "tgt": "        (to be) the label that an entity has\n    </Specification>\n</Stem>\n\n<p>The “Stem Zero” forms would be -<strong>odna</strong>-, -<strong>odnä</strong>-, -<strong>odne</strong>-, and -<strong>odni</strong>-.</p>\n\n</RootParadigm>",
+      "state": "source"
+    },
+    {
+      "pid": "p-v88qpw9nqk",
+      "src": "@tab -LK-\n\n<RootParadigm root=\"-LK-\" label=\"MUSIC/ PLAY MUSIC / COMPOSE MUSIC\" orig=\"MUSIC/ PLAY MUSIC / COMPOSE MUSIC\">\n\n<Stem n=\"1\">\n        <Specification abbr=\"BSC\" form=\"-alka-\">",
+      "tgt": "@tab -LK-\n\n<RootParadigm root=\"-LK-\" label=\"MUSIC/ PLAY MUSIC / COMPOSE MUSIC\" orig=\"MUSIC/ PLAY MUSIC / COMPOSE MUSIC\">\n\n<Stem n=\"1\">\n        <Specification abbr=\"BSC\" form=\"-alka-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-k5cyvtw036",
+      "src": "            (to be) a state/act of music playing (whether recorded or live)\n        </Specification>\n        <Specification abbr=\"CTE\" form=\"-alkä-\">",
+      "tgt": "            (to be) a state/act of music playing (whether recorded or live)\n        </Specification>\n        <Specification abbr=\"CTE\" form=\"-alkä-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-bsvb0xerq5",
+      "src": "            (to be) the state of there being music to be heard (playing)\n        </Specification>\n        <Specification abbr=\"CSV\" form=\"-alke-\">",
+      "tgt": "            (to be) the state of there being music to be heard (playing)\n        </Specification>\n        <Specification abbr=\"CSV\" form=\"-alke-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-ha2y9kyyhr",
+      "src": "            (to be) a state/act of hearing/listening to music\n        </Specification>\n        <Specification abbr=\"OBJ\" form=\"-alki-\">",
+      "tgt": "            (to be) a state/act of hearing/listening to music\n        </Specification>\n        <Specification abbr=\"OBJ\" form=\"-alki-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-7v7wn1qxnf",
+      "src": "            (to be) the sound of music, the particular (piece of) music being heard\n        </Specification>\n    </Stem>\n<Stem n=\"2\">\n        <Specification abbr=\"BSC\" form=\"-elka-\">",
+      "tgt": "            (to be) the sound of music, the particular (piece of) music being heard\n        </Specification>\n    </Stem>\n<Stem n=\"2\">\n        <Specification abbr=\"BSC\" form=\"-elka-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-q75m9jz7ns",
+      "src": "            (to be) a state/act of playing/making music (i.e., on a musical instrument)\n        </Specification>\n        <Specification abbr=\"CTE\" form=\"-elkä-\">",
+      "tgt": "            (to be) a state/act of playing/making music (i.e., on a musical instrument)\n        </Specification>\n        <Specification abbr=\"CTE\" form=\"-elkä-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-8kwxw7p78s",
+      "src": "            (to be) the state of music being made by the playing of a musical instrument\n        </Specification>\n        <Specification abbr=\"CSV\" form=\"-elke-\">",
+      "tgt": "            (to be) the state of music being made by the playing of a musical instrument\n        </Specification>\n        <Specification abbr=\"CSV\" form=\"-elke-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-x3paax6sxa",
+      "src": "            (to be) an act of playing music on a musical instrument; to (be) play(ing) a musical instrument\n        </Specification>\n        <Specification abbr=\"OBJ\" form=\"-elki-\">",
+      "tgt": "            (to be) an act of playing music on a musical instrument; to (be) play(ing) a musical instrument\n        </Specification>\n        <Specification abbr=\"OBJ\" form=\"-elki-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-9r8vxzck50",
+      "src": "            (to be) a particular musical instrument (used to play music)\n        </Specification>\n    </Stem>\n<Stem n=\"3\">\n        <Specification abbr=\"BSC\" form=\"-ulka-\">",
+      "tgt": "            (to be) a particular musical instrument (used to play music)\n        </Specification>\n    </Stem>\n<Stem n=\"3\">\n        <Specification abbr=\"BSC\" form=\"-ulka-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-czj384ycmc",
+      "src": "            (to be) a state/act of composing a passage of music, a musical phrase, a melody, a tune; to compose a melody/tune/musical phrase or passage\n        </Specification>\n        <Specification abbr=\"CTE\" form=\"-ulkä-\">",
+      "tgt": "            (to be) a state/act of composing a passage of music, a musical phrase, a melody, a tune; to compose a melody/tune/musical phrase or passage\n        </Specification>\n        <Specification abbr=\"CTE\" form=\"-ulkä-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-sjc0t38hzb",
+      "src": "            (to be) the state of there being a musical phrase/passage/tune or melody in one’s mind; to be a melody/tune/musical phrase or passage one hears in one’s mind when composing\n        </Specification>\n        <Specification abbr=\"CSV\" form=\"-ulke-\">",
+      "tgt": "            (to be) the state of there being a musical phrase/passage/tune or melody in one’s mind; to be a melody/tune/musical phrase or passage one hears in one’s mind when composing\n        </Specification>\n        <Specification abbr=\"CSV\" form=\"-ulke-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-jsbjryn0e2",
+      "src": "            (to be) a state/act of composing music; to compose (a passage/piece) of music\n        </Specification>\n        <Specification abbr=\"OBJ\" form=\"-ulki-\">",
+      "tgt": "            (to be) a state/act of composing music; to compose (a passage/piece) of music\n        </Specification>\n        <Specification abbr=\"OBJ\" form=\"-ulki-\">",
+      "state": "source"
+    },
+    {
+      "pid": "p-5nfndm5hf5",
+      "src": "            (to be) the particular melody/tune/musical phrase or passage being composed or played from one’s mind\n        </Specification>\n    </Stem>",
+      "tgt": "            (to be) the particular melody/tune/musical phrase or passage being composed or played from one’s mind\n        </Specification>\n    </Stem>",
+      "state": "source"
+    },
+    {
+      "pid": "p-herszpcr3x",
+      "src": "The “Stem Zero” forms would be -**olka**-, -**olkä**-, -**olke**-, and -**olki**-.\n\n</RootParadigm>",
+      "tgt": "The “Stem Zero” forms would be -**olka**-, -**olkä**-, -**olke**-, and -**olki**-.\n\n</RootParadigm>",
+      "state": "source"
+    },
+    {
+      "pid": "p-xbj4ft4n20",
+      "src": ":::",
+      "tgt": ":::",
+      "state": "source"
+    },
+    {
+      "pid": "p-qc5wgct304",
+      "src": "### 2.4.5 The Lexicon {#Sec2_4_5}",
+      "tgt": "### 2.4.5 The Lexicon {#Sec2_4_5}",
+      "state": "source"
+    },
+    {
+      "pid": "p-peksrb48cv",
+      "src": "The Roots and Stems of the language (plus their Specifications) are listed in a separate [Lexicon](http://ithkuil.net/newithkuil_lexicon.pdf) document.",
+      "tgt": "The Roots and Stems of the language (plus their Specifications) are listed in a separate [Lexicon](http://ithkuil.net/newithkuil_lexicon.pdf) document.",
+      "state": "source"
+    },
+    {
+      "pid": "p-tkvg0t8c8v",
+      "src": "::: tip",
+      "tgt": "::: tip",
+      "state": "source"
+    },
+    {
+      "pid": "p-65bgq3p3mg",
+      "src": "Please consult [the computerized database](14) as your primary reference, as it offers rectifications and supplementary information for the errors found in the original document.",
+      "tgt": "Please consult [the computerized database](14) as your primary reference, as it offers rectifications and supplementary information for the errors found in the original document.",
+      "state": "source"
+    },
+    {
+      "pid": "p-82b4gjqhh3",
+      "src": ":::\n\n<PDFViewer src=\"/assets/newithkuil_lexicon.pdf\" />",
+      "tgt": ":::\n\n<PDFViewer src=\"/assets/newithkuil_lexicon.pdf\" />",
+      "state": "source"
+    },
+    {
+      "pid": "p-k9r2zk3j01",
+      "src": "## 2.5 Adjuncts {#Sec2_5}",
+      "tgt": "## 2.5 Adjuncts {#Sec2_5}",
+      "state": "source"
+    },
+    {
+      "pid": "p-sn3n21w7ej",
+      "src": "Besides formatives, another part of speech in New Ithkuil is the **adjunct**. Adjuncts are so named because they operate in conjunction with adjacent formatives to provide additional grammatical information about the formative, somewhat like auxiliary verbs in English (e.g., “may, will, would, do, have”) or like noun determiners (e.g., “the, this, those”). Adjuncts are formed from one or more consonantal and/or vocalic affixes, combined agglutinatively. There are several different types of adjuncts, described in detail in [Chapter 8](08).",
+      "tgt": "Besides formatives, another part of speech in New Ithkuil is the **adjunct**. Adjuncts are so named because they operate in conjunction with adjacent formatives to provide additional grammatical information about the formative, somewhat like auxiliary verbs in English (e.g., “may, will, would, do, have”) or like noun determiners (e.g., “the, this, those”). Adjuncts are formed from one or more consonantal and/or vocalic affixes, combined agglutinatively. There are several different types of adjuncts, described in detail in [Chapter 8](08).",
+      "state": "source"
+    },
+    {
+      "pid": "p-v1gjy994bj",
+      "src": "## 2.6 Referentials {#Sec2_6}",
+      "tgt": "## 2.6 Referentials {#Sec2_6}",
+      "state": "source"
+    },
+    {
+      "pid": "p-7c18p3bvmg",
+      "src": "Referentials are words that operate similarly to pronouns in natural languages, identifying the personal referent associated with a formative. The structure and operation of referentials, however, is more complex and dynamic than the pronouns of natural languages. Referentials will be discussed in [Chapter 9](09).",
+      "tgt": "Referentials are words that operate similarly to pronouns in natural languages, identifying the personal referent associated with a formative. The structure and operation of referentials, however, is more complex and dynamic than the pronouns of natural languages. Referentials will be discussed in [Chapter 9](09).",
+      "state": "source"
+    },
+    {
+      "pid": "p-v3996bca1x",
+      "src": "## 2.7 A Self-Segregating Morphology {#Sec2_7}",
+      "tgt": "## 2.7 A Self-Segregating Morphology {#Sec2_7}",
+      "state": "source"
+    },
+    {
+      "pid": "p-3sb3x4srbr",
+      "src": "The language employs a pitch accent system as the means by which word boundaries may be parsed. The details of this pitch accent system are given below:",
+      "tgt": "The language employs a pitch accent system as the means by which word boundaries may be parsed. The details of this pitch accent system are given below:",
+      "state": "source"
+    },
+    {
+      "pid": "p-7nd74phw2s",
+      "src": "1. All unstressed syllables of a word prior to the stressed syllable carry neutral (MID-toned) pitch. Beginning with the stressed syllable, the remainder of the word must carry a single non-MID pitch contour, as described in Rule 2 below.",
+      "tgt": "1. All unstressed syllables of a word prior to the stressed syllable carry neutral (MID-toned) pitch. Beginning with the stressed syllable, the remainder of the word must carry a single non-MID pitch contour, as described in Rule 2 below.",
+      "state": "source"
+    },
+    {
+      "pid": "p-w0egszmcg0",
+      "src": "2. Beginning with the stressed syllable of the word, a word may carry ANY of the following pitch contours at the speaker’s discretion: FALLING, HIGH, RISING-FALLING, FALLING-RISING. Additional pitch contours may be used in the following circumstances:",
+      "tgt": "2. Beginning with the stressed syllable of the word, a word may carry ANY of the following pitch contours at the speaker’s discretion: FALLING, HIGH, RISING-FALLING, FALLING-RISING. Additional pitch contours may be used in the following circumstances:",
+      "state": "source"
+    },
+    {
+      "pid": "p-w4wbwn54er",
+      "src": "    * If the sentence carries VERIFICATIVE Illocution (equivalent to a yes/no question), the speaker may optionally utilize RISING pitch on the last word of the interrogative clause.",
+      "tgt": "    * If the sentence carries VERIFICATIVE Illocution (equivalent to a yes/no question), the speaker may optionally utilize RISING pitch on the last word of the interrogative clause.",
+      "state": "source"
+    },
+    {
+      "pid": "p-f1t21bz8zh",
+      "src": "    * For clauses with non-NARRATIVE Register, the first and last word of the register clause may optionally be marked by LOW tone (in which case it is not necessary to utilize the end-register adjunct).",
+      "tgt": "    * For clauses with non-NARRATIVE Register, the first and last word of the register clause may optionally be marked by LOW tone (in which case it is not necessary to utilize the end-register adjunct).",
+      "state": "source"
+    },
+    {
+      "pid": "p-9tybj23bnv",
+      "src": "In general, the choice of pitch may match what the speaker is naturally comfortable with using from their own native language, subject to these rules.",
+      "tgt": "In general, the choice of pitch may match what the speaker is naturally comfortable with using from their own native language, subject to these rules.",
+      "state": "source"
+    },
+    {
+      "pid": "p-xdavbcj5yx",
+      "src": "3. Once a pitch has been chosen for the stressed syllable, it must be pronounced continuously through to the end of the word without change to a different contour (i.e., each word will have only one non-MID pitch contour).",
+      "tgt": "3. Once a pitch has been chosen for the stressed syllable, it must be pronounced continuously through to the end of the word without change to a different contour (i.e., each word will have only one non-MID pitch contour).",
+      "state": "source"
+    },
+    {
+      "pid": "p-v43ee6vpqd",
+      "src": "4. If a word carries word-initial stress (i.e., it does not begin with neutral MID pitch) or is monosyllabic, and is not at the beginning of a breath group, then it must carry a pitch whose initial tone is different from the final tone of the previous word, so that two identical tones are not juxtaposed at the boundary between two words. In practice, this means the following rules apply between two adjacent words within the same breath group (i.e., they are not separated from each other by a pause in speech), where the second word carries word-initial stress or is monosyllabic:",
+      "tgt": "4. If a word carries word-initial stress (i.e., it does not begin with neutral MID pitch) or is monosyllabic, and is not at the beginning of a breath group, then it must carry a pitch whose initial tone is different from the final tone of the previous word, so that two identical tones are not juxtaposed at the boundary between two words. In practice, this means the following rules apply between two adjacent words within the same breath group (i.e., they are not separated from each other by a pause in speech), where the second word carries word-initial stress or is monosyllabic:",
+      "state": "source"
+    },
+    {
+      "pid": "p-eeb8qtx3zr",
+      "src": "    * When preceded by a word with either FALLING, RISING-FALLING, or LOW pitch, a monosyllabic word or word with word-initial stress must have either FALLING, FALLING-RISING, or HIGH pitch.",
+      "tgt": "    * When preceded by a word with either FALLING, RISING-FALLING, or LOW pitch, a monosyllabic word or word with word-initial stress must have either FALLING, FALLING-RISING, or HIGH pitch.",
+      "state": "source"
+    },
+    {
+      "pid": "p-2re1vqnwqs",
+      "src": "    * When preceded by a word with either HIGH, RISING, or FALLING-RISING pitch, a monosyllabic word or word with word-initial stress must have either RISING, RISING-FALLING, or LOW pitch.",
+      "tgt": "    * When preceded by a word with either HIGH, RISING, or FALLING-RISING pitch, a monosyllabic word or word with word-initial stress must have either RISING, RISING-FALLING, or LOW pitch.",
+      "state": "source"
+    },
+    {
+      "pid": "p-01m98hkne2",
+      "src": "5. In unusual situations (e.g., singing a song) when pitch-accent is unavailable or undesirable as a means of parsing word boundaries and the placement of pauses between words is unrealistic, then a special **parsing adjunct** of the form **’V’** may be placed before any word to be parsed, where **’V’** represents a single vowel between two glottal stops, the particular vowel indicating the syllabic stress of the following word, as follows:",
+      "tgt": "5. In unusual situations (e.g., singing a song) when pitch-accent is unavailable or undesirable as a means of parsing word boundaries and the placement of pauses between words is unrealistic, then a special **parsing adjunct** of the form **’V’** may be placed before any word to be parsed, where **’V’** represents a single vowel between two glottal stops, the particular vowel indicating the syllabic stress of the following word, as follows:",
+      "state": "source"
+    },
+    {
+      "pid": "p-yd33tmwbra",
+      "src": "    * **ʼaʼ** indicates the following word is monosyllabic",
+      "tgt": "    * **ʼaʼ** indicates the following word is monosyllabic",
+      "state": "source"
+    },
+    {
+      "pid": "p-wqz3hwxmr4",
+      "src": "    * **ʼeʼ** indicates the following word bears ultimate stress",
+      "tgt": "    * **ʼeʼ** indicates the following word bears ultimate stress",
+      "state": "source"
+    },
+    {
+      "pid": "p-79jjjx7xmb",
+      "src": "    * **ʼoʼ** indicates the following word bears penultimate stress",
+      "tgt": "    * **ʼoʼ** indicates the following word bears penultimate stress",
+      "state": "source"
+    },
+    {
+      "pid": "p-68ps45nm7r",
+      "src": "    * **ʼuʼ** indicates the following word bears antepenultimate stress",
+      "tgt": "    * **ʼuʼ** indicates the following word bears antepenultimate stress",
+      "state": "source"
+    },
+    {
+      "pid": "p-aqgeg3bn5t",
+      "src": "See [Sec. 11.8](11#Sec11_8) regarding how to indicate juncture between sentences.",
+      "tgt": "See [Sec. 11.8](11#Sec11_8) regarding how to indicate juncture between sentences.",
+      "state": "source"
+    }
+  ],
+  "comments": []
+}
