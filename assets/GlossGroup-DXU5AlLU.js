@@ -1,0 +1,1 @@
+import{M as e,k as t,u as n}from"./runtime-core.esm-bundler-DhtjVP8H.js";var r={class:`indent`},i={__name:`GlossGroup`,setup(i){return(i,a)=>(t(),n(`div`,r,[e(i.$slots,`default`)]))}};export{i as default};
